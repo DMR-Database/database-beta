@@ -19,7 +19,7 @@
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister user database for Ailunce, Anytone and Tytera</h2>
+<h2 id="english">Brandmeister user database BETA for Ailunce, Anytone and Tytera</h2>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
@@ -54,7 +54,7 @@ For MD380-MD390 : If you edit the database by yourself do not forget to fill in 
 </li>
 <br>
 <hr>
-<h2 id="english">Brandmeister user database voor Ailunce, Anytone en Tytera</h2>
+<h2 id="english">Brandmeister user database BETA voor Ailunce, Anytone en Tytera</h2>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database voor Ailunce HD1</a>
 </li>
@@ -89,7 +89,7 @@ Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karak
 </li>
 <br>
 <hr>
-<h2 id="german">Brandmeister user database für Ailunce, Anytone und Tytera</h2>
+<h2 id="german">Brandmeister user database BETA für Ailunce, Anytone und Tytera</h2>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database für Ailunce HD1</a>
 </li>
