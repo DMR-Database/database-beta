@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 <br>
-<img src="img/BM-beta.jpg" height="200" width="200">
+<img src="img/BM-beta.jpg" width="300">
 <br>
 </p>
 <hr>
