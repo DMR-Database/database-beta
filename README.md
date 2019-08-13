@@ -7,7 +7,7 @@
 <hr>
 <h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone and Tytera</h2>
 <br>
-These databases are unverified "up to date" database files (every 30min). This means that after our normal <a href="https://github.com/bm-database/database">updates</a>, new dmr users will show up here, but they are not verified (yet) by us and the data might not be complete. If you always need to be up to date, even if the display shows not all the data (yet) for newest users, then these files are what you need.
+These databases are unverified "up to date" database files (every 30min). This means that after our normal <a href="https://github.com/bm-database/database">updates</a>, new dmr users will will be added here to the databases, but they are not verified (yet) by us and the data might not be complete. If you always need to be up to date, even if the display shows not all the data (yet) for newest users, then these files are what you need.
 <br><br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
