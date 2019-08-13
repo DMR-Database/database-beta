@@ -7,7 +7,8 @@
 <hr>
 <h2 id="english">Brandmeister user database BETA for Ailunce, Anytone and Tytera</h2>
 <br>
-These databases are raw unverified files. This means that after our updates, it could be possible that new users will show up here, but they are not verified (yet) and the data might not be complete. If you always need to be up to date, even if the display only shows not all data (yet) for newest users, then these files are what you need.
+These databases are raw unverified files. This means that after our updates, new users will show up here, but they are not verified (yet) and the data might not be complete. If you always need to be up to date, even if the display only shows not all data (yet) for newest users, then these files are what you need.
+<br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
