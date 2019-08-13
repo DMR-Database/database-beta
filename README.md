@@ -23,4 +23,3 @@ These databases are unverified "up to date" database files wich are automaticall
 </li>
 <br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
-<br><br>
