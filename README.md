@@ -11,10 +11,10 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><br>
 Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
 
-Anytone Database has 140206 lines<br>
-Ailunce HD1 Database has 140205 lines<br>
+Anytone Database has 140214 lines<br>
+Ailunce HD1 Database has 140213 lines<br>
 Tytera MD-2017 Database has 100000 lines<br>
-Tytera MD-380 and 390 Database has 140438 lines<br>
+Tytera MD-380 and 390 Database has 140446 lines<br>
 <br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
