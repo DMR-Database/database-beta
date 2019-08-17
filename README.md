@@ -19,7 +19,7 @@ Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera
 <li>Tytera MD-2017 Database has 100000 entries<br><br>
 <li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
 <li>Tytera MD-380 and 390 Database has 140304 entries<br>
-<br>Why is there a difference in size?<br>
+<br><b><il>Why is there a difference in size?</b><br>
 <br><ul>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
 <br>Tytera MD-2017 can only handle 100k users.
