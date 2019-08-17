@@ -11,14 +11,14 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><br>
 Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
 
-<li>Anytone BETA Database has 140214 lines<br>
-<li>Anytone Database has 140073 lines<br><br>
-<li>Ailunce HD1 BETA Database has 140213 lines<br>
-<li>Ailunce HD1 Database has 140072 lines<br><br>
-<li>Tytera MD-2017 BETA Database has 100000 lines<br>
-<li>Tytera MD-2017 Database has 100000 lines<br><br>
-<li>Tytera MD-380 and 390 BETA Database has 140446 lines<br>
-<li>Tytera MD-380 and 390 Database has 140304 lines<br><br>
+<li>Anytone BETA Database has 140214 entries<br>
+<li>Anytone Database has 140073 entries<br><br>
+<li>Ailunce HD1 BETA Database has 140213 entries<br>
+<li>Ailunce HD1 Database has 140072 entries<br><br>
+<li>Tytera MD-2017 BETA Database has 100000 entries<br>
+<li>Tytera MD-2017 Database has 100000 entries<br><br>
+<li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
+<li>Tytera MD-380 and 390 Database has 140304 entries<br><br>
 <br><br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
