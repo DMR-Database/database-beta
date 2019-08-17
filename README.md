@@ -25,15 +25,17 @@ These databases are unverified "up to date" database files wich are automaticall
 </ul>
 <hr>
 <b>Why is there a difference in the count of entries?</b><br>
-<br><li>BETA version is more "up to date" then the verified version.
+<br><ul><li>BETA version is more "up to date" then the verified version.
 <br><li>Anytone has a leading header.
 <br><li>Ailunce HD1 has no leading header en represence the actual user count.
 <br><li>Tytera MD-2017 can only handle 100k users (the first 100k users are shown).
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
+</ul>
 <br>
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
+</ul>
 <br><br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
