@@ -27,8 +27,8 @@ These databases are unverified "up to date" database files wich are automaticall
 <b>Why is there a difference in the count of entries?</b><br>
 <br><ul><li>BETA version is more "up to date" then the verified version.
 <br><li>Anytone has a leading header.
-<br><li>Ailunce HD1 has no leading header en represence the actual user count.
-<br><li>Tytera MD-2017 can only handle 100k users (the first 100k users are shown).
+<br><li>Ailunce HD1 has no leading header and represence the actual user count.
+<br><li>Tytera MD-2017 can only handle 100k users (the first 100k users are put into the database).
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
 </ul>
 <hr>
