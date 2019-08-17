@@ -24,7 +24,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <li>Tytera MD-380 and 390 BETA Database has 140456 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 140304 entries<br>
 <hr>
-<br><b>Why is there a difference in the count of entries?</b><br>
+<b>Why is there a difference in the count of entries?</b><br>
 <br><li>BETA version is more "up to date" then the verified version.
 <br><li>Anytone has a leading header.
 <br><li>Ailunce HD1 has no leading en represence the actual user count.
@@ -32,7 +32,6 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
 <br>
 <hr>
-<br>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
 <br><br>
