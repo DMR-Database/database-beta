@@ -17,9 +17,9 @@ Tytera MD-2017 Database has 100000 lines<br>
 Tytera MD-380 and 390 Database has 140438 lines<br>
 <br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
-<br>Ailunce HD1 has no leading en represence the actual user count
-<br>Tytera MD-2017 can only handle 100k users
-<br>Tytera MD380/390 has leading header and 233 extra TG contacts
+<br>Ailunce HD1 has no leading en represence the actual user count.
+<br>Tytera MD-2017 can only handle 100k users.
+<br>Tytera MD380/390 has leading header and 233 extra TG contacts.
 <br><br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
