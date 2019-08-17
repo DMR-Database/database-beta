@@ -31,6 +31,8 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 <hr>
 <br>
+<b>Download latest version :
+</b>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
