@@ -9,7 +9,7 @@
 <br>
 These databases are unverified "up to date" database files wich are automatically created every 30 minutes. This means that after our normal <a href="https://github.com/bm-database/database">updates</a>, new dmr users who register, will be automatically added here to the databases, but they are not verified yet by us and the data might not be complete. If you always need to be up to date, even if the display might not show all the information for the newest users, then these files are what you need.
 <br><br>
-Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
+<ul>Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br>
 
 <li>Anytone BETA Database has 140214 entries<br>
 <li>Anytone Database has 140073 entries<br><br>
