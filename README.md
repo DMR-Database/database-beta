@@ -15,13 +15,13 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 </b>
 <ul>
-<li>Anytone BETA Database has 140214 entries<br>
+<li>Anytone BETA Database has 140224 entries<br>
 <li>Anytone verified Database has 140073 entries<br><br>
-<li>Ailunce HD1 BETA Database has 140213 entries<br>
+<li>Ailunce HD1 BETA Database has 140223 entries<br>
 <li>Ailunce HD1 verified Database has 140072 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
-<li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
+<li>Tytera MD-380 and 390 BETA Database has 140456 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 140304 entries<br>
 <hr>
 <br><b>Why is there a difference in the count of entries?</b><br>
