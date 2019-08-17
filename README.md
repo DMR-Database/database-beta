@@ -12,16 +12,17 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 <b>Statistics about Brandmeister user database BETA vs verified version
 <br>
+<br>
 </b>
 <ul>
 <li>Anytone BETA Database has 140214 entries<br>
-<li>Anytone Database has 140073 entries<br><br>
+<li>Anytone verified Database has 140073 entries<br><br>
 <li>Ailunce HD1 BETA Database has 140213 entries<br>
-<li>Ailunce HD1 Database has 140072 entries<br><br>
+<li>Ailunce HD1 verified Database has 140072 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
-<li>Tytera MD-2017 Database has 100000 entries<br><br>
+<li>Tytera MD-2017 verified Database has 100000 entries<br><br>
 <li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
-<li>Tytera MD-380 and 390 Database has 140304 entries<br>
+<li>Tytera MD-380 and 390 verified Database has 140304 entries<br>
 <hr>
 <br><b>Why is there a difference in the count of entries?</b><br>
 <br><li>BETA version is more "up to date" then the verified version.
