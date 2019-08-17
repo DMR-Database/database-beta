@@ -11,6 +11,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><br>
 Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
 
+<li>Anytone Database has 140073 entries<br><br>
 <ul><li>Ailunce HD1 BETA Database has 140213 entries<br>
 <ul><li>Ailunce HD1 Database has 140072 entries<br><br>
 <ul><li>Tytera MD-2017 BETA Database has 100000 entries<br>
