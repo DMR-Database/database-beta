@@ -37,16 +37,16 @@ These databases are unverified "up to date" database files wich are automaticall
 <ul>
 <br>
 <li>
-<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
+<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">BETA Database for Ailunce HD1</a>
 </li>
 <li>
-<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userat.csv">Database for Anytone</a>
+<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userat.csv">BETA Database for Anytone</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-beta/raw/master/user.bin">Database for Tytera MD380 & MD390</a>
+<a href="https://github.com/BM-Database/database-beta/raw/master/user.bin">BETA Database for Tytera MD380 & MD390</a>
 </li>
 <li>
-<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/usermd2017.csv">Database for Tytera MD-2017</a>
+<a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/usermd2017.csv">BETA Database for Tytera MD-2017</a>
 </li>
 </ul>
 <br>
