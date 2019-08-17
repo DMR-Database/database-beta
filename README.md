@@ -10,7 +10,8 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 <hr>
 <br>
-<b>Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
+<b>Statistics about Brandmeister user database BETA vs verified version
+<br>
 </b>
 <ul>
 <li>Anytone BETA Database has 140214 entries<br>
@@ -31,7 +32,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 <hr>
 <br>
-<b>Download latest version :
+<b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
