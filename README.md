@@ -12,12 +12,12 @@ These databases are unverified "up to date" database files wich are automaticall
 Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
 
 <li>Anytone Database has 140073 entries<br><br>
-<ul><li>Ailunce HD1 BETA Database has 140213 entries<br>
-<ul><li>Ailunce HD1 Database has 140072 entries<br><br>
-<ul><li>Tytera MD-2017 BETA Database has 100000 entries<br>
-<ul><li>Tytera MD-2017 Database has 100000 entries<br><br>
-<ul><li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
-<ul><li>Tytera MD-380 and 390 Database has 140304 entries<br>
+<li>Ailunce HD1 BETA Database has 140213 entries<br>
+<li>Ailunce HD1 Database has 140072 entries<br><br>
+<li>Tytera MD-2017 BETA Database has 100000 entries<br>
+<li>Tytera MD-2017 Database has 100000 entries<br><br>
+<li>Tytera MD-380 and 390 BETA Database has 140446 entries<br>
+<li>Tytera MD-380 and 390 Database has 140304 entries<br>
 <hr>
 <br><b>Why is there a difference in the count of entries?</b><br>
 <br><ul><li>Anytone has a leading header.
