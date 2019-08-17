@@ -25,7 +25,7 @@ Tytera MD-380 and 390 Database has 140446 lines<br>
       <li>3</li>
       <li>4</li>
    </ul>
-<span>
+</span>
 <br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
