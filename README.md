@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h1>The BETA Database has 140224 entries.
+<h1>The Brandmeister user BETA database has 140224 entries.
 </h1>
 <hr>
 <h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone and Tytera</h2>
