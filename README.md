@@ -23,6 +23,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <li>Tytera MD-380 and 390 Database has 140304 entries<br>
 <hr>
 <br><b>Why is there a difference in the count of entries?</b><br>
+<br><li>BETA version is more "up to date" then the verified version.
 <br><li>Anytone has a leading header.
 <br><li>Ailunce HD1 has no leading en represence the actual user count.
 <br><li>Tytera MD-2017 can only handle 100k users.
