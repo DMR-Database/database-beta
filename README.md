@@ -10,7 +10,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <br>
 <hr>
 <br>
-<b>Statistics about Brandmeister user database BETA vs verified version
+<b>Statistics about Brandmeister user database BETA vs verified version (updated every 30 minutes)
 <br>
 <br>
 </b>
