@@ -26,7 +26,9 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><li>Ailunce HD1 has no leading en represence the actual user count.
 <br><li>Tytera MD-2017 can only handle 100k users.
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
-<br><br>
+<br>
+<hr>
+<br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
