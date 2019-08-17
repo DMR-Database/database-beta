@@ -35,7 +35,7 @@ These databases are unverified "up to date" database files wich are automaticall
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
 <ul>
-<br><br>
+<br>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
@@ -48,5 +48,6 @@ These databases are unverified "up to date" database files wich are automaticall
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database-beta/master/usermd2017.csv">Database for Tytera MD-2017</a>
 </li>
+</ul>
 <br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
