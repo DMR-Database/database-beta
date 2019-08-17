@@ -11,9 +11,10 @@ These databases are unverified "up to date" database files wich are automaticall
 <br><br>
 Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera (updated every 30 minutes)<br><br>
 
-Anytone BETA Database has 140214 lines<em>
+Anytone BETA Database has 140214 lines and <em>
 Anytone Database has 140073 lines<br>
-Ailunce HD1 Database has 140213 lines<br>
+Ailunce HD1 BETA Database has 140213 lines and <em>
+Ailunce HD1 Database has 140072 lines<br>
 Tytera MD-2017 Database has 100000 lines<br>
 Tytera MD-380 and 390 Database has 140446 lines<br>
 1<em>2
