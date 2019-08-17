@@ -15,6 +15,17 @@ Anytone Database has 140214 lines<br>
 Ailunce HD1 Database has 140213 lines<br>
 Tytera MD-2017 Database has 100000 lines<br>
 Tytera MD-380 and 390 Database has 140446 lines<br>
+<span>
+   <ul style="list-style-type: none; display: inline-block;">
+      <li>1</li>
+      <li>2</li>
+   </ul>
+
+   <ul style="list-style-type: none; display: inline-block;">
+      <li>3</li>
+      <li>4</li>
+   </ul>
+<span>
 <br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
