@@ -17,8 +17,8 @@ Statistics about Brandmeister user database BETA for Ailunce, Anytone and Tytera
 <li>Ailunce HD1 Database has 140072 lines<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 lines<br>
 <li>Tytera MD-2017 Database has 100000 lines<br><br>
-Tytera MD-380 and 390 BETA Database has 140446 lines and <em>
-Tytera MD-380 and 390 Database has 140304 lines<br>
+<li>Tytera MD-380 and 390 BETA Database has 140446 lines<br>
+<li>Tytera MD-380 and 390 Database has 140304 lines<br><br>
 <br><br>Why is there a difference in size?<br>
 <br>Anytone has a leading header.
 <br>Ailunce HD1 has no leading en represence the actual user count.
