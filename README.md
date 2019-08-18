@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h1>Brandmeister user database BETA has 140256 entries.
+<h1>Brandmeister user database BETA has 140258 entries.
 </h1>
 <hr>
 <h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone and Tytera</h2>
@@ -18,13 +18,13 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br>
 </b>
 <ul>
-<li>Anytone BETA Database has 140257 entries<br>
+<li>Anytone BETA Database has 140259 entries<br>
 <li>Anytone verified Database has 140073 entries<br><br>
-<li>Ailunce HD1 BETA Database has 140256 entries<br>
+<li>Ailunce HD1 BETA Database has 140258 entries<br>
 <li>Ailunce HD1 verified Database has 140072 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
-<li>Tytera MD-380 and 390 BETA Database has 140489 entries<br>
+<li>Tytera MD-380 and 390 BETA Database has 140491 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 140304 entries<br>
 </ul>
 <hr>
