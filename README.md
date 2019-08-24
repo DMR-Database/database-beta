@@ -18,7 +18,6 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br>
 </b>
 <ul>
-<li>Anytone BETA Database has 140743 entries<br>
 <li>Anytone verified Database has 140641 entries<br><br>
 <li>Ailunce HD1 BETA Database has 140742 entries<br>
 <li>Ailunce HD1 verified Database has 140640 entries<br><br>
