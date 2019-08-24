@@ -9,7 +9,7 @@
 <h1>Brandmeister user database BETA has 140736 entries.
 </h1>
 <hr>
-<h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone and Tytera</h2>
+<h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone, Tytera and Pi-Star :)</h2>
 Brandmeister user database BETA are unverified "up to date" database files wich are automatically created every 30 minutes. This means that after our normal <a href="https://github.com/bm-database/database">updates</a>, new dmr users who register, will be automatically added here to the databases, but they are not verified yet by us and the data might not be complete. If you always need to be up to date, even if the display might not show all the information for the newest users, then these files are what you need.
 <br>
 <hr>
