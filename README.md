@@ -35,7 +35,7 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br><li>Ailunce HD1 has no leading header and represence the actual user count.
 <br><li>Tytera MD-2017 can only handle 100k users (the first 100k users are put into the database).
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
-<br><li>Pi-Star has 2 leading headers (work in progress)
+<br><li>Pi-Star has 2 leading headers.
 </ul>
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
