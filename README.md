@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h1>Brandmeister user database BETA has 140762 entries.
+<h1>Brandmeister user database BETA has 140763 entries.
 </h1>
 <hr>
 <h2 id="english">Brandmeister user database <b>BETA</b> for Ailunce, Anytone, Tytera and Pi-Star :)</h2>
@@ -18,15 +18,15 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br>
 </b>
 <ul>
-<li>Anytone BETA Database has 140763 entries<br>
+<li>Anytone BETA Database has 140764 entries<br>
 <li>Anytone verified Database has 140641 entries<br><br>
-<li>Ailunce HD1 BETA Database has 140762 entries<br>
+<li>Ailunce HD1 BETA Database has 140763 entries<br>
 <li>Ailunce HD1 verified Database has 140640 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
-<li>Tytera MD-380 and 390 BETA Database has 140995 entries<br>
+<li>Tytera MD-380 and 390 BETA Database has 140996 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 140872 entries<br>
-<br><li>Pi-Star BETA Database has 140764 entries<br>
+<br><li>Pi-Star BETA Database has 140765 entries<br>
 </ul>
 <hr>
 <b>Why is there a difference in the count of entries?</b><br>
