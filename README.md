@@ -46,11 +46,11 @@ If you want to add our Database support to your Pi-Star, just follow this howto,
 <li>vi /usr/local/sbin/HostFilesUpdate.sh 
 </ul></li>
 <br>Replace the line
-<li>curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
-</li>
+<ul><li>curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
+</li></ul>
 <br>with
-<li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
-<hr>
+<ul><li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
+</ul><hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
 <ul>
