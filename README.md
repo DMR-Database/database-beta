@@ -53,7 +53,7 @@ If you want to add our Database support to your Pi-Star, just follow this howto.
 <br>with
 <ul><li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
 </ul>
-Then execute sudo pistar-update or sudo HostFilesUpdate.sh
+Then execute sudo pistar-update or sudo HostFilesUpdate.sh and enjoy all names and callsigns on the display and webinterface.
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
