@@ -36,8 +36,9 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br><li>Tytera MD-2017 can only handle 100k users (the first 100k users are put into the database).
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
 <br><li>Pi-Star has 2 leading headers.
-</li><br>
-If you want to add our Database support to your Pi-Star, just execute the following commands in a ssh session with your Pi-Star.
+</li>
+<hr>
+If you want to add our Database support to your Pi-Star, just follow this howto, execute the following commands in a ssh session with your Pi-Star.
 <li>rpi-rw
 <li>vi /usr/local/sbin/HostFilesUpdate.sh 
 </li>
@@ -47,7 +48,6 @@ If you want to add our Database support to your Pi-Star, just execute the follow
 <br>with
 <li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/dat
 abase-beta/master/DMRIds.dat
-
 </ul>
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
