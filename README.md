@@ -37,6 +37,7 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <br><li>Tytera MD380/390 has leading header and 233 extra TG contacts.
 <br><li>Pi-Star has 2 leading headers.
 </li>
+</ul>
 <hr>
 <b>Add our database to your Pi-Star?</b><br>
 If you want to add our Database support to your Pi-Star, just follow this howto, execute the following commands in a ssh session with your Pi-Star.
