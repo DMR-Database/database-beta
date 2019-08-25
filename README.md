@@ -46,8 +46,7 @@ If you want to add our Database support to your Pi-Star, just follow this howto,
 <li>curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
 </li>
 <br>with
-<li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/dat
-abase-beta/master/DMRIds.dat
+<li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
 </ul>
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
