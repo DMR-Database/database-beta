@@ -39,6 +39,7 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 </li>
 <hr>
 <b>Add our database to your Pi-Star?</b><br>
+<ul>
 If you want to add our Database support to your Pi-Star, just follow this howto, execute the following commands in a ssh session with your Pi-Star.
 <li>rpi-rw
 <li>vi /usr/local/sbin/HostFilesUpdate.sh 
