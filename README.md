@@ -40,10 +40,11 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 </ul>
 <hr>
 <b>Add our database to your Pi-Star?</b><br>
+<br>
 If you want to add our Database support to your Pi-Star, just follow this howto, execute the following commands in a ssh session with your Pi-Star.
-<li>rpi-rw
+<ul><li>rpi-rw
 <li>vi /usr/local/sbin/HostFilesUpdate.sh 
-</li>
+</ul></li>
 <br>Replace the line
 <li>curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
 </li>
