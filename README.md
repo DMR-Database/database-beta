@@ -39,7 +39,6 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 </li>
 <hr>
 <b>Add our database to your Pi-Star?</b><br>
-<ul>
 If you want to add our Database support to your Pi-Star, just follow this howto, execute the following commands in a ssh session with your Pi-Star.
 <li>rpi-rw
 <li>vi /usr/local/sbin/HostFilesUpdate.sh 
@@ -49,7 +48,6 @@ If you want to add our Database support to your Pi-Star, just follow this howto,
 </li>
 <br>with
 <li>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
-</ul>
 <hr>
 <b>Download latest Brandmeister user database BETA for Ailunce, Anytone and Tytera
 </b>
