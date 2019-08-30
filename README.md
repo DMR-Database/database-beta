@@ -27,7 +27,7 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 <li>Tytera MD-380 and 390 BETA Database has 141439 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 141155 entries<br><br>
 <li>Pi-Star BETA Database has 141208 entries<br>
-<li>Pi-Star original Database has 139886 entries<br><br>
+<li>Pi-Star original Database has 139986 entries<br><br>
 </ul>
 <hr>
 <b>Why is there a difference in the count of entries?</b><br>
