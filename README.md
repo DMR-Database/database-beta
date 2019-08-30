@@ -19,13 +19,13 @@ Brandmeister user database BETA are unverified "up to date" database files wich 
 </b>
 <ul>
 <li>Anytone BETA Database has 141241 entries<br>
-<li>Anytone verified Database has 140924 entries<br><br>
+<li>Anytone verified Database has 141215 entries<br><br>
 <li>Ailunce HD1 BETA Database has 141240 entries<br>
-<li>Ailunce HD1 verified Database has 140923 entries<br><br>
+<li>Ailunce HD1 verified Database has 141214 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
 <li>Tytera MD-380 and 390 BETA Database has 141473 entries<br>
-<li>Tytera MD-380 and 390 verified Database has 141155 entries<br><br>
+<li>Tytera MD-380 and 390 verified Database has 141446 entries<br><br>
 <li>Pi-Star BETA Database has 141242 entries<br>
 <li>Pi-Star original Database has 139986 entries<br><br>
 </ul>
