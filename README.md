@@ -56,12 +56,12 @@ If you want to add our Database support to your Pi-Star, just follow this howto.
 </li></ul>
 <br>add the following line under it 
 <ul><li>
-curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
+curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/DMR-Database/database-beta/master/DMRIds.dat
 </ul></li>
 <br>it should looke like this now:
 <ul>
 #curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
-<br>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/BM-Database/database-beta/master/DMRIds.dat
+<br>curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/DMR-Database/database-beta/master/DMRIds.dat
 </ul>
 Then press ctrl-x to exit, confirm with y to save and press enter to use the chosen filename.
 <br><br>
