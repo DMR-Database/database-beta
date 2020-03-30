@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h1>DMR user database BETA has 159118 entries.
+<h1>DMR user database BETA has 159122 entries.
 </h1>
 <hr>
 <h2 id="english">DMR user database <b>BETA</b> for Ailunce, Anytone, Tytera and Pi-Star :)</h2>
@@ -18,17 +18,17 @@ DMR user database BETA are unverified "up to date" database files wich are autom
 <br>
 </b>
 <ul>
-<li>Anytone BETA Database has 159119 entries<br>
+<li>Anytone BETA Database has 159123 entries<br>
 <li>Anytone verified Database has 158499 entries<br><br>
-<li>Ailunce HD1 BETA Database has 159118 entries<br>
+<li>Ailunce HD1 BETA Database has 159122 entries<br>
 <li>Ailunce HD1 verified Database has 158498 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
-<li>Tytera MD-380 and 390 BETA Database has 159354 entries<br>
+<li>Tytera MD-380 and 390 BETA Database has 159358 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 158734 entries<br><br>
-<li>Pi-Star BETA Database has 159120 entries<br>
+<li>Pi-Star BETA Database has 159124 entries<br>
 <li>Pi-Star original Database has 157605 entries<br><br>
-<li>Pi-Star SSH Helper Database has 159119 entries<br>
+<li>Pi-Star SSH Helper Database has 159123 entries<br>
 </ul>
 <hr>
 <b>Why is there a difference in the count of entries?</b><br>
