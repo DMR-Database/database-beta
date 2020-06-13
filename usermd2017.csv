@@ -9807,6 +9807,7 @@
 2020088,SV3SME,Dimitrios,Thouria,Peloponnisos,GR
 2020089,SV2HPL,Theofanis,Thessaloniki,Makedonia,GR
 2020090,SV7LPK,Paris,,,GR
+2020091,SV1ONZ,Leo,,,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -15296,7 +15297,7 @@
 2080453,F5AIL,Bruno,Monistrol Sur Loire,Haute-Loire,FR
 2080454,F4INU,Petrus,,,FR
 2080455,F0GBY,David,,,FR
-2080456,F4IOC,WHATSUPD,,,FR
+2080456,F4IOC,Michel,,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17331,6 +17332,7 @@
 2140316,EA5HQ,Marcus,La Murta,Alicante,ES
 2140317,EA2CLE,Oscar,Bilbao,Basque Country,ES
 2140318,EA7KJL,Juan,Jerez De La Frontera,Andalucia,ES
+2140319,EB7EAC,Eb7eac,,,ES
 2140320,EA2DKE,Jose,Galdakao,Basque Country,ES
 2140321,EA2ESM,Eguzki,Irun,Basque Country,ES
 2140322,EA6ALL,Pep,Es Capdella,Islas Baleares,ES
@@ -22917,6 +22919,7 @@
 2160026,HG5OEJ,Janos,Budapest,Budapest,HU
 2160027,HA0CAT,Zsolt,,,HU
 2160028,HG0DQR,VOKE,,,HU
+2160029,HA3FLT,Ha3flt,,,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -30202,7 +30205,10 @@
 2225978,IW1DUW,Gianfranco,,,IT
 2225979,IU4KXM,Roberto,,,IT
 2225980,IZ0VXA,IZ0VXA,,,IT
-2225982,IZ5XQL,Smn.barto,,,IT
+2225981,IK8JAK,Angelo,,,IT
+2225982,IZ5XQL,Smnbarto,,,IT
+2225983,IU7NKN,Giuseppe,,,IT
+2225984,IW2NTD,Gianfranco,,,IT
 2226001,IZ6FGP,Mario,Ortona,ABR,IT
 2226002,IK6TTE,Plinio,Casalbordino,ABR,IT
 2226003,IZ6FGP,Mario,Ortona,ABR,IT
@@ -35506,6 +35512,7 @@
 2322058,OE2PFN,Franz,Pfarrwerfen,Salzburg,AT
 2322059,OE2VPK,Viktor,Zederhaus,Salzburg,AT
 2322060,OE2FGI,Gerhard,Saalfelden Am Steinernen Meer,Salzburg,AT
+2322061,OE25URQ,Uwe,,,Oesterreich Austria
 2323001,OE3OLU,Robert,Klosterneuburg,Niederoesterreich,AT
 2323002,OE3OLU,Robert,Klosterneuburg,Niederoesterreich,AT
 2323003,OE3RGB,Rainer,Heidenreichstein,Niederoesterreich,AT
@@ -44300,9 +44307,13 @@
 2348551,M7JOS,Joe,,,UK
 2348552,G0LEU,Peter,,,UK
 2348553,M7FVS,Paul,,,UK
-2348554,M7MRT,Mark,,,UK
 2348555,M7JLD,JimiD,,,UK
 2348556,G6FFB,Dave,,,UK
+2348557,M7IDS,Ian,,,UK
+2348558,M3NEL,NEIL,,,UK
+2348559,M7NAC,Tony,,,UK
+2348560,M7MRT,Mark,,,UK
+2348561,G6LPF,Steven,,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -47676,6 +47687,7 @@
 2354771,MM3ZTS,Chris,Falkirk,Scotland,UK
 2354773,GM1BNH,Nigel,,,UK
 2354774,MM7ARJ,Ash,,,UK
+2354775,MM3XGP,Gordon,,,UK
 2355001,MI3WWF,Mark,Bangor,Northern Ireland,UK
 2355002,GI8VKA,Roy,Ballynure,Northern Ireland,UK
 2355003,MI0AAZ,John,Kilrea,Northern Ireland,UK
@@ -50121,6 +50133,8 @@
 2400476,SM5FJD,Hans,,,SE
 2400477,SM0HWY,Olof,,,SE
 2400478,SM7IZJ,Rolf,,,SE
+2400479,SM6MMX,Johan,,,SE
+2400480,SA5ACN,Joakim,,,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -73907,12 +73921,14 @@
 2861976,TB2TVN,Ala,Ankara,Ankara,TR
 2861977,TB3HAU,TB3HAU,Balikesir,Balikesir,TR
 2861978,TB5BKP,Asil,Adana,Adana,TR
+2861979,TB1HHG,HASAN,,,TR
 2862001,TA2OI,Nejmettin,Sulakyurt,Kirikkale,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
 2880004,OY4HQ,Hans,Thisted,Thisted,Faroe
 2900001,OX3HI,Holger,Kangerlussuaq,,Greenland
+2900002,OX3XR,Peter,,,Greenland
 2920001,T77GR,Renato,Borgo Maggiore,San Marino,IT
 2920002,T77NC,Nazzareno,Acquaviva,San Marino,IT
 2920003,T77DB,Danilo,Borgo Maggiore,San Marino,IT
@@ -76333,6 +76349,9 @@
 3021822,VA7ATP,Daniel,Port Coquitlam,BC,CA
 3021823,VA7OWO,Maxwell,W. Vancouver,BC,CA
 3021824,VE3NZQ,Robert,Lombardy,ON,CA
+3021825,VE2BAB,Mitchell,Cote Saint Luc,QC,CA
+3021826,VA2VMA,Vianney,,QC,CA
+3021827,VA7TWJ,I,Vancouver,BC,CA
 3021912,VE7LLW,Les,Port Moody,BC,CA
 3021913,VA3UV,Ramesh,Mississauga,ON,CA
 3021914,VA2AYA,Anthony,Blainville,QC,CA
@@ -99979,22 +99998,3 @@
 3121924,W3ESR,Frank,Salisbury,MD,US
 3121925,KN4QHZ,Ted,Ashburn,VA,US
 3121926,KA6SJK,Steve,Campbell,CA,US
-3121927,KA6SJK,Steve,Campbell,CA,US
-3121928,KI5CDZ,Donald,Spring,TX,US
-3121929,K3UKE,Sean,Ambridge,PA,US
-3121930,W4UOO,Michael,Valrico,FL,US
-3121931,KG5OWR,Richard,Hurst,TX,US
-3121932,W0NGJ,Jeffrey,Monument,CO,US
-3121933,K6LPB,Louis,Cypress,CA,US
-3121934,KI6IGR,Nathaniel,Canyon Lake,CA,US
-3121935,W9LAG,Omar,Milwaukee,WI,US
-3121936,K6TJH,Timothy,Ramona,CA,US
-3121937,K2HJ,John,New Berlin,NY,US
-3121938,W9LAG,Omar,Milwaukee,WI,US
-3121939,AC0YT,John,Colorado Springs,CO,US
-3121940,AK9CU,Jose,Chicago,IL,US
-3121941,W8JES,John,Findlay,OH,US
-3121942,WA6VPL,James,Lompoc,CA,US
-3121943,K2LED,Robert,Kenmore,NY,US
-3121944,KE8KXF,Thomas,Roseville,MI,US
-3121945,KI4MKD,Kenneth,Hampton,VA,US
