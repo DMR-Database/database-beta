@@ -15401,8 +15401,8 @@
 2080486,F4EOV,Charles,Montivilliers,Seine-Maritime,FR
 2080487,F1EAR,Claude,Avignon,Provence-Alpes-Cote d Azur,FR
 2080488,F6EZF,Jean,Berze La Ville,Saone-et-Loire,FR
-2080489,F4HSK,RBL03,,,FR
-2080490,F8IXZ,Jean-Marc,,,FR
+2080489,F4HSK,Laurent,,,FR
+2080490,F8IXZ,Jean,,,FR
 2080491,F4AAS,Claude,,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
@@ -24473,6 +24473,7 @@
 2200270,YU7ZAW,Zlatko,Subotica,Vojvodina,RS
 2200271,YU7RDI,Darko,Subotica,Vojvodina,RS
 2200272,YU4FRG,Zeljko,,,RS
+2200273,YU7YUM,MIKI,,,RS
 2210001,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
 2210002,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
 2220001,IK0YYY,Luca,Rome,LAZ,IT
@@ -30956,6 +30957,8 @@
 2226479,IU8NWM,Antonio,,,IT
 2226480,IZ4MFA,VERYOLD,,,IT
 2226481,IW1BOK,Vito,,,IT
+2226482,IZ8NXI,Angelo,,,IT
+2226483,IW8EST,Luigi,,,IT
 2226484,IW9HBO,Daniele,,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
@@ -36220,6 +36223,8 @@
 2323327,OE3RQA,Martin,Brunn Am Gebirge,Niederoesterreich,AT
 2323328,OE3FTC,Wolfgang,Moedling,Niederoesterreich,AT
 2323329,OE3KCC,Karl,Baden,Niederoesterreich,AT
+2323330,OE3MNU,Manuel,,,Oesterreich Austria
+2323331,OE3AJS,Dieter,,,Oesterreich Austria
 2323333,OE3TRB,Thomas,Berndorf,Niederoesterreich,AT
 2323353,OE3MJA,Josef,Seitenstetten,Niederoesterreich,AT
 2323354,OE3DNA,Andreas,Amstetten,Niederoesterreich,AT
@@ -44864,6 +44869,7 @@
 2348705,G6SGA,Stephen,Stoke-On-Trent,England,UK
 2348706,M6IPF,Anthony,Blackpool,England,UK
 2348707,G6UTQ,Graham,Hull,England,UK
+2348708,M7JKD,Jamie,,,UK
 2348711,G1SOM,David,Taunton,England,UK
 2348712,M7JDJ,James,Liverpool,England,UK
 2348713,G0TMH,Chris,Torquay,England,UK
@@ -47541,8 +47547,7 @@
 2353607,MW0JWP,John,Bangor,Wales,UK
 2353608,2W0KGO,Robert,Colwyn Bay,Wales,UK
 2353610,GW0TAU,Paul,Swansea,Wales,UK
-2353617,MW7SMA,Steve,,,UK
-2353618,MW7SMA,STEVE.A,,,UK
+2353618,MW7SMA,STEVEA,,,UK
 2353619,GW0RUD,Peter,,,UK
 2354001,MM0MBK,Mark,Cairneyhill,Scotland,UK
 2354002,MM0MBK,Mark,Cairneyhill,Scotland,UK
@@ -55785,6 +55790,7 @@
 2590022,ER1CW,Viktor,Kishinev,Kishinev,Moldova
 2590023,ER2RM,Mihail,Tiraspol,Tiraspol,Moldova
 2590024,ER1BF,Valeriu,Kishinev,Kishinev,Moldova
+2590025,ER3MM,Victor,,,Moldova
 2600001,SP9HYX,Jacek,Krynica-Zdroj,PLMA,PL
 2600002,SQ6BMK,Ludek,Nieznany,Nieznany,PL
 2600003,SP9UXY,Andrzej,Gliwice,PLSL,PL
@@ -59193,6 +59199,8 @@
 2620882,DC0DPN,Radioscouts,Grevenbroich,NW,DE
 2620883,DO1SV,Stephan,Au in der Hallertau,Bayern,DE
 2620884,DO2AM,Andreas,,,DE
+2620885,DO1AGM,Alexander,,,DE
+2620886,DH8MBP,Joerg,,,DE
 2621001,DL7AJ,Wolfgang,Berlin,BE,DE
 2621002,DG4FEY,Thomas,Berlin,BE,DE
 2621003,DL7ATA,Frank,Berlin,BE,DE
@@ -72890,6 +72898,8 @@
 2840395,LZ1WWI,Martin,Sofia,Sofia,BG
 2840396,LZ2ZM,Ivaylo,Provadia,Provadia,BG
 2840397,LZ1CK,Kiril,Samsun,Samsun,BG
+2840398,LZ1OIA,Orlin,,,BG
+2840399,LZ2MKS,Dima,,,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -77433,6 +77443,9 @@
 3021895,VE2JVM,John,Montreal,QC,CA
 3021896,VA3UY,Michael,Port Mcnicoll,ON,CA
 3021897,VE3BKK,John,Cambridge,ON,CA
+3021898,VA3PYC,Tim,Carp,ON,CA
+3021899,VE3WDZ,Douglas,Teeswater,ON,CA
+3021900,VA3KXT,Kevin,Scarborough,ON,CA
 3021912,VE7LLW,Les,Port Moody,BC,CA
 3021913,VA3UV,Ramesh,Mississauga,ON,CA
 3021914,VA2AYA,Anthony,Blainville,QC,CA
@@ -99985,16 +99998,3 @@
 3120804,KC1KIZ,Dana,Augusta,ME,US
 3120805,KF4VXN,Joseph,Summerville,SC,US
 3120806,AE2T,Al,Lockport,NY,US
-3120807,N6BHS,Harry,Half Moon Bay,CA,US
-3120808,N0NWH,Thomas,Minneapolis,MN,US
-3120809,W7EAZ,Mark,Federal Way,WA,US
-3120810,WB6CDF,Chris,Yucca Valley,CA,US
-3120811,KE0RMH,Charlie,Nucla,CO,US
-3120812,W6CEF,Joseph,Chino Valley,AZ,US
-3120813,K0TH,Jason,Saint Cloud,MN,US
-3120814,KE5WXP,Aaron,Clinton,OK,US
-3120815,W2ELK,Cole,Boise,ID,US
-3120816,KN4KCW,Michael,Greenville,NC,US
-3120817,N4GRW,John,Cumberland Furnace,TN,US
-3120818,W3HJ,William,Perkasie,PA,US
-3120819,K7PER,Per,Sunnyvale,CA,US
