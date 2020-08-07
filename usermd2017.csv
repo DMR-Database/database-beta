@@ -9850,7 +9850,7 @@
 2020131,SV3SPA,George,Patras,,GR
 2020132,SV3SPC,Yiannis,PATRAS,,GR
 2020133,SV3CGZ,Costas,,,GR
-2020134,SV3SPD,Andreas,,,GR
+2020134,SV3SPD,Andreas,Patras,,GR
 2020135,SY2QAR,DHMHTRIOS,,,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
@@ -13841,7 +13841,7 @@
 2060317,ON4KME,Geert,STEKENE,,BE
 2060318,ON4LBO,Krobru,,,BE
 2060319,ON3QR,Dieter,,,BE
-2060320,ON7WF,Wilfried,,,BE
+2060320,ON7WF,Wilfried,Hoegaarden,VB,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -15442,9 +15442,10 @@
 2080494,F6DED,Francis,,,FR
 2080495,F4IOX,Anne,HOENHEIM,,FR
 2080496,F4MQK,Bernard,,,FR
-2080497,F4IOQ,TD37,,,FR
+2080497,F4IOQ,Thomas,,,FR
 2080498,F4HSL,Yves,Courseulles sur mer,,FR
-2080499,F5PSA,LEO,st eloy les tuileries,,FR
+2080499,F5PSA,LIONEL,st eloy les tuileries,,FR
+2080500,F4IPR,Paul,,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17641,6 +17642,7 @@
 2140478,EA4HIS,Jose,Madrid,Madrid,ES
 2140479,EA3IHE,Nicolas,Vallirana,Cataluna,ES
 2140480,EA4E,Juan,Sesena,Castile-La Mancha,ES
+2140481,EA3IJM,SAMESBE,,,ES
 2140482,EA3IJI,Edmundo,Sant Cugat Del Valls,,ES
 2140483,EA1FCO,Jesus,Carballo,Galicia,ES
 2140484,EA3GQB,Maria,Queixans,Cataluna,ES
@@ -17686,6 +17688,10 @@
 2140536,EA2DBV,MARCE,,,ES
 2140539,EA5JBO,Eric,,,ES
 2140541,EA5JBK,Rufititu,,,ES
+2140542,EA6ANT,Miguel,,,ES
+2140543,EA4HIP,Alex,,,ES
+2140544,EA1FGF,LuisS,,,ES
+2140545,EA5JAU,Manu,Valencia,,ES
 2141001,EB1CU,Andoni,Castro Urdiales,Cantabria,ES
 2141002,EA1DBB,Adolfo,Ourense,Galicia,ES
 2141003,EB1CU,AXPE,Castro Urdiales,Cantabria,ES
@@ -31125,12 +31131,11 @@
 2226524,IK3NWX,Silvano,45100 ROVIGO RO,,IT
 2226525,IZ6GGW,IZ6GGW,63086 FORCE AP,,IT
 2226526,IU7NYY,Cosimo,Talsano Taranto,,IT
-2226527,IW8QAI,IW8QAI,88010 PISCOPIO CZ,,IT
 2226528,IK7TAM,Domenico,74100 TARANTO TA,,IT
 2226529,IU5MOT,Gardellino,Pistoia PT,IT,IT
 2226530,IZ0THC,Raffaele,Perugia PG,,IT
 2226531,IW8QAY,Gregorio,,,IT
-2226532,IU1IMC,Carlo,,,IT
+2226532,IU1IMC,Carlo,Pino Torinese Torino,IT,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -35061,6 +35066,7 @@
 2300048,OK1RKV,Robert,Karlsbad,Karlsbad,CZ
 2300049,OK2HMR,Martin,,,CZ
 2300050,OK9FAB,Jirka,,,CZ
+2300051,OK1MDD,Milan,Horn Stropnice 16,,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -45242,7 +45248,7 @@
 2348876,M7EDW,Edward,Herts,,UK
 2348879,M1PLC,Mat,76 Kings Road EVESHAM,,UK
 2348880,M5JFS,John,Portchester Hampshire,,UK
-2348883,G7POG,Mike,,,UK
+2348883,G7POG,Mike,W. Bromwich West Midlands,,UK
 2348885,M7TMT,Tom,,,UK
 2348886,MB6IPB,M0WER,,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
@@ -48677,7 +48683,7 @@
 2354817,MM7JFB,James,,,UK
 2354818,MM7KGT,Keith,,,UK
 2354819,2M0STM,Stuart,,,UK
-2354820,GM0APN,John,,,UK
+2354820,GM0APN,John,ABERDEENSHIRE,,UK
 2355001,MI3WWF,Mark,Bangor,Northern Ireland,UK
 2355002,GI8VKA,Roy,Ballynure,Northern Ireland,UK
 2355003,MI0AAZ,John,Kilrea,Northern Ireland,UK
@@ -49224,7 +49230,7 @@
 2355544,MI7DPM,Eddie,Belfast,Northern Ireland,UK
 2355545,MI7MCK,Andy,Newtownards,Northern Ireland,UK
 2355546,MI6IRE,Paul,Belfast,Northern Ireland,UK
-2355547,2I0LJW,Gerry,,,UK
+2355547,2I0LJW,Gerry,County Down,,UK
 2355548,GI4XAA,Des,Rock Dungannon TYRONE,,UK
 2355551,GI4SZU,John,Ballymena,Northern Ireland,UK
 2356001,GD6XHG,Ed,Douglas,Isle of Man,UK
@@ -49356,7 +49362,7 @@
 2380063,OZ4GA,Tim,Odense SV,Syddanmark,DK
 2380064,OZ1CIR,Erik,,,DK
 2380065,OZ7QU,Kurt,Ejby,,DK
-2380066,OZ8AAJ,Martin_lesler,,,DK
+2380066,OZ8AAJ,Martinlesler,,,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -52734,7 +52740,7 @@
 2420156,LA8KLA,Paddi,krehamn,,NO
 2420157,LA9XNA,Geir,Stavanger,,NO
 2420158,LA8VIA,Knust,LEIKANGER,,NO
-2420159,LA5QI,Per,,,NO
+2420159,LA5QI,Per,EIDSVOLL N 2080,,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -53706,7 +53712,7 @@
 2441129,OH2BVU,Harri,Helsinki,Uusimaa,FI
 2441130,OH6AYW,Rauski,,,FI
 2441131,OH6JV,Jussi,,,FI
-2441132,OH6GKW,Juhani,,,FI
+2441132,OH6GKW,Juhani,Kokkola,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -59700,8 +59706,9 @@
 2620971,DC1PF,Peter,Oedheim,,DE
 2620972,DC1SRW,Wolfgang,72461 Albstadt,,DE
 2620973,DG7VM,Norbert,54470 Bernkastel Kues,,DE
-2620974,DH1SUR,Guenter,,,DE
-2620975,DH1DF,Martin,,,DE
+2620974,DH1SUR,Guenter,19386 Benzin,,DE
+2620975,DH1DF,Martin,09481 Elterlein,,DE
+2620976,DO1MPH,Martin,,,DE
 2621001,DL7AJ,Wolfgang,Berlin,BE,DE
 2621002,DG4FEY,Thomas,Berlin,BE,DE
 2621003,DL7ATA,Frank,Berlin,BE,DE
@@ -72873,6 +72880,7 @@
 2720222,EI4IQB,Annard,Dublin,Leinster,IE
 2720223,EI8HCB,Shaun,Dublin,Leinster,IE
 2720224,EI2GT,Dermot,Limerick,,IE
+2720225,EI5IEB,Thomas,Dublin,,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,,Iceland
@@ -76080,6 +76088,7 @@
 2970036,4O3TGC,UniMatrix001,Bar,Podgorica,ME
 2970037,4O6MBA,Mirko,Herceg Novi Montenegro,MN,ME
 2970038,4O4DJC,Djordje,Herceg Novi,,ME
+2970039,4O5RAC,Radmila,Herceg Novi,,ME
 3020001,VO1GME,Geoff,Torbay,NL,CA
 3020002,VE1AIC,Ronald,Cornwall,PE,CA
 3020003,VO1CJN,Chris,St John S,NL,CA
@@ -78022,6 +78031,8 @@
 3021943,VE3PVX,Neil,Wasaga Beach,ON,CA
 3021944,VE7TLF,Telfer,Vancouver,BC,CA
 3021945,VA7HUM,Brent,Quathiaski Cove,BC,CA
+3021946,VA7GTE,Gethin,,BC,CA
+3021947,VE3TNE,Edward,Toronto,ON,CA
 3022000,VA2XPR,Jean-Sebastien,Montreal,QC,CA
 3022001,VA2TDF,Daniel,Montreal,QC,CA
 3022002,VE2NBZ,Eric,Trois-Rivires,QC,CA
@@ -99987,14 +99998,3 @@
 3120210,WB2YOK,Bernard,Leawood,KS,US
 3120211,K0DPW,Daris,Ulysses,KS,US
 3120212,KD0MVB,Robert,Goodland,KS,US
-3120213,KD0MVB,Robert,Goodland,KS,US
-3120214,WD0DPB,Steven,Olathe,KS,US
-3120215,KD0SDS,Clifford,Kingman,KS,US
-3120216,K0PSK,Adam,Wichita,KS,US
-3120217,KU0JHK,Skyler,Lawrence,KS,US
-3120218,KE0HXF,Robert,Eudora,KS,US
-3120219,KE0HXF,Robert,Eudora,KS,US
-3120221,KC9GPJ,David,Overland Park,KS,US
-3120222,WA0SLL,Stephen,Kansas City,KS,US
-3120223,KC0BHA,Jeffrey,Lansing,KS,US
-3120224,KC0AJL,Andrew,Kansas City,KS,US
