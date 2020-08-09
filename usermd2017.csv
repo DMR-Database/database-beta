@@ -15447,6 +15447,7 @@
 2080498,F4HSL,Yves,Courseulles sur mer,La Normandie,FR
 2080499,F5PSA,LEO,Saint-Eloy-les-Tuileries,Nouvelle-Aquitaine,FR
 2080500,F4IPR,Paul,Toulon,Provence-Alpes-Cote d Azur,FR
+2080501,F1PVU,Olivier,,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17658,7 +17659,7 @@
 2140494,EA6ANX,Juan,Calvia,Islas Baleares,ES
 2140495,EA6ANW,Toni,Ibiza,Islas Baleares,ES
 2140496,EA7KCH,Inn,Malaga,Andalucia,ES
-2140497,EA7ESG,Juan,,,ES
+2140497,EA7ESG,Juan,MALAGA,,ES
 2140498,EA6ANV,Jeroni,Palma,Islas Baleares,ES
 2140499,EA4DM,Jose,Valdemorillo,Madrid,ES
 2140500,EA7KEX,Luisma,Huetor Santillan Granada,Andalucia,ES
@@ -31145,8 +31146,8 @@
 2226531,IW8QAY,Gregorio,Lamezia Terme,CAL,IT
 2226532,IU1IMC,Carlo,Pino Torinese,PIE,IT
 2226533,IU0LPM,Giuliano,,,IT
-2226534,IK8UIF,Alberto,,,IT
-2226535,IK4YHJ,Paolo,,,IT
+2226534,IK8UIF,Alberto,84124 SALERNO SA,,IT
+2226535,IK4YHJ,Paolo,29010 CASTELVETRO PIACENTINO,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -36452,6 +36453,7 @@
 2323343,OE3RBT,Reinhard,Pyhra,Niederoesterreich,AT
 2323344,OE3WDK,Dominik,Hafnerbach,Niederoesterreich,AT
 2323345,OE3HPT,Thomas,Prein An Der Rax,Niederoesterreich,AT
+2323346,OE3OEW,Wolfgang,,,AT
 2323353,OE3MJA,Josef,Seitenstetten,Niederoesterreich,AT
 2323354,OE3DNA,Andreas,Amstetten,Niederoesterreich,AT
 2323355,OE3YZC,Marlene,Wolfsbach,Niederoesterreich,AT
@@ -45272,9 +45274,9 @@
 2348894,M7XWT,WILL,,,UK
 2348895,M7CJP,Craig,Rainham Kent,,UK
 2348896,M7PZG,Pam,,,UK
-2348898,M0OTQ,Marcin,,,UK
-2348899,2E0YEO,Richard,,,UK
-2348902,2E0DHQ,Dave,,,UK
+2348898,M0OTQ,Marcin,Malvern,,UK
+2348899,2E0YEO,Richard,Barton St David,,UK
+2348902,2E0DHQ,Dave,Wallasey Merseyside,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -53738,6 +53740,7 @@
 2441130,OH6AYW,Rauski,Vaasa,Uudenmaa,FI
 2441131,OH6JV,Jussi,Vaasa,Uudenmaa,FI
 2441132,OH6GKW,Juhani,Kokkola,,FI
+2441133,OH8BHM,Auvo,,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -56477,7 +56480,7 @@
 2600281,SP5AMG,Jaroslaw,,,PL
 2600282,SP3EDQ,Tadeusz,,,PL
 2600283,SQ5RDA,Dominik,OTWOCK,,PL
-2600284,SP9TE,Tomasz,,,PL
+2600284,SP9TE,Tomasz,Zabrze,,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -59740,7 +59743,7 @@
 2620977,DL3OHM,Florian,,,DE
 2620978,DK4FW,Kurt,,,DE
 2620979,DL3YEG,Heinz,,,DE
-2620980,DL7FCB,Bernd,,,DE
+2620980,DL7FCB,Bernd,Dornburg Wilsenroth,,DE
 2621001,DL7AJ,Wolfgang,Berlin,BE,DE
 2621002,DG4FEY,Thomas,Berlin,BE,DE
 2621003,DL7ATA,Frank,Berlin,BE,DE
@@ -71562,7 +71565,7 @@
 2680076,CT2JWN,Francisco,Vassal Valpacos,Vila Real,PT
 2680077,CT2KFS,Jvilar,Guarda,Guarda,PT
 2680078,CR7AYJ,Henrique,Foros De Arrao,Portalegre,PT
-2680079,CT7ADX,Carlos,,,PT
+2680079,CT7ADX,Carlos,2260 039,,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -78068,6 +78071,10 @@
 3021947,VE3TNE,Edward,Toronto,ON,CA
 3021948,VA3LP,William,Orleans,ON,CA
 3021949,VA3XOG,Glenn,Toronto,ON,CA
+3021950,VA7BDM,Brian,Langley,BC,CA
+3021951,VE3RNM,Denis,Sudbury,ON,CA
+3021952,VE3MXP,Michael,Oshawa,ON,CA
+3021953,VE3RQS,Rodello,Kitchener,ON,CA
 3022000,VA2XPR,Jean-Sebastien,Montreal,QC,CA
 3022001,VA2TDF,Daniel,Montreal,QC,CA
 3022002,VE2NBZ,Eric,Trois-Rivires,QC,CA
@@ -99991,10 +99998,3 @@
 3120168,K0LOL,Dani,Merriam,KS,US
 3120169,KD0RDM,Jon,Olathe,KS,US
 3120170,KD0RDM,Jon,Olathe,KS,US
-3120171,KU0PD,Travis,Merriam,KS,US
-3120172,KA8MMI,Neil,Olathe,KS,US
-3120173,N0YUR,Cindy,Topeka,KS,US
-3120174,WA0VRS,Steve,Topeka,KS,US
-3120175,W0AIB,Laurance,Shawnee Mission,KS,US
-3120176,N0SWP,Steve,Osawatomie,KS,US
-3120177,KA1EBQ,Josh,Independence,KS,US
