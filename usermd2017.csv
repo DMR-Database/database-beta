@@ -11210,7 +11210,7 @@
 2040117,PA3DAH,Ber,Rijswijk,ZH,NL
 2040118,PB1L,Leonardo,Wassenaar,ZH,NL
 2040119,PD0Y,Dennis,Purmerend,N-H,NL
-2040120,PC1RZ,Rick,,,NL
+2040120,PC1RZ,Rick,7328EM Apeldoorn,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -24355,6 +24355,7 @@
 2190317,9A3LB,Ante,Petrinja,Sisacko-moslavacka zupanija,HR
 2190318,9A6IKB,Berobaja,,,HR
 2190319,9A3DZK,Zeky,Split,Split-Dalmatia,HR
+2190320,9A7DJD,Tomo,,,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -31181,7 +31182,7 @@
 2226543,IW4BIZ,Giovanni,Molinella,Apulia,IT
 2226544,IU0NHX,Iaxpo,Roma,LAZ,IT
 2226545,IW3HLZ,Enrico,Santa Maria Di Sala,VEN,IT
-2226546,IU4BUQ,IU4BUQ,,,IT
+2226546,IU4BUQ,IU4BUQ,Reggio Emilia,IT,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -36495,6 +36496,7 @@
 2323346,OE3OEW,Wolfgang,,Niederoesterreich,AT
 2323347,OE3XNR,Nebelstein,St Poelten,Niederoesterreich,AT
 2323348,OE3WHS,Willi,Amstetten,Niederoesterreich,AT
+2323349,OE3OEX,Johann,,,AT
 2323353,OE3MJA,Josef,Seitenstetten,Niederoesterreich,AT
 2323354,OE3DNA,Andreas,Amstetten,Niederoesterreich,AT
 2323355,OE3YZC,Marlene,Wolfsbach,Niederoesterreich,AT
@@ -45285,9 +45287,9 @@
 2348846,M7COY,Jason,Margate,England,UK
 2348847,G1SNH,Linda,Leicester,England,UK
 2348848,G8VVU,Mike,Ashford Kent,England,UK
-2348849,2E0DPY,Dave,,,UK
-2348850,M7YTH,JohnCh,,,UK
-2348851,G3LHJ,DER,,,UK
+2348849,2E0DPY,Dave,Leigh Wigan,,UK
+2348850,M7YTH,JohnCh,Newbold Verdon Leicester,,UK
+2348851,G3LHJ,DER,Milber NEWTON ABBOT DEVON,,UK
 2348852,M7PGP,Simon,Leamington Spa,England,UK
 2348853,2E0MZK,Matthew,Stoke On Trent,England,UK
 2348854,M7ICK,Mick,Higham Ferrers. Northamptonshire,England,UK
@@ -45344,10 +45346,11 @@
 2348925,M6LNC,David,Tenbury Wells Worcestershire,,UK
 2348926,M7UHU,Craig,,,UK
 2348927,M7WFG,Voytec,,,UK
-2348928,M7ELZ,Elly,,,UK
+2348928,M7ELZ,Elly,Thatcham,,UK
 2348929,M7EDA,Benjamin,,,UK
-2348930,M7DRR,Dave,,,UK
+2348930,M7DRR,Dave,Stockton on Tees,,UK
 2348931,M7POG,James,,,UK
+2348934,G7JRM,Chris,W. Sussex,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -49468,6 +49471,7 @@
 2380065,OZ7QU,Kurt,Ejby,Syddanmark,DK
 2380066,OZ8AAJ,Martin_lesler,Sunds,Midtjylland,DK
 2380067,OZ1LQI,Kurt,Svendborg,Syddanmark,DK
+2380068,OZ2ABU,Nli6840,,,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -56578,7 +56582,7 @@
 2600299,SO5RF,Mariusz,Jozefow,PLMZ,PL
 2600300,SQ7BFI,Andrzej,Rzgow,PLLD,PL
 2600301,SP9ODT,Adam,,,PL
-2600302,SP4MK,Marcin,,,PL
+2600302,SP4MK,Marcin,Kleosin,,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -78220,6 +78224,8 @@
 3021965,VA3PFT,Paul,Orillia,ON,CA
 3021966,VA2PLQ,Pascal,Saint Eustache,QC,CA
 3021967,VE3EBE,Randolph,,ON,CA
+3021968,VE3UBM,Robert,Brampton,ON,CA
+3021969,VA3XDB,Don,Chatham,ON,CA
 3022000,VA2XPR,Jean-Sebastien,Montreal,QC,CA
 3022001,VA2TDF,Daniel,Montreal,QC,CA
 3022002,VE2NBZ,Eric,Trois-Rivires,QC,CA
@@ -99992,9 +99998,3 @@
 3120017,W0STD,Steve,Overland Park,KS,US
 3120018,KD0VXJ,Nicholas,Kansas City,KS,US
 3120019,KE0CBB,Glenn,Lenexa,KS,US
-3120020,KC0IRF,Noel,Olathe,KS,US
-3120021,KC4TKL,William,Olathe,KS,US
-3120022,KD0KKV,Scott,Edgerton,KS,US
-3120023,K0KSM,Mark,Linwood,KS,US
-3120024,K0WJ,Lon,Shawnee,KS,US
-3120025,W0BZL,Robert,Wichita,KS,US
