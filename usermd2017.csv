@@ -9859,6 +9859,8 @@
 2020140,SV2OIK,Saddle,Veria,Makedonia,GR
 2020141,SV4RTA,Konstantinos,Karditsa,Thessalia,GR
 2020142,SV1MMO,Fanis,,Thessalia,GR
+2020143,SV7BOZ,ILIAS,,,GR
+2020144,SY8BAX,Christos,,,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -15479,7 +15481,7 @@
 2080513,F4GXJ,Jean,66490 st jean pla de corts,,FR
 2080514,F4IDH,Christian,,,FR
 2080515,F4IPO,Serge,,,FR
-2080516,F4INM,Alex,,,FR
+2080516,F4INM,Alex,TOURCOING,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17754,6 +17756,7 @@
 2140564,EA4HJA,Luis,Madrid,Madrid,ES
 2140565,EA4TK,Javier,28018MADRID,,ES
 2140566,EA8CMY,Alberto,San Juan De La Rambla Tenerife,,ES
+2140567,EB7CSU,Pedro,,,ES
 2141001,EB1CU,Andoni,Castro Urdiales,Cantabria,ES
 2141002,EA1DBB,Adolfo,Ourense,Galicia,ES
 2141003,EB1CU,AXPE,Castro Urdiales,Cantabria,ES
@@ -24395,7 +24398,7 @@
 2190321,9A3GVD,Dom,Vodice,Sibenik-Knin,HR
 2190322,9A3DIB,Ivan,Sibenik,Sibenik-Knin,HR
 2190323,9A3BKR,Kris,,,HR
-2190324,9A1ABE,Radio,,,HR
+2190324,9A1ABE,Radio,Slatina,,HR
 2190325,9A7PRZ,Bongo,,,HR
 2190326,9A3MAB,9A3MAB,,,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
@@ -31243,6 +31246,9 @@
 2226560,IU4LAU,Stefano,San Cesario Sul Panaro,EMI,IT
 2226561,IX1APT,Giuseppe,Saint Vincent Aosta,VAL,IT
 2226562,IW2DCY,Antlex,Novate Milanese,LOM,IT
+2226563,IU1MTZ,Luca,CANTALUPA,IT,IT
+2226564,IU2NTG,Giampy,,,IT
+2226565,IZ0PAU,Marcello,Rome,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -45471,8 +45477,10 @@
 2348979,2E0FVK,John,,,UK
 2348980,M7AZP,Darren,,,UK
 2348981,2E0XMF,Pete,,,UK
-2348982,G0AWM,Chas,,,UK
-2348984,M7GDF,Dave,,,UK
+2348982,G0AWM,Chas,LANCASTER,,UK
+2348984,M7GDF,Dave,Rothwell,,UK
+2348986,M7WYN,Arwyn,,,UK
+2348987,M7MAP,Mark,,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -48091,8 +48099,7 @@
 2353619,GW0RUD,Peter,Llanelli,Wales,UK
 2353620,GW1DPL,Martyn,Waunariwydd Swansea W. Glamorgan,Wales,UK
 2353621,MW6VNP,Sue,Swansea W. Glamorgan,Wales,UK
-2353622,2W0KPF,Keith,LLANIDLOES,,UK
-2353623,2W0KPF,Keithf,,,UK
+2353623,2W0KPF,Keithf,LLANIDLOES,,UK
 2354001,MM0MBK,Mark,Cairneyhill,Scotland,UK
 2354002,MM0MBK,Mark,Cairneyhill,Scotland,UK
 2354003,MM0MBK,Mark,Cairneyhill,Scotland,UK
@@ -56415,7 +56422,7 @@
 2570072,EW8IKA,Kiryl,Gomel,Gomel,Belarus
 2570073,EW1Q,Valery,Minsk,Minsk,Belarus
 2570074,EU7DD,Leanid,Mogilev,Mahiljow,Belarus
-2570075,EW1AEO,Denis,,,Belarus/Belorussia
+2570075,EW1AEO,Denis,,,Belarus
 2590001,ER1AL,Vadim,Kishinev,Chisinau,Moldova
 2590002,ER1VOX,Dumitru,Chisinau,Chisinau,Moldova
 2590003,ER1MSC,Serghei,Chisinau,Chisinau,Moldova
@@ -56727,7 +56734,7 @@
 2600282,SP3EDQ,Tadeusz,Wierzyce,PLWN,PL
 2600283,SQ5RDA,Dominik,Otwock,PLMZ,PL
 2600284,SP9TE,Tomasz,Zabrze,PLDS,PL
-2600285,SP9BRP,Jan,,,PL
+2600285,SP9BRP,Jan,30 960 KRAKOW 1,,PL
 2600286,SP9IRC,Krystian,Czechowice-Dziedzice,PLDS,PL
 2600287,SQ5JUI,Konrad,Warszawa,PLPM,PL
 2600288,SP2KDL,Kamil,Lubostron,PLKP,PL
@@ -60623,9 +60630,10 @@
 2621577,DH5SW,Siegfried,,,DE
 2621578,DB8SEW,MIREK,27386 HEMSBUENDE,,DE
 2621579,DD5HW,Holger,Heidelberg,,DE
-2621580,DO3CST,Stefan,,,DE
+2621580,DO3CST,Stefan,Annaberg Buchholz,,DE
 2621581,DO6FP,Felix,,,DE
-2621582,DL1TKL,Klaus,,,DE
+2621582,DL1TKL,Klaus,Pasewalk,D,DE
+2621583,DL4JM,Tim,D 41179 Moenchengladbach,,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -76412,7 +76420,7 @@
 2930536,S56VGL,Luka,Ljubljana,Ljubljana,SI
 2930537,S56RH,Rok,Trbovlje,Zasavska,SI
 2930538,S56FLZ,Dragan,Ljubljana,Ljubljana,SI
-2930539,S57CBC,Alojz,,,SI
+2930539,S57CBC,Alojz,PREVALJE,,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -78479,6 +78487,8 @@
 3021984,VE3LGH,Lawrence,Cobourg,ON,CA
 3021985,VE2NL,Andre,Saint Hippolyte,QC,CA
 3021986,VE3FDZ,John,Barrie,ON,CA
+3021987,VE2UG,Ren,Repentigny,QC,CA
+3021988,VE4RDO,Andrew,Winnipeg,MB,CA
 3022000,VA2XPR,Jean-Sebastien,Montreal,QC,CA
 3022001,VA2TDF,Daniel,Montreal,QC,CA
 3022002,VE2NBZ,Eric,Trois-Rivires,QC,CA
@@ -99988,13 +99998,3 @@
 3119752,AB5I,Gregory,Boerne,TX,US
 3119753,WX3I,Louis,Norristown,PA,US
 3119754,KA6TIO,Jason,Tracy,CA,US
-3119755,K2ETC,Gavin,Memphis,TN,US
-3119756,WD5DMX,Tj,Tulsa,OK,US
-3119757,K9GVT,George,Hampton,IL,US
-3119758,N4OLD,David,Woodlawn,VA,US
-3119759,KD8OAN,Peter,Troy,MI,US
-3119760,KB9FHE,Mark,Jackson,IA,US
-3119761,AA9DX,Jeng-Shiou,Boston,MA,US
-3119762,AI6K,David,San Ramon,CA,US
-3119763,N2TH,Bernard,E. Millstone,NJ,US
-3119764,AC8VQ,Timothy,S. Point,OH,US
