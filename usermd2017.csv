@@ -11237,7 +11237,7 @@
 2040131,PD2Y,Martijn,Utrecht,UTR,NL
 2040132,PD1RB,Raoul,Almere,FLD,NL
 2040133,PE1EEC,Martin,Maastricht,LB,NL
-2040134,PD1API,Sander,,,NL
+2040134,PD1API,Sander,Hoogezand,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -15511,6 +15511,7 @@
 2080525,F4HJC,Sylvie,Champigny Sur Marne,,FR
 2080526,F6BNX,Jean,Nice,Alpes-Maritimes,FR
 2080527,F4IMV,Zouzou,Berck-Sur Mer,Pas-de-Calais,FR
+2080528,F4ALT,Laurent,13100 AIX EN PROVENCE,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17820,7 +17821,7 @@
 2140594,EA7CJK,Francisco,Lora Del Rio,Andalucia,ES
 2140595,EA7IJZ,Lazaro,,,ES
 2140596,EA1VL,Benito,,,ES
-2140597,EA5GGU,Nicolas,,,ES
+2140597,EA5GGU,Nicolas,46340 Requena Valencia,,ES
 2141001,EB1CU,Andoni,Castro Urdiales,Cantabria,ES
 2141002,EA1DBB,Adolfo,Ourense,Galicia,ES
 2141003,EB1CU,AXPE,Castro Urdiales,Cantabria,ES
@@ -31355,6 +31356,7 @@
 2226600,IT9IEI,Angelo,,,IT
 2226601,IU8DSP,Ivan,Baronissi Salerno,CAM,IT
 2226602,IW6PEO,Elio,,,IT
+2226603,I5GVQ,Giampy,Siena SI,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -45534,7 +45536,7 @@
 2348886,MB6IPB,Peter,Essex,England,UK
 2348887,G8JUG,Nick,Dorchester,England,UK
 2348888,2E0CTR,Trevor,Northamptonshire,England,UK
-2348889,M3DMX,Peter,,,UK
+2348889,M3DMX,Peter,cheshire,,UK
 2348890,G1EDU,Glyn,Mirfield,England,UK
 2348891,GB5VJD,Braintree,Braintree,England,UK
 2348892,M7PRF,Ben,Whitby,England,UK
@@ -45667,6 +45669,13 @@
 2349051,M7LRN,Lee,,England,UK
 2349052,G8DIY,Phil,Cambs,England,UK
 2349053,G6KZJ,Ray,,England,UK
+2349054,G0DJQ,Mark,Derbyshire,,UK
+2349055,2E0THG,Lee,Cranbrook Kent,,UK
+2349056,M7MEX,Alex,Harefield Uxbridge Middlesex,,UK
+2349057,M7CNL,Michael,Stockton on Tees,,UK
+2349058,G0ORE,Nick,REDDITCH,,UK
+2349059,G4RMT,Paul,SUFFOLK,,UK
+2349060,M7LRN,Lee,,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -60905,11 +60914,11 @@
 2621621,DO3WC,Walter,Luebeck,SH,DE
 2621622,DJ0MAT,Lars,Duesseldorf,NW,DE
 2621623,DB5BX,Peter,Ibbenbueren,NW,DE
-2621624,DK4WM,Martin,,,DE
-2621625,DL5MCR,Hans,,,DE
-2621626,DO1TI,Heino,,,DE
+2621624,DK4WM,Martin,Ostbevern,,DE
+2621625,DL5MCR,Hans,85662 Hohenbrunn,,DE
+2621626,DO1TI,Heino,21629 Neu Wulmstorf,,DE
 2621627,DG6SDB,Dominik,,,DE
-2621628,DB1KI,Simon,,,DE
+2621628,DB1KI,Simon,Luedenscheid,,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -74096,6 +74105,7 @@
 2840406,LZ1DJD,Denis,Sofia,Sofia,BG
 2840407,LZ1AAO,Stoyan,Smolyan,Smolyan,BG
 2840408,LZ1WDS,Denislav,Sofia,Sofia,BG
+2840409,LZ2IBI,Ivo,,,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -76152,6 +76162,8 @@
 2862054,TA5AOK,Oktay,Adana,Adana,TR
 2862055,TA1SEH,Erkan,Tekirda,Tekirda,TR
 2862056,TA1MTR,Murat,,,TR
+2862057,TA5AHE,TA5AHE,,,TR
+2862058,TA2UEL,TA2UEL,,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -78095,7 +78107,7 @@
 3021292,VE9DAS,David,Sainte-Cecile,NB,CA
 3021293,VA3IXQ,Jae,Oakville,ON,CA
 3021294,VE3IXQ,Joung,Oakville,ON,CA
-3021295,VA3AQW,Steven,,ON,CA
+3021295,VA3AQW,Steven,Embrun,ON,CA
 3021296,VE2CTI,Charles,Saint Raymond,QC,CA
 3021297,VE3CVS,Guenther,Brampton,ON,CA
 3021298,VE2CTI,Charles,Saint Raymond,QC,CA
@@ -79347,6 +79359,7 @@
 3022545,VE2MZR,Marc-Olivier,Quebec,QC,CA
 3022546,VA2HFG,Sebastien,Gatineau,QC,CA
 3022547,VE2ABC,Serge,Levis,QC,CA
+3022548,VA3AQW,Steven,Embrun,ON,CA
 3022549,VA2CG,Gilles,Quebec,QC,CA
 3022550,VA2OKG,Jean-Sebastien,Nicolet,QC,CA
 3022551,VA2XAE,Eric,Durham-Sud,QC,CA
@@ -99985,16 +99998,3 @@
 3119414,K0IVY,Michael,Iowa City,IA,US
 3119415,NG0G,Stephen,Moorland,IA,US
 3119416,KB0OWL,Karen,Cedar Rapids,IA,US
-3119417,N0FAE,Stuart,Des Moines,IA,US
-3119418,KC0PON,Dennis,Marion,IA,US
-3119419,N0TJA,Timothy,Des Moines,IA,US
-3119420,KD0GFX,Kip,Tripoli,IA,US
-3119421,KD0EDJ,Brenda,Waukee,IA,US
-3119422,KD0IQZ,Michael,Cedar Rapids,IA,US
-3119423,KC0RAM,John,Des Moines,IA,US
-3119424,N0EGP,James,Cedar Falls,IA,US
-3119425,KC0KMB,Thomas,Marshalltown,IA,US
-3119426,W0QC,Frank,Davenport,IA,US
-3119427,W0QC,Frank,Davenport,IA,US
-3119428,N0RWY,Dennis,Elk Run Heights,IA,US
-3119429,KC0CGA,Carlyn,Iowa City,IA,US
