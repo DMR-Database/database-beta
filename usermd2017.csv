@@ -11253,7 +11253,7 @@
 2040142,PE2ROB,Rob,Gouda,ZH,NL
 2040143,PA1BH,Bas,Boxmeer,N-BR,NL
 2040144,PD9DP,Theo,Deurne,N-BR,NL
-2040145,PD0ALX,Alexander,,,NL
+2040145,PD0ALX,Alexander,Hoogvliet Rotterdam,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -15544,6 +15544,7 @@
 2080539,F4ATC,Gaetan,St Genix-Guiers,Auvergne-Rhône-Alpes,FR
 2080540,F4DRG,Julien,La meignanne,Pays de la Loire,FR
 2080541,F1FTR,Andre,Niederbronn Les Bains,Grand Est,FR
+2080542,F4GGF,F4GGF,fecamp,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -17881,7 +17882,7 @@
 2140622,EA1IDT,Mellamomanolo,Jacarilla,Jacarilla,ES
 2140623,EA4HJX,Miguel,Ciempozuelos,Madrid,ES
 2140624,EA4HJL,Nacho,Madrid,Madrid,ES
-2140625,EA4ENG,Alberto,,,ES
+2140625,EA4ENG,Alberto,MADRID,ES,ES
 2141001,EB1CU,Andoni,Castro Urdiales,Cantabria,ES
 2141002,EA1DBB,Adolfo,Ourense,Galicia,ES
 2141003,EB1CU,AXPE,Castro Urdiales,Cantabria,ES
@@ -31465,8 +31466,8 @@
 2226628,IU0NYC,Raffaele,Rome,LAZ,IT
 2226629,IK4RAJ,Daniele,Imola,EMI,IT
 2226630,IX1DSY,Fabrizio,Valgrisenche Aosta,VAL,IT
-2226631,IT9HJH,Diego,,,IT
-2226632,IK1XPK,Claudio,,,IT
+2226631,IT9HJH,Diego,Furci Siculo Me,,IT
+2226632,IK1XPK,Claudio,14100 ASTI,,IT
 2226633,IU2OFF,RIKY681,,,IT
 2226634,IW6PLC,Carmin,,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
@@ -45803,7 +45804,7 @@
 2349040,G0DOR,Phil,Liverpool,England,UK
 2349041,M7WEL,Stewart,E. Grinstead W Sussex,England,UK
 2349042,G0IJN,John,Summerhill Althorne Chelmsford,England,UK
-2349043,M6NGQ,Dave,,,UK
+2349043,M6NGQ,Dave,Hemel Hempstead,,UK
 2349044,2E0VNX,Andy,Leeds,England,UK
 2349047,2E0GUW,Guy,High Wcyombe,England,UK
 2349048,M7PRC,Simon,Bournemouth Dorset,England,UK
@@ -45850,6 +45851,10 @@
 2349103,M3PSF,Robert,Redditch Worcestershire,England,UK
 2349104,M7DAY,Dave,Uttoxeter Staffs,England,UK
 2349106,G8TFV,Peter,Whitstable-Kent,England,UK
+2349107,M7BPH,Ben,Basingstoke,,UK
+2349108,G7HEN,Mike,W. Yorks,,UK
+2349109,M1TDM,David,Staffordshire,,UK
+2349110,M7MDZ,Paul,Aldeby Norfolk,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -49321,6 +49326,7 @@
 2354843,MM0YIA,Alistair,Portree,Scotland,UK
 2354844,2M0HFC,Scott,N. Lanarkshire,Scotland,UK
 2354845,2M0FYH,Steven,Cruden Bay,Scotland,UK
+2354846,GM0PAC,Grant,,,UK
 2355001,MI3WWF,Mark,Bangor,Northern Ireland,UK
 2355002,GI8VKA,Roy,Ballynure,Northern Ireland,UK
 2355003,MI0AAZ,John,Kilrea,Northern Ireland,UK
@@ -53418,6 +53424,8 @@
 2420169,JW4PUA,Sander,Longyearbyen,Svalbard,NO
 2420170,LA4PUA,Sander,Oslo,Oslo,NO
 2420171,LA2KT,Odd,Enebakkneset,Viken,NO
+2420172,LA1PJ,Bernt,4250 Kopervik,,NO
+2420173,LA6BLA,Oystein,,,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -61177,6 +61185,13 @@
 2621655,DL0EW,Joachim,Saarbruecken,SL,DE
 2621656,DL1PJH,Patrik,Weyarn,Bayern,DE
 2621657,DC1JE,Friedrich,Wuppertal,NW,DE
+2621658,DK9KL,Guido,26529 Osteel,,DE
+2621659,DL5SEJ,Ralf,71522 Backnang,,DE
+2621660,DG1ELG,Ralf,Remscheid,,DE
+2621661,DH2MAE,Erika,86391 Stadtbergen,,DE
+2621662,DL2FBB,Peter,64646 Heppenheim,,DE
+2621663,DH1FAN,Maddin,Taunusstein,,DE
+2621664,DM2HK,Hartmut,Zeuthen,,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -77019,6 +77034,7 @@
 2930543,S50KZ,Mitja,Slovenj Gradec,Carinthia,SI
 2930544,S59HIJ,Radioclub,Portoroz,Istrie,SI
 2930545,S57KK,Andrej,Maribor,Podravska,SI
+2930546,S57NL,Brane,5280 Idrija,,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -79743,9 +79759,12 @@
 3022641,VA2BYO,Andre,Saint Lin Laurentide,QC,CA
 3022642,VE2IFN,Frederic,Laval,QC,CA
 3022643,VE2JA,Michel,Ancienne-Lorette,QC,CA
+3022644,VE2HOG,Chad,Saint Bruno De Guigues,QC,CA
+3022645,VE3EWR,John,Ottawa,ON,CA
 3022646,VE2JVE,Jean,Quebec,QC,CA
 3022647,VE2NRL,Rene,Levis,QC,CA
 3022648,VA2NRL,Rene,Levis,QC,CA
+3022649,VE1KD,Dan,Cole Harbour,NS,CA
 3022650,VE2ICH,Michel,Sorel-Tracy,QC,CA
 3022651,VE2JTX,Stephane,Levis,QC,CA
 3022652,VE2AVA,Pierre,Terrebonne,QC,CA
@@ -99979,22 +99998,3 @@
 3119088,N0JAK,Patrick,Conrad,IA,US
 3119089,AE5EI,Joseph,Clarksville,IA,US
 3119090,AD0TD,Troy,Marshalltown,IA,US
-3119091,KD0ETR,Brian,Le Mars,IA,US
-3119092,KB0STE,David,Le Mars,IA,US
-3119093,KD0BIJ,Daniel,Fayette,IA,US
-3119094,KD0BIJ,Daniel,Fayette,IA,US
-3119095,KG0CK,Tim,Webb,IA,US
-3119096,AE5EI,Joseph,Clarksville,IA,US
-3119097,AD0TD,Troy,Marshalltown,IA,US
-3119098,W0DTD,Bob,Waterloo,IA,US
-3119099,KE0KXK,Kenneth,Grundy Center,IA,US
-3119100,WB0VHB,Randy,Mt. Union,IA,US
-3119101,K0TSK,Timothy,Victor,IA,US
-3119102,K7PEM,Paul,Davenport,IA,US
-3119103,K7PEM,Paul,Davenport,IA,US
-3119104,KE0ADU,Alessandro,Calmar,IA,US
-3119105,N0AKF,Larry,Waterloo,IA,US
-3119106,N0NO,Derek,Hedrick,IA,US
-3119107,W0OTM,Marshall,Ottumwa,IA,US
-3119108,AE0TB,Tom,Reinbeck,IA,US
-3119109,WA0TPN,Scott,Reinbeck,IA,US
