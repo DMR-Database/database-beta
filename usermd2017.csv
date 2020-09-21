@@ -11255,7 +11255,7 @@
 2040143,PA1BH,Bas,Boxmeer,N-BR,NL
 2040144,PD9DP,Theo,Deurne,N-BR,NL
 2040145,PD0ALX,Alexander,Hoogvliet Rotterdam,,NL
-2040146,PD0BAR,Rene,,,NL
+2040146,PD0BAR,Rene,Hoogwoud,NH,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -31481,8 +31481,10 @@
 2226637,IU0FEB,Francesca,,,IT
 2226638,IZ0HAH,Gianluca,Guidonia Montecelio roma,,IT
 2226639,IU8MJY,Gennaro,Pomigliano d Arco Na,it,IT
-2226640,IK4LZH,John,,,IT
-2226642,IZ8XTR,IZ8XTR,,,IT
+2226640,IK4LZH,John,Bologna,,IT
+2226641,IZ8QNS,Luigi,CETARA,SA,IT
+2226642,IZ8XTR,IZ8XTR,Montecorvino Pugliano,SA,IT
+2226643,IT9BDW,Joe,PALERMO,IT,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -45823,7 +45825,6 @@
 2349045,2E0PRU,KrisB,,,UK
 2349047,2E0GUW,Guy,High Wcyombe,England,UK
 2349048,M7PRC,Simon,Bournemouth Dorset,England,UK
-2349049,M7JTX,John,,,UK
 2349050,G3OS,Andy,Doncaster,England,UK
 2349051,M7LRN,Lee,Sheffield,England,UK
 2349052,G8DIY,Phil,Cambs,England,UK
@@ -45873,8 +45874,8 @@
 2349110,M7MDZ,Paul,Aldeby Norfolk,,UK
 2349111,M7TKL,Tomasz,Chorley,,UK
 2349114,M7DCT,David,Weston super Mare,,UK
-2349116,G0RRI,Ian,,,UK
-2349117,G0BQB,Pete,,,UK
+2349116,G0RRI,Ian,Lowestoft,,UK
+2349117,G0BQB,Pete,Grange Moor Wakefield,,UK
 2349118,M7RLA,M7RLA,,,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -48502,7 +48503,7 @@
 2353626,MW7WYN,Arwyn,Swansea,Wales,UK
 2353627,2W0SHX,Josh,St Lythan s Vale Of Glamorgan,Wales,UK
 2353628,GW4OBA,Roger,LLanybydder,Wales,UK
-2353630,GW6MLI,David,,,UK
+2353630,GW6MLI,David,Rhos Road Rhos On Sea COLWYN Bay,,UK
 2354001,MM0MBK,Mark,Cairneyhill,Scotland,UK
 2354002,MM0MBK,Mark,Cairneyhill,Scotland,UK
 2354003,MM0MBK,Mark,Cairneyhill,Scotland,UK
@@ -49349,7 +49350,7 @@
 2354844,2M0HFC,Scott,N. Lanarkshire,Scotland,UK
 2354845,2M0FYH,Steven,Cruden Bay,Scotland,UK
 2354846,GM0PAC,Grant,,,UK
-2354847,MM7JTX,John,,,UK
+2354847,MM7JTX,John,Edinburgh,,UK
 2355001,MI3WWF,Mark,Bangor,Northern Ireland,UK
 2355002,GI8VKA,Roy,Ballynure,Northern Ireland,UK
 2355003,MI0AAZ,John,Kilrea,Northern Ireland,UK
@@ -50041,7 +50042,7 @@
 2380075,OZ7UE,John,Krusaa,Syddanmark,DK
 2380076,OZ7LS,Lars,,,DK
 2380077,OZ7PIA,Pia,,,DK
-2380078,OZ8XZL,Bjoern,,,DK
+2380078,OZ8XZL,Bjoern,Copenhagen,,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -57258,9 +57259,11 @@
 2600322,SQ9KRIS,Krystian,Myslowice,PLSL,PL
 2600323,SP5AMN,Janusz,Warszawa,PLPM,PL
 2600324,SP9AM,Andrzej,Siemianowice Slaskie,PLSL,PL
+2600325,SQ1GPU,Krzysztof,Walcz,,PL
 2600326,SP5Q,Bogdan,Warszawa,PLPM,PL
 2600327,HF3PMP,Mateusz,Rozlogi,PLLB,PL
 2600328,SP3EOL,Czeslaw,Chodziez,PLWN,PL
+2600329,SP8EET,BARTEK,Sanok,,PL
 2600330,SP3VBH,Halina,Chodziez,PLWN,PL
 2600331,SP3ZBZ,Harcerski,Chodziez,PLWN,PL
 2600332,SP5HMM,Michal,Warszawa,PLPM,PL
@@ -61223,7 +61226,8 @@
 2621664,DM2HK,Hartmut,Zeuthen,,DE
 2621665,DO6TU,Thomas,,,DE
 2621666,DH7DHB,Dirk,Essen,D,DE
-2621667,DD2DF,Wolfhart,,,DE
+2621667,DD2DF,Wolfhart,58454 Witten,,DE
+2621668,DH4MBM,Bernd,D 86633 Neuburg an der Donau,,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -76494,6 +76498,7 @@
 2862073,TA1OHW,Karakanin,Istanbul,Istanbul,TR
 2862074,TA3ARP,Recepp,Balkesir,Balkesir,TR
 2862075,TB1FMS,Enessman,Istanbul,Istanbul,TR
+2862076,TA6AC,Birol,,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -79845,8 +79850,10 @@
 3022694,VE2IU,Pierre,Crabtree,QC,CA
 3022695,VE2HOR,Gilles,Quebec,QC,CA
 3022696,VE2ESK,Maurice,Dollard-Des-Ormeaux,QC,CA
+3022697,VA7AXS,Andrew,mission,BC,CA
 3022698,VE2BAQ,Roger,Saint-Jean De Matha,QC,CA
 3022699,VE2BAQ,Roger,Saint-Jean De Matha,QC,CA
+3022700,VA2DBR,Denis,Acton Vale,QC,CA
 3022701,VE2GPZ,Daniel,Trois-Rivieres,QC,CA
 3022703,VE2SPI,Guy,Champneuf,QC,CA
 3022704,VE2FGJ,Francois,Sherbrooke,QC,CA
@@ -99991,10 +99998,3 @@
 3119045,W0EVA,Eva,Cedar Falls,IA,US
 3119046,W0EVA,Eva,Cedar Falls,IA,US
 3119047,WB0MAR,John,Waterloo,IA,US
-3119048,K0LK,Lowell,Nashua,IA,US
-3119049,W0DTD,Bob,Waterloo,IA,US
-3119050,WB0EMJ,Stanley,Ackley,IA,US
-3119051,KE0FHP,Jonathan,Waterloo,IA,US
-3119052,WM6H,Robert,Cedar Rapids,IA,US
-3119053,N0ZYC,Nathanael,Waterloo,IA,US
-3119054,KE0CBV,John,Fort Dodge,IA,US
