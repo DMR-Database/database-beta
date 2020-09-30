@@ -24603,7 +24603,7 @@
 2190336,9A3AWL,Josip,Petrinja,Sisacko-moslavacka zupanija,HR
 2190337,9A3AUK,Ivan,Lukavec,Zagreb,HR
 2190338,9A2CN,Zoran,,,HR
-2190339,9A5CZI,Zrinko,,,HR
+2190339,9A5CZI,Zrinko,Zagreb,,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -31548,6 +31548,8 @@
 2226658,IT9AUH,Riccardo,RAGUSA,,IT
 2226659,IZ0UIQ,Arduino,rno Prov Latina,IT,IT
 2226660,IK2QED,Stefano,20030 BOVISIO MASCIAGO MB,,IT
+2226661,IU2GLO,Adriano,Legnano,,IT
+2226662,IK8GTI,CONTE,84010 San Valentino TORIO SA,,IT
 2227001,IZ7OIX,Domenico,Bari,Apulia,IT
 2227002,IZ7GLL,Massimo,Bari,Apulia,IT
 2227003,IZ7ZFT,Silvio,Rutigliano,Apulia,IT
@@ -45990,8 +45992,8 @@
 2349147,M0LOC,Dave,,,UK
 2349148,M0AQK,TROTTERS,St HELENS,Me,UK
 2349149,G7JWI,Graham,Halmerend STOKE On TRENT,,UK
-2349151,M0IST,Nat,,,UK
-2349152,G3NY,Nigel,,,UK
+2349151,M0IST,Nat,York,,UK
+2349152,G3NY,Nigel,Easingwold York,YO,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -52023,6 +52025,7 @@
 2400536,SM4XUR,Jan,Hallsberg,,SE
 2400537,SA4BLN,Magnus,,,SE
 2400538,SM6TCT,Leif,,,SE
+2400539,SM7RPU,Robert,554 48 JONKOPING,,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -54582,6 +54585,7 @@
 2441153,OH2BNN,Bror,Lohja,Uusimaa,FI
 2441154,OH4NK,Jarmo,Kirkkonummi,,FI
 2441155,OH3BKN,Kari,Jokioinen,,FI
+2441156,OH8OJ,Reijo,Salo,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -57432,7 +57436,7 @@
 2600364,SP2GPJ,Piotr,Gdynia,,PL
 2600365,SP9QLJ,Krzysztof,,,PL
 2600366,SQ9OLO,Aleksander,,,PL
-2600367,SP8OS,Bogumil,,,PL
+2600367,SP8OS,Bogumil,Kolaczyce,38,PL
 2600368,SQ5OMV,Dariusz,,,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
@@ -61429,6 +61433,9 @@
 2621710,DO1ALX,Alex,Nassenfels,,DE
 2621711,DF7PF,Otfried,,,DE
 2621712,DG8DAU,Joachim,,,DE
+2621713,DM4EZ,Evelin,04651 Bad Lausick,,DE
+2621714,DG1HTQ,Manfred,,,DE
+2621715,DL1MBP,Sigismund,,,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -76712,6 +76719,7 @@
 2862082,TA1ALS,Alp,Merkez Kirklareli,,TR
 2862083,TB2TER,TB2TER,,,TR
 2862084,TB5BUF,Ali,,,TR
+2862085,TB2PBR,BURAK,,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -80180,6 +80188,9 @@
 3022809,VA2LM,Michel,Standon,QC,CA
 3022810,VE2SZE,Suzan,Ange-Gardien,QC,CA
 3022811,VA2OML,Melanie,Joliette,QC,CA
+3022812,VE3SWK,Scott,Ottawa,ON,CA
+3022813,VA3CTE,Ted,Whitefish Falls,ON,CA
+3022814,VA2AWD,Laurent,Mascouche,QC,CA
 3022815,VE2IKT,Valerie,Chicoutimi,QC,CA
 3022816,VE2RRZ,Bridge,Chicoutimi,QC,CA
 3022817,VE2IJP,Martin,Gatineau,QC,CA
@@ -80197,6 +80208,7 @@
 3022829,VA2MMT,Maxime,Laval,QC,CA
 3022830,VA2RIQ,Rick,Rimouski,QC,CA
 3022831,VA2RIQ,Rick,Rimouski,QC,CA
+3022832,VE7CWY,Wade,Chilliwack,BC,CA
 3022833,VE2MHX,Michael,Stukley Sud,QC,CA
 3022834,VA2JCU,Jean-Francois,Montreal,QC,CA
 3022835,VA2RC,Francois,Lac Heva,QC,CA
@@ -99986,15 +99998,3 @@
 3118803,KA9YKN,William,Mooresville,IN,US
 3118804,KC9EZP,Frederick,Fort Wayne,IN,US
 3118805,N9OZ,Mark,Carmel,IN,US
-3118806,N9PKK,Robert,Fairmount,IN,US
-3118807,KC9CTS,Tammi,Lagrange,IN,US
-3118808,N9PKL,James,Jonesboro,IN,US
-3118809,W9MDO,Charles,Noblesville,IN,US
-3118810,WB8FUL,Dennis,Fort Wayne,IN,US
-3118811,NT9J,James,Straughn,IN,US
-3118812,NT9J,James,Straughn,IN,US
-3118813,WD9EZB,Robert,Merrillville,IN,US
-3118814,N9DOO,Don,Indianapolis,IN,US
-3118815,N9JIE,Nicholas,Greenfield,IN,US
-3118816,KG5FGK,Brandon,Claypool,IN,US
-3118817,KD9GSM,Matthew,Columbus,IN,US
