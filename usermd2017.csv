@@ -10029,6 +10029,7 @@
 2020309,SV1QXS,Nikolaos,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020311,SY1DNI,Nikolaos,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020312,SV2EVB,Kostas,THESSALONIKI,Dytiki Makedonia / Kentriki Makedonia,GR
+2020313,SV4LRM,George,LARISSA,Thessalia,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11504,7 +11505,8 @@
 2040237,PD5WB,Wijnand,Zwolle,,NL
 2040238,PA2JJC,Jan,Bergen op Zoom,N-B,NL
 2040239,PD4CAR,Carlos,Almere,Overijsseel / Flevoland,NL
-2040240,PE1NSU,Willem,1718AW Hoogwoud,N-H,NL
+2040240,PE1NSU,Willem,Hoogwoud,N-H,NL
+2040241,PA1WIL,William,,GE,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -14195,6 +14197,8 @@
 2060384,ON3FZ,Franciscus,Deurne,VAN,BE
 2060385,ON3JDM,Dominique,Liege,WLG,BE
 2060386,ON2RO,RONY,ZULTE,O-V,BE
+2060387,ON7LSP,Luc,Poperinge,VWV,BE
+2060388,ON8PIE,Petrus,Lommel,VLI,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -15936,7 +15940,7 @@
 2080635,F0FBX,Vincent,Fourques Sur Garonne,Nouvelle-Aquitaine,FR
 2080636,F4FAP,Eric,Rue Montaigne,Paris,FR
 2080637,F5ELY,Gérard,Fontenay sous bois,IF,FR
-2080638,F4CQS,Protat,Lezay,Aquitaine,FR
+2080638,F4CQS,Philippe,Lezay,Aquitaine,FR
 2080639,F5PEM,Jean,Barbazan Debat,Midi-Pyrenees,FR
 2080640,F5TJK,Guy,VENCE,,FR
 2080641,F1HUS,Jean-Jacques,Saint-Herblain,,FR
@@ -18627,6 +18631,7 @@
 2140964,EA1BMR,Fernando,La CORUNA,A Coruna,ES
 2140965,EA5FI,Kike,Cieza,Murcia,ES
 2140966,EB5DT,Juan,Totana,Murcia,ES
+2140967,EA1SN,Amador,Salamanca,Salamanca,ES
 2141001,EB1CU,Andoni,Castro Urdiales,Cantabria,ES
 2141002,EA1DBB,Adolfo,Ourense,Galicia,ES
 2141003,EB1CU,AXPE,Castro Urdiales,Cantabria,ES
@@ -25453,6 +25458,7 @@
 2190407,9A1AAY,Radio,Nova Gradiška,Brod-Posavina County,HR
 2190408,9A5VLK,Aron-Vinko,Vela Luka,Bubrovnik-Neretva County,HR
 2190409,9A3CZE,Zeljko,Vukovar,Vukovar-Srijem County,HR
+2190410,9A7BBN,Ante,,Bubrovnik-Neretva County,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -33428,6 +33434,10 @@
 2227654,IU2LYX,Paolo,Verderio,LOM,IT
 2227655,IZ3IWX,Mirco,Arzignano,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2227656,IK7ZIX,Domenico,Orta nova,Apulia / Basilicata,IT
+2227657,IT9BGS,Salvatore,Menfi,Sicily,IT
+2227658,IK2WYI,Maurizio,Tremezzina,LOM,IT
+2227659,IT9HWM,Vincenzo,Bagheria,Sicily,IT
+2227660,IV3YFX,Manuel,Trieste,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -34771,6 +34781,7 @@
 2260103,YO5PWB,Pacurar,Cluj-Napoca,,RO
 2260104,YO9HZB,Petculescu,Ploiesti,,RO
 2260105,YO5OMT,Mihai,Dezmir,,RO
+2260106,YO5PDC,Cristi,Oradea,,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,RO
@@ -37013,7 +37024,7 @@
 2300109,OK5RT,Pavel,Plzen,,CZ
 2300110,OK5TW,Ladislav,Ostrov,Karlovarsky / Ustecky,CZ
 2300111,OK9SMS,Tomáš,Lenešice,Karlovarsky / Ustecky,CZ
-2300112,OK9KAM,Stepanek,Chomutov,Karlovarsky / Ustecky,CZ
+2300112,OK9KAM,Vladimir,Chomutov,Karlovarsky / Ustecky,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -39721,6 +39732,12 @@
 2340274,M0UFX,Mark,Stockport,England,UK
 2340275,2E0VTI,Steven,Nottingham,England,UK
 2340276,2E0GNM,Ralph,Southampton,,UK
+2340277,2I0UDR,Jim,Coleraine,,UK
+2340278,M7BMX,Vlad,Gosport,,UK
+2340279,M7FYA,John,Wirral,England,UK
+2340280,M7JJM,James,Telford,England,UK
+2340281,G0ODS,Miles,YORK,England,UK
+2340282,M7JRG,John,Winchester,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -54418,6 +54435,7 @@
 2400590,SA6NTM,Jens,Dalsjofors,Vastra Gotaland,SE
 2400591,SA0SNR,Marcus,Stockholm,,SE
 2400592,SM7JLM,Martin,Ängelholm,Skane,SE
+2400593,SM5UUP,Tommy,Koping,Vastmanland,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -56019,6 +56037,7 @@
 2420211,LA7IOA,Glenn,Skedsmokorset,Akershus,NO
 2420212,LA7MTA,Hans,NO-,Finnmark / Troms / Nordland,NO
 2420213,LA9SX,Knut,7032 TRONDHEIM,Sor-Trondelag / Nord-Trondelag,NO
+2420214,LA5SNA,Viggo,1423 Ski,Akershus,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -57094,6 +57113,8 @@
 2441233,OH1CAH,Roman,Koskioinen,,FI
 2441234,OH7CBC,Pekka,Iisvesi,,FI
 2441235,OH3NB,Mika,Nummela,,FI
+2441236,OH4MP,Marko,Hirvensalmi,All Regions,FI
+2441237,OH3MA,Reino,Riihimaki,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -58107,18 +58128,36 @@
 2500073,R0AABP,Evgeniy,,Krasnoyarsk,RU
 2500074,UB0AZG,Denis,Krasnoyarsk,Krasnoyarsk,RU
 2500075,UB0ADW,Artem,,Krasnoyarsk,RU
+2500076,R0FAG,,,,RU
 2500077,UB0AHM,Vladimir,Krasnoyarsk,Krasnoyarsk,RU
 2500078,R0BB,24DX,Krasnoyarsk,Krasnoyarsk,RU
 2500079,R0BB,24DX,Krasnoyarsk,Krasnoyarsk,RU
 2500080,R0BB,24DX,Krasnoyarsk,Krasnoyarsk,RU
 2500081,R0BB,24DX,Krasnoyarsk,Krasnoyarsk,RU
 2500082,R0BB,24DX,Krasnoyarsk,Krasnoyarsk,RU
+2500083,RU0ACI,,,,RU
+2500084,UB0AJR,,,,RU
+2500085,UB0AJS,,,,RU
+2500086,UB0AJU,,,,RU
+2500087,UB0AJH,,,,RU
+2500088,UB0AJQ,,,,RU
+2500089,UB0AJG,,,,RU
+2500090,UB0AJP,,,,RU
 2500091,R0AHJ,Evgeny,Borodino,Krasnoyarsk,RU
+2500092,UB0AAW,,,,RU
 2500093,UB0AJW,Ervin,Krasnoyarsk,Krasnoyarsk,RU
+2500094,R0FAL,,,,RU
+2500095,UA0LGY,Victor,,,RU
+2500096,R0OAAA,,,,RU
 2500097,R0AHY,Mikhail,Krasnoyarsk,Krasnoyarsk,RU
 2500098,UB0AEW,Artem,Krasnoyarsk,Krasnoyarsk,RU
 2500099,UB0SAP,Oleg,Krasnoyarsk,Krasnoyarsk,RU
 2500100,R0OMV,Andrey,Ulan-Ude,Zabaykalsky,RU
+2500101,R0SAL,,,,RU
+2500102,R0OMX,,,,RU
+2500103,R0FAL,,,,RU
+2500104,RA0AGB,,,,RU
+2500105,RW0OMA,,,,RU
 2500106,R0AHI,Alexey,Krasnoyarsk,Krasnoyarsk,RU
 2500107,UB0ALO,Pavel,Krasnoyarsk,Krasnoyarsk,RU
 2500108,R0AHT,Alexander,Norilsk,Krasnoyarskiy,RU
@@ -58131,9 +58170,15 @@
 2500115,UH0SAC,Andrey,Angarsk,Irkutsk,RU
 2500116,RU0AAX,Dmitry,Krasnoyarsk,Krasnoyarsk,RU
 2500117,R0AEM,Vladimir,Krasnoyarsk,Krasnoyarsk,RU
+2500118,UB0OAJ,,,,RU
+2500119,UB0AGB,,,,RU
+2500120,UA0AAX,,,,RU
+2500121,R0AHP,,,,RU
 2500122,UB0AIT,Alexander,Borodino,Krasnoyarsk,RU
 2500123,RD0F,Konstantin,Yuzhno-Sakhalinsk,Sachalin,RU
 2500124,UB0ALU,Pavel,Borodino,Krasnoyarsk,RU
+2500125,UB0AEJ,,,,RU
+2500126,R0AABV,,,,RU
 2500127,R0QAI,Vitaly,Jakoetie,Sakha Yakutia,RU
 2500128,UA0LMC,Alexey,Vladivostok,Vladivostok,RU
 2500129,R0OHG,Igor,Krasnoyarsk,Krasnoyarsk,RU
@@ -58142,23 +58187,49 @@
 2500132,R0CCL,Dmitry,Khabarovsk,Krasnoyarsk,RU
 2500133,R0CCS,Maxim,Khabarovsk,Krasnoyarsk,RU
 2500134,UB0ALZ,Danil,Krasnoyarsk,Krasnoyarsk,RU
+2500135,R0CCJ,,,,RU
 2500136,UA0LMC,Alexey,Vladivostok,Primorsky Krai,RU
 2500137,R0CCG,Rim,Khabarovsk,Khabarovsk,RU
+2500138,UD0CAZ,,,,RU
 2500139,UB0AHT,Dmitry,Krasnoyarsk,Krasnoyarskiy,RU
+2500140,UA0LID,,,,RU
+2500141,RA0LMH,,,,RU
 2500142,RU0ALF,Alexandr,,,RU
 2500143,R0OMS,Sergey,Buryatiya,Respublika Buryatiya,RU
 2500144,UB0OMU,Vyacheslav,Ulan-Ude,Buryatia,RU
 2500145,R0SCQ,Viktor,Usolye-Sibirsky,Irkutsk,RU
+2500146,R0ONF,,,,RU
 2500147,R0CBV,Vladimir,Khabarovsk,Khabarovsk,RU
 2500148,R0ONI,Anatoliy,Buryatiya,Respublika Buryatiya,RU
+2500149,RA0LKG,,,,RU
 2500150,UA0AAB,Alexander,Krasnoyarsk,Krasnoyarsk,RU
 2500151,UA0AAB,Alexander,Krasnoyarsk,Krasnoyarsk,RU
 2500152,RA0ASM,Evgeny,Krasnoyarsk,Krasnoyarsk,RU
+2500153,R0CDA,,,,RU
+2500154,R0ONJ,,,,RU
+2500155,R0CDI,,,,RU
 2500156,UB0AME,Ilya,Krasnoyarsk,Krasnoyarskiy kray,RU
+2500157,UB0AZO,,,,RU
+2500158,UB0AMF,,,,RU
+2500159,R0JAT,,,,RU
+2500160,RV0ANZ,,,,RU
+2500161,R0BK,,,,RU
+2500162,UB0ALH,,,,RU
+2500163,R0AIO,,,,RU
+2500164,RC0AO,,,,RU
+2500165,RZ0A,,,,RU
+2500166,RU0AAZ,,,,RU
+2500167,R0JAH,,,,RU
+2500168,R0AHV,,,,RU
+2500169,UA0LGC,,,,RU
+2500170,UA0LNJ,,,,RU
 2500171,RU0AHF,Vladimir,Krasnoyarsk,Krasnoyarsk,RU
+2500172,UB0AFW,,,,RU
 2500173,UB0AEH,Evgeniy,Krasnoyarsk,Krasnoyarsk,RU
+2500174,R0CBO,,,,RU
 2500175,R0AEA,Sergei,Krasnoyarsk,,RU
 2500176,R0OMZ,Sergey,Krasnoyarsk,,RU
+2500177,RA0LML,,,,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -58205,36 +58276,110 @@
 2501044,RA1AEL,Dmitriy,St.Petersburg,Leningrad,RU
 2501045,RN1NEB,Oleg,Petrozavodsk,Karelia,RU
 2501046,R1BAT,Vladimir,St.Petersburg,Leningrad,RU
+2501047,R1CAU,,,,RU
+2501048,R1BEI,,,,RU
+2501049,UB1ALD,,,,RU
+2501050,R1OAF,,,,RU
 2501051,R1ZA,Yuri,Apatity,Murmansk,RU
 2501052,UA1ZPN,Victor,Hajiyevo,Murmansk,RU
 2501053,R1ZBR,Sergey,Gadzhievo,Murmansk,RU
 2501054,R1ZX,Artem,,,RU
 2501055,UB1ANI,Evgenii,private,Murmansk,RU
 2501056,R1BFO,Rustam,St.Petersburg,Leningrad,RU
+2501057,R1BAU,,,,RU
 2501058,UB1AFM,Konstantin,Moscow,Moscow,RU
 2501059,UA1AAY,Aleksandr,St.Petersburg,Leningrad,RU
+2501060,UB1AKX,,,,RU
+2501061,R1CAG,,,,RU
+2501062,R1AIT,,,,RU
 2501063,R1TB,Alexey,Veliky Novgorod,Novgorod,RU
+2501064,UB1QBA,,,,RU
+2501065,RT1L,,,,RU
+2501066,UA1TDZ,,,,RU
+2501067,RA1CAG,,,,RU
+2501068,R1TAN,,,,RU
+2501069,UB1AGF,,,,RU
+2501070,UA1COT,,,,RU
+2501071,RA1TR,,,,RU
+2501072,RA1AMO,,,,RU
 2501073,R1BAH,Sergey,St.Petersburg,Leningrad,RU
 2501074,RN1TU,Alexander,Veliky Novgorod,Novgorod,RU
+2501075,UB1ANE,,,,RU
 2501076,R1TA,Alexey,Zelinsky,Novgorod,RU
+2501077,R1BGR,,,,RU
 2501078,UB1TAF,Vitaliy,Novgorodskaya,Novgorodskaya,RU
 2501079,D1DMR,Sergei,Novgorod,Novgorod,RU
+2501080,UB1ALY,,,,RU
 2501081,R1IK,Yakov,Syktyvkar,Komi,RU
+2501082,UB1AGX,,,,RU
+2501083,UB1AKN,,,,RU
 2501084,UB1AOM,Lazar,St.Petersburg,Leningrad,RU
+2501085,UB1ACR,,,,RU
+2501086,R1BP,,,,RU
+2501087,UA1ABD,,,,RU
+2501088,R1BFN,,,,RU
 2501089,R1IAC,Evgeny,Ukhta,Komi,RU
+2501090,R1BGD,,,,RU
 2501091,UA1COA,Sergey,Sosnovy Bor,Leningrad,RU
+2501092,UA1C,,,,RU
+2501093,R1BCJ,,,,RU
+2501094,UB1AFP,,,,RU
+2501095,UB1TAC,,,,RU
 2501096,UB1AGR,Vladimir,St.Petersburg,Leningrad,RU
+2501097,UA1ZPU,,,,RU
 2501098,R1BHG,Vic,Moscow,Moscow,RU
+2501099,UB1TAO,,,,RU
+2501100,R1AABI,,,,RU
 2501101,R1BGC,Alexey,Moscow,Moscow,RU
+2501102,RA1ASD,,,,RU
+2501103,RA1AOD,,,,RU
+2501104,UB1AGX,,,,RU
+2501105,RA1ASZ,,,,RU
+2501106,R1BHQ,,,,RU
+2501107,UA1ZGR,,,,RU
 2501108,UB1IAA,Alexsandr,Moscow,Moscow,RU
+2501109,UA1ZNE,,,,RU
+2501110,R1AAAD,,,,RU
+2501111,R1LB,,,,RU
+2501112,UB1ABX,,,,RU
+2501113,R1ZAAA,,,,RU
+2501115,R1ZBP,,,,RU
 2501116,RA1ASK,Serge,St.Petersburg,Leningrad,RU
+2501117,UB1AIT,,,,RU
+2501118,UB1AJO,,,,RU
 2501119,R1BET,Yaroslav,Moscow,Moscow,RU
+2501120,UB1AGZ,,,,RU
 2501121,R1CBW,Vitaly,Yanino,Leningrad,RU
+2501122,UB1APR,Pavel,,,RU
+2501123,UB1ANX,,,,RU
+2501124,R1OBD,,,,RU
+2501125,R1BHP,,,,RU
+2501126,R1CJ,,,,RU
+2501127,R1BCN,,,,RU
+2501128,R1BBD,,,,RU
+2501129,UB1WBW,,,,RU
+2501130,UB1APV,,,,RU
+2501131,RC1BQ,,,,RU
 2501132,UB1APW,Andrey,Moscow,Moscow,RU
 2501133,R1CCC,Vitalii,Murino,Leningrad,RU
 2501134,R1BIB,Aleksey,Moscow,Moscow,RU
+2501135,RK1AT,,,,RU
+2501136,UB1APP,,,,RU
 2501137,UAQB1A,Dmitriy,Moscow,Moscow,RU
+2501138,UB1APZ,,,,RU
+2501139,UB1ADJ,,,,RU
 2501140,UB1APS,Sergei,Moscow,Moscow,RU
+2501141,UB1AMZ,,,,RU
+2501142,R1BHB,,,,RU
+2501143,UB1AQD,,,,RU
+2501144,R1OAY,,,,RU
+2501145,UB1ZBV,,,,RU
+2501146,R1OAG,,,,RU
+2501147,R1OOL,,,,RU
+2501148,R1CBF,,,,RU
+2501149,UB1APT,,,,RU
+2501150,R1OAU,,,,RU
+2501151,RA1ZG,,,,RU
 2501152,R1BIN,Anton,,,RU
 2502001,R2AEE,Alexey,Moscow,Moscow,RU
 2502002,R2AAAA,Alexey,Moscow,Moscow,RU
@@ -58272,7 +58417,7 @@
 2502034,R2FAS,Sergey,,Kaliningrad,RU
 2502035,RY2FAC,Imran,Kaliningrad,Kaliningrad,RU
 2502036,R2AABR,Eldar,,Moscow,RU
-2502037,R2DDM,Valeriy,,Moscow,RU
+2502037,R2DDM,Valeriy,Moscow,Moscow,RU
 2502038,R2FAM,Alexander,,Kaliningrad,RU
 2502039,UA2FBB,Dmitry,,Kaliningrad,RU
 2502040,R2ACE,Ivan,,Moscow,RU
@@ -58309,68 +58454,157 @@
 2502072,R2ANC,,,Moscow,RU
 2502073,R2DMD,Anton,Zvezdny,Moscow,RU
 2502074,R2DPD,Alexander,Voskresensk,Moscow,RU
+2502075,R2DRT,,,,RU
 2502076,R2DRR,Gary,Moscow,Moscow,RU
 2502077,RT2M,Club,Rybinsk,Yaroslavl,RU
 2502078,RA2FCD,Dmitriy,Svetlogorsk,Kaliningrad,RU
 2502079,R2AOD,Alexey,Moscow,Moscow,RU
+2502080,UB2FBF,,,,RU
+2502081,R2ASH,,,,RU
 2502082,R2AIE,Alexandr,Moscow,Moscow,RU
+2502083,R2AA,,,,RU
 2502084,R2DRS,Maks,Moscow,Moscow,RU
 2502085,R2DSN,Anton,Moscow,Moscow,RU
+2502086,R2ADZ,,,,RU
 2502087,UB2FCD,Tamara,Moscow,Moscow,RU
+2502088,R2AIL,,,,RU
+2502089,R2AIR,,,,RU
 2502090,R2AKT,Sergey,Moscow,Moscow,RU
+2502091,R2FCB,,,,RU
+2502092,R2FAAM,,,,RU
+2502093,R2ATT,,,,RU
+2502094,UB2FCJ,,,,RU
 2502095,R2AJV,Sergei,Moscow,Moscow,RU
 2502096,R2AUF,Sergey,Moscow,Moscow,RU
 2502097,R2FAQ,Andrei,Kaliningrad,Kaliningrad,RU
 2502098,R2AUB,Alexey,Moscow,Moscow,RU
+2502099,R2AMM,,,,RU
 2502100,R2AHI,Tonya,Moscow,Moscow,RU
 2502101,R2DID,Viktor,Moscow,Moscow,RU
+2502102,R2ARG,,,,RU
+2502103,R2DQA,,,,RU
+2502104,R2ALX,,,,RU
+2502105,R2FCF,Evgenij,,,RU
+2502106,R2AMG,,,,RU
+2502107,R2DMC,,,,RU
+2502108,RU2MOV,,,,RU
+2502109,R2FCJ,,,,RU
 2502110,R2AUL,Evgeny,Moscow,Moscow,RU
+2502111,R2ASF,,,,RU
 2502112,R2DBE,Yury,Pushkino,Moscow,RU
+2502113,UB2FCI,,,,RU
+2502114,UE2FAE,,,,RU
+2502115,R2ZAO,,,,RU
+2502116,R2DPZ,,,,RU
+2502117,R2DUS,,,,RU
+2502118,R2IN,,,,RU
+2502119,R2DOM,,,,RU
 2502120,R2DLA,Alexander,Domodedovo,Moscow,RU
 2502121,R2AVH,Anton,Moscow,Moscow,RU
 2502122,R2AKL,Pavel,Moscow,Moscow,RU
+2502123,R2ZFI,,,,RU
 2502124,R2AWF,Vladimir,Gorod Moskva,Moscow,RU
 2502125,R2AABB,Dmitry,Moscow,Moscow,RU
+2502126,UB2FBG,,,,RU
 2502127,R2DVS,Alexander,Odintsovo,Moscow,RU
+2502128,RY2MAB,,,,RU
+2502129,R2AVS,,,,RU
+2502130,R2AWK,,,,RU
 2502131,R2DLV,Anton,Moscow,Moscow,RU
+2502132,UB2FAK,,,,RU
 2502133,R2DFB,Pavel,Oparinskaya,Moscow,RU
+2502134,R2AWV,,,,RU
+2502135,R2AAB,,,,RU
+2502136,R2ASO,,,,RU
+2502137,R2AQT,,,,RU
+2502138,R2AUI,,,,RU
 2502139,R2AJP,Alexey,Moscow,Moscow,RU
+2502140,R2FAAN,,,,RU
+2502141,RC2FB,,,,RU
 2502142,R2DWL,Andrey,Stupino,Moscow,RU
 2502143,R2AWN,Alexander,Moscow,Moscow,RU
+2502144,R2ATD,,,,RU
 2502145,R2AWU,Aleksey,Moscow,Moscow,RU
 2502146,R2AYC,Maxim,Moscow,Moscow,RU
 2502147,R2ADU,Vladimir,Moscow,Moscow,RU
+2502148,R2ACG,,,,RU
 2502149,R2ARZ,Pavel,Moscow,Moscow,RU
+2502150,R2DTS,,,,RU
+2502151,R2KO,,,,RU
+2502152,UI2F,,,,RU
 2502153,R2AYH,Kirill,Moscow,Moscow,RU
 2502154,R2ARB,Vadim,Lyubertsy,Moscow,RU
+2502155,UA2FHZ,,,,RU
 2502156,R2AACX,Revaz,Moscow,Moscow,RU
 2502157,R2DABO,Roman,Moscow,Moscow,RU
+2502158,R2OAAC,,,,RU
+2502159,R2DXP,,,,RU
+2502160,R2FAX,,,,RU
 2502161,UB2FCS,Oleg,Kaliningrad,Kaliningrad,RU
 2502162,R2AZE,Eugene,Moscow,Moscow,RU
+2502163,R2AYW,,,,RU
 2502164,R2AXS,Vladimir,Dolgoprudny,Moscow,RU
+2502165,R2DYB,,,,RU
 2502166,R2DYA,Dmitry,Stupino,Moscow,RU
 2502167,R2DXX,Kirill,Moscow,Moskovskaya,RU
+2502168,R2AYZ,,,,RU
+2502169,R2AZB,,,,RU
+2502170,R2FCO,,,,RU
 2502171,R2DWL,Andrey,Stupino,Moscow,RU
 2502172,R2DYA,Dmitry,Stupino,Moscow,RU
 2502173,R2FBN,Aleksandr,Kaliningrad,Kaliningrad,RU
 2502174,R2DYH,Dmitry,Ramenskoye,Moscow,RU
+2502175,R2DKY,,,,RU
 2502176,R2ANV,Dmitriy,Moscow,Moscow,RU
 2502177,R2AADA,Nikolay,Moscow,Gorod Moskva,RU
+2502178,R2AZQ,,,,RU
+2502179,R2FCQ,,,,RU
+2502180,R2AMR,,,,RU
+2502181,R2AZT,,,,RU
 2502182,R2DYF,Denis,Moscow,Moscow,RU
 2502183,R2DVF,Oleg,Dzerzhinsky Moscow,Moscow,RU
 2502184,R2AZZ,Oleg,Moscow,Moscow,RU
+2502185,R2AZF,,,,RU
+2502186,R2FAR,,,,RU
+2502187,R2DYR,,,,RU
+2502188,R2BAI,,,,RU
+2502189,UB2FCK,,,,RU
+2502190,R2BAI,,,,RU
+2502191,R2ATR,,,,RU
+2502192,R2ATJ,,,,RU
+2502193,R2FCK,,,,RU
 2502194,R2DZE,Viacheslav,Moscow,Moscow,RU
+2502195,R2FBM,,,,RU
+2502196,R2ASW,,,,RU
+2502197,R2AXK,,,,RU
+2502198,RL2D,,,,RU
+2502199,R2FCG,,,,RU
+2502200,R2AQZ,,,,RU
+2502201,R2DXQ,,,,RU
 2502202,R2AZW,Revaz,Moscow,Moscow,RU
 2502203,R2AQE,Alexey,Moscow,Moscow,RU
+2502204,R2FBK,,,,RU
 2502205,R2AUN,Valentin,Moscow,Moscow,RU
+2502206,R2ARC,,,,RU
+2502207,RU2FJ,,,,RU
 2502208,R2ZFN,Dmitry,Gubkin,Belgorod,RU
 2502209,R2DZN,Georgy,Solnechnogorsk,Moscow,RU
 2502210,R2AZU,Mikhail,Moscow,Moscow,RU
 2502211,R2AYU,Oleg,Moscow,Moscow,RU
+2502212,R2BBS,,,,RU
+2502213,R2FAAI,,,,RU
 2502214,RD2M,Pavel,Gavrilov-Yam,Yaroslavl,RU
 2502215,R2DAV,Vladimir,Shchelkovo,Moscow,RU
 2502216,R2BBY,Ivan,Gorod Moskva,Moscow,RU
+2502217,R2DYO,,,,RU
+2502218,R2BBH,,,,RU
+2502219,R2DYN,,,,RU
+2502220,R2AKI,,,,RU
+2502221,R2BBZ,,,,RU
+2502222,RY2FAB,,,,RU
 2502223,R2AWU,Aleksey,Moscow,Moscow,RU
+2502224,R2DOU,,,,RU
+2502225,R2MAAI,,,,RU
 2502226,R2DOW,Peter,,,RU
 2503001,R3ABM,Artem,Morshansky,Tambov,RU
 2503002,R3ABM,Artem,Morshansky,Tambov,RU
@@ -58531,78 +58765,182 @@
 2503158,UB3APX,Andrey,Moscow,Moscow,RU
 2503159,R3MW,Sergey,Yaroslavl,Yaroslavl,RU
 2503160,RA3MBL,Pavel,Rybinsk,Yaroslavl,RU
+2503161,RN3DKF,,,,RU
 2503162,RA3MBF,Andrey,Rybinsk,Yaroslavl,RU
+2503163,R3UAO,,,,RU
+2503164,RA3DVN,,,,RU
 2503165,RZ3DBN,Igor,Yaroslavl,Yaroslavl,RU
+2503166,RX3AUG,,,,RU
 2503167,UB3DMQ,Dmitry,Sergiev Posad,Moscow,RU
 2503168,RK3DID,Alexander,Moscow,Moscow,RU
 2503169,RV3AB,Yuri,Moscow,Moscow,RU
+2503170,RD3AVC,,,,RU
+2503171,RZ3DUP,,,,RU
+2503172,RZ3DVP,,,,RU
 2503173,RD3AVP,Alexander,Moscow,Moscow,RU
+2503174,R3WAM,,,,RU
 2503175,R3IBC,Andrey,Tver,Moscow,RU
+2503176,R3IAY,,,,RU
+2503177,RD3FI,,,,RU
 2503178,UB3EDM,Yuriy,Moscow,Moscow,RU
 2503179,UB3KDI,Sergey,Voronezhskaya,Voronezh,RU
 2503180,UA3IQN,Alexander,Nelidovo,Tver,RU
 2503181,UA3DAV,Valentin,Pushkino,Moscow,RU
+2503182,UH3AEP,,,,RU
+2503183,RZ3DVV,,,,RU
+2503185,RA3ICK,,,,RU
 2503186,RL3BZ,Evgeny,Moscow,Moscow,RU
+2503187,RN3DKH,,,,RU
 2503188,RZ3APG,Mikhail,Moscow,Moscow,RU
+2503189,RZ3ADS,,,,RU
+2503190,UB3DLI,,,,RU
+2503191,UA3MMY,,,,RU
+2503192,RW3DIX,,,,RU
+2503193,UA3HR,,,,RU
 2503194,RD3BL,Leonid,Moscow,Moscow,RU
+2503195,R3IAR,,,,RU
+2503196,UB3EAZ,,,,RU
+2503197,RA3BE,,,,RU
+2503198,UB3APT,,,,RU
+2503199,UH3ACH,,,,RU
 2503200,RZ3DHC,Timofey,Chekhov,Moscow,RU
+2503201,UB3IBJ,,,,RU
 2503202,R3PIJ,Pavel,Venyov,Tula,RU
+2503203,RN3DGY,,,,RU
+2503204,RU3AON,,,,RU
+2503205,R3IBB,,,,RU
 2503206,UB3ASM,Mikhail,Moscow,Moscow,RU
+2503207,RN3DGL,,,,RU
+2503208,R3KK,,,,RU
 2503209,RN3ABE,Alexey,Moscow,Moscow,RU
+2503210,RA3FV,,,,RU
 2503212,RW3DUY,Alexander,Shchelkovo,Moscow,RU
+2503213,RU3FW,,,,RU
+2503214,R3MBM,,,,RU
 2503215,R3ECO,Victor,Orel,Orel,RU
+2503216,R3UAAM,,,,RU
+2503217,R3TKE,,,,RU
 2503218,R2AACF,Ivan,Moscow,Moscow,RU
+2503219,UB3DNN,,,,RU
+2503220,UB3ASS,,,,RU
 2503221,RO2Z,Dmitry,Andrianova,Orel,RU
 2503222,RN3AUZ,Kirill,Gorod Moskva,Moscow,RU
+2503223,RU3DMD,,,,RU
 2503224,RX3QBT,Pavel,Voronezh,Voronezh,RU
+2503225,R3IBA,,,,RU
 2503226,UB3ZEN,Dmitriy,Belgorodskaya,Belgorodskaya,RU
+2503227,RW3AHA,,,,RU
+2503228,R3KGW,,,,RU
+2503229,UB3ZEU,,,,RU
+2503230,R3EAL,,,,RU
 2503231,R2DXA,Andrey,Moscow,Moscow,RU
+2503232,UA3DCN,,,,RU
 2503233,RW3AR,Mike,Moscow,Moscow,RU
+2503234,UB3DPR,,,,RU
 2503235,RW3ALI,Nikolai,Gorod Moskva,Moscow,RU
+2503236,UB3ZGK,,,,RU
 2503237,R3TKB,Victor,Sarov,Nizhny Novgorod,RU
 2503238,UB3DPB,Ivan,Moscow,Moskovskaya,RU
+2503239,UA3DCZ,,,,RU
 2503240,R3ECO,Victor,Roshchinskaya,Orel,RU
+2503241,RA3WTU,,,,RU
 2503242,UB3AQC,Nikolay,Moscow,Moscow,RU
 2503243,RD3X,Dmitriy,Balabanovo,Borovsky,RU
+2503244,RA3APW,,,,RU
 2503245,RC3M,Dmitry,Yaroslavl,Yaroslavl,RU
+2503246,RY3ABC,,,,RU
 2503247,RT3M,Alexey,Yaroslavl,Yaroslavl,RU
 2503248,RA3TAT,Dmitry,Nizhegorodskaya,Nizhegorodskaya,RU
 2503249,UB3ATI,Alexander,Gorod Moskva,Moscow,RU
+2503250,R3EAK,,,,RU
 2503251,RA3MAG,Sergey,Yaroslavl,Yaroslavl,RU
+2503252,R3UAAH,,,,RU
+2503253,UB3GDU,,,,RU
+2503254,UB3DSY,,,,RU
+2503255,RM3MM,,,,RU
+2503256,RX3ARZ,,,,RU
+2503257,UB3AQR,,,,RU
 2503258,R3TII,Sergei,Sarov,Nizhny Novgorod,RU
+2503259,R3UAAN,,,,RU
+2503260,UB3O,,,,RU
 2503261,R3KEC,Sergey,Voronezh,Voronezh,RU
+2503262,UB3ATO,,,,RU
 2503263,UB3ATF,Roman,Moscow,Moscow,RU
 2503264,UB3ATT,Dmitry,Moscow,Moscow,RU
 2503265,UB3ATT,Dmitry,Moscow,Moscow,RU
 2503266,R3XAR,Alexey,Obninsk,Kaluga,RU
 2503267,UA3MLU,Sergej,Pereslavl-Zalessky,Yaroslavl,RU
+2503268,UA3AZ,,,,RU
 2503269,UB3DSU,Maxim,Mytishchi,Moscow,RU
 2503270,RV3DGS,Alexey,Kolomna,Moscow,RU
 2503271,R3UAA,Alex,Moscow,Moscow,RU
 2503272,R3UAY,Alexey,Kotovo,Luhsky,RU
 2503273,R3PKG,Dmitry,Novomoskovsk,Tula,RU
+2503274,RX3AOV,,,,RU
 2503275,R3UAD,Ilia,Moscow,Moscow,RU
 2503276,UB3ZHH,Artem,Moscow,Moscow,RU
+2503277,UB3IAB,,,,RU
+2503278,UA3DDU,,,,RU
+2503279,UB3UBB,,,,RU
 2503280,R3MAAO,Serge,Yaroslavskaya,Yaroslavskaya,RU
 2503281,UB3DTP,Anatolly,Moscow,Moscow,RU
 2503282,R3MA,Alexandr,Yaroslavl,Yaroslavl,RU
+2503283,UB3DQB,,,,RU
 2503284,RV3ML,Sergey,Pereslavl-Zalessky,Yaroslavl,RU
 2503285,RA3MU,Mikhail,Yaroslavl,Yaroslavl,RU
+2503286,R3MM,,,,RU
 2503287,UA3MJS,Oleg,Pereslavl-Zalessky,Yaroslavl,RU
+2503288,RK3AS,,,,RU
+2503289,UB3XBB,,,,RU
 2503290,UA3XHZ,Leonid,Balabanovo,Kaluga,RU
 2503291,R3XAR,Alexey,Obninsk,Kaluga,RU
+2503292,RD3BBB,,,,RU
+2503293,UB3ATB,,,,RU
+2503294,UA3AAT,,,,RU
+2503295,RU3ACV,,,,RU
+2503296,UB3AQS,,,,RU
+2503297,RA3DFQ,,,,RU
+2503298,UD3SAN,,,,RU
 2503299,R3MR,Fedor,Yaroslavl,Yaroslavl,RU
 2503300,RV3SBQ,Roman,Ryazan,Kolomenskaya,RU
+2503301,UB3LBQ,,,,RU
+2503302,RN3DMP,,,,RU
 2503303,RD3X,Dmitry,Balabanovo,Borovsky,RU
+2503304,UB3DSP,,,,RU
+2503305,RV3DBW,,,,RU
+2503306,RN3ABS,,,,RU
+2503307,R3QD,,,,RU
+2503308,UB3UBK,,,,RU
+2503309,R3UBS,,,,RU
 2503310,RX3M,Rustam,Semibratovo,Yaroslavl region,RU
+2503311,UB3AST,,,,RU
 2503312,UB3AUO,Konstantin,Gorod Moskva,Gorod Moskva,RU
+2503313,R3VAAA,,,,RU
+2503314,UA3IPK,,,,RU
+2503315,RK3ATD,,,,RU
+2503316,RY3ABB,,,,RU
 2503317,RV3DHZ,Stanislav,Dubna,Moscow,RU
+2503318,RL3DH,,,,RU
+2503319,R3AZ,,,,RU
 2503320,R3UBN,Aleksander,Moscow,Moscow,RU
+2503321,RV3DCM,,,,RU
+2503322,R3UAAL,,,,RU
+2503323,RD3AEG,,,,RU
+2503324,R3YBE,,,,RU
+2503325,UB3AUN,,,,RU
+2503326,R3UAS,,,,RU
 2503327,RK3DHU,Andrey,Pushkino,Moscow,RU
+2503328,UB3ADW,,,,RU
+2503329,UB3DTR,,,,RU
 2503330,R3XM,Alexander,Maloyaroslavets,Moscow,RU
+2503331,UB3ATZ,,,,RU
 2503332,UB3AUS,Gabriel,Moscow,Moscow,RU
 2503333,RL3QGD,Yuri,Voronezh,Voronezh,RU
 2503334,RZ3ACS,Vladimir,Moscow,Moscow,RU
+2503335,RN3Q,,,,RU
+2503336,R3MZ,,,,RU
+2503337,RD3MR,,,,RU
+2503338,RL3QGR,,,,RU
 2503340,R2DBE,Yuri,Pushkino,MO,RU
 2503341,R2DBE,Yuri,Pushkino,MO,RU
 2503342,R2DBE,Yuri,Pushkino,MO,RU
@@ -58613,31 +58951,68 @@
 2503347,R2DBE,Yuri,Pushkino,MO,RU
 2503348,R2DBE,Yuri,Pushkino,MO,RU
 2503349,R2DBE,Yuri,Pushkino,MO,RU
+2503350,R3MAV,,,,RU
 2503351,RK3DQT,Anton,Moscow,Moscow,RU
+2503352,UB3TAI,,,,RU
+2503353,RZ3DSA,,,,RU
+2503354,UB3AQG,,,,RU
 2503355,R3FH,Alexander,Moscow,Moscow,RU
+2503356,RD3APT,,,,RU
+2503357,R3UBB,,,,RU
+2503358,UB3DUM,,,,RU
+2503359,UB3ZHC,,,,RU
 2503360,UB3ATK,Roman,,,RU
+2503361,UB3AVG,,,,RU
 2503362,UB3AVI,Evgeny,Moscow,Moscow,RU
 2503363,R3EDC,Danya,Oryol,Oryol,RU
 2503364,UB3EDE,Ilya,Oryol,Oryol,RU
+2503365,RW3AHY,,,,RU
 2503366,UB3ATI,Alexander,Moscow,Moscow,RU
 2503367,UB3AVC,Oleg,Moscow,Moscow,RU
 2503368,R3EDA,Evgeny,Oryol,Oryol,RU
+2503369,RZ3AEY,,,,RU
+2503370,R3MBT,,,,RU
+2503371,R3MBN,,,,RU
 2503372,RU3R,Vasiliy,Rasskazovo Tambovskaya Obl,Tambovskaya Obl,RU
 2503373,UB3IBU,Dmitry,,,RU
+2503374,UB3AHX,,,,RU
 2503375,R3TGL,Ruslan,Tarasikha,Nizhny Novgorod,RU
 2503376,RK3DOQ,Dmitry,Moscow,Moscow,RU
+2503377,R3UBV,,,,RU
+2503378,R3XBJ,,,,RU
 2503379,UB3DJW,Galina,Moscow,Moscow,RU
+2503380,R3UAH,,,,RU
+2503381,RA3XKD,,,,RU
+2503382,R3UBZ,,,,RU
+2503383,RU3DTO,,,,RU
+2503384,RA3NAN,,,,RU
+2503385,RA3DDM,,,,RU
+2503386,R3UCC,,,,RU
+2503387,UB3ATW,,,,RU
 2503388,UB3ATX,Igor,Moscow,Moscow,RU
+2503389,RV3ARY,,,,RU
 2503390,R3PJV,Aleksandr,Moscow,Moscow,RU
+2503391,RM3M,,,,RU
 2503392,RK3DAM,Gennady,,,RU
 2503393,RL3DW,Roman,shirinskiy,Tulskaya obl,RU
+2503394,R3EDE,,,,RU
+2503395,UA3MKI,,,,RU
+2503396,RL3FL,,,,RU
+2503397,R3TIH,,,,RU
 2503398,UA3MOR,Andrey,,,RU
+2503399,R3ECZ,,,,RU
+2503400,R3UBC,,,,RU
+2503401,UA3USY,,,,RU
+2503402,RK3AND,,,,RU
+2503403,RA3VML,,,,RU
+2503404,R3UBP,,,,RU
 2504001,RU4FM,Igor,Penza,Penza,RU
 2504002,UD4NAD,Sergey,Kotelnich rn,Kirov,RU
 2504003,RA4NHY,Anton,Kirov,Kirov,RU
 2504004,UA4NBC,Sergei,Kochurova,Kirov,RU
 2504005,UA4NIA,Oleg,Kirov,Kirov,RU
 2504006,RU4NG,Igor,Kirov,Kirov,RU
+2504007,RN4JJZ,,,,RU
 2504008,RA4SCD,Artur,Yoshkar-Ola,Marij El,RU
 2504009,RA4FHE,Alexey,Penza,Penza,RU
 2504010,R4WBB,Maksim,Izhevsk,Udmurtia,RU
@@ -58648,53 +59023,103 @@
 2504015,R4WAF,Daniil,Penza,Penza,RU
 2504016,UA4FLX,Sergey,Sursk,Penza,RU
 2504017,UB4PAK,Vsevolod,Kazan,Tatarstan,RU
+2504018,R4WAEK,,,,RU
 2504019,R4YAF,Alexey,Cheboksary,Chuvash,RU
+2504020,UD4FD,,,,RU
+2504021,R4PCJ,,,,RU
+2504022,RA4DAN,,,,RU
 2504023,UD4NAJ,Igor,Moscow,Moscow,RU
+2504024,R4AAAN,,,,RU
+2504025,R4WBN,,,,RU
+2504026,R4ACZ,,,,RU
 2504027,UA4CTO,Vyacheslav,Saratov,Saratov,RU
 2504028,R4HGC,Alexander,Samara,Samara,RU
+2504029,RW4CFA,,,,RU
 2504030,R4KK,Sergey,Samara,Samara,RU
 2504031,UB4WBS,Andrey,Moscow,Moscow,RU
+2504032,UB4AEP,,,,RU
 2504033,RA4FVC,Oleg,Penza,Penzenskaya oblast,RU
 2504034,R4SAK,Alexey,Moscow,Moscow,RU
 2504035,UB4WBV,Oleg,Izhevsk,Udmurtia,RU
 2504036,RW4PZ,Sergey,Nizhnekamsk,Nizhnekamsk,RU
 2504037,UB4HQF,Leonid,Moscow,Moscow,RU
+2504038,UA4WIY,,,,RU
 2504039,R4SBE,Dmitry,Moscow,Moscow,RU
 2504040,RA4YFT,Dmitry,Shumerlya,Chuvashia,RU
 2504041,R4PCT,Aidar,Nizhnekamsk,Tatarstan,RU
 2504042,UB4YBH,Alexander,Shumerlya,Chuvashia,RU
+2504043,RA4AJG,,,,RU
 2504044,R4NAA,Maksim,Kirov,Kirov,RU
+2504045,RA4APQ,,,,RU
 2504046,UB4WBN,Yuri,Izhevsk,Udmurtia,RU
+2504047,RZ4LQ,,,,RU
+2504048,R4ADW,,,,RU
 2504049,R4SBF,Sergey,Mariy El,Respublika Mariy El,RU
 2504050,R4SAY,Alexey,Yoshkar-Ola,Mari-El,RU
+2504051,R4SAQ,,,,RU
+2504052,UB4SAN,,,,RU
 2504053,R4SBC,Roman,Mariy El,Respublika Mariy El,RU
 2504054,R4SBL,Aleksandr,Mariy El,Respublika Mariy El,RU
 2504055,R4FC,Igor,Zemetchino,Penza Region,RU
 2504056,R4HDS,Nikolay,Samara,Samara,RU
+2504057,UB4RFS,,,,RU
 2504058,R4HEL,Alexander,Samara,Samara,RU
 2504059,RA4HM,Alexander,Samara,Samara,RU
+2504060,R4PBV,,,,RU
 2504061,R4UAS,Alexandr,,,RU
+2504062,UB4NAJ,,,,RU
 2504063,R4YAA,Oleg,Cheboksary,Chuvash,RU
+2504064,R4HGT,,,,RU
+2504065,R4CHD,,,,RU
 2504066,R4HFJ,Denis,Samarskaya,Samarskaya oblast,RU
+2504067,UB4AEN,,,,RU
+2504068,R4NAP,,,,RU
 2504069,R4YABC,Denis,Chuvash,Respublika Chuvashiya,RU
 2504070,UB4SAP,Vladimir,Moscow,Moscow,RU
+2504071,RA4FRI,,,,RU
+2504072,R4HHV,,,,RU
+2504073,R4SAR,,,,RU
+2504074,RV4SAT,,,,RU
+2504075,R4HGB,,,,RU
+2504076,R4SAH,,,,RU
 2504077,R4KK,Sergey,Dimitrova,Samara,RU
+2504078,UB4HPY,,,,RU
 2504079,R4SBE,Dmitry,Respublika Mariy El,Volga,RU
+2504080,R4PEK,,,,RU
+2504081,R4PEF,,,,RU
 2504082,R4PCO,Anton,Almetyevsk,Tatarstan,RU
+2504083,UF4S,,,,RU
+2504084,R4SBM,,,,RU
+2504085,RA4FKZ,,,,RU
 2504086,R4SBJ,Mihail,,,RU
 2504087,R4SBA,Evgenii,,,RU
+2504088,R4SAW,,,,RU
 2504089,UA4SN,Nurislam,,,RU
+2504090,UB4RFF,,,,RU
+2504091,RA4AUY,,,,RU
 2504092,R4HIC,Aleksandr,,,RU
+2504093,UB4SAQ,,,,RU
+2504094,R4SBQ,Andrei,,,RU
+2504095,R4SBR,Sergey,,,RU
 2505001,R5DK,Alexey,Lyubertsy,Moscow,RU
 2505002,R5ACQ,Kirill,Moscow,Moscow,RU
 2505003,UB5MBG,Oleg,Rybinsk,Yaroslavl,RU
 2505004,UB5MBK,Andrey,Moscow,Moscow,RU
 2505005,R3MBI,Stas,Lugansk,Lugansk,RU
+2505006,R5AW,,,,RU
 2505007,RW5F,Igor,Moscow,Moscow,RU
+2505008,RA5AZ,,,,RU
 2505009,UB5MBR,Dmitry,Pereslavl-Zalessky,Yaroslavl,RU
+2505010,RW5W,,,,RU
 2505011,UB5MAI,Pavel,Gavrilov Yam,Yaroslavl Oblast,RU
+2505012,UB5MBV,,,,RU
+2505013,RK5M,,,,RU
+2505014,RN5D,,,,RU
 2505015,UB5MBT,Sergey,Pereslavl Zalessky,Yaroslavl Oblast,RU
+2505016,RD5F,,,,RU
 2505017,R5DZ,Rifat,,,RU
+2505018,RN5F,,,,RU
+2505019,R5VCM,,,,RU
 2506001,UB6AGC,Maxim,Sochi,Krasnodar,RU
 2506002,R6LAA,Pavel,Rostov-on-Don,Rostov,RU
 2506003,R6LAAM,Alexey,Rostov,Rostov-on-Don,RU
@@ -58801,51 +59226,110 @@
 2506104,R6LHY,Eduard,Rostov,Rostov-Don,RU
 2506105,R6AAEV,Viktor,Krasnodar,Krasnodar,RU
 2506106,R6DIC,Mikhail,Severskaya,Krasnodarskiy,RU
+2506107,UD6AGV,,,,RU
+2506108,UD6ACU,,,,RU
+2506109,RN6LHF,,,,RU
+2506110,R6KP,,,,RU
+2506111,RC6HA,,,,RU
+2506112,UD6AIO,,,,RU
 2506113,UD6AAX,Eduard,Rostov,Rostov-Don,RU
 2506114,UD6AHF,Gnatyuk,Krasnodar,Krasnodar,RU
+2506115,RY6HAB,,,,RU
 2506116,UD6AEV,Nikita,Sochi,Krasnodar,RU
 2506117,RN6LBB,Waleri,Rostov,Rostov-Don,RU
 2506118,R6DGX,Gennady,Krasnodar,Krasnodar,RU
 2506119,UA6LQP,Alexandr,Rostov,Rostov-Don,RU
+2506120,RX6LUM,,,,RU
 2506121,UB6RND,Maksim,Rostov,Rostov-Don,RU
+2506122,UB6KAN,,,,RU
+2506123,UC6KSW,,,,RU
+2506124,R6KS,,,,RU
+2506125,R6AAEX,,,,RU
 2506126,RZ6ATY,Igor,Krasnodar,Dzerzhinskogo,RU
+2506127,RV6LTW,,,,RU
 2506128,UA6BUS,Andrey,Krasnodar,Dzerzhinskogo,RU
+2506129,UC6KFQ,,,,RU
 2506130,UD6ACK,Roman,Krasnodar,Dzerzhinskogo,RU
+2506131,R6KZ,,,,RU
 2506132,UB6LLR,Anton,Rostov-on-Don,Rostov,RU
 2506133,R6DAS,Anton,Krasnodarskiy,Krasnodarskiy,RU
 2506134,RA6YBN,Alexsandr,Adygea,Krasnodarskiy,RU
+2506135,UB6LSB,,,,RU
 2506136,R6DJP,Alexander,Krasnodar,Krasnodarskiy,RU
+2506137,R6DIW,,,,RU
 2506138,UB6LPY,Aleksandr,Volgodonsk,Rostov,RU
+2506139,RA6KE,,,,RU
 2506140,RV6BEU,Dmitry,Sochi,Krasnodar,RU
+2506141,R6DFI,,,,RU
+2506142,RA6YC,,,,RU
 2506143,UB6LSR,Roma,Volgodonsk,Rostov,RU
+2506144,R6MU,,,,RU
 2506145,R6JAK,Luka,Verkhniy Fiagdon,Alagirsky,RU
+2506146,R6LIR,,,,RU
+2506147,R6FEV,,,,RU
 2506148,R6LIT,Igor,Rostov,Rostov-on-Don,RU
+2506149,RA6YEE,,,,RU
 2506150,RX6FM,Yuriy,Stavropol,Krym,RU
 2506151,RA6UK,Mikhail,Znamensk,Astrakhan,RU
+2506152,R6LIJ,,,,RU
+2506153,RY6LAC,,,,RU
 2506154,R6RANA,Natalya,Stavropol,Krym,RU
+2506155,UD6APT,,,,RU
 2506156,R6FX,Anatoly,Lermontov,Stavropol,RU
+2506157,UB6AFI,,,,RU
 2506158,UB6RND,Maksim,Stavropol,Krym,RU
+2506159,UB6YBY,,,,RU
 2506160,UB6LST,Andrey,Rostovskaya,Rostovskaya,RU
 2506161,RZ6G,Mikhail,Neftekumsk,Stavropol,RU
 2506162,R6LIX,Dmitry,Rostov,Rostov-Don,RU
+2506163,RA6AKO,,,,RU
+2506164,UB6LOZ,,,,RU
 2506165,RW6MR,Victor,Rostov-Don,Rostov,RU
+2506166,R6LIY,,,,RU
 2506167,UD6AQG,Alexey,Rostov-Don,Rostov,RU
+2506168,UB6LOT,,,,RU
+2506169,R6DKS,,,,RU
 2506170,UB6LQJ,Andrey,Rostov-Don,Rostov,RU
+2506171,R6FGC,,,,RU
 2506172,RK6AAV,Sergey,Sochi,Krasnodar,RU
 2506173,UB6LTC,Oleg,Rostov-Don,Rostov,RU
+2506174,R6DMF,,,,RU
 2506175,UD6AQM,Andrey,Rostov-Don,Rostov,RU
 2506176,RN6LAT,Roman,Bataysk,Rostov,RU
+2506177,R6FGM,,,,RU
+2506178,UD6AQT,,,,RU
 2506179,UB6HLT,Stanislav,Mineralnye Vody,Stavropol,RU
 2506180,R6UAG,Vladimir,Astrakhan,Astrakhanskaya oblast,RU
+2506181,R6DHQ,,,,RU
+2506182,RC6UAA,,,,RU
+2506183,RW6AIG,,,,RU
 2506184,R6DIT,Sergey,Dinskoy,Krasnodar,RU
+2506185,RW6MBB,,,,RU
 2506186,R6LKA,Sergey,Rostov,Rostov,RU
+2506187,UB6LNO,,,,RU
 2506188,RC6UAD,Dmitriy,,,RU
 2506189,R6UAT,Anatoly,,,RU
+2506190,R6BE,,,,RU
 2506191,UC6UAK,Oleg,,,RU
 2506192,UC6UAV,Evgenii,,,RU
+2506193,UD6AQF,,,,RU
+2506194,R6LCA,,,,RU
+2506195,R6DBT,,,,RU
+2506196,RZ6ABY,,,,RU
+2506197,UD6AQT,,,,RU
+2506198,UB6HRC,,,,RU
+2506199,UB6LOR,,,,RU
+2506200,RW6AUR,,,,RU
+2506201,UB6LSA,,,,RU
 2506202,RV6LML,Alexey,Taganrog,Rostov-on-Don,RU
 2506203,UI6B,Vladimir,Rostov,Rostov,RU
 2506204,UC6UAP,Arkadiy,,,RU
+2506205,R6FHC,,,,RU
+2506206,R6KAI,,,,RU
+2506207,UB6LNE,,,,RU
+2506208,UB6HRG,,,,RU
+2506209,R6YAN,,,,RU
+2506210,R6FGS,,,,RU
 2506211,R6UAQ,Vitaliy,,,RU
 2507001,RG7KL,Valery,Alushta,Krym,RU
 2507002,RK7K,Yuriy,Simferopol,Krimrepubliek,RU
@@ -58891,27 +59375,55 @@
 2507042,RA7KZ,Sergey,Simferopol,Krym,RU
 2507043,R7RAN,Yuri,Stavropol,Krym,RU
 2507044,R7RAL,Anton,Stavropol,Krym,RU
+2507045,RA7KBC,,,,RU
 2507046,R7RAAA,Igor,Sevastopol,Crimean Peninsula,RU
+2507047,R7KAJ,,,,RU
+2507048,R7RAJ,,,,RU
+2507049,R7KBQ,,,,RU
 2507050,RA7N,Andrew,Sochi,Krasnodar,RU
 2507051,R7RAD,Andrey,Sevastopol,Crimean Peninsula,RU
+2507052,UB7RAK,,,,RU
+2507053,R7RABC,,,,RU
+2507054,RC7H,,,,RU
 2507055,RQ7R,Alexandr,,,RU
 2507056,R7RV,Yuriy,Crimean Peninsula,Crimean Peninsula,RU
+2507057,UB7RAE,,,,RU
 2507058,R7RAS,Yurij, City,Not available,RU
 2507059,R7RAS,Yurij, City,Not available,RU
 2507060,R7RAAR,Vladislav,Sevastopol,Crimean Peninsula,RU
+2507061,UD7KAM,,,,RU
+2507062,RZ7KAA,,,,RU
 2507063,R7KAAE,Evgeniy,Crimean Peninsula,Crimean Peninsula,RU
 2507064,R7KAU,Oleg,Evpatoria,Crimea,RU
 2507065,RG7A,Alex,Sochi,Krasnodar,RU
+2507066,R7RNG,,,,RU
 2507067,UB7ROX,Dmitry, City,Not available,RU
+2507068,R7KCX,,,,RU
 2507069,R7KEA,Server,Mitrofanovka,Nizhnegorsky,RU
+2507070,R7KDE,,,,RU
+2507071,R7KL,,,,RU
 2507072,R7RAAF,Dmitriy,Krasnoyarsk,Krasnoyarsk,RU
 2507073,R7RAZ,Alexey,Sevastopol,Sevastopol,RU
 2507074,R7RBB,Aleksandr,Crimea,Crimea,RU
 2507075,UA7TT,Nikolay,Stavropol,Krym,RU
+2507076,RX7K,,,,RU
 2507077,R7RAX,Vlad,Crimea,Crimea,RU
 2507078,R7RAX,Vlad,Crimea,Crimea,RU
 2507079,UB7RBA,Arkady,Sevastopol,Crimea,RU
+2507080,R7DJ,,,,RU
+2507081,UB7KBS,,,,RU
+2507082,R7KAAG,,,,RU
+2507083,R7KDX,,,,RU
+2507084,RY7K,,,,RU
+2507085,R7MW,,,,RU
+2507086,R7RAY,,,,RU
+2507087,R7RBI,,,,RU
+2507088,R7KHS,,,,RU
+2507089,R7KDT,,,,RU
+2507090,R7KSR,,,,RU
+2507091,UB7KCA,,,,RU
 2507092,R7KCM,Sergey,Simferopol,Crimea,RU
+2507093,R7KCL,,,,RU
 2508001,R8CZ,Pavel,Amundsen,Sverdlovsk,RU
 2508002,R8CAV,Andrey,Verhnyaya Pyshma,Sverdlovskaya,RU
 2508003,R8KAB,Evgenii, City,Not available,RU
@@ -58919,6 +59431,7 @@
 2508005,R8ABX,Ivan,Komarova,Chelyabinsk,RU
 2508006,R8CBE,Alexey,Verkhnyaya Pyshma,Sverdlovskay,RU
 2508007,R8CBE,Alexey,Verkhnyaya Pyshma,Sverdlovskay,RU
+2508008,R8CAJ,,,,RU
 2508009,UB8CDY,Andrey,Yekaterinburg,Sverdlovsk,RU
 2508010,R8AAK,Aleksey,Yekaterinburg,Sverdlovsk,RU
 2508011,UB8CBS,Sergey,Shefskaya,Sverdlovsk,RU
@@ -58978,29 +59491,61 @@
 2508065,R8CAE,Aleksey,Yekaterinburg,Sverdlovsk,RU
 2508066,UB8CFB,Dmitry,Kalinina,Sverdlovsk,RU
 2508067,R8AAY,Stanislav,Snezhinsk,Chelyabinsk,RU
+2508068,R8AEV,,,,RU
 2508069,UB8CJV,Andrey,Pervouralsk,Sverdlovsk,RU
+2508070,R8ABQ,,,,RU
 2508071,UB8CJZ,Evgeny,Pervouralsk,Sverdlovsk,RU
 2508072,R8CCI,Konstantin,Yekaterinburg,Sverdlovsk,RU
+2508073,R8CABL,,,,RU
 2508074,R8CABM,Denis,Sverdlovsk,Sverdlovsk,RU
 2508075,R8ABL,Sergey,Iyudin,Chelyabinsk,RU
 2508076,R8ABP,Radeon,Snezhinsk,Chelyabinsk,RU
 2508077,R8OAO,Andrey,Miass,Chelyabinsk,RU
+2508078,R8CAF,,,,RU
+2508079,UB8ACE,,,,RU
 2508080,UB8CJV,Andrey,Miass,Chelyabinsk,RU
+2508081,R8AFM,,,,RU
+2508082,UT8MR,,,,RU
 2508083,R8AFO,Igor,Tyumen,Tyumen,RU
+2508084,UB8CKN,,,,RU
 2508085,UB8ADL,Vasily,Miass,Chelyabinsk,RU
+2508086,RT8A,,,,RU
+2508087,R8CCZ,,,,RU
+2508088,UB8XAX,,,,RU
+2508089,UB8CLL,,,,RU
+2508090,R8ADZ,,,,RU
 2508091,R8AFO,Igor,Tyumen,Tyumen,RU
 2508092,R8ADN,Sergi,Chelyabinsk,Chelyabinsk,RU
+2508093,R8ACP,,,,RU
+2508094,RL8U,,,,RU
+2508095,UB8JCR,,,,RU
+2508096,R8CHR,,,,RU
+2508097,UB8ADH,,,,RU
+2508098,R8AFK,,,,RU
 2508099,UB8CEM,Oleg,Chelyabinsk,Chelyabinsk,RU
+2508100,R8AFQ,,,,RU
 2508101,UB8CMC,Eugene,Chelyabinsk,Chelyabinsk,RU
+2508102,R8ADE,,,,RU
 2508103,R8AEU,Alexander,Chelyabinsk,Chelyabinsk,RU
+2508104,R8VV,,,,RU
+2508105,UB8CDN,,,,RU
 2508106,R8LBN,Evgeny,Tyumenskaya,Tyumenskaya oblast,RU
 2508107,R8LBP,Leonid,Tyumenskaya,Tyumenskaya oblast,RU
 2508108,R8LBQ,Dmitry,Tyumenskaya,Tyumenskaya oblast,RU
 2508109,R8LBS,Sergey,Tyumenskaya,Tyumenskaya oblast,RU
 2508110,UB8CLC,Leonid,Sverdlovskaya,Sverdlovskaya oblast,RU
+2508111,R8WR,,,,RU
+2508112,R8WABQ,,,,RU
+2508113,UB8CLI,,,,RU
+2508114,UB8XAF,,,,RU
+2508115,R8CCS,,,,RU
+2508116,UB8CLY,,,,RU
+2508117,R8JAAP,,,,RU
+2508118,R8LAJ,,,,RU
 2508119,R8AAAY,Alexey,Chelyabinsk,Chelyabinsk Oblast,RU
 2508120,UB8KAP,Nikolay,,,RU
 2508121,R8LBT,Oleg,,,RU
+2508122,R8AABB,,,,RU
 2509001,R9XU,Yakov,Syktyvkar,Komi Republic,RU
 2509002,UA9KDF,Igor,Znamensky,Tyumen,RU
 2509003,R9CIR,Ivan,V-Pyshma,Sverdlovsk,RU
@@ -59092,43 +59637,88 @@
 2509089,R9CEM,,Yekaterinburg,Sverdlovsk,RU
 2509090,R9CAA,Anton,Yekaterinburg,Sverdlovsk,RU
 2509091,R9WEQ,Ruslan,Ufa,Bashkiriya,RU
+2509092,RY9MAE,,,,RU
+2509093,R9MX,,,,RU
+2509094,RA9KD,,,,RU
 2509095,UH9CAT,Konstantin,EKB,Yekaterinburg,RU
+2509096,UA9WGT,,,,RU
 2509097,RA9OFS,Evgeny,Novosibirsk,Novosibirsk,RU
 2509098,RA9OEU,Vitaliy,Ordynskoe,Novosibirskaya,RU
+2509099,UB9ODY,,,,RU
 2509100,UB9WBP,Vyacheslav,Ufa,Bashkiriya,RU
 2509101,R9WET,Sergey,Bashkiriya,Bashkiriya,RU
 2509102,UB9WBV,Svetlana,Bashkortostan,Bashkortostan,RU
 2509103,UB9WMD,Valery,Bashkortostan,Bashkortostan,RU
 2509104,R9ODS,Sergey,Bashkortostan,Bashkortostan,RU
+2509105,RA9UIP,,,,RU
 2509106,R9OAAZ,Stanislav,Omsk,Omsk,RU
 2509107,R9OAAZ,Stanislav,Omsk,Omsk,RU
 2509108,RX9COZ,Ivan,Ekaterinburg,Sverdlovsk,RU
 2509109,R9OBQ,Aleksandr,Novosibirsk,Novosibirsk,RU
+2509110,R9FE,,,,RU
 2509111,UB9MCM,Sergei,Omskaya,Omskaya oblast,RU
+2509112,R9ODN,,,,RU
+2509113,R9OBN,,,,RU
 2509114,UA9OIA,Nikolai,Vokzalnaya,Novosibirsk,RU
 2509115,R9OAAZ,Stanislav,Novosibirsk,Novosibirsk,RU
 2509116,UA9UDO,Sergey,Tashtagol,Kemerovo,RU
+2509117,RY9OAK,,,,RU
 2509118,R9ODM,Pavel,Novosibirsk,Novosibirsk,RU
+2509119,RZ9WF,,,,RU
 2509120,R9ODL,Evgeniy,Novosibirsk,Novosibirsk,RU
 2509121,R9UHO,Alexander,Topki,Kemerovo,RU
+2509122,UB9UUS,,,,RU
+2509123,R9UDE,,,,RU
+2509124,R9SBY,,,,RU
 2509125,RA9LT,Denis,Tyumen,Tyumen,RU
+2509126,R9OES,,,,RU
+2509127,R9OEC,,,,RU
+2509128,UB9MER,,,,RU
+2509129,RY9PNI,,,,RU
+2509130,UB9MEQ,,,,RU
 2509131,R9OBR,Maxim,Kiev,Kiev,RU
 2509132,R9XBC,Alexander,Ukhta,Komi,RU
 2509133,RW9YO,Igor,Biysk,Altai,RU
 2509134,R9LAU,Anton,Tyumen,Tyumen,RU
+2509135,R9MAF,,,,RU
 2509136,R9XAR,Viacheslav,Usinsk,Komi,RU
+2509137,R9YAH,,,,RU
 2509138,UA9XTS,Dmitriy,Ukhta,Komi,RU
+2509139,UB9LAU,,,,RU
 2509140,UA9YLA,Vyacheslav,Barnaul,Altai,RU
 2509141,R9OAW,Yury,Kubovaya,Novosibirsk,RU
 2509142,R9YCO,Artem,Shielded,Shielded,RU
 2509143,UA9YLA,Vyacheslav,Barnaul,Altai,RU
+2509144,UA9UDQ,,,,RU
+2509145,UB9WKJ,,,,RU
+2509146,UB9HDM,,,,RU
+2509147,R9HAX,,,,RU
+2509148,R9OEG,,,,RU
 2509149,R9WCH,Alexander,Ufa,Ufa,RU
 2509150,UE9CSW,Sergey,Sverdlovskaya,Sverdlovskaya,RU
 2509151,R9UHO,Alexander,Topki,Kemerovo,RU
+2509152,RA9ULH,,,,RU
+2509153,RY9OAJ,,,,RU
+2509154,RA9ID,,,,RU
 2509155,R9OEI,Dmitry,Novosibirsk,Novosibirskaya oblast,RU
+2509156,UB9MAF,,,,RU
+2509157,R9WBN,,,,RU
+2509158,RX9AMC,,,,RU
+2509159,UB9CQG,,,,RU
+2509160,UA9JDX,,,,RU
+2509161,UB9MEN,,,,RU
 2509162,R9OABG,Alexander,None,None,RU
+2509163,UB9MEV,,,,RU
+2509164,RK9AGC,,,,RU
+2509165,UB9MEP,,,,RU
 2509166,UC9CAR,Sergey,None,None,RU
+2509167,UB9MAS,,,,RU
+2509168,R9CQY,,,,RU
+2509169,UA9MAF,,,,RU
+2509170,UB9OFG,,,,RU
 2509171,RA9HTM,Andrej,,,RU
+2509172,UB9OFN,,,,RU
+2509173,R9XBC,Aleksandr,,,RU
 2550001,UZ5DX,Dmytro,Uzhgorod,Zakarpatska,UA
 2550002,UZ5DU,Peter,Vinogradovo,Zakarpatska,UA
 2550003,UR5DGN,Natali,Vinogradovo,Zakarpatska,UA
@@ -60282,11 +60872,12 @@
 2600567,SQ5K,Michal,Turow,PLMZ,PL
 2600568,SP9XLC,Andrzej,Wymysłow,śląskie,PL
 2600569,SP2SCH,Michal,Bedomin,PLPM,PL
-2600570,SQ6BL,Lukasz,Bogusławice,dolnośląskie,PL
+2600570,SQ6BL,Lukasz,OLEŚNICA,dolnośląskie,PL
 2600571,SP3N,Antoni,Ostrzeszow,PLWP,PL
 2600572,SP4SV,Marek,Łomża,PLPD,PL
 2600573,SQ3LVF,Andrzej,Wyrzysk,PLWP,PL
-2600574,SQ9NJJ,Bartlomiej,Własna,śląskie,PL
+2600574,SQ9NJJ,Bartlomiej,Wlasna,śląskie,PL
+2600575,SQ6NCN,Sylwester,Wroclaw,dolnośląskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -65455,6 +66046,7 @@
 2622882,DO1NFL,Ferdinand,Schwabach,Bayern,DE
 2622883,DD6WG,Dennis,15838 Am Mellensee,Berlin / Brandenburg,DE
 2622884,DM7AP,Andreas,Ludwigshafen,Rheinland-Pfalz / Saarland,DE
+2622885,DL1ELZ,Joachim,Neuss,NW,DE
 2623001,DL4BCG,Paul,Jever,NI,DE
 2623002,DG5AV,Gerd,Einbeck,NI,DE
 2623003,DL5HSN,Hendrik,Ihlow,NI,DE
@@ -76041,6 +76633,7 @@
 2680134,CR7AXQ,Luis,Parede,,PT
 2680135,CT7ARI,Rui,Loureira - Fátima,,PT
 2680136,CT2INA,José,Paços de Ferreira,Regiao Norte,PT
+2680137,CT1ENQ,Jose,Guimaraes,Regiao Norte,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -80776,7 +81369,12 @@
 2862747,TA3AQZ,utku,bursa,Bursa,TR
 2862748,TA6ADI,Ahmet,Amasya,,TR
 2862749,TB3FEV,Fevzi,Manisa,Manisa,TR
-2862750,TA5AIZ,bayram,yalınayak,Mersin,TR
+2862750,TA5AIZ,Bayram,toroslar,Mersin,TR
+2862751,TB5CBX,Samet,ereglı,Konya,TR
+2862752,TA8SFK,Ferat,Gaziantep,Gaziantep,TR
+2862753,TA1AQW,Alper,Eyüpsultan,,TR
+2862754,TA1AVE,Edkin,istanbul,Istanbul,TR
+2862755,TA3APT,Umut,KARSIYAKA,Izmir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -85689,6 +86287,10 @@
 3024194,VE6DCV,David,Calgary,AB,CA
 3024195,VE3DTX,Douglas,E. Garafraxa,ON,CA
 3024196,VE2BFK,Richard,Saint-Lin-Laurentides,QC,CA
+3024197,VO1JEF,Jeff,ST-JOHNS,NL,CA
+3024198,VE3LDE,Suzanne,Whitefish Falls,ON,CA
+3024199,VE2SBJ,Serge,Laval,QC,CA
+3024200,VE1JMA,Craig,Dartmouth,NS,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99396,605 +99998,3 @@
 3113640,K3TRP,Tyler,Kennesaw,GA,US
 3113641,NR5G,Lee,Warner Robins,GA,US
 3113642,KE4JYA,Chris,Ringgold,GA,US
-3113643,K0NGG,Jeremy,Rocky Face,GA,US
-3113644,K1UB,Frank,Fayetteville,GA,US
-3113645,W4CDM,Clifford,Kathleen,GA,US
-3113646,W4CDM,Clifford,Kathleen,GA,US
-3113647,K1CAL,Calvin,Conyers,GA,US
-3113648,KF4EOQ,Phillips,Cobb,GA,US
-3113649,K1CAL,Calvin,Conyers,GA,US
-3113650,KN4FLA,Charles,Grayson,GA,US
-3113651,KK4LRK,Sam,Atlanta,GA,US
-3113652,W3DJS,David,Roswell,GA,US
-3113653,W1CY,Eduardo,Marietta,GA,US
-3113654,W4KAP,Kenneth,La Grange,GA,US
-3113655,N4DBS,Skyler,Clermont,GA,US
-3113656,W4GOI,James,Leesburg,GA,US
-3113657,KN4ELJ,Jeffrey,Acworth,GA,US
-3113658,WA4ASI,George,Covington,GA,US
-3113659,KI4GWT,Dan,Newnan,GA,US
-3113660,KI4GWT,Dan,Newnan,GA,US
-3113662,KC4JD,Jay,Dawsonville,GA,US
-3113663,KK4WOG,Kevin,Lilburn,GA,US
-3113664,KK1JE,Jerome,Guyton,GA,US
-3113665,KV4WX,James,Peachtree City,GA,US
-3113666,KV4WX,James,Peachtree City,GA,US
-3113667,KM4MVM,Steven,Cumming,GA,US
-3113668,K0WFM,Paul,Douglasville,GA,US
-3113669,KN4FRE,Osarca,Thomson,GA,US
-3113670,KN4FFG,Elijah,Thomson,GA,US
-3113671,K2HIK,Hinnerk,Loudon,TN,US
-3113672,N4MPC,Pat,Decatur,GA,US
-3113674,KI4VEU,Louis,Grovetown,GA,US
-3113675,KK4LOV,Aaron,Alpharetta,GA,US
-3113676,K1LP,William,Loganville,GA,US
-3113677,KM4RTP,James,Tyrone,GA,US
-3113678,KM4RTP,James,Tyrone,GA,US
-3113680,NA4I,William,Byron,GA,US
-3113681,N4DDY,Leroy,Hartwell,GA,US
-3113682,KN4FRS,Nathan,Cartersville,GA,US
-3113683,KN4GCS,Emerson,Atlanta,GA,US
-3113684,WX4LEC,Larry,Newnan,GA,US
-3113685,KK4PCV,William,Dahlonega,GA,US
-3113686,N0RRO,Eric,Sparta,GA,US
-3113687,KN4FRS,Nathan,Cartersville,GA,US
-3113688,KD4DL,Donald,Dublin,GA,US
-3113689,N9FEN,Kathleen,Mcdonough,GA,US
-3113690,KN4DLD,Robert,Cumming,GA,US
-3113691,KK4KQH,Anthony,Eatonton,GA,US
-3113692,KK4GTA,Kerry,Macon,GA,US
-3113693,KJ4QIL,Joshua,Duluth,GA,US
-3113694,N4LRP,Logan,Haddock,GA,US
-3113695,N4BWR,Blake,Carrollton,GA,US
-3113696,KC4BMX,Odis,Atlanta,GA,US
-3113697,K4TGC,William,Atlanta,GA,US
-3113698,KI4ANJ,Allen,Acworth,GA,US
-3113699,KE4BZD,Allen,Acworth,GA,US
-3113701,WB4ES,Brian,Norcross,GA,US
-3113702,K4XRA,Paul,Forsyth,GA,US
-3113703,K4PQC,Philip,Bishop,GA,US
-3113704,WB4WH,Craig,Forsyth,GA,US
-3113705,W4CHF,Brent,Hinesville,GA,US
-3113706,AB4CZ,James,Peachtree Corners,GA,US
-3113708,N4XAD,Charles,Mableton,GA,US
-3113709,KN4GTA,Kenneth,Alpharetta,GA,US
-3113710,K4NSA,Kenneth,Loganville,GA,US
-3113711,W4PSV,Philip,Decatur,GA,US
-3113712,KF4UPO,Michael,Norcross,GA,US
-3113713,KN4HDZ,Brandon,Gainesville,GA,US
-3113714,AG4ZR,David,Senoia,GA,US
-3113715,KD4NUE,David,Brunswick,GA,US
-3113716,KI4BEO,John,Oglethorpe,GA,US
-3113717,N4NBL,Phil,Smyrna,GA,US
-3113718,N4XAD,Charles,Mableton,GA,US
-3113719,WA4BLM,John,Conyers,GA,US
-3113720,W4LGW,Larry,Greenville,GA,US
-3113721,KF4UOD,David,Marietta,GA,US
-3113722,WB4ULK,Christopher,Midland,GA,US
-3113723,W4PSV,Philip,Decatur,GA,US
-3113724,KA4KWC,Lewis,Alto,GA,US
-3113725,KG4WMU,Cody,Johns Creek,GA,US
-3113726,NS4C,William,Jefferson,GA,US
-3113727,N0IV,Mark,Rincon,GA,US
-3113728,K4LDC,Larry,Dallas,GA,US
-3113729,KK4JII,Payne,Acworth,GA,US
-3113730,KK4ASA,Jesse,Savannah,GA,US
-3113731,N4ATO,Gary,Dalton,GA,US
-3113732,KF4UXR,Henry,Lawrenceville,GA,US
-3113733,W4LGW,Larry,Greenville,GA,US
-3113734,N3ZKV,George,Rincon,GA,US
-3113735,K4IO,James,Mansfield,GA,US
-3113737,K4NDC,Anthony,Savannah,GA,US
-3113738,KG4ETI,Hugh,Lebanon,GA,US
-3113740,N4BJL,Ben,Ringgold,GA,US
-3113741,KN4GGI,Douglas,Avondale Estates,GA,US
-3113742,KN4GGI,Douglas,Avondale Estates,GA,US
-3113743,WT4K,Jeffrey,Lakemont,GA,US
-3113744,K6DPL,Hal,Milledgeville,GA,US
-3113745,N4DDY,Leroy,Hartwell,GA,US
-3113746,KK4EB,Dean,Marietta,GA,US
-3113747,WT4K,Jeffrey,Lakemont,GA,US
-3113749,N4CMA,Donald,Waverly,GA,US
-3113750,KB9LFZ,Benjamin,Tyler,TX,US
-3113751,KD4LZL,Sully,Kennesaw,GA,US
-3113752,KE4YEZ,James,Powder Springs,GA,US
-3113753,N4AII,Jason,Cumming,GA,US
-3113754,KE4YEZ,James,Powder Springs,GA,US
-3113755,KD4LZL,Sully,Kennesaw,GA,US
-3113756,KE4IAJ,William,Nahunta,GA,US
-3113758,KI4UTY,Rob,Atlanta,GA,US
-3113759,WK4U,Tim,Roswell,GA,US
-3113760,KB4GMZ,Michael,Flowery Branch,GA,US
-3113761,W4RVC,Robert,Ball Ground,GA,US
-3113762,KM4YTV,John,Kennesaw,GA,US
-3113763,KA4UPI,Mark,E. Dublin,GA,US
-3113764,N4ASS,Jonathan,Good Hope,GA,US
-3113765,KN4HCO,Jerry,Cusseta,GA,US
-3113766,KK4LBJ,Alex,Box Springs,GA,US
-3113767,W8VYM,John,Eastman,GA,US
-3113768,N5JN,Johann,Midland,GA,US
-3113769,KD4EXY,Royce,Monroe,GA,US
-3113770,K4LED,Larry,Jasper,GA,US
-3113771,N4MOO,Sheldon,Ringgold,GA,US
-3113772,W4RGW,Richard,La Fayette,GA,US
-3113773,W4RGW,Richard,La Fayette,GA,US
-3113774,G3XDZ,Zygmunt,Roswell,GA,US
-3113775,N1SEA,Daniel,Milton,GA,US
-3113776,N4PGM,Norman,Ellijay,GA,US
-3113777,AI4RJ,Daniel,Acworth,GA,US
-3113778,KN4IYF,Zachary,Saint Marys,GA,US
-3113779,K4RL,Joel,Jefferson,GA,US
-3113780,AK4MK,Matthew,Hamilton,GA,US
-3113781,KG4TEP,James,Cedartown,GA,US
-3113782,KB4MGD,Michael,Macon,GA,US
-3113783,KB4VLD,Earl,Valdosta,GA,US
-3113784,W4JGG,Jeff,Watkinsville,GA,US
-3113785,K1EOD,Tom,Fayetteville,GA,US
-3113786,KZ4IM,Gordon,Atlanta,GA,US
-3113787,W4JGG,Jeff,Watkinsville,GA,US
-3113788,K4WK,Wayne,Jupiter,FL,US
-3113789,KA4RSZ,Stephen,Decatur,GA,US
-3113790,N3AIA,Douglas,Roswell,GA,US
-3113791,N4JRE,Jonathan,Suwanee,GA,US
-3113792,KN4IZW,Shawn,Douglasville,GA,US
-3113793,KB0Y,Scott,Valdosta,GA,US
-3113794,K4KR,Kenneth,Chickamauga,GA,US
-3113795,KN4BZR,Walter,Nashville,GA,US
-3113796,KM4FQW,Willie,Lithonia,GA,US
-3113797,N4IRR,Michael,Marietta,GA,US
-3113798,WB4ULK,Christopher,Midland,GA,US
-3113799,K9LUV,Michael,Thomaston,GA,US
-3113800,KN4IPJ,Justin,Cataula,GA,US
-3113801,KN4IPJ,Justin,Cataula,GA,US
-3113802,W8JVF,James,Honolulu,HI,US
-3113803,W4DDG,Donnie,Leesburg,GA,US
-3113804,KE4PMP,Jonah,Vidalia,GA,US
-3113805,WD4EDE,Nancy,Monroe,GA,US
-3113806,K4GUP,Thomas,Conyers,GA,US
-3113807,K4GUP,Thomas,Conyers,GA,US
-3113808,W4DTO,Daniel,Dallas,GA,US
-3113809,W4NKL,Nathan,Columbus,GA,US
-3113810,W4ASR,Andrew,Holly Springs,GA,US
-3113811,WX4RDM,Randy,Columbus,GA,US
-3113812,KN4FRP,Richard,Whitesburg,GA,US
-3113813,WB3ILX,Ronald,Dallas,GA,US
-3113814,KG4HIR,Rusty,Augusta,GA,US
-3113815,KW4ART,Art,Valdosta,GA,US
-3113816,KM4QFB,Dale,Valdosta,GA,US
-3113817,KM4YNR,Anders,Toccoa,GA,US
-3113818,KI4IXU,Cullen,Brookhaven,GA,US
-3113819,W4JNM,Joel,Cartersville,GA,US
-3113820,KN4CNX,Kurt,Dalton,GA,US
-3113821,WD4LUB,Davis,Pendergrass,GA,US
-3113822,KD4NUF,Glynda,Brunswick,GA,US
-3113823,WE8J,Mel,Saint Simons Island,GA,US
-3113824,W8ANG,Angela,Saint Simons Island,GA,US
-3113825,N4VTO,Victor,Conyers,GA,US
-3113826,WB4BXO,Matthew,Lagrange,GA,US
-3113827,WB4BXO,Matthew,Lagrange,GA,US
-3113828,N4AC,Randal,Cumming,GA,US
-3113829,KI4SBK,Catherine,Cumming,GA,US
-3113830,KK4YQV,Stephen,Lebanon,GA,US
-3113831,KD4KOE,Horace,Saint Marys,GA,US
-3113832,KN4FE,Joel,Woodbury,GA,US
-3113833,AE4OF,John,Blackshear,GA,US
-3113834,WB4QOJ,Le,Dallas,GA,US
-3113835,KE4LMV,Joseph,Columbus,GA,US
-3113836,N4VTO,Victor,Conyers,GA,US
-3113837,WB9TGR,Thomas,Conyers,GA,US
-3113838,AA4BZ,Joe,Kingsland,GA,US
-3113839,KJ4QPR,Galandous,Dalton,GA,US
-3113840,KN4KBH,Joseph,Dacula,GA,US
-3113841,K4HCQ,Christian,Columbus,GA,US
-3113842,KK4LBH,Gregory,Midland,GA,US
-3113843,K2CMH,Carlton,Columbus,GA,US
-3113844,N4ARY,Aaron,Bonaire,GA,US
-3113845,W0DAN,Daniel,Marietta,GA,US
-3113846,W4NEG,Ronnie,Elberton,GA,US
-3113847,KD4K,Anthony,Cumming,GA,US
-3113848,W9REB,Robert,Eatonton,GA,US
-3113849,KN4KBL,Carter,Chatsworth,GA,US
-3113850,KI6FGQ,Richard,Atlanta,GA,US
-3113851,N3CFV,D.,Roswell,GA,US
-3113852,KN4KBL,Carter,Chatsworth,GA,US
-3113853,WX4BWK,Gara,Brunswick,GA,US
-3113856,KI4CJF,Zachary,Grayson,GA,US
-3113857,KM4CAE,James,Carnesville,GA,US
-3113858,KN4KNR,Shawn,Buford,GA,US
-3113859,KM4NLE,Jason,Alpharetta,GA,US
-3113860,KD4OTA,Gregory,Cumming,GA,US
-3113861,KD4FKW,Michael,Norcross,GA,US
-3113862,KN4JDQ,Shelby,Bogart,GA,US
-3113863,KB4JJJ,Jane,Elberton,GA,US
-3113864,KC7RW,Ryan,Atlanta,GA,US
-3113865,KJ4BJO,Raymond,Ellijay,GA,US
-3113866,KK4SC,Jeffrey,Lilburn,GA,US
-3113867,K4NPZ,Bobby,Woodstock,GA,US
-3113868,KM4BA,Alan,Powder Springs,GA,US
-3113871,KM4RZT,John,Windham,NH,US
-3113872,KM4PHT,Devon,Evans,GA,US
-3113873,KM4KZP,Aaron,Monroe,GA,US
-3113874,KM4KZP,Aaron,Monroe,GA,US
-3113875,KJ4PEI,Donald,Warner Robins,GA,US
-3113876,KW4EDC,Eddie,Carrollton,GA,US
-3113877,KB1FES,David,Decatur,GA,US
-3113878,KM4OKU,Grady,Columbus,GA,US
-3113879,KN4LEI,Jim,Toccoa,GA,US
-3113880,W4TPR,Timothy,Summerville,GA,US
-3113881,N4ERL,Earl,Cartersville,GA,US
-3113882,N4ERL,Earl,Cartersville,GA,US
-3113883,KC4AQS,James,Calhoun,GA,US
-3113884,KI4SOU,Michael,Cartersville,GA,US
-3113885,W4VBD,George,Fayetteville,GA,US
-3113886,KM4DRR,Tyler,Manchester,GA,US
-3113887,W4LSG,Joey,Cornelia,GA,US
-3113888,KN4GTC,Russell,Cumming,GA,US
-3113889,W1DOG,Hurbin,Haddock,GA,US
-3113890,KM4SKN,Ben,Cumming,GA,US
-3113891,W8VYM,John,Eastman,GA,US
-3113892,KM4SKN,Ben,Cumming,GA,US
-3113893,WB4GWA,Ronald,Concord,GA,US
-3113895,KJ4DBY,Christopher,Stockbridge,GA,US
-3113896,AJ4XI,James,Decatur,GA,US
-3113897,KN4AWW,Jeremiah,Toccoa,GA,US
-3113898,KM1FFY,Evan,Acworth,GA,US
-3113899,KK4YVB,Michael,Acworth,GA,US
-3113900,AJ4UG,Bobby,Blackshear,GA,US
-3113901,WB4GWA,Ronald,Concord,GA,US
-3113902,AJ4UG,Bobby,Blackshear,GA,US
-3113903,KJ4DBY,Christopher,Stockbridge,GA,US
-3113905,KK4EPD,Dustin,Baldwin,GA,US
-3113906,KD4NTF,Ivey,Cedartown,GA,US
-3113907,KK4EPD,Dustin,Baldwin,GA,US
-3113912,KI4LDC,Clay,Waycross,GA,US
-3113913,KI4LDC,Clay,Waycross,GA,US
-3113914,W1ROO,Gregg,Suwanee,GA,US
-3113915,W1ROO,Gregg,Suwanee,GA,US
-3113916,WW4WW,David,Jasper,GA,US
-3113917,K4DNS,Patricia,Jasper,GA,US
-3113918,AK4TL,Ellis,Dunwoody,GA,US
-3113919,KI4MQF,Walter,Blackshear,GA,US
-3113920,WB4IVG,W,Acworth,GA,US
-3113921,KN4AFG,South,Kingsland,GA,US
-3113923,KB8QDX,Ernest,Dahlonega,GA,US
-3113924,KB8QDX,Ernest,Dahlonega,GA,US
-3113925,W4ODD,Allan,Marietta,GA,US
-3113926,KE4QDH,Michael,Shiloh,GA,US
-3113927,KE4QDH,Michael,Shiloh,GA,US
-3113928,KW4WL,Michael,Cumming,GA,US
-3113929,KM4KZN,Timothy,Mcdonough,GA,US
-3113932,KM4SIG,Jacob,Chatsworth,GA,US
-3113933,W4RWJ,Raymond,Norcross,GA,US
-3113934,KM4JER,Christopher,Austell,GA,US
-3113935,WD5BSA,William,Fayetteville,GA,US
-3113936,KN4LVO,Robert,Fayetteville,GA,US
-3113937,KK4ZTF,Joseph,Dublin,GA,US
-3113939,W4MDS,Jack,Cumming,GA,US
-3113940,W4BCL,Beverly,Cumming,GA,US
-3113941,KN4CBG,William,Allenhurst,GA,US
-3113943,KF4IRH,David,Waycross,GA,US
-3113945,K4XRC,Craig,Rossville,GA,US
-3113947,KN4LWT,Charles,Woodbury,GA,US
-3113948,KK4MQA,Stephen,Auburn,GA,US
-3113949,KE0RJF,David,Hutchinson,MN,US
-3113950,KK6IPR,Charles,Fremont,CA,US
-3113951,N2HNI,Sandi,Dunedin,FL,US
-3113952,W7AZQ,Edward,Quartzsite,AZ,US
-3113953,KN4BQV,Matthew,Bristow,VA,US
-3113954,KX1B,Bryan,Goffstown,NH,US
-3113955,KE0FQP,Robert,Waterloo,IL,US
-3113956,KE0FQP,Robert,Waterloo,IL,US
-3113957,K3JJK,Terrance,Harrisburg,PA,US
-3113958,AA5CE,Cecil,Arroyo Grande,CA,US
-3113959,KF7WYS,Kyle,Snoqualmie,WA,US
-3113960,KC3MET,Michael,Ashley,PA,US
-3113961,KC3MET,Michael,Ashley,PA,US
-3113962,KB7RSF,Adam,Logandale,NV,US
-3113963,AF5SI,Brian,Plano,TX,US
-3113964,AF5SI,Brian,Plano,TX,US
-3113965,KC1KFM,Michael,Holyoke,MA,US
-3113966,KC8QZB,John,Lansing,MI,US
-3113967,KC8QZB,John,Lansing,MI,US
-3113968,KC3LAN,Christopher,Millerstown,PA,US
-3113969,KD9LUG,James,Anderson,IN,US
-3113970,WB5HJV,David,Spring,TX,US
-3113971,W5UHQ,Eldon,Newark,OH,US
-3113972,KD8RWR,Thomas,Hamilton,OH,US
-3113973,N0TAG,Todd,Denver,CO,US
-3113974,K6FW,Frank,Chino,CA,US
-3113975,KD0YYG,Alan,Saint Louis,MO,US
-3113976,W7JSV,Kevin,Holmen,WI,US
-3113977,N2KND,Russell,Maple Valley,WA,US
-3113978,AB1TC,Paul,New Ipswich,NH,US
-3113979,N4TFJ,Charles,Woodlawn,TN,US
-3113980,N4TFJ,Charles,Woodlawn,TN,US
-3113981,W1SMC,Steven,Weston,VT,US
-3113982,AE5QQ,Robert,Mcloud,OK,US
-3113983,W0HAF,Michael,Letts,IA,US
-3113984,W1SMC,Steven,Weston,VT,US
-3113985,KC9NNW,Matt,Leaf River,IL,US
-3113986,KC9NNW,Matt,Leaf River,IL,US
-3113987,KN4OGA,Ronald,Fairfax,VA,US
-3113988,KN4OGA,Ronald,Fairfax,VA,US
-3113989,KB5HTB,Raul,Austin,TX,US
-3113990,KK4CRZ,Audrey,Durham,NC,US
-3113991,W9EJH,Earl,Bloomer,WI,US
-3113992,KG5BQB,Jeffrey,San Angelo,TX,US
-3113993,KI4OXX,Michael,Northport,AL,US
-3113994,KI4OXX,Michael,Northport,AL,US
-3113995,AB3MI,William,Greenwood,DE,US
-3113996,NC3C,Russell,Maple Valley,WA,US
-3113997,KM6LIL,David,Huntington Beach,CA,US
-3113998,KN4OYN,Mark,Roswell,GA,US
-3113999,N8DAD,Barry,Gaylord,MI,US
-3114000,KE5TVB,Shane,Scott Afb,IL,US
-3114001,WA5GED,Paul,Centerville,TX,US
-3114002,KC1JZH,Mark,Swampscott,MA,US
-3114003,W5GSU,J.,Decatur,AL,US
-3114004,N3ROY,Samuel,Wilmington,DE,US
-3114005,KE0SSU,Josh,Lakewood,CO,US
-3114006,KE0SSU,Josh,Lakewood,CO,US
-3114007,KD6BGO,Michael,Turlock,CA,US
-3114008,K6OGR,Brian,Clovis,CA,US
-3114009,KC1IBC,Michael,Methuen,MA,US
-3114010,KI7FOF,Zsolt,Las Vegas,NV,US
-3114011,KI7FOF,Zsolt,Las Vegas,NV,US
-3114012,N4LAX,Edward,Woodstock,GA,US
-3114013,N4LAX,Edward,Woodstock,GA,US
-3114014,W4WHC,Bill,Irvington,AL,US
-3114015,K7HLN,Robert,Helena,MT,US
-3114016,KN4OZF,Allan,Winchester,VA,US
-3114017,KC1KIW,Joseph,Branford,CT,US
-3114018,KC0HIO,Brad,Blue Springs,MO,US
-3114019,KD2NFY,Luke,Syracuse,NY,US
-3114020,KI7QAM,Bernard,Lacey,WA,US
-3114021,KG5WU,Wayne,Sandy Springs,GA,US
-3114022,WB4TGK,George,Orangeburg,SC,US
-3114023,WW1SS,Steven,Brimfield,MA,US
-3114024,KI5SF,Carl,Maryville,TN,US
-3114025,K9AGR,Jim,Greenbush,VA,US
-3114026,N4ULF,Anita,Toney,AL,US
-3114027,N4ULF,Anita,Toney,AL,US
-3114028,W5ERX,Wade,Kyle,TX,US
-3114029,N5JOJ,William,Tahlequah,OK,US
-3114030,KB9KQF,Robert,Kissimmee,FL,US
-3114031,AC8A,Paul,Ashland,OH,US
-3114032,KI5BMS,Steve,Grove,OK,US
-3114033,KG5WNV,Wesley,Broken Arrow,OK,US
-3114034,KG5WNV,Wesley,Broken Arrow,OK,US
-3114035,KA9YGW,Scott,Lebanon,IN,US
-3114036,K0SAA,Scott,Champlin,MN,US
-3114037,KM6SRG,Casey,Hilmar,CA,US
-3114038,KM4YMI,Beau,Decatur,GA,US
-3114039,KG5SZE,James,Deer Park,TX,US
-3114040,KG5SZE,James,Deer Park,TX,US
-3114041,K0ART,Arthur,Tacoma,WA,US
-3114042,KE8JHK,Thomas,Marysville,OH,US
-3114043,KE8JHK,Thomas,Marysville,OH,US
-3114044,K8UW,Gary,Dayton,OH,US
-3114045,N6TLW,Dinnie,Winton,CA,US
-3114046,N7ZRZ,Darrell,Florence,OR,US
-3114047,N7ZRZ,Darrell,Florence,OR,US
-3114048,KF6ODE,Ryan,Fallbrook,CA,US
-3114049,W7LFX,Skeet,Bozeman,MT,US
-3114050,AB8UM,Mike,N. Olmsted,OH,US
-3114051,W5NNN,Brian,Albuquerque,NM,US
-3114052,KM6WCS,Morey,San Gabriel,CA,US
-3114053,KC1KHN,Matthew,N. Billerica,MA,US
-3114054,W4HZS,John,Columbia,SC,US
-3114055,KD0BBM,Joseph,Atchison,KS,US
-3114056,N5XQK,Johnny,Bartlesville,OK,US
-3114059,KJ4UBO,James,Apex,NC,US
-3114060,AA8WH,William,Dearborn Heights,MI,US
-3114061,W5RZM,James,Marmaduke,AR,US
-3114062,W4FBB,Bruce,Taylorsville,KY,US
-3114064,KD9JWV,Hunter,Frankfort,IL,US
-3114065,KI7MOB,Gabriel,Portland,OR,US
-3114066,KC9JAO,Eric,Davenport,IA,US
-3114067,W4FBB,Bruce,Taylorsville,KY,US
-3114068,W5JTX,Josh,Stephenville,TX,US
-3114069,KN4HAD,Stephen,Tampa,FL,US
-3114070,KI4LZI,Anthony,Pickens,SC,US
-3114071,KF6UQK,Kevin,Clovis,CA,US
-3114072,KF6UQK,Kevin,Clovis,CA,US
-3114073,AE0OM,Dale,Saint Charles,MO,US
-3114074,KE0NMS,Christina,Saint Charles,MO,US
-3114075,N7JAV,John,Albany,OR,US
-3114076,W5BIN,Korbin,Pampa,TX,US
-3114077,KC0FWB,Richard,Fort Collins,CO,US
-3114078,KE5UMX,Jeffrey,Durant,OK,US
-3114079,K8JFG,Jon,Howard,OH,US
-3114080,KK4ISC,Michael,Miami Beach,FL,US
-3114081,W5RZM,James,Marmaduke,AR,US
-3114083,KN4MSH,Viorel,Atlanta,GA,US
-3114084,KD4GBA,Avery,Leesville,LA,US
-3114085,KM4RYP,William,W. Palm Beach,FL,US
-3114086,N3PKQ,Keith,Salome,AZ,US
-3114087,AA0GB,Paul,Bourbon,MO,US
-3114088,W7JPK,James,Hamilton,TX,US
-3114090,K9DKR,David,Elk Grove Village,IL,US
-3114091,N5MRL,Peter,Norman,OK,US
-3114092,K9DKR,David,Elk Grove Village,IL,US
-3114093,KE5YPB,Scott,White Wright,TX,US
-3114094,KD9LNP,Oliver,De Pere,WI,US
-3114096,KN4NTF,Russell,Hawesville,KY,US
-3114097,KI5BDY,Myklayn,Guthrie,OK,US
-3114098,N9JIG,Richard,Buckeye,AZ,US
-3114099,KD2KKG,Robert,Cleveland,NY,US
-3114100,KD9HIH,Mark,Fairview Heights,IL,US
-3114101,KG4ABC,Charles,Louisville,KY,US
-3114102,KD7TXV,Rick,Las Vegas,NV,US
-3114104,W8JAM,Jon,Reno,NV,US
-3114105,KD7HXL,Brett,Tomball,TX,US
-3114106,N3KC,Jesse,Upper Marlboro,MD,US
-3114107,KC8ELQ,Paul,Bay City,MI,US
-3114108,K0UWC,Gary,Bloomington,MN,US
-3114109,KC9JAO,Eric,Davenport,IA,US
-3114110,AA4HV,Daniel,Cordova,TN,US
-3114111,KC5MWB,Paul,Houston,TX,US
-3114112,WS4AM,Samuel,Chiefland,FL,US
-3114113,KN4NXQ,Noel,Fort Myers,FL,US
-3114114,N0RMS,Jason,Colorado Springs,CO,US
-3114115,WB0VGD,Robert,Arvada,CO,US
-3114116,W0HGJ,Harvey,Edmond,OK,US
-3114117,KG6JBC,Justin,Los Angeles,CA,US
-3114118,AB8EI,Richard,Akron,OH,US
-3114119,KJ6BJL,Terry,Pioneer,CA,US
-3114120,KI7ZBQ,Anthony,Newberg,OR,US
-3114121,KI4VLZ,Angel,Groveland,FL,US
-3114122,KD0NN,Donald,Houston,TX,US
-3114123,KI4VLZ,Angel,Groveland,FL,US
-3114124,KB2NJC,William,Roanoke,VA,US
-3114125,KJ9Q,Gerald,Austin,IN,US
-3114126,K1BAD,Carmelo,Raynham,MA,US
-3114127,K3DEI,Jeff,Bella Vista,AR,US
-3114128,KG6LFJ,John,Peshastin,WA,US
-3114129,KC0DRP,David,Kansas City,KS,US
-3114130,KD4LYO,Stephen,Cookeville,TN,US
-3114131,W9EXZ,Jonathan,Stowe,VT,US
-3114132,N8HTV,John,Roseville,MI,US
-3114133,W8EMB,Eric,Batavia,OH,US
-3114134,WD6AJK,Larry,Stockton,CA,US
-3114135,WK1P,Richard,Marietta,GA,US
-3114136,KC4DD,Donald,Gastonia,NC,US
-3114137,KN4MDP,Anthony,Owens Cross Roads,AL,US
-3114138,KG5GK,Kathryn,Cedar Park,TX,US
-3114139,WB5GM,Gregory,Cedar Park,TX,US
-3114140,WB5GM,Gregory,Cedar Park,TX,US
-3114141,N3PKQ,Keith,Salome,AZ,US
-3114142,KC8UDZ,Sean,N. Bloomfield,OH,US
-3114143,KD9KLO,David,Chicago,IL,US
-3114144,WM5Q,Wayne,Whitehouse,TX,US
-3114145,KA1JBE,Joseph,Whitman,MA,US
-3114146,KC2VYU,John,Little Falls,NJ,US
-3114147,WB3EAF,Bob,New Freedom,PA,US
-3114148,KB2MAB,John,Hazlet,NJ,US
-3114149,WX4MEM,Nws,Memphis,TN,US
-3114150,AA3BK,Brian,Garnet Valley,PA,US
-3114151,K7CB,Stephen,Colorado Springs,CO,US
-3114152,N9DNR,Daniel,Pekin,IL,US
-3114153,W7RUG,Bliss,Idaho Falls,ID,US
-3114154,W7RUG,Bliss,Idaho Falls,ID,US
-3114155,KB1QU,Henry,Hilton Head Island,SC,US
-3114156,KD0ZEI,Nathan,Waverly,IA,US
-3114157,WV8DOF,Dale,Huntington,WV,US
-3114158,KE2CK,Jerry,Minotola,NJ,US
-3114159,KD4QFG,Don,Alma,GA,US
-3114161,KD7DVD,Christopher,Seattle,WA,US
-3114163,KH6TOB,Timothy,Volcano,HI,US
-3114164,KG4UZK,Jeannette,Knoxville,TN,US
-3114165,KD8PMJ,Ross,Dunmore,WV,US
-3114166,W5NNH,John,Ellenwood,GA,US
-3114167,WA6UVW,Donald,Yucaipa,CA,US
-3114169,WA1WES,James,Kenmore,WA,US
-3114170,KD6IYS,Estanislado,Pomona,CA,US
-3114171,KD0NN,Donald,Houston,TX,US
-3114172,K6BVZ,Christopher,Culver City,CA,US
-3114173,K0DKR,Vincent,Norman,OK,US
-3114174,N4VXX,Michael,Dade City,FL,US
-3114175,KI4MOE,Charles,Georgetown,KY,US
-3114176,AC1HH,Stephen,Hampden,ME,US
-3114177,KC3CJ,Robert,Longs,SC,US
-3114178,NZ1Y,Brad,Punta Gorda,FL,US
-3114179,WB3EAF,Bob,New Freedom,PA,US
-3114180,KC6YLT,Paul,W. Hills,CA,US
-3114181,KE8HSR,Carly,N. Canton,OH,US
-3114182,N2RDT,David,Los Gatos,CA,US
-3114183,KG6SQQ,Nicholas,San Jose,CA,US
-3114184,KI6MOX,Alexander,San Jose,CA,US
-3114185,KK6YGJ,Beeta,San Jose,CA,US
-3114186,KC9WMS,Barry,Indianapolis,IN,US
-3114187,W4NUX,David,Orlando,FL,US
-3114188,KD8RTP,John,Gahanna,OH,US
-3114189,K4TJA,Richard,Gloucester,VA,US
-3114192,W0LVN,Robert,Charlottesville,VA,US
-3114193,K8RVR,Michael,Scottsville,VA,US
-3114194,KF5RGL,Jonathan,Lufkin,TX,US
-3114195,KC1IFK,Stewart,Colchester,VT,US
-3114196,KC1IFK,Stewart,Colchester,VT,US
-3114198,W2DTI,Craig,Clayton,NY,US
-3114199,KL7AA,Anchorage,Anchorage,AK,US
-3114200,K6UVA,Gary,Lake Oswego,OR,US
-3114201,KM4KZC,Kenneth,Gloucester,VA,US
-3114202,KC1KCU,Cruz,Roxbury,MA,US
-3114203,KM4KZC,Kenneth,Gloucester,VA,US
-3114204,K4IT,Jerry,Tucker,GA,US
-3114205,KN4DRW,Carl,Moreland,GA,US
-3114206,KY0TES,Justin,Laguna Hills,CA,US
-3114207,KC8APZ,Thomas,Columbus,OH,US
-3114208,KB9PTP,Jamey,Indianapolis,IN,US
-3114209,W4KRL,Karl,Centreville,VA,US
-3114210,KC8APZ,Thomas,Columbus,OH,US
-3114211,KG5EUS,Steve,Hurst,TX,US
-3114212,N2NDU,Hipolito,Woodhaven,NY,US
-3114214,K7APX,Rich,Henderson,NV,US
-3114215,K7APX,Rich,Henderson,NV,US
-3114216,W6JMX,Carlos,San Bruno,CA,US
-3114217,W3MRW,Michael,Altoona,PA,US
-3114218,WB6JNN,James,San Jose,CA,US
-3114219,KF6OVX,Elias,Chula Vista,CA,US
-3114220,AI4I,Joel,Miami Beach,FL,US
-3114221,AG3Q,Jerry,Wilmington,DE,US
-3114222,N9RFS,David,Saint Robert,MO,US
-3114223,KI6RTV,Urbano,Baldwin Park,CA,US
-3114224,KB8TAB,Rudi,Lewisburg,TN,US
-3114226,N0QKM,Quentin,Prairie Village,KS,US
-3114227,KD8WVX,Andrew,Athens,OH,US
-3114228,W0QH,Emmett,Lake Saint Louis,MO,US
-3114229,KC3FJZ,John,Richland,PA,US
-3114230,KD7RMT,Phillip,Mesa,AZ,US
-3114231,KD7RMU,Gloria,Phoenix,AZ,US
-3114232,N3MFB,Charles,Beaver,PA,US
-3114233,KI7HDH,Keeton,Henderson,NV,US
-3114234,W7AI,Oro,Tucson,AZ,US
-3114235,NU3A,Kenneth,Newark,DE,US
-3114236,KD5HHH,Herbert,Marksville,LA,US
-3114237,AC6RB,George,Laguna Hills,CA,US
-3114238,KC9MWU,Thomas,Vevay,IN,US
-3114239,AG6AG,Stuart,Newbury Park,CA,US
-3114240,N0ZEL,Lauro,La Puente,CA,US
-3114241,WA4CLA,Steven,Florence,AL,US
-3114242,KF4EDS,Debra,Florence,AL,US
-3114243,W6IPA,Jean-Christophe,San Jose,CA,US
-3114244,KD9LEO,Bryan,Cicero,IL,US
-3114245,W7PMS,Patti,Prescott,AZ,US
-3114246,KK4MKF,Terry,Morning View,KY,US
-3114247,KM6MBL,William,Thornton,CO,US
-3114248,KC1HJW,Luis,Bridgeport,CT,US
-3114249,KC1HJY,Gloria,Bridgeport,CT,US
-3114250,KB2WON,Selvin,Brooklyn,NY,US
-3114251,W6JMX,Carlos,San Bruno,CA,US
-3114252,KE6KN,Francis,Daly City,CA,US
-3114253,KE0NLS,Matthew,Lakewood,CO,US
-3114254,KI5BDF,Aria,Saginaw,TX,US
-3114255,K4YLX,Ted,Orange Park,FL,US
-3114256,NY3R,Anthony,Lancaster,PA,US
-3114257,KG5UHY,Jason,Calhoun,LA,US
-3114258,N2NDU,Hipolito,Woodhaven,NY,US
-3114259,KA4TDW,Regina,Haines City,FL,US
-3114260,KB9OPV,Johnathon,Newburgh,IN,US
-3114261,N5UKZ,Michael,Baton Rouge,LA,US
-3114263,WD6CGF,Steven,Simi Valley,CA,US
-3114264,KG5IWX,Joshua,Heavener,OK,US
-3114265,KB2SAW,Manuel,Newark,NJ,US
-3114266,KC8FPT,Frank,Elmwood Pl,OH,US
-3114267,KE7DIN,Robert,Wauconda,WA,US
-3114268,KF6DL,David,Diamond Bar,CA,US
-3114269,KC3LSR,Nicholas,Furlong,PA,US
-3114270,AC9HM,Teodolfo,S. Bend,IN,US
-3114271,KA1SU,James,Bow,NH,US
-3114272,KN4GFG,Charles,Hinesville,GA,US
-3114273,KB1WRZ,David,Brownville,ME,US
-3114274,KI6UAV,Zsolt,Irvine,CA,US
-3114275,KD2MPY,Neil,Oceanside,NY,US
-3114276,AE6LX,Timothy,Monrovia,CA,US
-3114277,AC5DS,Olen,Smithville,AR,US
-3114278,AC5DR,Rodney,Smithville,AR,US
-3114279,KC5QQM,Christian,San Antonio,TX,US
-3114280,KB4KHQ,Lane,Duluth,GA,US
-3114281,N6CAZ,James,San Diego,CA,US
-3114282,KC3LSR,Nicholas,Furlong,PA,US
-3114283,W0MUD,Travis,Birkenfeld,OR,US
-3114284,WB4S,Joe,Gainesville,GA,US
-3114285,K6JET,John,Las Vegas,NV,US
-3114286,K9MAY,Timothy,Canyon Country,CA,US
