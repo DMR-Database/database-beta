@@ -11533,6 +11533,7 @@
 2040247,PA1GN,Glenn,Veenendaal,UTR,NL
 2040248,PA3GWS,Albert,2627CB DELFT,Hradec Kralove Region,NL
 2040249,PD5RAY,Raymund,Arnhem,Hradec Kralove Region,NL
+2040250,PD7SDB,Stef,Arnhem,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -15979,7 +15980,7 @@
 2080643,F4FRG,Franck,Montautour,Brittany,FR
 2080644,F4BJH,Fabrice,Osny,IF,FR
 2080645,F4AHW,Eric,Fleury Les Aubrais,Pays de la Loire,FR
-2080646,F4HYY,Serge,Paris,IF,FR
+2080646,F4HYY,Serge,Paris,,FR
 2080647,F4ITN,Benoît,Lentilly,Rhone-Alpes,FR
 2080648,F5JMN,Thomas,Don,IF,FR
 2080649,F4BRT,Patrick,Rodez,Midi-Pyrenees,FR
@@ -15991,6 +15992,7 @@
 2080655,F6BCD,Logel,GONDREVILLE,Hradec Kralove Region,FR
 2080656,F1AMM,François,None,IF,FR
 2080657,F4KKH,Beta,Chartres,Pays de la Loire,FR
+2080658,F4HLQ,Thierry,Les SAUVAGES,Rhone-Alpes,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -20416,6 +20418,8 @@
 2142705,EA5JAO,Antonio,Benejuzar Alicante,Hradec Kralove Region,ES
 2142706,EA7JKU,Manuel,ALMARGEN,Malaga,ES
 2142707,EB5DPJ,Antonio,ELCHE IM98PG,Alicante,ES
+2142708,EA4GCT,Jose,CIUDAD REAL,Ciudad Real,ES
+2142709,EA7FJN,Juan,23003 Jaen,Jaen,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -33602,6 +33606,11 @@
 2227714,IU8OYW,Giacomo,Aiello del Sabato,Molise / Campania / Calabria,IT
 2227715,IZ0WPF,Christian,Formia Lt,Lazio / Umbria / Sardinia,IT
 2227716,IK8GCU,Ernesto,Nola,Molise / Campania / Calabria,IT
+2227717,IU8LNT,Marco,caserta,Molise / Campania / Calabria,IT
+2227718,IU0OWQ,Daniele,Rome,Lazio / Umbria / Sardinia,IT
+2227719,IZ2MGN,Maurizio,26845 Codogno LO,LOM,IT
+2227720,IU2KMA,Giuseppe,magenta,LOM,IT
+2227721,IT9DIL,Alfredo,Palermo,Sicily,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -40039,6 +40048,7 @@
 2340388,GD0TFG,John,BALLASALLA,Isle of Man,UK
 2340389,GD6AFB,Nigel,Ballasalla,Isle of Man,UK
 2340390,M7PQR,Leonidas,London,England,UK
+2340391,MD6YBE,Helen,Ballasalla,Isle of Man,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -52827,6 +52837,7 @@
 2380112,OZ4TO,Thorfinn,Viuf,Syddanmark,DK
 2380113,OZ2TG,Steen,Copenhagen,Hovedstaden,DK
 2380114,OZ8RZ,Hans,Vallensbæk Strand,Hovedstaden,DK
+2380115,OZ2WI,Klaus,Birkeröd,,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -56352,6 +56363,8 @@
 2420221,LA6WLA,Torbjorn,4838 Arendal,Hradec Kralove Region,NO
 2420222,LA1PLA,Bjorn,Malmefjorden,Hradec Kralove Region,NO
 2420223,LB8VI,Torbjørn,Skudeneshavn,Rogaland,NO
+2420224,LA0HY,Guillermo,Krokstadelva,,NO
+2420225,LB2BF,Inge,Bremanger,More og Romsdal / Sogn og Fjordane,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -57445,6 +57458,8 @@
 2441251,OH1LM,Markku,RAUMA,Hradec Kralove Region,FI
 2441252,OH6HFW,Hannu,Vaasa,All Regions,FI
 2441253,OH6FYW,Mika,Lahti,,FI
+2441254,OH6NMY,Erkki,FI 60150 SEINÄJOKI,,FI
+2441255,OH3PP,Markku,Vantaa,All Regions,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -58561,6 +58576,7 @@
 2500176,R0OMZ,Sergey,Krasnoyarsk,,RU
 2500177,RA0LML,,,,RU
 2500178,RZ0LWA,Primorye,,,RU
+2500179,UA0LTE,,,,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -59347,6 +59363,7 @@
 2503406,UB3ZBV,,,,RU
 2503407,UB3XBN,,,,RU
 2503408,RZ3AKE,,,,RU
+2503409,UB3UBR,,,,RU
 2504001,RU4FM,Igor,Penza,Penza,RU
 2504002,UD4NAD,Sergey,Kotelnich rn,Kirov,RU
 2504003,RA4NHY,Anton,Kirov,Kirov,RU
@@ -60068,6 +60085,7 @@
 2509174,R9FDQ,,,,RU
 2509175,RV9MD,,,,RU
 2509176,R9DX,,,,RU
+2509177,UB9WEV,,,,RU
 2550001,UZ5DX,Dmytro,Uzhgorod,Zakarpatska,UA
 2550002,UZ5DU,Peter,Vinogradovo,Zakarpatska,UA
 2550003,UR5DGN,Natali,Vinogradovo,Zakarpatska,UA
@@ -61250,6 +61268,8 @@
 2600592,3Z5APKV,Artur,Bronisławów,PLMZ,PL
 2600593,SP4ZHT,ZHP,Działdowo,warmińsko-mazurskie,PL
 2600594,SQ3AUA,Jacek,Pila,PLWP,PL
+2600595,SQ6BBX,Maciej,Oława,dolnośląskie,PL
+2600596,SP7WQV,Edward,Korzecko,świętokrzyskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -66469,6 +66489,9 @@
 2622933,DO1HSP,Ole,Uslar,Niedersachsen / Bremen,DE
 2622934,DO9MWZ,Martin,Zülpich,NW,DE
 2622935,DL3MDZ,Rudolf,87439 Kempten,Bayern,DE
+2622936,DM2PC,Christian,Lauterbach,,DE
+2622937,DL5KIM,Michael,Dirmstein,Rheinland-Pfalz / Saarland,DE
+2622938,DO2BEN,Benjamin,Donaueschingen,,DE
 2623001,DL4BCG,Paul,Jever,NI,DE
 2623002,DG5AV,Gerd,Einbeck,NI,DE
 2623003,DL5HSN,Hendrik,Ihlow,NI,DE
@@ -77067,6 +77090,7 @@
 2680146,CR8ACJ,Hugo,Vila do Porto,Azores,PT
 2680147,CU3BJ,Joao,9700 416 Angra Do Heroismo,Azores,PT
 2680148,CT1KNL,Alberto,Figueira da Foz,Hradec Kralove Region,PT
+2680149,CT1HTH,Manuel,ESTARREJA 3860,Regiao Norte,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -78467,6 +78491,7 @@
 2720264,EI5IHB,Garrett,Bantry,Hradec Kralove Region,IE
 2720265,EI3KD,Mark,Carrigaline,Hradec Kralove Region,IE
 2720266,EI6GSB,Conor,Ardee,,IE
+2720267,EI8KE,Donald,Co Sligo,,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
@@ -81891,6 +81916,9 @@
 2862826,TA2KEI,Ibrahim,SINCAN,Ankara,TR
 2862827,TA1BAM,Ahmet,Istanbul,Istanbul,TR
 2862828,TA3AQO,Baris,Balıkesir,Balikesir,TR
+2862829,TA3APP,Mehmet,Osmangazi,Bursa,TR
+2862830,TA1BBD,Erdem,None,Istanbul,TR
+2862831,TA7KY,Kadir,Sivas,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -82527,6 +82555,7 @@
 2930606,S56BLT,Tomaz,Jesenice,Gorenjska,SI
 2930607,S57BTT,Jože,Radovljica,Hradec Kralove Region,SI
 2930608,S56LA,Andraz,Jesenice,All Regions,SI
+2930609,S56LMW,Mitja,Zirovnica,,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -82563,6 +82592,7 @@
 2940034,Z32EA,Dimitar,Skopje,Skopje,MK
 2940035,Z34GAL,Aleksandar,Ohrid,Ohrid,MK
 2940036,Z34CDF,Stole,34tem3675547099,mk,MK
+2940037,Z33MS,Mitko,Strumica,,MK
 2958001,HB0SPH,Pius,Wallenstadt,Liechtenstein,LI
 2959001,HB0BP,Andreas,Triesen,Oberland,LI
 2959002,HB0PJ,Patrick,Vaduz,Vaduz,LI
@@ -86850,6 +86880,10 @@
 3024237,VE2VHS,Jean,Victoriaville,QC,CA
 3024238,VE3OVO,John,Waterloo,ON,CA
 3024239,VA3DEF,James,Orleans,ON,CA
+3024240,VE2SKX,Daphnee,,QC,CA
+3024241,VE3LDO,Luis,Bolton,ON,CA
+3024242,VA7ELG,Enrico,Burnaby,BC,CA
+3024243,VE7BCJ,James,Surrey,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99964,37 +99998,3 @@
 3113036,W8RED,Tom,Loganville,GA,US
 3113037,W8RED,Tom,Loganville,GA,US
 3113038,KE4QDC,Ferrell,Cumming,GA,US
-3113039,KD4APP,Donald,Ball Ground,GA,US
-3113040,W4OO,Bill,Cumming,GA,US
-3113041,W4OO,Bill,Cumming,GA,US
-3113042,W4NOC,Kenneth,Mcdonough,GA,US
-3113043,N4IRR,Michael,Marietta,GA,US
-3113044,WB4QDX,John,Lawrenceville,GA,US
-3113045,KU6E,Anthony,Spencerport,NY,US
-3113046,KG4MUV,Kevin,Buford,GA,US
-3113047,WA4YIH,William,Buford,GA,US
-3113048,KD4YDD,Scott,Dacula,GA,US
-3113049,N4NFP,Frank,Chatsworth,GA,US
-3113050,N4NFQ,James,Chatsworth,GA,US
-3113051,KG4BKO,Bill,Vidalia,GA,US
-3113052,KG4RNK,Parham,Marietta,GA,US
-3113053,KG4RSR,Saeed,Woodstock,GA,US
-3113054,K4QHR,Pete,Kingsland,GA,US
-3113055,WC4DK,Charles,Cleveland,GA,US
-3113056,KC6OVD,Kevin,Acworth,GA,US
-3113057,W4GA,Bob,Blue Ridge,GA,US
-3113058,KK4JII,Payne,Acworth,GA,US
-3113059,KC4ZUB,Bill,Atlanta,GA,US
-3113060,N4XTS,Erik,Smyrna,GA,US
-3113061,WA4MT,Joseph,Waco,GA,US
-3113062,K4BRA,Marcio,Locust Grove,GA,US
-3113063,W4SIJ,Steven,Atlanta,GA,US
-3113064,KK4LOQ,Brian,Alpharetta,GA,US
-3113065,K4QHR,Pete,Kingsland,GA,US
-3113066,KD4APP,Donald,Ball Ground,GA,US
-3113067,KG4EEE,Eric,Atlanta,GA,US
-3113068,KG4WIV,Mark,Woodstock,GA,US
-3113069,KE4URL,Nirmal,Whigham,GA,US
-3113070,W4AMP,James,Dallas,GA,US
-3113071,N4RFC,Bob,Woodstock,GA,US
-3113072,W4ATL,R,Atlanta,GA,US
