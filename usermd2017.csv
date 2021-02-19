@@ -11534,6 +11534,7 @@
 2040248,PA3GWS,Albert,Delft,,NL
 2040249,PD5RAY,Raymund,Arnhem,,NL
 2040250,PD7SDB,Stef,Arnhem,,NL
+2040251,PA3KUS,Driekus,Rotterdam,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -14228,7 +14229,7 @@
 2060388,ON8PIE,Petrus,Lommel,VLI,BE
 2060389,ON6FP,Ronny,Zellik,Vlaams Brabant,BE
 2060390,ON4ASU,Elie,Laplaigne,WHT,BE
-2060391,ON7TV,Michel,4910 Theux,Hradec Kralove Region,BE
+2060391,ON7TV,Michel,4910 Theux,,BE
 2060392,ON4QE,Stefan,Stekene,O-V,BE
 2060393,OO0Q,Rudy,Deinze,O-V,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
@@ -15989,10 +15990,11 @@
 2080652,F4KMC,Emcomm-01,Bourg En Bresse,Rhone-Alpes,FR
 2080653,F1BLH,Christian,FONSORBES,Midi-Pyrenees,FR
 2080654,F4GUE,Berit,Nay,Aquitaine,FR
-2080655,F6BCD,Logel,GONDREVILLE,Hradec Kralove Region,FR
+2080655,F6BCD,Logel,Gondreville,,FR
 2080656,F1AMM,François,None,IF,FR
 2080657,F4KKH,Beta,Chartres,Pays de la Loire,FR
 2080658,F4HLQ,Thierry,Les SAUVAGES,Rhone-Alpes,FR
+2080659,F5AJG,Pascal,Saint REMY DU NORD,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -18671,7 +18673,7 @@
 2140958,EA4HCJ,Alfonso,Guadalajara,Castile-La Mancha,ES
 2140959,EA2EQW,Michel,Zaragoza,Aragon,ES
 2140960,EA5IFS,Diego,Elda,Alicante,ES
-2140961,EA4CQK,Juan,Cartagena,Hradec Kralove Region,ES
+2140961,EA4CQK,Juan,Cartagena,,ES
 2140962,EB5AD,José,Zaragoza,Aragon,ES
 2140963,EA7DQ,Manuel,Palma Del Rio,Andalucia,ES
 2140964,EA1BMR,Fernando,A Coruna,La Coruna,ES
@@ -18679,20 +18681,20 @@
 2140966,EB5DT,Juan,Totana,Murcia,ES
 2140967,EA1SN,Amador,Salamanca,Salamanca,ES
 2140968,EA7KKV,Ruben,Palma del rio,Cordoba,ES
-2140969,EA7KAZ,Jose,Peñarroya-Pueblonuevo (Córdoba),Hradec Kralove Region,ES
+2140969,EA7KAZ,Jose,Córdoba,,ES
 2140970,EA3HMN,Iván,Barcelona,Barcelona,ES
 2140971,EB1DFH,Daniel,Logroño,La Rioja,ES
-2140972,EA7ADA,Antonio,Almeria,Hradec Kralove Region,ES
+2140972,EA7ADA,Antonio,Almeria,,ES
 2140973,EA2TP,Jagoba,Getxo,Vizcaya,ES
 2140974,EA8BLV,Fernando,38410 Los REALEJOS - TENERIFE - CANARY ISLANDS,Santa Cruz de Tenerife,ES
 2140975,EA7KOF,Pedro,Albox,Almeria,ES
 2140976,EA5JEE,Gustavo,Mislata,Valencia,ES
 2140977,EA4CO,Miguel,Paracuellos De Jarama Madrid,Madrid,ES
-2140978,EA5HNF,Rafael,Alicante,Hradec Kralove Region,ES
+2140978,EA5HNF,Rafael,Alicante,,ES
 2140979,EA3CJ,Josep,Calafell,Tarragona,ES
 2140980,EA3IGW,Sergi,Reus,Tarragona,ES
 2140981,EA4HU,Marcelo,MADRID,Madrid,ES
-2140982,EA2BUV,José,Bilbao,Hradec Kralove Region,ES
+2140982,EA2BUV,José,Bilbao,,ES
 2140983,EA1ITY,Miguel,alfaro,La Rioja,ES
 2140984,EA7KOG,Manuel,Herce,Sevilla,ES
 2140985,EA4BRL,Francisco,Puertollano,Ciudad Real,ES
@@ -20391,7 +20393,7 @@
 2142678,EA2DLQ,Gustavo,Ansoain,Navarra,ES
 2142679,EA1TE,Carlos,Suances,Cantabria,ES
 2142680,EA1HWA,Alberto,Mieres,Asturias,ES
-2142681,EA4ATK,Antonio,Villanueva de la Cañada,Hradec Kralove Region,ES
+2142681,EA4ATK,Antonio,Villanueva De La Cañada,,ES
 2142682,EA1IAM,Diego,Galicia,Galicia,ES
 2142683,EA1HRU,Julian,Avila,Castilla y Leon,ES
 2142684,EA1GY,Mariano,Aviles,Asturias,ES
@@ -20415,7 +20417,7 @@
 2142702,EA4HJW,Víctor,Rivas Vaciamadrid,Madrid,ES
 2142703,EA7JFB,Paco,BAZA,Granada,ES
 2142704,EB7GBG,Medina,Setenil,Cadiz,ES
-2142705,EA5JAO,Antonio,Benejuzar Alicante,Hradec Kralove Region,ES
+2142705,EA5JAO,Antonio,Benejuzar Alicante,,ES
 2142706,EA7JKU,Manuel,ALMARGEN,Malaga,ES
 2142707,EB5DPJ,Antonio,ELCHE IM98PG,Alicante,ES
 2142708,EA4GCT,Jose,CIUDAD REAL,Ciudad Real,ES
@@ -20423,6 +20425,8 @@
 2142710,EA4HME,Salvador,Alcobendas,Madrid,ES
 2142711,EB1GPR,Angel,Monforte de Lemos,Lugo,ES
 2142712,EA7KLR,Juan,San Jose de la Rinconada,Sevilla,ES
+2142713,EA8DLF,Jose,Las PALMAS De GRAN CANARIA,Las Palmas,ES
+2142714,EA7IXI,Paco,Sevilla,Sevilla,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -24331,6 +24335,7 @@
 2160071,HA1OLI,Oliver,Gyor,Gyor-Moson-Sopron,HU
 2160072,HA6WE,Attila,Tarnaszentmaria,Heves,HU
 2160073,HG5BZN,Karoly,Budapest,Budapest,HU
+2160074,HA8LPT,Attila,Deszk,,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -25561,16 +25566,17 @@
 2190414,9A4DC,Damir,Zadar,Zadar County,HR
 2190415,9A1BST,Radio,ZADAR CROATIA 23000,Zadar County,HR
 2190416,9A1CLU,Radio,Zadar,Zadar County,HR
-2190417,9A6V,Radio,ZADAR CROATIA 23000,Hradec Kralove Region,HR
+2190417,9A6V,Radio,Zadar,,HR
 2190418,9A1CCN,Radio,Zadar,Zadar County,HR
 2190419,9A1CHB,Radio,Zadar,Zadar County,HR
 2190420,9A1CKM,Radio,Zadar,Zadar County,HR
 2190421,9A6DRZ,Nikša,Šenkovec,Zagreb county,HR
 2190422,9A3LET,Leonardo,Cakovec,Medimurje County,HR
-2190423,9A5ZS,Sinisa,Split,Hradec Kralove Region,HR
+2190423,9A5ZS,Sinisa,Split,,HR
 2190424,9A6SQT,Josip,Risika,Primorje-Gorski County,HR
 2190425,9A7PJT,Toni,Split 21000,,HR
 2190426,9A6KBQ,Cvijeto,20236 N MOKOSICA DUBROVNIK,,HR
+2190427,9A4VT,Misko,GRADINA,Virovitica-Podravina County,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -25888,10 +25894,10 @@
 2200315,YU7WA,Srdjan,Novi Sad,Vojvodina,RS
 2200316,YU7RED,Darko,Backa Palanka,Vojvodina,RS
 2200317,YU1NDN,Dragan,Belgrade,Belgrade,RS
-2200318,YT8MIK,Marko,Kamenica,Hradec Kralove Region,RS
-2200319,YU4HAK,Vojislav,Belgrade,Hradec Kralove Region,RS
-2200320,YU4GTX,Milan,Valjevo,Hradec Kralove Region,RS
-2200321,YU1HU,Miroslav,Belgrade,Hradec Kralove Region,RS
+2200318,YT8MIK,Marko,Kamenica,,RS
+2200319,YU4HAK,Vojislav,Belgrade,,RS
+2200320,YU4GTX,Milan,Valjevo,,RS
+2200321,YU1HU,Miroslav,Belgrade,,RS
 2200322,YU0W,Aleksandar,Belgrade,,RS
 2210001,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
 2210002,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
@@ -33625,6 +33631,8 @@
 2227728,IU0JIK,Roberto,Labico,Lazio / Umbria / Sardinia,IT
 2227729,IZ3KVI,Gabriele,30016 Lido di Jesolo VE,,IT
 2227730,IT9DML,Maria,PALERMO,Sicily,IT
+2227731,IZ2RVY,Giulio,Laveno Mombello,LOM,IT
+2227732,IK2VOV,Gilberto,Milano Mi,LOM,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -34968,14 +34976,15 @@
 2260103,YO5PWB,Pacurar,Cluj-Napoca,Transylvania,RO
 2260104,YO9HZB,Petculescu,Ploiesti,Prahova,RO
 2260105,YO5OMT,Mihai,Dezmir,Transylvania,RO
-2260106,YO5PDC,Cristi,Oradea,Hradec Kralove Region,RO
+2260106,YO5PDC,Cristi,Oradea,,RO
 2260107,YO5PBY,Daniel,Cluj-Napoca,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
 2260108,YO5JM,Mircea,Com. Feleacu,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
 2260109,YO8DUD,Radu,Cluj-Napoca,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
-2260110,YO5OSW,Adrian,Bistrita,Hradec Kralove Region,RO
+2260110,YO5OSW,Adrian,Bistrita,,RO
 2260111,YO6DHE,Dan,Sibiu,Brasov / Covasna / Harghita / Mures / Sibiu,RO
 2260112,YO5PUV,Emil,Cluj Napoca,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
 2260113,YO9ADV,Mihai,BUCURESTI,Bucuresti / Ilfov,RO
+2260114,YO7ADZ,Salan,Stefanesti,Arges / Dolj / Gorj / Mehedinti / Olt / Valcea,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,RO
@@ -35527,7 +35536,7 @@
 2280022,HB3XWT,Jean,Rickenbach Sulz,Zurich,CH
 2280023,HB9DAG,Bernhard,Lützelflüh,Bern,CH
 2280024,HB9HDI,Martin,Hüntwangen,Zurich,CH
-2280025,HB9HAN,Roland,None,Hradec Kralove Region,CH
+2280025,HB9HAN,Roland,None,,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -37225,7 +37234,7 @@
 2300110,OK5TW,Ladislav,Ostrov,Ustecky,CZ
 2300111,OK9SMS,Tomas,Lenešice,Ustecky,CZ
 2300112,OK9KAM,Stepanek,Chomutov,Ustecky,CZ
-2300113,OK1AR,Zdenek,44101 Podborany,Hradec Kralove Region,CZ
+2300113,OK1AR,Zdenek,Podborany,Hradec Kralove Region,CZ
 2300114,OK1TNP,Petr,Kladno,Hradec Kralove Region,CZ
 2300115,OK2PDM,Vladimir,Jihlava,Hradec Kralove Region,CZ
 2300116,OK1CKK,Jiří,Kladno,Hradec Kralove Region,CZ
@@ -37951,7 +37960,7 @@
 2320034,OE6TZD,Thomas,Mitterdorf an der Raab,Weiz,AT
 2320035,OE5URM,Rudolf,Kallham,Oberoesterreich,AT
 2320036,OE1KLA,Karl,Wien,Wien,AT
-2320037,OE7MAH,Markus,Schwaz,Hradec Kralove Region,AT
+2320037,OE7MAH,Markus,Schwaz,,AT
 2320038,OE1GIU,Gerhard,Vienna,Wien,AT
 2320039,OE3BMW,Bernd,Maria Enzersdorf,Niederoesterreich,AT
 2320040,OE5GKL,Guenther,4861 Schoerfling,Oberoesterreich,AT
@@ -40075,6 +40084,9 @@
 2340400,2E1BFH,Mike,Wellingborough,,UK
 2340401,G0BUS,Joe,Bedford,England,UK
 2340402,M7BPO,Tyler,Hastings,England,UK
+2340403,M7BKP,David,Poole,England,UK
+2340404,GM0DXI,Harry,Biggar,Scotland,UK
+2340405,G6HBK,Philippa,Huddersfield,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -54777,7 +54789,7 @@
 2400592,SM7JLM,Martin,Ängelholm,Skane,SE
 2400593,SM5UUP,Tommy,Koping,Vastmanland,SE
 2400594,SM5OSZ,Hakan,Kisa,,SE
-2400595,SG7WSE,Fricke,Ekenassjon,Hradec Kralove Region,SE
+2400595,SG7WSE,Fricke,Ekenassjon,,SE
 2400596,SM0LQB,Stellan,Tumba,,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
@@ -56385,10 +56397,10 @@
 2420216,LB9GG,Amund,Nannestad,Akershus,NO
 2420217,LA4THA,Bård,7081 SJETNEMARKA,Sor-Trondelag / Nord-Trondelag,NO
 2420218,LB7PC,Erik,Drammen,Buskerud / Oppland / Hedmark,NO
-2420219,LB2WD,Leif,4820 Froland,Hradec Kralove Region,NO
+2420219,LB2WD,Leif,4820 Froland,,NO
 2420220,LA2TAL,Total,None,Buskerud / Oppland / Hedmark,NO
-2420221,LA6WLA,Torbjorn,4838 Arendal,Hradec Kralove Region,NO
-2420222,LA1PLA,Bjorn,Malmefjorden,Hradec Kralove Region,NO
+2420221,LA6WLA,Torbjorn,4838 Arendal,,NO
+2420222,LA1PLA,Bjorn,Malmefjorden,,NO
 2420223,LB8VI,Torbjørn,Skudeneshavn,Rogaland,NO
 2420224,LA0HY,Guillermo,Krokstadelva,,NO
 2420225,LB2BF,Inge,Bremanger,More og Romsdal / Sogn og Fjordane,NO
@@ -59463,7 +59475,7 @@
 2504069,R4YABC,Denis,Chuvash,Respublika Chuvashiya,RU
 2504070,UB4SAP,Vladimir,Moscow,Moscow,RU
 2504071,RA4FRI,,,,RU
-2504072,R4HHV,Alexej,,Hradec Kralove Region,RU
+2504072,R4HHV,Alexej,,,RU
 2504073,R4SAR,,,,RU
 2504074,RV4SAT,,,,RU
 2504075,R4HGB,,,,RU
@@ -59475,7 +59487,7 @@
 2504081,R4PEF,,,,RU
 2504082,R4PCO,Anton,Almetyevsk,Tatarstan,RU
 2504083,UF4S,,,,RU
-2504084,R4SBM,Maksim,Krasnogorsk,Hradec Kralove Region,RU
+2504084,R4SBM,Maksim,Krasnogorsk,,RU
 2504085,RA4FKZ,,,,RU
 2504086,R4SBJ,Mihail,Moscow,Moscow,RU
 2504087,R4SBA,Evgenii,Moscow,Moscow,RU
@@ -60565,7 +60577,7 @@
 2550449,UR5YVK,Vic,Chernivtsi,Chernivtsi,UA
 2550450,UT8IIQ,Mykola,Kramatorsk,Kramatorsk,UA
 2550451,UT3UDX,Shaposhnikov,Kiev,Kiev,UA
-2550452,UR5WFA,Bogdan,Lviv,Hradec Kralove Region,UA
+2550452,UR5WFA,Bogdan,Lviv,,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -60668,9 +60680,10 @@
 2570100,EW1OK,Mikhail,Minsk,Minsk,Belarus
 2570101,EU1AEP,Aliaksei,Minsk,Minsk,Belarus
 2570102,EU1AT,Aleh,Minsk,Minsk,Belarus
-2570103,EW3AEW,Dmitry,Bereza,Hradec Kralove Region,Belarus
-2570104,EW7BBI,Ihar,Mogilev,Hradec Kralove Region,Belarus
-2574001,EU4DGC,Pavel,Grodno,Hradec Kralove Region,Belarus
+2570103,EW3AEW,Dmitry,Bereza,,Belarus
+2570104,EW7BBI,Ihar,Mogilev,,Belarus
+2570105,EW1EB,Yuryy,Minsk,,Belarus
+2574001,EU4DGC,Pavel,Grodno,,Belarus
 2590001,ER1AL,Vadim,Kishinev,Chisinau,Moldova
 2590002,ER1VOX,Dumitru,Chisinau,Chisinau,Moldova
 2590003,ER1MSC,Serghei,Chisinau,Chisinau,Moldova
@@ -61298,7 +61311,8 @@
 2600594,SQ3AUA,Jacek,Pila,PLWP,PL
 2600595,SQ6BBX,Maciej,Oława,dolnośląskie,PL
 2600596,SP7WQV,Edward,Korzecko,świętokrzyskie,PL
-2600597,SP1LON,Piotr,Dobra,PLZP,PL
+2600597,SP1LON,Piotr,Dobra,PLPM,PL
+2600598,SP6AW,Andrzej,Miłkowice,dolnośląskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -66524,6 +66538,8 @@
 2622939,DO6WW,Wolfgang,Hopsten,,DE
 2622940,DD0ZM,Matthias,,,DE
 2622941,DG1KDB,Dirk,Wipperfürth,NW,DE
+2622942,DB3FC,Hans,Höchst,HE,DE
+2622943,DL3KBL,Peter,Wesseling,NW,DE
 2623001,DL4BCG,Paul,Jever,NI,DE
 2623002,DG5AV,Gerd,Einbeck,NI,DE
 2623003,DL5HSN,Hendrik,Ihlow,NI,DE
@@ -77123,6 +77139,8 @@
 2680147,CU3BJ,Joao,9700 416 Angra Do Heroismo,Azores,PT
 2680148,CT1KNL,Alberto,Figueira Da Foz,,PT
 2680149,CT1HTH,Manuel,ESTARREJA 3860,Regiao Norte,PT
+2680150,CR7AZX,Rui,Vila de Prado,Regiao Norte,PT
+2680151,CT2DYF,Pedro,Lisboa,Regiao de Lisboa,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -78086,7 +78104,7 @@
 2700018,LX6LS,Lucilius,Luxembourg,WLX,LU
 2700019,LX1DM,Marc,Belvaux,WLX,LU
 2700020,LX1LJ,Jean,Esch/alzette,WLX,LU
-2700021,LX1WP,Tom,Esch sur Sure,Hradec Kralove Region,LU
+2700021,LX1WP,Tom,Esch Sur Sure,,LU
 2701001,LX1CK,Christian,Hautcharage,WLX,LU
 2701002,LX2KA,Arsene,Kayl,WLX,LU
 2701003,LX1SC,Claude,Oberkorn,WLX,LU
@@ -78519,12 +78537,13 @@
 2720260,EI2PMD,Ger,Dublin,Leinster,IE
 2720261,EI6HVB,Przemyslaw,Dublin,Leinster,IE
 2720262,EI5IQB,Nikolaos,Dublin,All Regions,IE
-2720263,EI2KE,Patrick,Castlebar,Hradec Kralove Region,IE
-2720264,EI5IHB,Garrett,Bantry,Hradec Kralove Region,IE
-2720265,EI3KD,Mark,Carrigaline,Hradec Kralove Region,IE
+2720263,EI2KE,Patrick,Castlebar,,IE
+2720264,EI5IHB,Garrett,Bantry,,IE
+2720265,EI3KD,Mark,Carrigaline,,IE
 2720266,EI6GSB,Conor,Ardee,,IE
 2720267,EI8KE,Donald,Co Sligo,,IE
 2720268,EI4KH,Denis,Watergrasshill,,IE
+2720269,EI5KY,David,Malahide,,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
@@ -79117,10 +79136,10 @@
 2840441,LZ1VCD,Viktor,Sofia,Sofia,BG
 2840442,LZ2STA,Stanimir,Vraca,Vraca,BG
 2840443,LZ1SET,Evgeny,Sofia,Sofia,BG
-2840444,LZ1MEH,Momchil,sofia,Hradec Kralove Region,BG
-2840445,LZ1MMH,Milen,Sofia,Hradec Kralove Region,BG
+2840444,LZ1MEH,Momchil,Sofia,,BG
+2840445,LZ1MMH,Milen,Sofia,,BG
 2840446,LZ1MSE,Zlatislav,Sofia,All Regions,BG
-2840447,LZ1LXB,Bill,Yambol,Hradec Kralove Region,BG
+2840447,LZ1LXB,Bill,Yambol,,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -81873,7 +81892,7 @@
 2862750,TA5AIZ,Bayram,yalınayak,Mersin,TR
 2862751,TB5CBX,Samet,ereglı,Konya,TR
 2862752,TA8SFK,Ferat,Gaziantep,Gaziantep,TR
-2862753,TA1AQW,Alper,Eyüpsultan,Hradec Kralove Region,TR
+2862753,TA1AQW,Alper,Eyüpsultan,,TR
 2862754,TA1AVE,Edkin,istanbul,Istanbul,TR
 2862755,TA3APT,Umut,KARSIYAKA,Izmir,TR
 2862756,TA1AVS,Fatma,Turkiye,Istanbul,TR
@@ -81896,53 +81915,53 @@
 2862773,TA4AIX,Ragip,ANTALYA,Antalya,TR
 2862774,TA2BJN,Onur,34885 İstanbul,Istanbul,TR
 2862775,TB4CBM,Bektas,Aydin,Aydin,TR
-2862776,TB2HMS,Magruf,Kocaeli,Hradec Kralove Region,TR
+2862776,TB2HMS,Magruf,Kocaeli,,TR
 2862777,TB7GRY,Resul,Gıresun,Ordu,TR
 2862778,TA2ASS,Sadık,Ataşehir,Istanbul,TR
 2862779,TA2BGQ,Metin,Eskişehir,Eskisehir,TR
 2862780,TA2BGP,Mehmet,Eskişehir,Eskisehir,TR
-2862781,TA2BAU,Oğuz,Karabuk,Hradec Kralove Region,TR
-2862782,TB2ABJ,Mete,Karabuk,Hradec Kralove Region,TR
+2862781,TA2BAU,Oğuz,Karabuk,,TR
+2862782,TB2ABJ,Mete,Karabuk,,TR
 2862783,TB1TKN,Pehlül,İstanbul,Istanbul,TR
 2862784,TA1ITU,Ilayda,Suleymanpasa,Tekirdad,TR
-2862785,TA2OM,Mehmet,Dikimevi Ankara,Hradec Kralove Region,TR
+2862785,TA2OM,Mehmet,Dikimevi Ankara,,TR
 2862786,TA2BKF,Arman,Ankara,Ankara,TR
-2862787,TA3ARI,Emirhan,Bursa,Hradec Kralove Region,TR
-2862788,TB1ABV,Gençay,KIRKLARELİ,Hradec Kralove Region,TR
+2862787,TA3ARI,Emirhan,Bursa,,TR
+2862788,TB1ABV,Gençay,Kirklareli̇,,TR
 2862789,TA3NYB,Yagiz,Bandırma,Balikesir,TR
 2862790,TA5MCZ,Mehmet,İskenderun,Hatay,TR
 2862791,TA3AUW,Osman,Menemen,Izmir,TR
-2862792,TA2BLX,Resat,CAYCUMA,Hradec Kralove Region,TR
+2862792,TA2BLX,Resat,Caycuma,,TR
 2862793,TA2BCB,Serdar,odunpazarı,Eskisehir,TR
 2862794,TA2AVG,Bugra,,Istanbul,TR
 2862795,TA4ALX,Ercan,Efeler,Aydin,TR
-2862796,TB1DEA,Efe,kirklareli,Hradec Kralove Region,TR
-2862797,TA2KI,Riza,ESKISEHIR,Hradec Kralove Region,TR
+2862796,TB1DEA,Efe,Kirklareli,,TR
+2862797,TA2KI,Riza,Eskisehir,,TR
 2862798,TA1KMA,Muhammed,Esenler Istanbul,Istanbul,TR
 2862799,TA1BAB,Murat,İstanbul,Istanbul,TR
 2862800,TA1BAA,Ali,İstanbul,Istanbul,TR
 2862801,TA2BMM,Abdullah,Adapazari,Sakarva,TR
 2862802,TB2TTZ,Nurhan,Umraniye,Istanbul,TR
-2862803,TB2BJH,Ömer,Yalova,Hradec Kralove Region,TR
+2862803,TB2BJH,Ömer,Yalova,,TR
 2862804,TA1AXR,Cem,Istanbul,Istanbul,TR
 2862805,TA2BKU,Sami,Yenimahalle,Ankara,TR
 2862806,TA1BAV,Kaan,Istanbul,Istanbul,TR
 2862807,TA2MZB,Mehmet,Üsküdar,Istanbul,TR
 2862808,TA5AIJ,Yiğit,Konya,Konya,TR
 2862809,TA2BLH,Zuhtu,Istanbul,Istanbul,TR
-2862810,TA2NSD,Secaatti̇n,BOLU,Hradec Kralove Region,TR
+2862810,TA2NSD,Secaatti̇n,Bolu,,TR
 2862811,TA2BHT,Gokay,SAPANCA,Sakarva,TR
 2862812,TB5CCH,Hilmi,ereğli,Konya,TR
 2862813,TA9TC,Melik,ERZURUM,Erzurum,TR
-2862814,TB1GHM,Huseyin,Edirne,Hradec Kralove Region,TR
+2862814,TB1GHM,Huseyin,Edirne,,TR
 2862815,TA3HH,Fi̇Kri̇,İZMİR,Aydin,TR
 2862816,TA3ABQ,Hasan,TURKEY,Bursa,TR
 2862817,TA3AHV,Bariş,SALİHLİ,Manisa,TR
 2862818,TA2BEA,Levent,Cekmekoy,Istanbul,TR
-2862819,TA2BLC,Hamdi,YALOVA,Hradec Kralove Region,TR
+2862819,TA2BLC,Hamdi,Yalova,,TR
 2862820,TB1GUO,Gürkan,Kırklareli Türkiye,Istanbul,TR
 2862821,TB2AEW,Ümit,izmit,Kocael,TR
-2862822,TB4BZJ,Ekrem,AFYONKARAHİSAR,Hradec Kralove Region,TR
+2862822,TB4BZJ,Ekrem,Afyonkarahi̇sar,,TR
 2862823,TA2BLA,Raif,Turkey,Istanbul,TR
 2862824,TA3AQU,Serhat,Karşıyaka,Izmir,TR
 2862825,TA2BMH,Tarık,İstanbul,Istanbul,TR
@@ -81960,6 +81979,12 @@
 2862837,TA6ABH,Dogancan,SAMSUN,Samsun,TR
 2862838,TB2ABT,Ibrahim,Bolu,,TR
 2862839,TA7ALF,Salih,KAYSERİ,Kayseri,TR
+2862840,TA2BLI,Emre,gebze,Kocael,TR
+2862841,TB5PAO,Ayhan,KONYA,Konya,TR
+2862842,TA6LM,Ercan,Samsun,Samsun,TR
+2862843,TA2BNF,Hüseyin,Adapazarı,Sakarva,TR
+2862844,TA1SYB,Yılmaz,Silivri İstanbul,Istanbul,TR
+2862845,TA5DW,Yakup,Konya,Konya,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -82594,7 +82619,7 @@
 2930604,S52WG,Tomaz,Smartno Ob Paki,Savinja,SI
 2930605,S54TP,Tomaz,Benedikt,Podravska,SI
 2930606,S56BLT,Tomaz,Jesenice,Gorenjska,SI
-2930607,S57BTT,Jože,Radovljica,Hradec Kralove Region,SI
+2930607,S57BTT,Jože,Radovljica,,SI
 2930608,S56LA,Andraz,Jesenice,All Regions,SI
 2930609,S56LMW,Mitja,Zirovnica,,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
@@ -99973,28 +99998,3 @@
 3112966,W4IJJ,John,Jacksonville,FL,US
 3112967,AJ4LU,David,Lutz,FL,US
 3112968,KD4JMV,Harry,Naples,FL,US
-3112969,W0MGA,Michael,Jacksonville,FL,US
-3112970,KK4DQJ,Francis,Naples,FL,US
-3112971,W4MO,Stewart,Venice,FL,US
-3112972,W1LVL,George,Holly Hill,FL,US
-3112973,KM4STV,Lucy,Jensen Beach,FL,US
-3112974,K4JDG,John,Venice,FL,US
-3112975,N4ZQ,George,Dunedin,FL,US
-3112976,W4YCN,Edward,Tampa,FL,US
-3112977,WA8NCN,Gary,Fort Myers,FL,US
-3112978,KJ4YDI,Dale,Fort Myers,FL,US
-3112979,K1OM,Charles,Alachua,FL,US
-3112980,KG4BFR,Tiernan,Hollywood,FL,US
-3112981,KG7NCI,Trokon,Gainesville,FL,US
-3112982,NN4DF,David,Gainesville,FL,US
-3112983,KJ4SHL,Ryan,Tampa,FL,US
-3112984,KP2US,Peter,Miami Beach,FL,US
-3112985,N1COR,Corey,Tampa,FL,US
-3112986,KM4RBB,Ruben,Boca Raton,FL,US
-3112987,K4RMM,Larry,Orlando,FL,US
-3112988,K4WDW,Kathy,Orlando,FL,US
-3112989,KA3FZO,Gary,Monticello,FL,US
-3112990,W1GLV,Robert,Gainesville,FL,US
-3112991,KA3FZO,Gary,Monticello,FL,US
-3112992,K4MER,William,Palm Bay,FL,US
-3112993,PU2TAW,Agnaldo,Florida,FL,US
