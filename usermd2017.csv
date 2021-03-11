@@ -10055,6 +10055,8 @@
 2020335,SV1JSR,Panos,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020336,SY2BSM,Ειρηνη,ΘΕΣΣΑΛΟΝΙΚΗ,,GR
 2020337,SY1DNN,Michail,Markopoulo Attica,Attiki / Sterea Ellada / Dytiki Ellada,GR
+2020338,SV1DKZ,Charalampos,derveni-korinthia,Peloponnisos,GR
+2020339,SV1EEX,Nikiforos,Kallipoli Piraeus,,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11549,6 +11551,7 @@
 2040256,PA5MS,John,5473 TC Heeswijk,,NL
 2040257,PE1NSL,Chis,1021EM AMSTERDAM,Overijsseel / Flevoland,NL
 2040258,PA0GKE,Geert,Purmerend,N-H,NL
+2040259,PA0PRA,P,Rosmalen,,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16039,6 +16042,7 @@
 2080679,F1UNG,Jean,SAVIGNEUX,,FR
 2080680,F5DEQ,Michel,Argeles-Gazost,Midi-Pyrenees,FR
 2080681,F4ING,Philippe,Paris,IF,FR
+2080682,F1SAA,Galard,Lyon,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -25680,7 +25684,8 @@
 2190434,9A3TR,Horvat,VARAZDIN,Varzdin County,HR
 2190435,9A1HDE,Radio,Varazdin,,HR
 2190436,9A3VU,Viktor,Slavonski Brod,,HR
-2190437,9A5BDE,Damir,PUCISCA ISLAND BRAC,,HR
+2190437,9A5BDE,Damir,Split,,HR
+2190438,9A3KG,Jure,Split,,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -33815,6 +33820,12 @@
 2227804,IU5PEP,Alessio,Prato,TOS,IT
 2227805,IZ5MOI,Francesco,Altopascio,TOS,IT
 2227806,IU5OYK,Andrea,Buti,TOS,IT
+2227807,IU3OVL,Francesco,Vicenza,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2227808,IU8GUK,Luigi,Polistena,Molise / Campania / Calabria,IT
+2227809,IZ2ZZS,Luca,Busto Garolfo,LOM,IT
+2227810,IU2PAY,Simone,Vaprio D Adda Milano,LOM,IT
+2227811,IW1GRP,Pier,San Giorgio C se,Piedmont / Liguria / Aosta,IT
+2227812,IU4PCW,Marco,Bologna,Emilia-Romagna,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -37446,6 +37457,7 @@
 2300124,OK4GP,Vitezslav,Pelhřimov,Vysocina Region,CZ
 2300125,OK1OLA,Martin,Prague,Prague,CZ
 2300126,OK1FFH,Mojmir,569 14,,CZ
+2300127,OK2IKT,Radek,Lichnov,,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -40430,6 +40442,16 @@
 2340532,M7MLC,Martyn,Southampton,England,UK
 2340533,2E0RFE,Martin,Mirfield,England,UK
 2340534,M7KZT,Leigh,Peterborough,England,UK
+2340535,MM7LOX,Malcolm,Edinburgh,Scotland,UK
+2340536,G8FIE,Nigel,Wokingham,England,UK
+2340537,M5MSX,Martin,Norwich,England,UK
+2340538,M7BQW,Darren,Hebburn,England,UK
+2340539,M7BQX,Alistair,Basingstoke,England,UK
+2340540,M7DKG,Iian,Brighton,England,UK
+2340541,M7TAV,Jim,Basingstoke,England,UK
+2340542,G7CLR,Andrew,Chorley,England,UK
+2340543,M0JNJ,John,Lowestoft,England,UK
+2340544,G8UUC,George,Wallasey,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -55145,6 +55167,10 @@
 2400600,SM4YIK,Kermith,Orebro,Orebro,SE
 2400601,SL6ZAQ,Fro,Stenungsund,Vastra Gotaland,SE
 2400602,SM7LBB,Olle,Ljungbyhed,Skane,SE
+2400603,SA7PVK,Anna,Ekenassjon,Jonkoping,SE
+2400604,SM4SUC,Bjorn,Saffle,Varmland,SE
+2400605,SM4KVP,Per,Höje,Varmland,SE
+2400606,SA7CJJ,Jimmie,Olofström,Blekinge,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -56762,6 +56788,8 @@
 2420227,LA6GGA,Kim,9593 Breivikbotn,Finnmark / Troms / Nordland,NO
 2420228,LB2OI,Vidar,Norheimsund,Hordaland,NO
 2420229,LA2CMA,Anders,Trondheim,Sor-Trondelag / Nord-Trondelag,NO
+2420230,LA8MLA,Ronny,Maura,Akershus,NO
+2420231,LB4XI,Fred,2007 Kjeller,Akershus,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -60973,6 +61001,7 @@
 2550452,UR5WFA,Bogdan,Lviv,,UA
 2550453,UT3UQM,Zozulski,Kyiv,All Regions,UA
 2550454,UR0WUA,Azimuth,Lviv,,UA
+2550455,UR3LCM,Ihor,Kharkiv,,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -61724,6 +61753,8 @@
 2600609,SP6APM,Pawel,Dzierzoniow,dolnośląskie,PL
 2600610,SP3IK,Wojciech,60 161 Poznan,PLWP,PL
 2600611,SQ6BMW,Robert,Wrocław,dolnośląskie,PL
+2600612,SQ8JMZ,Robert,Rakszawa,PLPK,PL
+2600613,SP5DVB,Tadeusz,Kutno,łódzkie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -82588,6 +82619,7 @@
 2862954,TA5ALQ,Emre,Adana,Adana,TR
 2862955,TB1DTT,Tamer,Kırklareli,,TR
 2862956,TA4LBT,Bulent,Serik,Antalya,TR
+2862957,TA7MRL,Mehmet,Trabzon,Trabozon,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -87570,7 +87602,7 @@
 3024254,VE7ENU,James,Vancouver,BC,CA
 3024255,VE2DTJ,Yves,Salaberry De Valleyfield,QC,CA
 3024256,VA3MRJ,David,Kitchener,ON,CA
-3024257,VE7PYE,Joe,Coquitlam,BC,CA
+3024257,VE7JOM,Joe,Coquitlam,BC,CA
 3024258,VE3KVD,Thomas,Stratford,ON,CA
 3024259,VE7WOI,Kenneth,Nelson,BC,CA
 3024260,VE3HAZ,D,Orleans,ON,CA
@@ -87603,6 +87635,9 @@
 3024287,VE1FFA,Francis,Kingston,NS,CA
 3024288,VA3FWT,Fred,Brampton,ON,CA
 3024289,VE3AJX,Manuel,Etobicoke,ON,CA
+3024290,VA2YMX,Maxime,Mille Isles,QC,CA
+3024291,VA3MHO,Michael,,ON,CA
+3024292,VE3MHT,Mark,Sault Ste Marie,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99963,38 +99998,3 @@
 3112275,K4LWC,Larry,Milton,FL,US
 3112276,AJ4EG,Wallace,Milton,FL,US
 3112277,N4RTS,Robert,Windermere,FL,US
-3112278,KA4HLO,Carl,Miami,FL,US
-3112279,W4BFL,Gennaro,Boca Raton,FL,US
-3112280,WA4KWK,John,Dunedin,FL,US
-3112281,KK4JHR,Dwayne,Port St. Lucie,FL,US
-3112282,N2PE,Robert,Coral Springs,FL,US
-3112283,KE4CRC,Randy,Lakeland,FL,US
-3112284,WM1J,Charles,Miami Lakes,FL,US
-3112285,WB4ICW,Roger,Eustis,FL,US
-3112286,W4NVU,Dade,Miami,FL,US
-3112287,W4NVU,Dade,Miami,FL,US
-3112288,W4NVU,Dade,Miami,FL,US
-3112289,W4NVU,Dade,Miami,FL,US
-3112290,W4NVU,Dade,Miami,FL,US
-3112291,W4NVU,Dade,Miami,FL,US
-3112292,N4SRB,Bill,Inverness,FL,US
-3112293,ILLEGAL,Pirate,Jacksonville,FL,US
-3112294,W1MCG,Mark,Stuart,FL,US
-3112295,KB1MPI,Ronald,Delray Beach,FL,US
-3112296,KD4NWL,John,Holiday,FL,US
-3112297,KC4YUA,Brett,Safety Harbor,FL,US
-3112298,KC4YUA,Brett,Safety Harbor,FL,US
-3112299,K2LSF,Scott,Jacksonville Beach,FL,US
-3112300,W4WCD,Walter,Boca Raton,FL,US
-3112301,N4AMC,Medardo,Lakeland,FL,US
-3112302,KJ4CX,Curtis,Jacksonville,FL,US
-3112303,N4AMC,Medardo,Lakeland,FL,US
-3112304,N4AMC,Medardo,Lakeland,FL,US
-3112305,N4AMC,Medardo,Lakeland,FL,US
-3112306,W4JFD,Robert,Jacksonville,FL,US
-3112307,NP2OL,Luis,Auburndale,FL,US
-3112308,N9NON,Linda,Kissimmee,FL,US
-3112309,N4KEG,Richard,Lakeland,FL,US
-3112310,KE4CEI,Roberto,Lakeland,FL,US
-3112311,KE4CEI,Roberto,Lakeland,FL,US
-3112312,W4CLL,Chuck,Plant City,FL,US
