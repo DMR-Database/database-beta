@@ -19,13 +19,13 @@ DMR user database BETA are unverified "up to date" database files wich are autom
 </b>
 <ul>
 <li>Anytone BETA Database has 192754 entries<br>
-<li>Anytone verified Database has 187829 entries<br><br>
+<li>Anytone verified Database has 188062 entries<br><br>
 <li>Ailunce HD1 BETA Database has 192753 entries<br>
-<li>Ailunce HD1 verified Database has 187828 entries<br><br>
+<li>Ailunce HD1 verified Database has 188061 entries<br><br>
 <li>Tytera MD-2017 BETA Database has 100000 entries<br>
 <li>Tytera MD-2017 verified Database has 100000 entries<br><br>
 <li>Tytera MD-380 and 390 BETA Database has 192989 entries<br>
-<li>Tytera MD-380 and 390 verified Database has 188064 entries<br><br>
+<li>Tytera MD-380 and 390 verified Database has 188297 entries<br><br>
 <li>Pi-Star BETA Database has 192755 entries<br>
 <li>Pi-Star original Database has 197494 entries<br><br>
 <li>Pi-Star SSH Helper Database has 192754 entries<br>
