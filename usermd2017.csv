@@ -11611,7 +11611,7 @@
 2040290,PD1KB,Koos,DORDRECHT,ZH,NL
 2040291,PE1RSY,Hanno,Hoogland,UTR,NL
 2040292,PD0AGW,Andre,Eindhoven,,NL
-2040293,PE1LKE,Rwf,3972RL DRIEBERGEN RIJSENBURG,,NL
+2040293,PE1LKE,Rwf,3972RL DRIEBERGEN RIJSENBURG,UTR,NL
 2040294,PA2DX,Kees,Suwald,Groningen / Drenthe / Frysland,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
@@ -16149,6 +16149,7 @@
 2080714,F4FAQ,Pellegrini,LESPIGNAN,Languedoc-Roussillon,FR
 2080715,F8BOG,Jean-Pierre,None,,FR
 2080716,F4EOK,Philippe,Saint Julien sur Sarthe,,FR
+2080717,F5OPO,Pascal,COMBRE,,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -20744,6 +20745,10 @@
 2142875,EA7KOP,Ruben,arcos de la frontera,Cadiz,ES
 2142876,EA7ILD,Jose,Orce,Granada,ES
 2142877,EA1FJR,Daniel,Bembibre,Leon,ES
+2142878,EA1FJZ,Jorge,VALLADOLID,Valladolid,ES
+2142879,EA3IMH,Ricardo,Olesa de Montserrat,Barcelona,ES
+2142880,EA4HMX,Nacho,Móstoles Madrid,Madrid,ES
+2142881,EA4CFF,Daniel,alburquerque Badajoz,Badajoz,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -24663,6 +24668,7 @@
 2160082,HA3FTT,Antal,Pecs,Baranya,HU
 2160083,HG0UD,Debrecen,Debrecen,Hajdu-Bihar,HU
 2160084,HA1DX,Hannes,Sopron area,,HU
+2160085,HA3PG,Sanyi,Pecs,,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -34230,6 +34236,9 @@
 2227933,IU2IHT,Roberto,Pavia,LOM,IT
 2227934,IS0HYV,Mauro,ASSEMINI City,Lazio / Umbria / Sardinia,IT
 2227935,IQ0CR,Associazione,Latina,Lazio / Umbria / Sardinia,IT
+2227936,IU1PHN,Luca,Torino,Piedmont / Liguria / Aosta,IT
+2227937,I2JWK,Daniele,20123 Milano Mi,LOM,IT
+2227938,IU4NJV,Riccardo,San Possidonio MO,Emilia-Romagna,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -35601,6 +35610,7 @@
 2260131,YO5WHY,Cosmin,Cluj-Napoca,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
 2260132,YO9GRD,Bogdan,Ploiesti,Buzau / Calarasi / Dambovita / Giurgiu / Ialomita / Prahova / Teleorman,RO
 2260133,YO2ARD,Arcana,Vulcan,Hunedoara / Timis,RO
+2260134,YO2RIG,Calin,Timisoara,Hunedoara / Timis,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,RO
@@ -38661,6 +38671,7 @@
 2320067,OE9BKJ,Klaus,Lauterach,Vorarlberg,AT
 2320068,OE6EBF,Erwin,Neudau,Steiermark,AT
 2320069,OE3SGU,Hannes,St Georgen am Reith,,AT
+2320070,OE2WHP,Holger,Hallwang,Salzburg,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -41186,6 +41197,14 @@
 2340809,G7SQC,Peter,Bognor Regis,England,UK
 2340810,M7BVL,Derek,Salford,England,UK
 2340811,MM7XYF,James,St Andrews,Scotland,UK
+2340812,G7DOS,Brian,Walsall,England,UK
+2340813,MD7MTM,David,Isle of Man,Isle of Man,UK
+2340814,M7WAH,Andrew,durham,England,UK
+2340815,M3NGM,John,BELFORD,England,UK
+2340816,M7BNN,David,Newton Abbot,England,UK
+2340817,2E0CAH,Howard,Manchester,England,UK
+2340818,M7BVV,Phil,Lancing,England,UK
+2340819,M0LSZ,Stephen,Stevenage,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -83809,6 +83828,11 @@
 2863129,TB7ABI,Bünyamin,Trabzon,Trabozon,TR
 2863130,TA1AKN,Bayram,Bagcilar,Istanbul,TR
 2863131,TA4AQS,Ali,Muratpaşa,Antalya,TR
+2863132,TA2BHR,Mehmet,YALOVA,Istanbul,TR
+2863133,TA3OBV,Bahadir,soma,Manisa,TR
+2863134,TA5BEM,Mehmet,Konya,Konya,TR
+2863135,TA2KR,Nuri,Zonguldak,,TR
+2863136,TA3OJJ,Nuri,Yunusemre,Manisa,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -84457,6 +84481,7 @@
 2930618,S57NAZ,Jeretina,Kranj,Gorenjska,SI
 2930619,S50OA,Aljaž,Cerkno,,SI
 2930620,S54MKL,Jan,Maribor,All Regions,SI
+2930621,S57NTA,Tomi,,,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -99973,28 +99998,3 @@
 3110826,N7WUZ,Randall,Graham,WA,US
 3110827,KG5HLP,Juan,Fabens,TX,US
 3110828,KE8JTG,Russell,Mount Orab,OH,US
-3110829,KB8TAR,Kevin,Columbiaville,MI,US
-3110830,N0FLA,Jeffrey,Inglis,FL,US
-3110831,N8EF,Sidney,Findlay,OH,US
-3110832,W5WEC,Glendal,Walnut Ridge,AR,US
-3110833,KG5UIP,Blaze,Clinton,AR,US
-3110834,KK6YWG,Jack,San Diego,CA,US
-3110835,K6JQZ,Brian,Pasadena,CA,US
-3110836,KB0WZC,Christopher,Nixa,MO,US
-3110837,K4VTX,Robert,Midlothian,VA,US
-3110838,KD7GLP,Tim,Wenatchee,WA,US
-3110839,KC3LHW,Charles,New Kensington,PA,US
-3110840,KD7TTY,Michael,Lake Stevens,WA,US
-3110841,KC3KZD,Steven,Bel Air,MD,US
-3110842,KC2QPV,Donald,Newfield,NJ,US
-3110843,KD9LDL,Andrew,Chicago,IL,US
-3110844,W7CJ,Terry,Hillsboro,OR,US
-3110845,KE6BYV,Thomas,N. Las Vegas,NV,US
-3110846,KI7CMV,John,Windsor,MO,US
-3110847,KM7BEL,Kellee,Windsor,MO,US
-3110848,K7KDO,Chester,Dayton,OH,US
-3110849,W4SOE,Shaun,Greer,SC,US
-3110850,K0SGF,Springfield,Springfield,MO,US
-3110851,KC0QA,Richard,Springfield,MO,US
-3110852,NA6S,Milton,San Jacinto,CA,US
-3110853,K2PDR,Sebastian,Brooklyn,NY,US
