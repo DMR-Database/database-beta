@@ -20876,6 +20876,10 @@
 2142943,EA5JFK,Agustin,VALL D UIXO CASTELLON,Castellon,ES
 2142944,EA4HNV,José,Madrid,Madrid,ES
 2142945,EA4FNN,Alfredo,Madrid,Madrid,ES
+2142946,EB5HHK,Felipe,Lorca,Murcia,ES
+2142947,EA7IEZ,Francisco,NERJA MALAGA,Malaga,ES
+2142948,EA5FGC,Rafael,ALCOY,Alicante,ES
+2142949,EA2RKE,Radioclub,Bilbao,Vizcaya,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -26107,6 +26111,7 @@
 2190473,9A3BEX,Berislav,None,Osijek-Baranja County,HR
 2190474,9A3NF,Paolo,Labin,Istri County,HR
 2190475,9A3SJZ,Suncana,,City of Zagreb,HR
+2190476,9A3ATX,Matej,Zagreb,Zagreb county,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -36397,6 +36402,7 @@
 2280047,HB9FAZ,Massimo,Coldrerio,Ticino,CH
 2280048,HB9PRU,Christian,Appenzell Steinegg,Appenzell Inner-Rhodes,CH
 2280049,HB9HJD,Giorgio,Mendrisio,Ticino,CH
+2280050,HB9FUH,Thomas,Buchs,St. Gallen,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -41594,6 +41600,10 @@
 2340956,M7FML,Andrew,Kent,England,UK
 2340957,M7BYD,Keith,Durham,,UK
 2340958,GB1UTA,David,Burntwood,England,UK
+2340959,M7SSC,Spiro,Erdington,England,UK
+2340960,M7RDS,Christian,Stroud,England,UK
+2340961,M7BZS,Michael,Eastbourne,England,UK
+2340962,G6JTT,John,Bridgwater,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -54407,6 +54417,7 @@
 2380137,OZ7HAM,Edr-Koege,Koege,Sjaelland,DK
 2380138,OZ22SJ,Sl22,Spejderens Lejr,Sjaelland,DK
 2380139,OZ9AF,Kenneth,Koege,Sjaelland,DK
+2380140,OZ1SKY,Brian,DK 8541 Skoedstrup,Midtjylland,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -58010,6 +58021,7 @@
 2420248,LA6OLA,Borre,Fiskum,Buskerud,NO
 2420249,LB1PJ,Stefan,Skien,Vest-Agder / Aust-Agder / Telemark,NO
 2420250,LA8GNA,Vegard,3187 Horten,,NO
+2420251,LB1UJ,Greta,Tromso,Finnmark / Troms / Nordland,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -59157,6 +59169,7 @@
 2441305,OH4ACD,Puulan,Hirvensalmi,Ita-Suomi,FI
 2441306,OH2HEJ,Ari,Inga,Uusimaa,FI
 2441307,OH2CGQ,Timo,Helsinki,All Regions,FI
+2441308,OH2CED,Joni,Vantaa,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -63237,6 +63250,7 @@
 2600692,SP4AGA,Agnieszka,Biala Piska,warmińsko-mazurskie,PL
 2600693,SQ3SWA,Artur,Chodzież,PLWP,PL
 2600694,SP5RST,Robert,Olszewnica Stara,PLMZ,PL
+2600695,SQ9CSB,Sebastian,Bytom,śląskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -89710,6 +89724,8 @@
 3024470,VE3OWT,Jeff,Belleville,ON,CA
 3024471,VE3OWT,Jeff,Belleville,ON,CA
 3024472,VE2FSE,Frank,Pointe-Claire,QC,CA
+3024473,VE7AFV,Peter,Port Coquitlam,BC,CA
+3024474,VE1DTR,Donald,Hacketts Cove,NS,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99982,19 +99998,3 @@
 3110019,N3OB,Edward,Millsboro,DE,US
 3110020,N3TOW,John,Selbyville,DE,US
 3110021,AB3SD,James,Millsboro,DE,US
-3110022,W3MLK,Martin,Millsboro,DE,US
-3110023,KC3HDS,Eric,Wilmington,DE,US
-3110024,KB3JAM,Sidney,Wilmington,DE,US
-3110025,KC3HKJ,Chris,Wilmington,DE,US
-3110026,KB3PTP,John,Wilmington,DE,US
-3110027,N3OB,Edward,Millsboro,DE,US
-3110028,K3JL,John,Georgetown,DE,US
-3110029,NR3P,Paul,Lewes,DE,US
-3110030,K3PGM,Paul,Hockessin,DE,US
-3110031,N3TU,Gregory,19714,DE,US
-3110032,N3YMS,Nick,Felton,DE,US
-3110033,KC3IQK,Anthony,Frankford,DE,US
-3110034,K3JRZ,Jeffrey,Bear,DE,US
-3110035,AB3GD,John,Wilmington,DE,US
-3110036,N7CMX,Craig,Newark,DE,US
-3110037,N3KNT,Rodney,Laurel,DE,US
