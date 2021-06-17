@@ -11656,19 +11656,19 @@
 2040315,PD1RN,Roel,Nijeveen,DR,NL
 2040316,PA7EY,Ulrich,Sittard,LB,NL
 2040317,PE1FMC,Fred,Assen,DR,NL
-2040318,PA3GZR,Wiep,3232HD BRIELLE,ZH,NL
-2040319,PD0HV,Henk,ZAANDAM,N-H,NL
-2040320,PA3ENI,Jac,5014 PZ TILBURG,,NL
-2040321,PD0RCA,Mha,8012CX ZWOLLE,,NL
-2040322,PA1VHF,Frank,Zutphen,GE,NL
-2040323,PD2GH,Gerrit,Eastermar,Groningen / Drenthe / Frysland,NL
+2040318,PA3GZR,Wiep,Brielle,ZH,NL
+2040319,PD0HV,Henk,Zaandam,N-H,NL
+2040320,PA3ENI,Jac,Tilburg,N-BR,NL
+2040321,PD0RCA,Henry,Zwolle,OV,NL
+2040322,PA1VHF,Frank,Zutphen,GLD,NL
+2040323,PD2GH,Gerrit,Eastermar,FRL,NL
 2040324,PD7U,Misha,Amsterdam,N-H,NL
 2040325,PD2HPY,Humphrey,Rotterdam,ZH,NL
-2040326,PD1VS,Hayo,9933BP Delfzijl,Groningen / Drenthe / Frysland,NL
+2040326,PD1VS,Hayo,Delfzijl,GR,NL
 2040327,PH4T,Tim,Amsterdam,N-H,NL
-2040328,PA1AF,Alexander,Rijswijk Zh,ZH,NL
-2040329,PD1OW,Peter,1359 KC Almere Haven,Overijsseel / Flevoland,NL
-2040330,PA5ST,Stephan,Eibergen,GE,NL
+2040328,PA1AF,Alexander,Rijswijk,ZH,NL
+2040329,PD1OW,Peter,Almere Haven,FLD,NL
+2040330,PA5ST,Stephan,Eibergen,GLD,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -14393,11 +14393,11 @@
 2060418,ON4BAX,Eddy,Oostmalle,ANT,BE
 2060419,ON3HCT,Claude,Marquain,HAI,BE
 2060420,ON5RG,Patrick,Wilrijk,ANT,BE
-2060421,ON3DSO,Stefaan,Wervik,VWV,BE
+2060421,ON3DSO,Stefaan,Wervik,WVL,BE
 2060422,ON3ELB,Etienne,Boussu,WHT,BE
-2060423,ON9VLW,Stijn,Boutersem,Vlaams Brabant,BE
-2060424,ON3HH,Hugo,Laakdal,VAN,BE
-2060425,ON7FDK,Fabien,Kruisem,O-V,BE
+2060423,ON9VLW,Stijn,Boutersem,V-BR,BE
+2060424,ON3HH,Hugo,Laakdal,ANT,BE
+2060425,ON7FDK,Fabien,Kruisem,OVL,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -16236,9 +16236,9 @@
 2080732,F1LYS,Claude,Chateaufort,Yvelines,FR
 2080733,F0DEI,Kenef,Moirans En Montagne,Saint-Claude,FR
 2080734,F4ESY,Jeanne,Le Havre,Seine-Maritime,FR
-2080735,F5OPR,Daniel,Chevilly Larue,Centre-Val de Loire,FR
-2080736,TM25TL,special,Pontarlier,Nouvelle-Aquitaine,FR
-2080737,F4IRZ,Alain,dax,Nouvelle-Aquitaine,FR
+2080735,F5OPR,Daniel,Vitry Sur Seine,IF,FR
+2080736,TM25TL,Surma,Pontarlier,Bourgogne-Franche-Comte,FR
+2080737,F4IRZ,Alain,Dax,Aquitaine,FR
 2080738,F1HDE,Eric,Dol de Bretagne,Nouvelle-Aquitaine,FR
 2080739,F6GBH,Christian,Saint Prix,Centre-Val de Loire,FR
 2080740,F4VSS,Jozef,80340 - ECLUSIER-VAUX,Centre-Val de Loire,FR
@@ -20905,15 +20905,15 @@
 2142933,EA5OL,Francisco,Bunyol,Valencia,ES
 2142934,EA2AZK,Jose,Zalla,Biskaje,ES
 2142935,EA7FZI,José,Huetor Vega,Andalucia,ES
-2142936,EA5KP,Roberto,San Vicente del Raspeig Alicante,,ES
-2142937,EA8DLN,Daniel,Breña Alta,Santa Cruz de Tenerife,ES
-2142938,EA3IMR,Tomàs,Sabadell,Barcelona,ES
-2142939,EA3HUZ,Francisco,MONTRAS GIRONA,,ES
-2142940,EA3HWO,Arcadi,Barcelona,Barcelona,ES
+2142936,EA5KP,Roberto,San Vicente Del Raspeig,Alicante,ES
+2142937,EA8DLN,Daniel,Brena Alta,Islas Canarias,ES
+2142938,EA3IMR,Tomas,Sabadell,Cataluna,ES
+2142939,EA3HUZ,Francisco,Garcia,Garcia,ES
+2142940,EA3HWO,Arcadi,Barcelona,Cataluna,ES
 2142941,EA4BMO,Andres,Madrid,Madrid,ES
 2142942,EB6SG,Carlos,Palma,Baleares,ES
-2142943,EA5JFK,Agustin,VALL D UIXO CASTELLON,Castellon,ES
-2142944,EA4HNV,José,Madrid,Madrid,ES
+2142943,EA5JFK,Agustin,Vall D Uixo Castellon,Castellon,ES
+2142944,EA4HNV,Jose,Madrid,Madrid,ES
 2142945,EA4FNN,Alfredo,Madrid,Madrid,ES
 2142946,EB5HHK,Felipe,Lorca,Murcia,ES
 2142947,EA7IEZ,Francisco,NERJA MALAGA,Malaga,ES
@@ -26183,7 +26183,7 @@
 2190472,9A3DLR,Robert,Osijek,Osijek-Baranja County,HR
 2190473,9A3BEX,Berislav,None,Osijek-Baranja County,HR
 2190474,9A3NF,Paolo,Labin,Istri County,HR
-2190475,9A3SJZ,Suncana,,City of Zagreb,HR
+2190475,9A3SJZ,Suncana,Zagreb,City of Zagreb,HR
 2190476,9A3ATX,Matej,Zagreb,Zagreb county,HR
 2190477,9A5TLW,Tanja,Zagreb,City of Zagreb,HR
 2190478,9A3HVZ,Dražen,Budinščina,Krapina-Zagorje County,HR
@@ -34522,11 +34522,11 @@
 2227987,IW6OFI,Ermenegildo,Magliano Deii Marsi,ABR,IT
 2227988,I4JEE,Mauro,Ferrara,EMI,IT
 2227989,IU8OLX,Giovanni,Sarno,CAM,IT
-2227990,IK8UGP,Antonio,Pagani,Molise / Campania / Calabria,IT
-2227991,IZ0AZB,Lucio,Grottaferrata,Lazio / Umbria / Sardinia,IT
-2227992,IK2NJZ,Arrigo,46100 MANTOVA MN,LOM,IT
-2227993,IZ0PSD,Domenico,Monterotondo Rm,Lazio / Umbria / Sardinia,IT
-2227994,IK1OUM,Roberto,Varazze,Piedmont / Liguria / Aosta,IT
+2227990,IK8UGP,Antonio,Pagani,CAM,IT
+2227991,IZ0AZB,Lucio,Grottaferrata,LAZ,IT
+2227992,IK2NJZ,Arrigo,Mantova,LOM,IT
+2227993,IZ0PSD,Domenico,Monterotondo,LAZ,IT
+2227994,IK1OUM,Roberto,Varazze,PIE,IT
 2227995,IW2GWC,Luca,Taino,LOM,IT
 2227996,IK2MKS,Marco,Soncino,LOM,IT
 2227997,IU3LPQ,Giuseppe,treviso,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
@@ -50764,7 +50764,7 @@
 2351484,G0UDX,Nick,London,England,UK
 2351485,M0MBN,Matt,Newcatle Upon Tyne,England,UK
 2351486,G7ODJ,Paul,Warrington,England,UK
-2351487,2E0UCW,Christopher,W. Drayton,England,UK
+2351487,2E0UCW,Chris,W. Drayton,England,UK
 2351488,G7ORK,Derek,Shepton Mallet,England,UK
 2351489,G6FGY,Eric,Croydon,England,UK
 2351490,G1YJH,Martin,London,England,UK
@@ -50926,7 +50926,6 @@
 2351646,G4JBE,David,Princes Risborough,England,UK
 2351647,G8VIQ,John,Birmingham,England,UK
 2351648,G7RAE,Jimmy,Northants,England,UK
-2351649,2E0UCW,Chris,W. Drayton,England,UK
 2351650,M0AQC,Alan,Alford,England,UK
 2351651,2E0RMT,Mark,Canvey island,England,UK
 2351652,G8YUQ,Paul,Tamworth,England,UK
@@ -51022,7 +51021,6 @@
 2351742,G4SDL,Brian,Manchester,England,UK
 2351743,G7ICH,Jon,Bournemouth,England,UK
 2351744,G6IBI,Roger,Hungerford,England,UK
-2351745,2E0UCW,Chris,W. Drayton,England,UK
 2351746,G6FGY,Eric,Croydon,England,UK
 2351747,G0MEK,Paul,Cambridgshire,England,UK
 2351748,G4DBS,Barry,Lincoln,England,UK
@@ -99998,3 +99996,5 @@
 3109648,WQ1I,Paul,Danbury,CT,US
 3109649,W1COD,John,W. Hartford,CT,US
 3109650,NX1E,Donald,Wolcott,CT,US
+3109651,KC1ADT,John,Milford,CT,US
+3109652,W1HVN,Christopher,N. Branford,CT,US
