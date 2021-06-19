@@ -11669,6 +11669,7 @@
 2040328,PA1AF,Alexander,Rijswijk,ZH,NL
 2040329,PD1OW,Peter,Almere Haven,FLD,NL
 2040330,PA5ST,Stephan,Eibergen,GLD,NL
+2040331,PA5UL,Paul,Zuidwending Veendam,Groningen / Drenthe / Frysland,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -14399,6 +14400,7 @@
 2060424,ON3HH,Hugo,Laakdal,ANT,BE
 2060425,ON7FDK,Fabien,Kruisem,OVL,BE
 2060426,ON7DBR,Reza,Geraardsbergen,O-V,BE
+2060427,ON3DCO,Dolk,Aalst,O-V,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -20960,6 +20962,8 @@
 2142985,EA8AEW,Fritz,Tazacortee,Las Palmas,ES
 2142986,EA7JFK,Rafael,Utrera Sevilla,Sevilla,ES
 2142987,EA2EWE,Manuel,Zaragoza,Zaragoza,ES
+2142988,EB5IQU,Rafael,Alcoy Alicante,,ES
+2142989,EB1GYP,Rogelio,Leon,Leon,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -36537,6 +36541,8 @@
 2280064,HB9HJM,Martin,Lohn-Ammannsegg,Solothurn,CH
 2280065,HB9HKS,Salvador,Geneva,Geneva,CH
 2280066,HB3XWU,Reto,Pfyn,Thurgau,CH
+2280067,HB9HJX,Josef,Muehlrueti,St. Gallen,CH
+2280068,HB9HJN,Charpoan,Zürich,Zurich,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -39083,6 +39089,10 @@
 2320107,OE7BMR,Burkhard,,Tirol,AT
 2320108,OE6XFX,Funkfeuer,Graz,Steiermark,AT
 2320109,OE8YCK,Chiara,Klagenfurt,,AT
+2320110,OE8YMW,Margot,None,,AT
+2320111,OE8KFS,Kajetan,None,Kaernten,AT
+2320112,OE6UPH,Sebastian,Lassnitzthal,Steiermark,AT
+2320113,OE1RSP,Rainer,Vienna,Wien,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -58232,6 +58242,8 @@
 2420253,LB2AH,Silje,,Oslo,NO
 2420254,LA1G,La1G,Skien,Vest-Agder / Aust-Agder / Telemark,NO
 2420255,LA8FPA,Freddy,Levanger,Sor-Trondelag / Nord-Trondelag,NO
+2420256,LB1VJ,Bjørn,Tromsø,Finnmark / Troms / Nordland,NO
+2420257,LB0VI,Daniel,Lillestrøm,Akershus,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -61393,6 +61405,7 @@
 2503448,RV3DQI,,,,RU
 2503449,UB3TLG,,,,RU
 2503450,UB3AVD,,,,RU
+2503451,R3EDE,,,,RU
 2504001,RU4FM,Igor,Penza,Penza,RU
 2504002,UD4NAD,Sergey,Kotelnich rn,Kirov,RU
 2504003,RA4NHY,Anton,Kirov,Kirov,RU
@@ -71651,6 +71664,9 @@
 2625856,DF6KM,Dr,Giessen,,DE
 2625857,DG9SR,Sven,Hannover,Niedersachsen / Bremen,DE
 2625858,DL1IAZ,Patrick,Ulm 89075,BW,DE
+2625859,DH7RS,Rene,Berlin,Berlin / Brandenburg,DE
+2625860,DB5COA,Michael,Undenheim,Rheinland-Pfalz / Saarland,DE
+2625861,DK2AN,Juergen,37520 Osterode,Niedersachsen / Bremen,DE
 2625998,DM0NR,Hans-Juergen,Neuwied,RP,DE
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DE
 2626000,DF6RK,Ralf,Glashuetten,HE,DE
@@ -79533,6 +79549,7 @@
 2680199,CT3KN,Ricardo,FUNCHAL,Madeira,PT
 2680200,CT1EUS,José,Portela de Sacavém,Regiao de Lisboa,PT
 2680201,CR7AYD,Jose,Lisboa,Regiao de Lisboa,PT
+2680202,CT2GUP,Paulo,Cacém,Regiao de Lisboa,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -84868,6 +84885,9 @@
 2863287,TA3SRD,Serdar,Nilufer,Bursa,TR
 2863288,TB2AFD,İbrahi̇m,Ankara,Ankara,TR
 2863289,TA3GPE,Celaletti̇N,İzmir,Izmir,TR
+2863290,TA2SNT,Serdar,Üsküdar,Istanbul,TR
+2863291,TB2AOD,Ömer,Keçiören,Ankara,TR
+2863292,TB5CBV,Ahmet,Nevsehir,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -90113,6 +90133,7 @@
 3024493,VA6GGS,Gabriel,,AB,CA
 3024494,VA3TBN,Lennox,Windsor,ON,CA
 3024495,VA7TQB,Thomas,SURREY,BC,CA
+3024496,VE2RZE,Geoffrey,laval,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99977,24 +99998,3 @@
 3109597,N1UIS,Austin,Southington,CT,US
 3109598,N1QLN,Michael,New Britain,CT,US
 3109599,KC1CHB,Armory,Hartford,CT,US
-3109600,KC1CHB,Armory,Hartford,CT,US
-3109601,KC1CHB,Armory,Hartford,CT,US
-3109602,KC1CHB,Armory,Hartford,CT,US
-3109603,KC1CHB,Armory,Hartford,CT,US
-3109604,KC1CHB,Armory,Hartford,CT,US
-3109605,KC1BWR,Gregory,Milford,CT,US
-3109606,KB1OQR,Stuart,Willington,CT,US
-3109607,N1VID,Bruce,New Britain,CT,US
-3109608,N1NWN,Jay,Plantsville,CT,US
-3109609,KB1QFO,Mary,Plantsville,CT,US
-3109610,N1XTK,Keith,Tolland,CT,US
-3109611,KC1DAE,Christian,Wilton,CT,US
-3109612,K1HSN,Robert,Southington,CT,US
-3109613,KA1VT,Harold,Cabot,VT,US
-3109614,KB1TBL,David,Bristol,CT,US
-3109615,KK1F,Richard,Southington,CT,US
-3109616,K1WY,William,W. Hartford,CT,US
-3109617,W1JEY,Roderick,Hampton,CT,US
-3109618,KC1EBN,Evan,Southington,CT,US
-3109619,N1UIR,Steven,Plantsville,CT,US
-3109620,K1VC,Vincenzo,Southington,CT,US
