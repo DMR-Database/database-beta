@@ -11680,6 +11680,7 @@
 2040333,PA7JH,Jos,ALKMAAR,N-H,NL
 2040334,PD4GB,Geurt,NIJMEGEN,GE,NL
 2040335,PE4T,Henk,Peize,Groningen / Drenthe / Frysland,NL
+2040336,PE2HVL,Hans,Spijkenisse,ZH,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16263,7 +16264,7 @@
 2080745,F1AFD,Joel,MELOISEY,Normandy,FR
 2080746,F1GHY,Patrice,La penne sur Huveaune,Provence-Alpes-Côte d Azur,FR
 2080747,F6DXS,Marc-Andre,CASTRES,Occitanie,FR
-2080748,F4IRP,Beno,forbach,Grand Est,FR
+2080748,F4IRP,Beno,,Grand Est,FR
 2080749,F6IAA,Michel,AIX EN PROVEN?CE,Île-de-France,FR
 2080750,F6BSZ,Gerard,La RIVIERE St SAUVEUR,Normandy,FR
 2080751,F4IXJ,Olivier,Le Houlme,,FR
@@ -26246,6 +26247,7 @@
 2190484,9A3DEF,Špiro,Zagreb,Zagreb county,HR
 2190485,9A6BMJ,Damir,Zagreb,Zagreb county,HR
 2190486,9A5AEE,Marko,Zagreb,City of Zagreb,HR
+2190487,9A7JQG,Božo,Knin,Sibenik-Knin County,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -36606,6 +36608,7 @@
 2280070,HB3XXY,Roger,Glattfelden,Zurich,CH
 2280071,HB3XXI,Roman,Rickenbach Zh,Zurich,CH
 2280072,HB9HJZ,Vincent,Luzern,Lucerne,CH
+2280073,HB3XYE,Vladimir,8152 Opfikon,Zurich,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -39177,6 +39180,9 @@
 2320126,OE2LBC,Manuel,,,AT
 2320127,OE6AOD,Bernhard,Sankt Stefan,Steiermark,AT
 2320128,OE6PAY,Udo,Kalsdorf,Steiermark,AT
+2320129,OE5HOR,Gerhard,Ohlsdorf,Oberoesterreich,AT
+2320130,OE6CHD,Christof,Graz,,AT
+2320131,OE5WEO,Peter,Vöcklabruck,Oberoesterreich,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -50409,6 +50415,13 @@
 2349518,G7NOT,George,Wigan,,UK
 2349519,M7SPI,Stuart,Wigan,England,UK
 2349520,G0JTN,Christopher,Earley,England,UK
+2349521,M7DPD,Darren,Bath,England,UK
+2349522,G4MAB,Michael,NORTHAMPTON,England,UK
+2349523,2E0TSY,Ian,Exeter,,UK
+2349524,MW7RLT,Andrew,Dinas Powys,Wales,UK
+2349525,MW1MWD,Joe,,,UK
+2349526,G6WZD,Chris,Camberley,England,UK
+2349527,M0VGP,Simon,Walsall,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -58362,6 +58375,7 @@
 2420258,LB9BG,Knut,Trondheim,Sor-Trondelag / Nord-Trondelag,NO
 2420259,LB5MG,Kjetil,Elverum,Buskerud / Oppland / Hedmark,NO
 2420260,LB2PJ,Øyvind,Malvik,Sor-Trondelag / Nord-Trondelag,NO
+2420261,LB4XG,Petter,Biri,Buskerud / Oppland / Hedmark,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -71838,6 +71852,7 @@
 2625895,DL5SBY,Franz,89558 Boehmenkirch Treffelhausen,,DE
 2625896,DH6LP,Peter,Holzkirchen,Bayern,DE
 2625897,DM1MKF,Michael,14554 Neuseddin,,DE
+2625898,DG8DCN,Jens,44227 Dortmund,,DE
 2625998,DM0NR,Hans-Juergen,Neuwied,RP,DE
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DE
 2626000,DF6RK,Ralf,Glashuetten,HE,DE
@@ -85126,6 +85141,8 @@
 2863336,TB5ACN,Cem,Seyhan,Adana,TR
 2863337,TA2BXX,Bora,Ankara,Ankara,TR
 2863338,TA2TAB,Aydin,Istanbul,,TR
+2863339,TA2KKM,Mikail,Karasu,Sakarva,TR
+2863340,TA4SSB,Serdar,ANTALYA,Antalya,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -90387,6 +90404,10 @@
 3024505,VA3WYT,Wilfred,Scarborough,ON,CA
 3024506,VE3KML,Morrie,Nepean,ON,CA
 3024507,VE3TZF,Keith,Toronto,ON,CA
+3024508,VE2CYH,COVEY,Ormstown,QC,CA
+3024509,VE6ARS,D,Claresholm,AB,CA
+3024510,VE2CYH,COVEY,Ormstown,QC,CA
+3024511,VE2CYH,COVEY,Ormstown,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99977,24 +99998,3 @@
 3109322,ND1L,Jesse,Armonk,NY,US
 3109323,KA1IFQ,Michael,Oxford,CT,US
 3109324,KC1DX,Mauro,Milford,CT,US
-3109325,W1RPG,Robert,Shelton,CT,US
-3109326,N1CHU,William,Farmington,CT,US
-3109327,KA1FAI,William,Milford,CT,US
-3109328,K9JMK,John,S. Windsor,CT,US
-3109329,KC1SA,Steve,Wallingford,CT,US
-3109330,KC1CAP,Robert,Milford,CT,US
-3109331,K9JMK,John,S. Windsor,CT,US
-3109332,KC1DSC,Christopher,Old Saybrook,CT,US
-3109333,N1KGN,Eddie,Trumbull,CT,US
-3109334,K1IED,Larry,S. Windsor,CT,US
-3109335,WA1RHG,Ron,Hamden,CT,US
-3109336,KC1DWP,Jeffrey,Brentwood,TN,US
-3109337,K1SEI,Tage,Killingworth,CT,US
-3109338,W1MKT,Thomas,Wallingford,CT,US
-3109339,N1SST,Terrence,Wallingford,CT,US
-3109340,N1SST,Terrence,Wallingford,CT,US
-3109341,KB1YO,Allan,W. Haven,CT,US
-3109342,K1CMT,Chris,Bolton,CT,US
-3109343,NC7R,Charles,S. Windsor,CT,US
-3109344,N1HWQ,Chris,S. Windsor,CT,US
-3109345,N1HWQ,Chris,S. Windsor,CT,US
