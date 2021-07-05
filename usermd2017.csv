@@ -11682,6 +11682,7 @@
 2040335,PE4T,Henk,Peize,Groningen / Drenthe / Frysland,NL
 2040336,PE2HVL,Hans,Spijkenisse,ZH,NL
 2040337,PA9J,Jorrit,Peize,Groningen / Drenthe / Frysland,NL
+2040338,PA9T,Thom,Woerden,UTR,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16282,6 +16283,7 @@
 2080762,F4IPZ,Mathieu,Plaissan,,FR
 2080763,F4IVO,Claude,Pont audemer,,FR
 2080764,F4IXV,Didier,Schoeneck,Grand Est,FR
+2080765,F4DUZ,Jean-Michel,Quessy-Cité,Hauts-de-France,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -21872,6 +21874,10 @@
 2143870,EA3INA,Sergio,Vilanova del Cami,Barcelona,ES
 2143871,EA2EQZ,Agustin,Bilbao,Vizcaya,ES
 2143872,EA5CZF,Modesto,Totana,Murcia,ES
+2143873,EB1FDT,Olegario,La ROBLA,Leon,ES
+2143874,EA7KQN,Miguel,Granada,Granada,ES
+2143875,EB1IQH,Antonio,Vallelado,Segovia,ES
+2143876,EA5GWD,Jose,Benidorm,Alicante,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35372,6 +35378,8 @@
 2228776,IZ5RLS,Giovanni,Firenze,TOS,IT
 2228777,IU8PML,Luigi,Napoli,Molise / Campania / Calabria,IT
 2228778,IZ5TJJ,Claudio,empoli,TOS,IT
+2228779,IU2ECN,Susanna,LOMAGNA LC,LOM,IT
+2228780,IU2BDZ,Marco,Galbiate,LOM,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -50436,6 +50444,11 @@
 2349529,M7DXR,Steven,Telford,England,UK
 2349530,G4NJJ,Peter,Kings Lynn,England,UK
 2349531,GM0BXR,Tim,Orkney,Scotland,UK
+2349532,M7VIR,Joshua,Swindon,England,UK
+2349533,2E0FUF,Graham,Swindon,England,UK
+2349534,M7JVF,John,Buckingham,England,UK
+2349535,M7LYF,Jonathon,Dorchester,England,UK
+2349536,M7RKM,Rick,Stafford,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -59552,6 +59565,7 @@
 2441319,OH4KPN,Mika,Helsinki,All Regions,FI
 2441320,OH3GPS,Timo,Halli,,FI
 2441321,OH2JRR,Reijo,ESPOO FIN 02970,,FI
+2441322,OH2EYX,Jukka,Espoo,,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -71870,6 +71884,9 @@
 2625898,DG8DCN,Jens,44227 Dortmund,,DE
 2625899,DL4NAX,Friedrich,95463 Bindlach,,DE
 2625900,DO8BI,Stephan,Bernau,Berlin / Brandenburg,DE
+2625901,DO9SKU,Stefan,89597 Unterwachingen,BW,DE
+2625902,DO4MME,Marc,Wachtberg,NW,DE
+2625903,DL1MS,Maik,Bonn,NW,DE
 2625998,DM0NR,Hans-Juergen,Neuwied,RP,DE
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DE
 2626000,DF6RK,Ralf,Glashuetten,HE,DE
@@ -81822,6 +81839,7 @@
 2840472,LZ1BBZ,Boyan,Karnobat,,BG
 2840473,LZ1TSE,Georgi,Sofia,All Regions,BG
 2840474,LZ1BBP,Boris,Bansko,All Regions,BG
+2840475,LZ2SKS,Svetoslav,Varna,All Regions,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -85162,6 +85180,8 @@
 2863339,TA2KKM,Mikail,Karasu,Sakarva,TR
 2863340,TA4SSB,Serdar,ANTALYA,Antalya,TR
 2863341,TB2HYI,Alaittin,None,,TR
+2863342,TB2MNW,Ergün,Ankara,Ankara,TR
+2863343,TA2TTG,Turgay,KOCAELİ,Kocael,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99978,23 +99998,3 @@
 3109283,KB1ZIR,Eric,Danbury,CT,US
 3109284,K1XFC,Philip,S. Windsor,CT,US
 3109285,N1ELE,Paul,Enfield,CT,US
-3109286,KB3CZA,Andrew,Stamford,CT,US
-3109287,KC1CPE,Shawn,Darien,CT,US
-3109288,KB1QXU,Norman,New Canaan,CT,US
-3109289,KB1JDX,Vinny,Danielson,CT,US
-3109290,N1MD,Michael,Putnam,CT,US
-3109291,KB1QQM,Larry,Lisbon,CT,US
-3109292,N1VOL,Tom,Avon,CT,US
-3109293,K1UX,Michael,Augusta,GA,US
-3109294,K1UX,Michael,Augusta,GA,US
-3109295,NY1M,Jeffrey,Westbrook,CT,US
-3109296,N1TYU,Curtis,Waterford,CT,US
-3109297,N1ELE,Paul,Enfield,CT,US
-3109298,N1RFM,Michael,Glastonbury,CT,US
-3109299,NM1Y,Jeffrey,Deep River,CT,US
-3109300,KC1CHQ,Marco,Willington,CT,US
-3109301,KB1QXR,Chris,Stamford,CT,US
-3109302,WA1ZEV,Steven,Simsbury,CT,US
-3109303,W1NLK,Paul,Norwalk,CT,US
-3109304,N1ARG,Arthur,New Canaan,CT,US
-3109305,NE1U,Jeffrey,Southport,CT,US
