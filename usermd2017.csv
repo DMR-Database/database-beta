@@ -11706,6 +11706,7 @@
 2040353,PD1PLS,Pieter,7901HN Hoogeveen,Groningen / Drenthe / Frysland,NL
 2040354,PD9HI,Jasmijn,Utrecht,UTR,NL
 2040355,PA6E,John,Amersfoort,UTR,NL
+2040356,PD7MVO,Marcel,Berghem,N-B,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -14440,6 +14441,7 @@
 2060428,ON5MAI,Mario,Falisolle,WNA,BE
 2060429,ON1TG,Tom,Oostende,VWV,BE
 2060430,ON7LE,Colot,Warisoulx,WNA,BE
+2060431,ON4MHR,Laurent,Berloz,WLG,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -16333,6 +16335,8 @@
 2080787,F8CND,Philippe,Marlenheim,Alsace,FR
 2080788,F4IXH,Jean,Aix en Provence,Provence-Alpes-Côte d Azur,FR
 2080789,F4FYF,Jean,Villaz,Auvergne-Rhône-Alpes,FR
+2080790,F1HUD,Gilles,Vallon en Sully,Auvergne-Rhône-Alpes,FR
+2080791,F4JAD,Quentin,Vénissieux,Auvergne-Rhône-Alpes,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -21974,6 +21978,7 @@
 2143921,EA5JGB,Miguel,Alcoy,Alicante,ES
 2143922,EA5WL,Indrik,Valencia,Valencia,ES
 2143923,EA7JZB,Daniel,Chiclana De La Frontera Cadiz,Cadiz,ES
+2143924,EB3CRF,Fernando,Collabató Barcelona España,Barcelona,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -39394,6 +39399,7 @@
 2320146,OE1MPX,Manfred,Vienna,Wien,AT
 2320147,OE1WTR,Willibald,Wien,Wien,AT
 2320148,OE2SLR,Siegfried,Salzburg,Salzburg,AT
+2320149,OE8MKQ,Michael,FELDKIRCHEN,Kaernten,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -50750,6 +50756,10 @@
 2349642,G1CMB,David,Derby,England,UK
 2349643,G0MBL,Andrew,Kent,England,UK
 2349644,2M0IVS,Greg,Glasgow,Scotland,UK
+2349645,G0EMT,Mark,Chertsey,England,UK
+2349646,2E0ENE,Edmund,Manchester,England,UK
+2349647,2E1NBC,Louise,Woking,England,UK
+2349648,MM0MLD,Billy,Port Seton,Scotland,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -64073,6 +64083,8 @@
 2600737,SQ2MK,Michal,Gdynia,PLPM,PL
 2600738,SP1HM,Henryk,Mierzyn,PLZP,PL
 2600739,SN5HRT,Maciej,Piaseczno,PLMZ,PL
+2600740,SP9FGZ,Zbigniew,Bielsko-Biala,śląskie,PL
+2600743,SN2DP,Dariusz,Obory,PLKP,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -72331,6 +72343,15 @@
 2625972,DF0HRB,Club,64546 Moerfelden Walldorf,HE,DE
 2625973,DB6WN,Norbert,56170 Bendorf,Rheinland-Pfalz / Saarland,DE
 2625974,DD1MR,Mike,Berlin,Berlin / Brandenburg,DE
+2625975,DB6JZ,Achim,42477 Radevormwald,NW,DE
+2625976,DG3NZ,Reinhard,Gräfenberg,Bayern,DE
+2625977,DO1RUZ,Rainer,Allershausen,Bayern,DE
+2625978,DO4TIM,Tim,None,Bilecik,DE
+2625979,DG8RCL,Stefan,Amberg,Bayern,DE
+2625980,DF7WY,Michael,52074 Aachen,NW,DE
+2625981,DB1OK,Arno,Wedel,Hamburg / Schleswig-Holstein,DE
+2625982,DO1KGN,Klaus,Cuxhaven,Niedersachsen / Bremen,DE
+2625983,DO2KGB,Klaus,Gifhorn,Niedersachsen / Bremen,DE
 2625998,DM0NR,Hans-Juergen,Neuwied,RP,DE
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DE
 2626000,DF6RK,Ralf,Glashuetten,HE,DE
@@ -82288,7 +82309,7 @@
 2840463,LZ2DM,Asen,Varna,Bilecik,BG
 2840464,LZ1VDG,Veselin,Sofia,Bilecik,BG
 2840465,LZ2RBR,Rumen,Byala,Bilecik,BG
-2840466,LZ1ISR,Ilia,Radnevo,Bilecik,BG
+2840466,LZ1ISR,Ilia,Radnevo,All Regions,BG
 2840467,LZ1BLE,Marin,Sofia,,BG
 2840468,LZ1INW,Ivo,Plovdiv,Bilecik,BG
 2840469,LZ2BEE,Simeon,Varna,All Regions,BG
@@ -82304,7 +82325,7 @@
 2840479,LZ7NA,Nikola,Sofia,All Regions,BG
 2840480,LZ2ALY,Lyubomir,Varna,,BG
 2840481,LZ2TIH,Tihomir,Dobrich,All Regions,BG
-2840482,LZ1ACY,Lybomir,Sofia,All Regions,BG
+2840482,LZ1ACY,Lyubomir,Sofia,All Regions,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -85696,6 +85717,9 @@
 2863390,TA7AFZ,Caglar,Eyup,Istanbul,TR
 2863391,TA7SLM,Sadik,Eyup,Istanbul,TR
 2863392,TA7SE,Ercan,Trabzon,Trabozon,TR
+2863393,TA1KER,Kerem,Eyupsultan,Istanbul,TR
+2863394,TA2BDZ,Berk,Istanbul,Istanbul,TR
+2863395,TB5CKS,Kaplan,Yenisehir,Mersin,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -86366,6 +86390,7 @@
 2930640,S57TS,Tomaz,Osevljek,All Regions,SI
 2930641,S54KDK,Krištof,Ljubljana,Bilecik,SI
 2930642,S57BTI,Bostjan,Hotedrsica,Bilecik,SI
+2930643,S58TI,Tilen,Ljubljana,All Regions,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -90992,6 +91017,9 @@
 3024536,VA3FRP,Francis,Hawkesbury,ON,CA
 3024537,VE3YVG,Yves,Hawkesbury,ON,CA
 3024538,VA7MP,Allan,Langley,BC,CA
+3024539,VE2FXM,Eric,Granby,QC,CA
+3024540,VE7YIO,William,Burnaby,BC,CA
+3024541,VA2LRI,Patrick,Montreal,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99970,31 +99998,3 @@
 3108709,KE0AYH,Monique,Fort Collins,CO,US
 3108711,KC1ARF,Chris,Thornton,CO,US
 3108712,KC5ENC,Timothy,Colorado Springs,CO,US
-3108713,W0RPG,Russell,Brighton,CO,US
-3108714,KH6GN,Charles,Johnstown,CO,US
-3108715,W0RPG,Russell,Brighton,CO,US
-3108716,KE0CBT,Andrew,Longmont,CO,US
-3108717,K0LDP,Loren,Evergreen,CO,US
-3108718,KE5SVR,Olympia,Pueblo,CO,US
-3108719,KC0ITF,Jayson,La Junta,CO,US
-3108720,NA0BR,Bruce,Byers,CO,US
-3108721,AD7TJ,Rollin,Aurora,CO,US
-3108722,KD0ZDD,John,Boulder,CO,US
-3108723,K0OPS,Oksana,Longmont,CO,US
-3108724,W0CLF,Christopher,Georgetown,CO,US
-3108725,KC0RBT,James,Fort Collins,CO,US
-3108726,W3ORR,Daryl,Denver,CO,US
-3108727,AD0NQ,Darrel,Pueblo,CO,US
-3108728,KC0JAX,Jack,Mead,CO,US
-3108729,KD0FPY,Jeremy,Littleton,CO,US
-3108730,KD0RFZ,John,Denver,CO,US
-3108731,KE0DEQ,Stephen,Aurora,CO,US
-3108732,KD7MGO,Chris,Evans,CO,US
-3108733,KE0ELK,Tom,Loveland,CO,US
-3108734,K9ATK,Brian,Aurora,CO,US
-3108735,K9ATK,Brian,Aurora,CO,US
-3108736,KI0ID,Clayton,Aurora,CO,US
-3108737,KB1OTE,Jacob,Elizabeth,CO,US
-3108738,KE0IJN,David,Colorado Springs,CO,US
-3108739,W0PHC,Carrie,Pueblo,CO,US
-3108740,W0PHC,Carrie,Pueblo,CO,US
