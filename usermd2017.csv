@@ -16351,6 +16351,10 @@
 2080794,F5VAT,Nicholas,St Nom La Breteche,Île-de-France,FR
 2080795,F4HHC,Bernard,Guichen,Brittany,FR
 2080796,F4JAB,Stephane,La FLECHE,Pays de la Loire,FR
+2080797,F4IVX,Thierry,Saint Gilles,Occitanie,FR
+2080798,F5MPT,Gilles,Bousbecque,Hauts-de-France,FR
+2080799,F4JAP,Antoine,Ugine,Auvergne-Rhône-Alpes,FR
+2080800,F4JAL,Alain,Paris,Île-de-France,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22008,6 +22012,7 @@
 2143937,EA6B,Mateu,Felanitx,Baleares,ES
 2143938,EA1DHN,Flaminio,Pereiro Aguiar,Ourense,ES
 2143939,EA3GLI,Antonio,17773 PONTOS GIRONA,Girona,ES
+2143940,EA8DKL,Jose,Santa Cruz De La Palma,Santa Cruz de Tenerife,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35571,6 +35576,8 @@
 2228829,I1GXV,Riccardo,ARONA,Piedmont / Liguria / Aosta,IT
 2228830,IK5VYZ,Claudio,FIRENZE,TOS,IT
 2228831,IU6KKW,Franco,polverigi AN,Marche / Abruzzo,IT
+2228832,IU0OVC,Amedeo,FROSINONE,Lazio / Umbria / Sardinia,IT
+2228833,I0KQB,Giovanni,Rome,Lazio / Umbria / Sardinia,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -36841,6 +36848,7 @@
 2280087,HB9TOB,Olivier,1148 Cuarnens,Vaud,CH
 2280088,HB9HDG,Daniel,Netstal,Glarus,CH
 2280089,HB9HMB,Peter,Stans,Nidwalden,CH
+2280090,HB9SZV,Favetto,CH 5723 Teufenthal AG,Aargau,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -50845,6 +50853,11 @@
 2349684,G0RRC,Roy,Ipswich,England,UK
 2349685,M0CET,Andrew,Aylesbury,England,UK
 2349686,GM6WEI,Malcolm,Muir Of Ord IV6 7QG,Scotland,UK
+2349687,G7VQC,Dave,Chatteris,England,UK
+2349688,MW7DPO,Rex,Caerphilly,Wales,UK
+2349689,G3PMM,Alan,Salisbury,England,UK
+2349690,M7TTJ,Clive,Hillesley,England,UK
+2349691,G6AEK,David,Poulton Le Fylde,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -62000,7 +62013,7 @@
 2503421,R3EDG,,,,RU
 2503422,RA3III,,,,RU
 2503423,R3TJL,,,,RU
-2503424,UB3AWC,Dmitry,None,,RU
+2503424,UB3AWC,Dmitry,Esino,All Regions,RU
 2503425,UB3ATY,,,,RU
 2503426,UB3UBG,,,,RU
 2503427,RY3DAC,,,,RU
@@ -64196,6 +64209,7 @@
 2600749,SP5BUD,Krzysztof,Warszawa,PLMZ,PL
 2600750,SQ5MS,Marcin,Zabki,PLMZ,PL
 2600751,SQ7EL,Przemyslaw,Lodz,łódzkie,PL
+2600752,SP5GSM,Mariusz,Warszawa,PLMZ,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -81968,6 +81982,7 @@
 2820004,4L9PL,Dariusz,Tbilisi,Tbilisi,Georgia
 2820005,4L1BB,Vepkhia,kistauri,Akhmeta,Georgia
 2820006,4L1FH,Aleksi,Tbilisi,Tbilisi,Georgia
+2820007,4L0VE,Shota,Gori,All Regions,Georgia
 2830001,EK6OLM,Mher,Yerevan,Yerevan,Armenia
 2830002,EK1RR,Hayk,Yerevan,Yerevan,Armenia
 2830003,EK6RAM,Arthur,Yerevan,Yerevan,Armenia
@@ -85882,6 +85897,7 @@
 2863424,TA1TSC,Serkan,Tekirdağ Malkara,Tekirdad,TR
 2863425,TA3CAN,Oğulcan,İsmetpaşa,Tekirdad,TR
 2863426,TA2BXI,Muhammet,Turkey,Istanbul,TR
+2863427,TA2CNE,Murat,Cekmekoy,Istanbul,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99982,19 +99998,3 @@
 3108519,N0PYX,Don,Centennial,CO,US
 3108520,N0PYX,Don,Centennial,CO,US
 3108521,KC0ZIE,Darren,Fort Collins,CO,US
-3108522,WD0EKR,James,Canon City,CO,US
-3108523,K0CGQ,Bill,Pueblo,CO,US
-3108524,KE0BYQ,Chris,Pueblo,CO,US
-3108525,WB0DMQ,David,Pueblo,CO,US
-3108526,W9KOZ,James,Colorado Springs,CO,US
-3108527,KE0BLI,Caitlyn,Colorado Springs,CO,US
-3108528,N0RAP,Painter,Colorado Springs,CO,US
-3108529,K5RKH,Richard,Boulder,CO,US
-3108530,K5RKH,Richard,Boulder,CO,US
-3108531,AI8C,Patrick,Arvada,CO,US
-3108532,KC0MIS,Charles,Calhan,CO,US
-3108533,ND0Q,Debbie,Pueblo,CO,US
-3108534,KD0QMS,Ladawn,Pueblo,CO,US
-3108535,KD0APH,Mark,Pueblo,CO,US
-3108536,WB0YKO,Mike,Pueblo,CO,US
-3108537,KE0BYQ,Chris,Pueblo,CO,US
