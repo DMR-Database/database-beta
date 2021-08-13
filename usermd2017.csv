@@ -11714,6 +11714,7 @@
 2040358,PE1OYY,Jcm,1991SB VELSERBROEK,N-H,NL
 2040359,PD0M,Marcel,Overasselt,GE,NL
 2040360,PD9PK,Peter,Bunschoten Spakenburg,UTR,NL
+2040361,PE1MYG,Marck,5021BJ Tilburg,N-B,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16327,7 +16328,7 @@
 2080770,F4HPX,Thomas,Argenteuil,Bilecik,FR
 2080771,F5MSR,Yves,Contrexéville,Bilecik,FR
 2080772,F4GVF,Vincent,Le Chesnay,Bilecik,FR
-2080773,F4IXM,Pascal,Brest,Bilecik,FR
+2080773,F4IXM,Pascal,Brest,Brittany,FR
 2080774,F4IZO,Guy,LARDY,Île-de-France,FR
 2080775,F5NFB,Joel,Chatillon,Île-de-France,FR
 2080776,F4TME,Jean,Saint Didier,Provence-Alpes-Côte d Azur,FR
@@ -16355,6 +16356,7 @@
 2080798,F5MPT,Gilles,Bousbecque,Hauts-de-France,FR
 2080799,F4JAP,Antoine,Ugine,Auvergne-Rhône-Alpes,FR
 2080800,F4JAL,Alain,Paris,Île-de-France,FR
+2080801,F4FIP,Hubert,CONLIE,Pays de la Loire,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -38608,6 +38610,7 @@
 2300172,OK1JKU,Pavel,Kyselka,Karlovy Vary Region,CZ
 2300173,OK2WZN,Rostislav,Hosteradice,S. Moravian Region,CZ
 2300174,OK2AB,Rostislav,Bystrice pod Hostynem,Zlin Region,CZ
+2300175,OK1DEK,Jaromir,Sedlcany,Central Bohemian Region,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -50858,6 +50861,12 @@
 2349689,G3PMM,Alan,Salisbury,England,UK
 2349690,M7TTJ,Clive,Hillesley,England,UK
 2349691,G6AEK,David,Poulton Le Fylde,England,UK
+2349692,M7PWA,Philip,Emsworth,England,UK
+2349693,M7CCR,Ian,Shrewsbury,England,UK
+2349694,M6HBU,John,Leyland,England,UK
+2349695,M7OBE,Stephen,Romsey,England,UK
+2349696,M6AHA,Phil,Stoke On Trent,England,UK
+2349697,G8YZZ,Phil,Dursley,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -60870,6 +60879,7 @@
 2460047,LY4ED,Rimantas,Kaunas,Vilnius,Lithuania
 2460048,LY4ME,Arunas,Vilnius,Bilecik,Lithuania
 2460049,LY4LK,Julius,Kaunas,Bilecik,Lithuania
+2460050,LY2QS,Dainius,Alytus,,Lithuania
 2470001,YL3JE,Juergen,Ramava,Baltic states,LV
 2470002,YL3GCD,Pavels,Daugavpils,Daugavpils,LV
 2470003,YL3EH,Arnis,Riga,Baltic states,LV
@@ -61164,7 +61174,7 @@
 2500189,UB0OAN,,,,RU
 2500190,UB0ACD,,,,RU
 2500191,RY3DAE,Sergey,Sergiev Posad,Bilecik,RU
-2500192,R1BJI,Yoda,Stpetersburg,Bilecik,RU
+2500192,R1BJI,Yoda,Stpetersburg,,RU
 2500193,RY6AAN,Falin,Krasnodar,All Regions,RU
 2500194,UB6AIJ,Maxim,Krasnodar,Bilecik,RU
 2500195,UD6AAE,Stanislav,Krasnodar,All Regions,RU
@@ -64210,6 +64220,7 @@
 2600750,SQ5MS,Marcin,Zabki,PLMZ,PL
 2600751,SQ7EL,Przemyslaw,Lodz,łódzkie,PL
 2600752,SP5GSM,Mariusz,Warszawa,PLMZ,PL
+2600753,SP8TJC,Jacek,Krosno,PLPK,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -85898,6 +85909,7 @@
 2863425,TA3CAN,Oğulcan,İsmetpaşa,Tekirdad,TR
 2863426,TA2BXI,Muhammet,Turkey,Istanbul,TR
 2863427,TA2CNE,Murat,Cekmekoy,Istanbul,TR
+2863428,TA1WB,Ekrem,İstanbul,Istanbul,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -91210,6 +91222,8 @@
 3024550,VA3PO,Daniel,Gloucester,ON,CA
 3024551,VE3XQV,Ve3Xqv,Belleville,ON,CA
 3024552,VE3KRU,Keith,Severn,ON,CA
+3024553,VE2UNX,Joseph,Longueuil,QC,CA
+3024554,VA7PKP,Syed,Abbotsford,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99984,17 +99998,3 @@
 3108505,WA3QLW,Leslie,Elizabeth,CO,US
 3108506,KE0CPQ,Chris,Loveland,CO,US
 3108507,KD0MRC,James,Buena Vista,CO,US
-3108508,W9CN,Mike,Parker,CO,US
-3108509,N0HAP,Jim,Fort Collins,CO,US
-3108510,KB0YRZ,Chris,Englewood,CO,US
-3108511,KB0OLF,Steven,Denver,CO,US
-3108512,KE0AIO,Melissa,Boulder,CO,US
-3108513,N0ZSN,Mike,Pueblo West,CO,US
-3108514,KD0USB,Prieve,Fort Collins,CO,US
-3108515,W0ATK,Mark,Parker,CO,US
-3108516,K0UAV,Randolph,Centennial,CO,US
-3108517,K0JDM,Jim,Parker,CO,US
-3108518,K0JDM,Jim,Parker,CO,US
-3108519,N0PYX,Don,Centennial,CO,US
-3108520,N0PYX,Don,Centennial,CO,US
-3108521,KC0ZIE,Darren,Fort Collins,CO,US
