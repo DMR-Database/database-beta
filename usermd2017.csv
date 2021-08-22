@@ -10120,6 +10120,7 @@
 2020400,SV1SPR,Georgios,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020401,SZ1TT,Hellenic,Kallithea Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020402,SV3EEF,Stavros,VRONTAMA,Peloponnisos,GR
+2020403,SV9AUB,Antonis,HERAKLION,Kriti,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -22042,6 +22043,7 @@
 2143954,EA3AAV,Joaquin,Mataro,Barcelona,ES
 2143955,EA2KY,Javier,Ribera Baja Alava,Alava,ES
 2143956,EA3ILD,Zeyad,Olot,Girona,ES
+2143957,EA1GBX,Victor,Valladolid,Valladolid,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35617,6 +35619,7 @@
 2228838,IK0IRE,Francesco,Anzio,Lazio / Umbria / Sardinia,IT
 2228839,IV3HJD,Nicola,Zoppola,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2228840,IU3PAL,Lanfranco,Rovigo,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2228841,IU5PIK,Lorenzo,Firenze,TOS,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -50932,6 +50935,9 @@
 2349714,MW7DGR,David,Buckley,Wales,UK
 2349715,2E0ZGL,Adam,W. Bromwich,England,UK
 2349716,M0IFR,Christine,Aylesbury,England,UK
+2349717,M7CFW,Daniel,Stafford,England,UK
+2349718,MM3HTY,David,Armadale,Scotland,UK
+2349719,M7JVH,John,Rainhill,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -63517,6 +63523,7 @@
 2570117,EW7HA,Aleksandr,MOGILEV,Bilecik,Belarus
 2570118,EW7DDR,Maksim,Kirovsk,Bilecik,Belarus
 2570119,EW7IK,Игорь,Круглое,All Regions,Belarus
+2570120,EU7FBL,Siarhei,Bobruisk,All Regions,Belarus
 2574001,EU4DGC,Pavel,Grodno,Grodno,Belarus
 2590001,ER1AL,Vadim,Kishinev,Chisinau,Moldova
 2590002,ER1VOX,Dumitru,Chisinau,Chisinau,Moldova
@@ -64324,6 +64331,8 @@
 2600771,SP2DJN,Daniel,Rotmanka,PLPM,PL
 2600772,SP8IRZ,Leszek,Rzeszow,PLPK,PL
 2600773,SQ9LFB,Andrzej,Nowy Sacz,małopolskie,PL
+2600774,SP3PDA,Adam,Sulecinek,PLWP,PL
+2600775,SP5ARW,Piotr,Nowy Prazmow,PLMZ,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -86031,7 +86040,7 @@
 2863439,TB2WMW,Omer,ANKARA,Ankara,TR
 2863440,TA8AIH,Ibrahim,Gaziantep,Gaziantep,TR
 2863441,TA4HSG,Huseyin,Kutahya,Manisa,TR
-2863442,TA2BJC,Mert,Ankara,Ankara,TR
+2863442,TA2BJC,Mert,Cankaya,Ankara,TR
 2863443,TA1BHC,Bi̇lal,Beyli̇kdüzü,Istanbul,TR
 2863444,TA2SMD,Burak,Istanbul,Istanbul,TR
 2863445,TA2ATC,Kaan,Istanbul,Istanbul,TR
@@ -86042,6 +86051,9 @@
 2863450,TB4BRE,Erkan,Merkez,Antalya,TR
 2863451,TA2ETC,Kenan,Bartin,Istanbul,TR
 2863452,TA7FA,Fatih,Arakli,Trabozon,TR
+2863453,TB3BBE,Kadir,Çanakkale,Van,TR
+2863454,YM4EU,Radio,Aydin,Aydin,TR
+2863455,TA2AYP,Ömer,Kocaeli,Kocael,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99986,15 +99998,3 @@
 3108354,K0TIT,Robert,Aurora,CO,US
 3108355,W0SJM,Stephen,Littleton,CO,US
 3108356,W0ALM,Alice,Littleton,CO,US
-3108357,W0KVA,Scott,Arvada,CO,US
-3108358,AB0WV,Frank,Castle Rock,CO,US
-3108359,WA1JHK,Dave,Longmont,CO,US
-3108360,N0IVN,Ron,Littleton,CO,US
-3108361,W0MOG,Barry,Colorado Springs,CO,US
-3108362,N4JJR,Jim,Parker,CO,US
-3108363,N0MKV,Marco,Lakewood,CO,US
-3108364,W0NJA,Neil,Castle Rock,CO,US
-3108365,K7EDW,Ed,Golden,CO,US
-3108366,KD0MDP,Jeff,Colorado Springs,CO,US
-3108367,N0EPA,Dean,Longmont,CO,US
-3108368,AD0HI,Robert,Greeley,CO,US
