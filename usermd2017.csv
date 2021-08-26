@@ -10121,6 +10121,9 @@
 2020401,SZ1TT,Hellenic,Kallithea Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020402,SV3EEF,Stavros,VRONTAMA,Peloponnisos,GR
 2020403,SV9AUB,Antonis,HERAKLION,Kriti,GR
+2020404,SY1CIH,Aimilianos,Acharnes,Attiki / Sterea Ellada / Dytiki Ellada,GR
+2020405,SY3DPL,Vassiliki,Messolonghi,Peloponnisos,GR
+2020406,SV4MZU,Stefanos,Aghios Stefanos,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11727,6 +11730,7 @@
 2040368,PA0FVE,Frans,5737PG LIESHOUT,N-B,NL
 2040369,PA5JAN,Jan,Wildervank,Groningen / Drenthe / Frysland,NL
 2040370,PD4I,Martijn,Utrecht,UTR,NL
+2040371,PD3JJ,Jeroen,Amersfoort,UTR,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -22051,6 +22055,7 @@
 2143960,EA7AQH,Delio,Santa Fe,Granada,ES
 2143961,EA4HOU,David,Torrejón de Ardoz,Madrid,ES
 2143962,EB1DSE,Jesus,GIJON,Asturias,ES
+2143963,EA3EWR,Luis,Barcelona,Asturias,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35636,6 +35641,8 @@
 2228845,IT9PWN,Marco,Enna,Sicily,IT
 2228846,IT9DSZ,Salvatore,Palermo PA,Sicily,IT
 2228847,IZ8YVA,Ranieri,Polistena RC,Molise / Campania / Calabria,IT
+2228848,IW1CWX,Alberto,Bardonecchia,Piedmont / Liguria / Aosta,IT
+2228849,IZ4WJO,Michele,RIMINI,Emilia-Romagna,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -36873,7 +36880,7 @@
 2280051,HB9HGY,Yves,Unterentfelden,Aargau,CH
 2280052,HB9HJI,Chris,Amriswil,Thurgau,CH
 2280053,HB9HJL,Rene,Beggingen,Schaffhausen,CH
-2280054,HB3XXC,Tobias,Teufen AR,Appenzell Outer-Rhodes,CH
+2280054,HB3XXC,Tobias,Ostschweiz,Appenzell Outer-Rhodes,CH
 2280055,HB3XXL,Lionel,Lausanne,Vaud,CH
 2280056,HB9HII,Curdegn,Chur,Grigioni Grisons,CH
 2280057,HB9ABS,Bruno,Hombrechtikon,Zurich,CH
@@ -50969,6 +50976,9 @@
 2349730,2E1BPN,Alexander,Lowestoft,England,UK
 2349731,G8JKV,David,Needingworth,England,UK
 2349732,G1RDJ,Christopher,Stourbridge,England,UK
+2349733,GM4FVM,James,Eyemouth,Scotland,UK
+2349734,G7JUG,Perry,Oxfordshire,England,UK
+2349735,M7KAW,Kevin,Ledbury,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -55307,6 +55317,7 @@
 2380159,OZ9PN,Preben,DK 5800 Nyborg,Syddanmark,DK
 2380160,OZ4BSD,Harry,Nivå,Hovedstaden,DK
 2380161,OZ2ABI,Leo,Galten,Midtjylland,DK
+2380162,5P2A,Henning,Harlev,Midtjylland,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -61315,6 +61326,7 @@
 2500215,R6DLE,Denis,Christchurch,All Regions,RU
 2500216,R8ACW,Ivan,Chelyabinsk,All Regions,RU
 2500217,UA6ATG,Sergej,Tuapse Ul K Marksa 1 Kw 170,All Regions,RU
+2500218,R3MCC,Igor,Rybinsk,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -63440,6 +63452,7 @@
 2550483,UW5EJC,Dmytro,Kyiv,All Regions,UA
 2550484,UR5WBW,Andriy,Boryslav,All Regions,UA
 2550485,UW5ENX,Yan,Lozovatka,All Regions,UA
+2550486,UR3QNT,Anatolii,Zaporizhzhia,,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -64373,6 +64386,7 @@
 2600778,SP4DIR,Michal,Olsztyn,warmińsko-mazurskie,PL
 2600779,SQ9C,Michal,Kraków,małopolskie,PL
 2600780,SP9XDS,Daniel,Jaworzno,śląskie,PL
+2600781,SP2XD,Jerzy,Toruń,PLKP,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -80561,6 +80575,7 @@
 2680223,CR7AYN,Rogerio,Espinho,Regiao Centro,PT
 2680224,CR7BCY,Miguel,Tavarede - Figueira Da Foz,Regiao Centro,PT
 2680225,CT1FJR,Alberto,Odivelas,Regiao de Lisboa,PT
+2680226,CT2EMP,Raimundo,Bragança,Regiao Norte,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -86102,6 +86117,9 @@
 2863461,TA2APZ,Barış,Ankara,Ankara,TR
 2863462,TA2UKD,Kadir,Demiral Grup,Eskisehir,TR
 2863463,TA4LFC,Funda,Bodrum,Mugla,TR
+2863464,TA3KYA,Kaya,Bursa,Bursa,TR
+2863465,TA4ABZ,Selim,Bodrum,Mugla,TR
+2863466,TA3EST,Mumin,Izmir,Izmir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -86813,6 +86831,7 @@
 2940037,Z33MS,Mitko,Strumica,Southeastern,MK
 2940038,Z33VGR,Viktor,Kumanovo,Bilecik,MK
 2940039,Z33MZ,Zivorad,None,All Regions,MK
+2940040,Z33VS,Vasil,Strumica,All Regions,MK
 2950001,HB0AB,Alois,Triesen,Oberland,LI
 2958001,HB0SPH,Pius,Wallenstadt,Liechtenstein,LI
 2959001,HB0BP,Andreas,Triesen,Oberland,LI
@@ -91426,6 +91445,10 @@
 3024562,VA2LEQ,Va2Leq,Laval,QC,CA
 3024563,VA3JKW,Jerome,Listowel,ON,CA
 3024564,VA7QAT,Paul,Burnaby,BC,CA
+3024565,VA3MZD,Roderick,Fergus,ON,CA
+3024566,VE3FNC,Tony,Maple,ON,CA
+3024567,VE3LGX,Stephen,Barrie,ON,CA
+3024568,VA3YHM,Kevin,Gloucester,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99975,26 +99998,3 @@
 3108280,WA0SPM,Gary,Lafayette,CO,US
 3108281,W0CMH,Michael,Loveland,CO,US
 3108282,K0MKT,Dean,Highlands Ranch,CO,US
-3108283,KC0CTN,Jeff,Pueblo,CO,US
-3108284,WA0YGQ,Paul,Englewood,CO,US
-3108285,K0RYY,Corey,Aurora,CO,US
-3108286,AI7PM,Phillip,Cheyenne,WY,US
-3108287,KE0MF,Mike,Longmont,CO,US
-3108288,KG6CNL,William,Longmont,CO,US
-3108289,KA0RAY,Louis,Aurora,CO,US
-3108290,AB4TC,Bill,Fort Collins,CO,US
-3108291,N0WLF,Daniel,Golden,CO,US
-3108292,KD0KUU,David,Eaton,CO,US
-3108293,N0FNC,Michael,Centennial,CO,US
-3108294,KA0BSA,George,Broomfield,CO,US
-3108295,KC0BWA,Jon,Boulder,CO,US
-3108296,KE0AIO,Melissa,Boulder,CO,US
-3108297,NV0N,Joey,Longmont,CO,US
-3108298,KB0YNA,Keri,Grand Junction,CO,US
-3108299,KF0E,Jared,Franktown,CO,US
-3108300,W4CHZ,Colorado,Pueblo,CO,US
-3108301,W4CHZ,Colorado,Pueblo,CO,US
-3108302,W4CHZ,Colorado,Pueblo,CO,US
-3108303,W4CHZ,Colorado,Pueblo,CO,US
-3108304,W4CHZ,Colorado,Pueblo,CO,US
-3108305,W4CHZ,Colorado,Pueblo,CO,US
