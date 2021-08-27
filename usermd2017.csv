@@ -10123,7 +10123,8 @@
 2020403,SV9AUB,Antonis,HERAKLION,Kriti,GR
 2020404,SY1CIH,Aimilianos,Acharnes,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020405,SY3DPL,Vassiliki,Messolonghi,Peloponnisos,GR
-2020406,SV4MZU,Stefanos,Aghios Stefanos,Attiki / Sterea Ellada / Dytiki Ellada,GR
+2020406,SV4MZU,Stefanos,Trikala,Thessalia,GR
+2020407,SV2SUK,Konstadinos,THESSALONIKI,Dytiki Makedonia / Kentriki Makedonia,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11731,6 +11732,8 @@
 2040369,PA5JAN,Jan,Wildervank,Groningen / Drenthe / Frysland,NL
 2040370,PD4I,Martijn,Utrecht,UTR,NL
 2040371,PD3JJ,Jeroen,Amersfoort,UTR,NL
+2040372,PD3AL,Andre,Almere Flevoland,Overijsseel / Flevoland,NL
+2040373,PA0WCA,Wim,Rotterdam,ZH,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16375,6 +16378,8 @@
 2080799,F4JAP,Antoine,Ugine,Auvergne-Rhône-Alpes,FR
 2080800,F4JAL,Alain,Paris,Île-de-France,FR
 2080801,F4FIP,Hubert,CONLIE,Pays de la Loire,FR
+2080802,F1PGQ,Jean-Marie,Saint Maximin,Auvergne-Rhône-Alpes,FR
+2080803,F4LVM,Jean-Luc,Pludual,Brittany,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22056,6 +22061,10 @@
 2143961,EA4HOU,David,Torrejón de Ardoz,Madrid,ES
 2143962,EB1DSE,Jesus,GIJON,Asturias,ES
 2143963,EA3EWR,Luis,Barcelona,Asturias,ES
+2143964,EA1FMR,Anxo,Ribeira,A Coruna,ES
+2143965,EA1HQX,Eduardo,Barco de Valdeorras,Ourense,ES
+2143966,EA5BH,Francisco,ALICANTE,Alicante,ES
+2143967,EB5GMG,Jose,Valencia,Valencia,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35643,6 +35652,8 @@
 2228847,IZ8YVA,Ranieri,Polistena RC,Molise / Campania / Calabria,IT
 2228848,IW1CWX,Alberto,Bardonecchia,Piedmont / Liguria / Aosta,IT
 2228849,IZ4WJO,Michele,RIMINI,Emilia-Romagna,IT
+2228850,IS0HMU,Sergio,09072 CABRAS ORISTANO OR,Lazio / Umbria / Sardinia,IT
+2228851,IZ8GNU,Ugo,CAP 80054 GRAGNANO Napoli,Molise / Campania / Calabria,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -39533,6 +39544,8 @@
 2320153,OE5BUC,Clemens,Linz,Oberoesterreich,AT
 2320154,OE5CSF,Christoph,Holzhausen,Oberoesterreich,AT
 2320155,OE5DJU,David,Friedburg,Oberoesterreich,AT
+2320156,OE3DEU,Adalbert,Sankt Pölten,Niederoesterreich,AT
+2320157,OE7SCT,Claudio,Laengenfeld,Tirol,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -50979,6 +50992,7 @@
 2349733,GM4FVM,James,Eyemouth,Scotland,UK
 2349734,G7JUG,Perry,Oxfordshire,England,UK
 2349735,M7KAW,Kevin,Ledbury,England,UK
+2349737,M0TJJ,Timothy,Finchampstead,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -57312,6 +57326,7 @@
 2400674,SA4SJI,Johan,Kristinehamn,Varmland,SE
 2400675,SA4SJA,Staffan,Deje,Varmland,SE
 2400676,SA2CLC,Tommy,Burträsk,Vasterbotten,SE
+2400677,SM7FKS,Thomas,Ängelholm,Skane,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -60147,6 +60162,7 @@
 2441336,OH7LMQ,Timo,iisalmi,All Regions,FI
 2441337,OH2CIB,Matti,Mäntsälä,All Regions,FI
 2441338,OH7JEO,Juhani,Iisalmi,All Regions,FI
+2441339,OH5LLR,Timo,Vihti,All Regions,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -61327,6 +61343,7 @@
 2500216,R8ACW,Ivan,Chelyabinsk,All Regions,RU
 2500217,UA6ATG,Sergej,Tuapse Ul K Marksa 1 Kw 170,All Regions,RU
 2500218,R3MCC,Igor,Rybinsk,All Regions,RU
+2500219,RY6HAD,Vitaly,Pyatigorsk,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -80576,6 +80593,7 @@
 2680224,CR7BCY,Miguel,Tavarede - Figueira Da Foz,Regiao Centro,PT
 2680225,CT1FJR,Alberto,Odivelas,Regiao de Lisboa,PT
 2680226,CT2EMP,Raimundo,Bragança,Regiao Norte,PT
+2680227,CT5KFL,Lionel,Oliveira De Azemeis,Regiao Norte,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -82011,6 +82029,10 @@
 2720291,EI9GNB,Micheal,Cork City,All Regions,IE
 2720292,EI7DKB,Ken,Cork,All Regions,IE
 2720293,EI0CL,Michael,County Galway,All Regions,IE
+2720294,EI0N,Nrsi,Dublin,All Regions,IE
+2720295,EI1CT,Connacht,Roscommon,All Regions,IE
+2720296,EI1M,Munster,Cork,All Regions,IE
+2720297,EI1L,Leinster,Dublin,All Regions,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
@@ -86120,6 +86142,9 @@
 2863464,TA3KYA,Kaya,Bursa,Bursa,TR
 2863465,TA4ABZ,Selim,Bodrum,Mugla,TR
 2863466,TA3EST,Mumin,Izmir,Izmir,TR
+2863467,TB2FVA,Veysel,Turkiye,Sakarva,TR
+2863468,TB5TTA,Ali,Nevsehir,Kayseri,TR
+2863469,TA2EHA,Eren,Eskisehir,Eskisehir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -91449,6 +91474,8 @@
 3024566,VE3FNC,Tony,Maple,ON,CA
 3024567,VE3LGX,Stephen,Barrie,ON,CA
 3024568,VA3YHM,Kevin,Gloucester,ON,CA
+3024569,VE3FNM,Francesco,Innisfil,ON,CA
+3024570,VA3BCB,Keith,Windsor,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99971,30 +99998,3 @@
 3108253,N1GEP,Greg,Parker,CO,US
 3108254,WA6RNU,Stan,Denver,CO,US
 3108255,N0OFH,James,Great Bend,KS,US
-3108256,KI0HC,Tracy,Morrison,CO,US
-3108257,K6HRQ,Daryn,Parker,CO,US
-3108258,N0KKO,Paul,Fort Collins,CO,US
-3108259,KC2CAG,Thomas,Centennial,CO,US
-3108260,K0XO,Debra,Centennial,CO,US
-3108261,K0XK,Zeke,Centennial,CO,US
-3108262,KC0QIS,Dave,Frederick,CO,US
-3108263,K0TIT,Robert,Aurora,CO,US
-3108264,KD0SNG,Orval,Aurora,CO,US
-3108265,N0IX,Doug,Littleton,CO,US
-3108266,NV0N,Joey,Longmont,CO,US
-3108267,KB0SHO,Karl,Pueblo,CO,US
-3108268,AC0V,Michael,Green Mtn. Falls,CO,US
-3108269,N0KV,Barry,Parker,CO,US
-3108270,K0LRS,Mark,Frederick,CO,US
-3108271,K0NNN,David,Brighton,CO,US
-3108272,KC0SM,Michael,Thornton,CO,US
-3108273,N0HAP,Jim,Fort Collins,CO,US
-3108274,KG0PP,James,Aurora,CO,US
-3108275,K0NR,Bob,Monument,CO,US
-3108276,K0LWC,Matt,Maple Grove,MN,US
-3108277,KW5USA,Jason,Loveland,CO,US
-3108278,KD0RPF,Alan,Westminster,CO,US
-3108279,KA0RAY,Louis,Aurora,CO,US
-3108280,WA0SPM,Gary,Lafayette,CO,US
-3108281,W0CMH,Michael,Loveland,CO,US
-3108282,K0MKT,Dean,Highlands Ranch,CO,US
