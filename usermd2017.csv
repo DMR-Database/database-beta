@@ -10127,6 +10127,7 @@
 2020407,SV2SUK,Konstadinos,Thessaloniki,Dytiki Makedonia / Kentriki Makedonia,GR
 2020408,SY1DRK,Nicholas,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020409,SY3CJF,Antonios,KORINTHIAS TRIKALON,Peloponnisos,GR
+2020410,SV4KIO,Intzelis,LARISSA 41222,Thessalia,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11737,6 +11738,7 @@
 2040372,PD3AL,Andre,Almere Flevoland,Overijsseel / Flevoland,NL
 2040373,PA0WCA,Wim,Rotterdam,ZH,NL
 2040374,PA0MBO,Martinus,7544ES ENSCHEDE,Overijsseel / Flevoland,NL
+2040375,PA1MLG,Francisco,Tegelen,VLI,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16325,12 +16327,12 @@
 2080742,F5GPR,Francis,DAX,Bourgogne-Franche-Comté,FR
 2080743,F4VUO,Dominique,Portiragnes,Alsace,FR
 2080744,F5IQC,Olivier,COGNAC,Bourgogne-Franche-Comté,FR
-2080745,F1AFD,Joel,MELOISEY,Normandy,FR
+2080745,F1AFD,Joel,MELOISEY,Normandie,FR
 2080746,F1GHY,Patrice,La penne sur Huveaune,Provence-Alpes-Côte d Azur,FR
 2080747,F6DXS,Marc-Andre,CASTRES,Occitanie,FR
 2080748,F4IRP,Beno,,Grand Est,FR
 2080749,F6IAA,Michel,AIX EN PROVEN?CE,Île-de-France,FR
-2080750,F6BSZ,Gerard,La RIVIERE St SAUVEUR,Normandy,FR
+2080750,F6BSZ,Gerard,La RIVIERE St SAUVEUR,Normandie,FR
 2080751,F4IXJ,Olivier,Le Houlme,Bilecik,FR
 2080752,F6DOW,Marcel,Saint-Brevin-les-Pins,Bilecik,FR
 2080753,F4FPW,Louis,NALLIERS,Pays de la Loire,FR
@@ -16353,7 +16355,7 @@
 2080770,F4HPX,Thomas,Argenteuil,Bilecik,FR
 2080771,F5MSR,Yves,Contrexéville,Bilecik,FR
 2080772,F4GVF,Vincent,Le Chesnay,Bilecik,FR
-2080773,F4IXM,Pascal,Brest,Brittany,FR
+2080773,F4IXM,Pascal,Brest,Bretagne,FR
 2080774,F4IZO,Guy,LARDY,Île-de-France,FR
 2080775,F5NFB,Joel,Chatillon,Île-de-France,FR
 2080776,F4TME,Jean,Saint Didier,Provence-Alpes-Côte d Azur,FR
@@ -16372,10 +16374,10 @@
 2080789,F4FYF,Jean,Villaz,Auvergne-Rhône-Alpes,FR
 2080790,F1HUD,Gilles,Vallon en Sully,Auvergne-Rhône-Alpes,FR
 2080791,F4JAD,Quentin,Vénissieux,Auvergne-Rhône-Alpes,FR
-2080792,F5JEC,Guilland,Grand Bourgtheroulde,Normandy,FR
+2080792,F5JEC,Guilland,Grand Bourgtheroulde,Normandie,FR
 2080793,F4IWN,Jean,St BONNET De VIEILLE VIGNE,Bourgogne-Franche-Comté,FR
 2080794,F5VAT,Nicholas,St Nom La Breteche,Île-de-France,FR
-2080795,F4HHC,Bernard,Guichen,Brittany,FR
+2080795,F4HHC,Bernard,Guichen,Bretagne,FR
 2080796,F4JAB,Stephane,La FLECHE,Pays de la Loire,FR
 2080797,F4IVX,Thierry,Saint Gilles,Occitanie,FR
 2080798,F5MPT,Gilles,Bousbecque,Hauts-de-France,FR
@@ -16383,7 +16385,8 @@
 2080800,F4JAL,Alain,Paris,Île-de-France,FR
 2080801,F4FIP,Hubert,CONLIE,Pays de la Loire,FR
 2080802,F1PGQ,Jean-Marie,Saint Maximin,Auvergne-Rhône-Alpes,FR
-2080803,F4LVM,Jean-Luc,Pludual,Brittany,FR
+2080803,F4LVM,Jean-Luc,Pludual,Bretagne,FR
+2080804,F5HRT,Corbé,Carentan,Normandie,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22073,6 +22076,9 @@
 2143969,EA8DLW,Fernando,Ingenio,Las Palmas,ES
 2143970,EA3INH,Antonio,Lleida,Lerida,ES
 2143971,EA4CQH,Jose,MADRID,Madrid,ES
+2143972,EA4ASQ,Juan,SPAIN,Madrid,ES
+2143973,EA3HWN,Marcel-Li,Sant Vicenç de Castellet,Barcelona,ES
+2143974,EA5JGG,Miguel,PLANES,Alicante,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -35670,6 +35676,10 @@
 2228853,IW0DFE,Claudio,Roma,Lazio / Umbria / Sardinia,IT
 2228854,I0SSK,Stefano,Roma,Lazio / Umbria / Sardinia,IT
 2228855,IU3POK,Andrea,Pieve di Cadore BL,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2228856,IZ4HUF,Alessandro,Ozzano dell Emilia BO,Emilia-Romagna,IT
+2228857,IZ1JII,Massimo,Ceriale,Piedmont / Liguria / Aosta,IT
+2228858,IK2OBC,Daniele,21020 RANCO Va,LOM,IT
+2228859,IW0BIU,Francesco,00171 Roma RM,Lazio / Umbria / Sardinia,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -51033,6 +51043,11 @@
 2349750,2E1SCR,Stewart,Sutton-In-Ashfield,England,UK
 2349751,MM7DXC,Alan,Grangemouth,Scotland,UK
 2349752,M7SIP,Simon,Dunkeswell,England,UK
+2349753,G1JSF,Jon,Witney,England,UK
+2349754,MW3NIA,Haydn,WREXHAM,Wales,UK
+2349755,MM7AAR,Stephen,Bathgate,Scotland,UK
+2349756,2E0JKD,Keith,MIDDLESBROUGH,England,UK
+2349757,2E0HGQ,Richard,Bath,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -61390,6 +61405,7 @@
 2500220,R3TLI,Mikhail,Dzerghinsk,All Regions,RU
 2500221,R8AHA,Andrey,Snezhinsk,All Regions,RU
 2500222,UH1QAA,Ilya,Vologda,All Regions,RU
+2500223,UB1AIK,Aleksei,Saint Petersburg,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -63516,6 +63532,7 @@
 2550484,UR5WBW,Andriy,Boryslav,All Regions,UA
 2550485,UW5ENX,Yan,Lozovatka,All Regions,UA
 2550486,UR3QNT,Anatolii,Zaporizhzhia,,UA
+2550487,UR5YBM,Bohdan,Kyiv,All Regions,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -64456,6 +64473,11 @@
 2600785,SP2WRH,Rafal,Chwaszczyno,PLPM,PL
 2600786,SP3MO,Maciej,Rzgow,PLWP,PL
 2600787,SP5ATX,Patryk,Marki,PLMZ,PL
+2600788,SQ5JNJ,Wojciech,Moscibrody,PLMZ,PL
+2600789,SP9TPX,Patryk,Belk,śląskie,PL
+2600790,SQ5BIO,Ewa,Leszno,PLMZ,PL
+2600791,SQ7T,Marcin,Lodz,łódzkie,PL
+2600792,SP3Q,Jakub,Nekla,PLWP,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -72583,13 +72605,13 @@
 2625841,DG3EAZ,Jost,Düsseldorf,NW,DE
 2625842,DL2KI,Wolfgang,Steineroth,Rheinland-Pfalz / Saarland,DE
 2625843,DG3YCS,Carsten,Steinfurt,NW,DE
-2625844,DD0WE,Max,66877 Ramstein,Bilecik,DE
+2625844,DD0WE,Max,Ramstein-Miesenbach,Rheinland-Pfalz / Saarland,DE
 2625845,DH1AKY,Jens,Ilmenau,Sachsen / Thueringen,DE
 2625846,DB9VE,Ralf,D 66798 Kerlingen,Rheinland-Pfalz / Saarland,DE
 2625847,DL9AM,Marco,Herzberg,Niedersachsen / Bremen,DE
 2625848,DH5BF,Hans,Steinbach am Wald,Bayern,DE
 2625849,DJ3IV,Rolandas,Neustadt An Der Wein,Rheinland-Pfalz / Saarland,DE
-2625850,DG1OBD,Axel,Hannover,Bilecik,DE
+2625850,DG1OBD,Axel,Hannover,Niedersachsen / Bremen,DE
 2625851,DG3LBC,Olaf,Gütersloh,NW,DE
 2625852,DL4MCA,Rainer,81737 Muenchen,Bayern,DE
 2625853,DG4DC,Johannes,Bad Sassendorf,NW,DE
@@ -86210,6 +86232,11 @@
 2863479,TA1NSG,Enes,Sultangazi,Istanbul,TR
 2863480,TB2CAC,Murat,Karabuk,Ankara,TR
 2863481,TB1AEV,Arda,Istanbul,Istanbul,TR
+2863482,TB2TRC,Fatih,Eskişehir,Eskisehir,TR
+2863483,TB3CWS,Ismail,Inegol,Bursa,TR
+2863484,TB4CAM,Oğuzhan,Kütahya,Eskisehir,TR
+2863485,TB2AHH,Ahmet,Bolu,,TR
+2863486,TA2BNA,Mert,Bolu,,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -91547,6 +91574,7 @@
 3024572,VE6PCG,Christian,Calgary,AB,CA
 3024573,VA6MR,Mern,Spruce Grove,AB,CA
 3024574,VA3DUK,Shane,Scarborough,ON,CA
+3024575,VE2YLV,Sylvain,Saint Jerome,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99970,31 +99998,3 @@
 3108153,N0DAX,Jim,Ramah,CO,US
 3108154,W0KDE,Kelly,Ramah,CO,US
 3108155,N0DOZ,Gerald,Aurora,CO,US
-3108156,N0DAX,Jim,Ramah,CO,US
-3108157,N2PDQ,Dirk,Parker,CO,US
-3108158,W0NYE,Daniel,Pecos,NM,US
-3108159,KD0CUC,Steve,Eagle,CO,US
-3108160,KF0KR,Thomas,Pueblo,CO,US
-3108161,KD0JYO,Lloyd,Fort Collins,CO,US
-3108162,KD0JYO,Lloyd,Fort Collins,CO,US
-3108163,WA7BNG,Richard,Loveland,CO,US
-3108164,WA7BNG,Richard,Loveland,CO,US
-3108165,WA7BNG,Richard,Loveland,CO,US
-3108166,K0REW,Roy,Westminster,CO,US
-3108167,KC0LFU,Richard,Greely,CO,US
-3108168,KC0LFV,Joshua,Greely,CO,US
-3108169,KC0UUO,Rob,Denver,CO,US
-3108170,N0IX,Doug,Littleton,CO,US
-3108171,AA0JK,Frederick,Arvada,CO,US
-3108172,K0RCW,Robert,Lakewood,CO,US
-3108173,WA0BFD,Jerry,Denver,CO,US
-3108174,AC0CH,Thomas,Loveland,CO,US
-3108175,AD0GX,Kevin,Lakewood,CO,US
-3108176,WW8L,Tim,Windsor,CO,US
-3108177,WA6IFI,David,Colorado Springs,CO,US
-3108178,K0DPR,Paul,Aurora,CO,US
-3108179,N6RFI,Eric,Fort Collins,CO,US
-3108180,K0BAT,Bruce,Aurora,CO,US
-3108181,KD0MKB,Paul,Wellington,CO,US
-3108182,KC0LCD,Derek,Golden,CO,US
-3108183,N0IX,Doug,Littleton,CO,US
