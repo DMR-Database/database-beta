@@ -11739,6 +11739,8 @@
 2040373,PA0WCA,Wim,Rotterdam,ZH,NL
 2040374,PA0MBO,Martinus,7544ES ENSCHEDE,Overijsseel / Flevoland,NL
 2040375,PA1MLG,Francisco,Tegelen,VLI,NL
+2040376,PD1RNT,Reinout,The Hague,ZH,NL
+2040377,PD0HGQ,Jan,3833GA LEUSDEN,UTR,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -25995,6 +25997,7 @@
 2180321,E77UMS,Miro,Mostar,All Regions,BA
 2180322,E77VJ,Jelica,Mostar,All Regions,BA
 2180323,E77PT,Pero,Ljubuski,All Regions,BA
+2180324,E72DV,Drazen,Bosnia and Hercegovina,All Regions,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -51084,6 +51087,10 @@
 2349777,2E0RVP,David,Lichfield,England,UK
 2349778,G6FTR,Tullio,Cheltenham,England,UK
 2349779,G0EUN,James,Lincoln,England,UK
+2349780,M0RNA,Steve,Fareham,England,UK
+2349781,2E0KDG,Chris,Witham,England,UK
+2349782,MW0HKA,Max,Pontypridd,Wales,UK
+2349783,2E0TRJ,Richard,Liverpool,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -64451,7 +64458,7 @@
 2600717,SQ3GNN,Adam,Jarocin,PLWP,PL
 2600718,SP4LIN,Krzysztof,Zalewo,warmińsko-mazurskie,PL
 2600719,SQ9RHS,Marek,Pszczyna,śląskie,PL
-2600720,SP3IPB,Tadeusz,Kolobrzeg,PLZP,PL
+2600720,SP3IPB,Tadeusz,,,PL
 2600721,SQ2JSG,Marian,Kartuzy,PLPM,PL
 2600722,SQ2LYZ,Daniel,Przodkowo,PLPM,PL
 2600723,SQ2JSN,Jaroslaw,Gdansk,PLPM,PL
@@ -64528,6 +64535,8 @@
 2600796,SQ2CBA,Piotr,Bydgoszcz,PLKP,PL
 2600797,SP2DM,Marcin,Gdansk,PLPM,PL
 2600798,SP8VGA,Marcin,Lublin,PLLU,PL
+2600799,SP6CYN,Slawomir,Bielawa,dolnośląskie,PL
+2600800,SP2PWM,Klub,Gdynia,PLPM,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -74806,6 +74815,9 @@
 2627992,DL1HBT,Thomas,21149 Hamburg,Hamburg / Schleswig-Holstein,DE
 2627993,DH2LM,Lukas,Schlettau,Sachsen / Thueringen,DE
 2627994,DG2MFB,Franz,75015 bretten,BW,DE
+2627995,DL3HAH,Dr,Langerwehe,NW,DE
+2627996,DG9NCP,Franz,Hallerndorf,Bayern,DE
+2628000,DK5RAS,Ralph,Fuerth,,DE
 2628001,DL1BNO,Bernhard,Geiselbach,Bayern,DE
 2628002,DL5NBZ,Rainer,Nuernberg,Bayern,DE
 2628003,DK7NKR,Ralf,Nuernberg,Bayern,DE
@@ -86305,6 +86317,7 @@
 2863496,TA4FFF,Fatih,Denizli,Denzli,TR
 2863497,TA1TAC,Cengiz,Istanbul,Istanbul,TR
 2863498,TB3AGA,Kubilay,Çanakkale,Izmir,TR
+2863499,TA3SCS,Caner,Bursa,Bursa,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -91648,6 +91661,7 @@
 3024578,VA3EPM,Michael,Sarnia,ON,CA
 3024579,VE2NOV,André,Lac Megantic,QC,CA
 3024580,VA7DEW,Dewey,Vancouver,BC,CA
+3024581,VE7ODM,Daniel,Mission,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99984,17 +99998,3 @@
 3108065,K0HTX,Dave,Englewood,CO,US
 3108066,K7PFJ,Mike,Firestone,CO,US
 3108067,KD0OMM,Don,Aurora,CO,US
-3108068,AC5S,Paul,Parker,CO,US
-3108069,KF0KR,Thomas,Pueblo,CO,US
-3108070,KB0BS,Robert,Aurora,CO,US
-3108071,K0PWO,David,Centennial,CO,US
-3108072,KC0NSG,Douglass,Denver,CO,US
-3108073,KD0JJT,Amy,Denver,CO,US
-3108074,W8CJS,Christopher,Greely,CO,US
-3108075,K0PWO,David,Centennial,CO,US
-3108076,W0FT,Robert,Loveland,CO,US
-3108077,W0SLR,Irvin,Holbrook,AZ,US
-3108078,N0ESQ,Robert,Highlands Ranch,CO,US
-3108079,N0ESQ,Robert,Highlands Ranch,CO,US
-3108080,KC0YYI,Jennifer,Highlands Ranch,CO,US
-3108081,KD0MYZ,Bruce,Aurora,CO,US
