@@ -10133,6 +10133,7 @@
 2020414,SV1SUE,Dimitrios,Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020415,SV1SUN,Panagiotis,AGIOS Dimitrios,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020416,SV9AQI,George,GR 71303 Iraklio Crete Island LOC KM25 QH,Kriti,GR
+2020417,SV7LYB,Stergios,ORESTIADA,Anatoliki Makedonia kai Thraki,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -26529,6 +26530,7 @@
 2190489,9A1CBK,Radio,Djurdjevac,Koprivnica-Križevci,HR
 2190490,9A5ADJ,Robert,Pula,Istria,HR
 2190491,9A3LOU,Darko,Karlovac,Karlovac,HR
+2190492,9A6PGM,Marko,Moscenica,Sisak-Moslavina,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -35760,6 +35762,7 @@
 2228884,IT9IOF,Pietro,Palermo,Sicily,IT
 2228885,IZ5XYM,Marco,CAPANNOLI,TOS,IT
 2228886,IW3BMW,Bosco,Levico Terme,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2228887,IV3INV,Guido,Udine,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -51213,6 +51216,7 @@
 2349829,M3WFZ,Brian,Newcastle,England,UK
 2349830,G8MMM,Gordon,Neston,England,UK
 2349831,G8AMC,AMC,Kings Langley,England,UK
+2349832,MM7OIR,Alexander,Glasgow,Scotland,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -55555,6 +55559,7 @@
 2380163,OZ1IBK,Steen,Vordingbog,Sjaelland,DK
 2380164,5P1NSA,Michael,Copenhagen,Hovedstaden,DK
 2380165,OZ2KKP,Kasper,Silkeborg,Midtjylland,DK
+2380166,OZ3KHK,Klaus,Kjellerup,Midtjylland,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -63844,6 +63849,7 @@
 2570119,EW7IK,Игорь,Круглое,All Regions,Belarus
 2570120,EU7FBL,Siarhei,Bobruisk,All Regions,Belarus
 2570121,EU6AAG,Mikhail,Novopolotsk,All Regions,Belarus
+2570122,EU1RZ,Sergey,Minsk,All Regions,Belarus
 2574001,EU4DGC,Pavel,Grodno,Grodno,Belarus
 2590001,ER1AL,Vadim,Kishinev,Chisinau,Moldova
 2590002,ER1VOX,Dumitru,Chisinau,Chisinau,Moldova
@@ -80889,6 +80895,7 @@
 2680229,CT7ANT,Bernardino,Cascais Lisboa,Regiao de Lisboa,PT
 2680230,CT1DSO,Manuel,Amares - Braga,Regiao Norte,PT
 2680231,CR7BCZ,Agostinho,Setubal,Regiao de Lisboa,PT
+2680232,CT1KNM,Walsker,Bairro Da Flamenga Lisboa,Regiao de Lisboa,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -86495,6 +86502,7 @@
 2863519,TA3SBA,Ahmet,Bursa,Bursa,TR
 2863520,TA8ACR,Remzi,Turkey,Ankara,TR
 2863521,TA2KEM,Ali,Ankara,Ankara,TR
+2863522,TA3BDJ,Ali,İzmir,Izmir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -87163,7 +87171,7 @@
 2930638,S50AE,Ožbej,Polzela,All Regions,SI
 2930639,S51SI,Ivan,Kamnica 2351,,SI
 2930640,S57TS,Tomaz,Osevljek,All Regions,SI
-2930641,S54KDK,Krištof,Ljubljana,,SI
+2930641,S54KDK,Kristof,Ljubljana,,SI
 2930642,S57BTI,Bostjan,Hotedrsica,,SI
 2930643,S58TI,Tilen,Ljubljana,All Regions,SI
 2930644,S56JAL,Ales,Naklo,All Regions,SI
@@ -91859,6 +91867,7 @@
 3024598,VE1BBT,Andrew,Dartmouth,NS,CA
 3024599,VA3CFP,Paulo,Vanier,ON,CA
 3024600,VA6TKK,Tyler,Lethbridge,AB,CA
+3024601,VA7DMZ,Westley,Cranbrook,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99989,12 +99998,3 @@
 3107857,W7FSH,Magdalena,Northridge,CA,US
 3107858,WA6SDB,Jan,Chino Hills,CA,US
 3107859,W4WWW,Brian,Garden Grove,CA,US
-3107860,KK6QYE,William,Los Angeles,CA,US
-3107861,WO6W,Robert,Menlo Park,CA,US
-3107862,KD6MPM,Roy,Huntington Beach,CA,US
-3107863,K6YRO,Jason,Sunnyvale,CA,US
-3107864,N6DEN,Donald,Chico,CA,US
-3107865,N3BKV,David,Glendale,CA,US
-3107866,KM6FOH,Micheline,Beverly Hills,CA,US
-3107867,NN6AA,Edward,Redding,CA,US
-3107868,WC6Q,Ryan,Stevenson Ranch,CA,US
