@@ -14507,6 +14507,7 @@
 2060438,ON3OLB,Olivier,Tervuren,Vlaams Brabant,BE
 2060439,ON4CDI,Marc,Erpe 9420,O-V,BE
 2060440,ON8GE,Pierre,Courcelles,WHT,BE
+2060441,ON9KVE,Kees,Kortrijk,VWV,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -22990,6 +22991,13 @@
 2144830,EA4HOX,Manuel,Madrid,Madrid,ES
 2144831,EA4HOT,Luis,Puertollano,Ciudad Real,ES
 2144832,EA1FNC,Pablo,Boiro,A Coruna,ES
+2144833,EA3INO,Nil,Viladecans,Barcelona,ES
+2144834,EA4FJI,Rafael,Madrid,Madrid,ES
+2144835,EA1BXG,Antonio,VILLARES De La REINA SALAMANCA,Salamanca,ES
+2144836,EA3GTR,Francisco,Puigcerda,Girona,ES
+2144837,EB1HDI,Victor,ponferrada,Leon,ES
+2144838,EA5IKK,Antonio,Albacete,Albacete,ES
+2144839,EA7KQM,Guillermo,Almeria,Almeria,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -26095,6 +26103,7 @@
 2180322,E77VJ,Jelica,Mostar,All Regions,BA
 2180323,E77PT,Pero,Ljubuski,All Regions,BA
 2180324,E72DV,Drazen,Bosnia and Hercegovina,All Regions,BA
+2180325,E70SRS,Club,Trebinje Republika Srpska,All Regions,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -35835,6 +35844,7 @@
 2228901,IU1LFA,Marco,Chivasso TO,Piedmont / Liguria / Aosta,IT
 2228902,IN3FSN,Enzo,Carano,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2228903,IU6LKI,Giammaria,Macerata,Marche / Abruzzo,IT
+2228904,IZ3KSS,Loris,Nervesa della Battaglia TV,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -51330,6 +51340,8 @@
 2349863,MW6OVF,Matthew,Pembroke dock,Wales,UK
 2349864,MW3HSZ,Philip,CARDIFF,Wales,UK
 2349865,M7BMR,Brianna,Barnsley,England,UK
+2349866,M0PUH,Matt,Staverton,England,UK
+2349867,G4XWQ,Dave,Barnstaple,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -64846,8 +64858,11 @@
 2600822,SP2ROC,Jakub,Mikorzyn,PLKP,PL
 2600823,SP7MOW,Andrzej,Starachowice,świętokrzyskie,PL
 2600824,SP8MB,Marcin,Swidnik,PLLU,PL
-2600825,SQ6JNZ,Andrzej,Slawecice,dolnośląskie,PL
+2600825,SQ6JNZ,Andrzej,Góra,dolnośląskie,PL
 2600826,SQ2PPJ,Piotr,Gdynia,PLPM,PL
+2600827,SP3MW,Maciej,Zielona Gora,PLLB,PL
+2600828,SP3BKR,Maciej,Zielona Gora,PLLB,PL
+2600829,SQ3NTY,Jakub,Zielona Gora,PLLB,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76589,6 +76604,10 @@
 2629458,DD0DQ,Hugo,Altena,NW,DE
 2629459,DO3SBB,Sascha,Braunschweig,Niedersachsen / Bremen,DE
 2629460,DL8LAJ,Jörg,Ahrensburg,Hamburg / Schleswig-Holstein,DE
+2629461,DF3VG,Patric,Dettingen,BW,DE
+2629462,DO4MAR,Marek,Hanau,HE,DE
+2629463,DL4GG,Uli,Emmendingen,BW,DE
+2629464,DG5ZT,Ulrich,Alsfeld,HE,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -87358,7 +87377,7 @@
 2930624,S57JB,Joze,Vrhulje,Spodnjeposavska,SI
 2930625,S57GSW,Bojan,Maribor,Maribor,SI
 2930626,S52HP,Hrvoje,KRSKO,All Regions,SI
-2930627,S54ZGA,Žiga,Kamnik,All Regions,SI
+2930627,S54ZGA,Ziga,Kamnik,All Regions,SI
 2930628,S56MSK,Martin,Nova Gorica,All Regions,SI
 2930629,S56NE,Nejc,Idrija,,SI
 2930630,S58JA,Anže,Medvode,All Regions,SI
@@ -87379,6 +87398,7 @@
 2930645,S51P,Gorazd,Celje,All Regions,SI
 2930646,S52P,Goran,Celje,All Regions,SI
 2930647,S52BOT,Borut,Sežana,All Regions,SI
+2930648,S52DN,Darko,64220 Skofja Loka,All Regions,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -99978,23 +99998,3 @@
 3107620,KD6EDD,Janet,Santa Ana,CA,US
 3107621,K6VOR,Taylor,Clovis,CA,US
 3107622,W6QN,Harvey,Irvine,CA,US
-3107623,K6WTZ,Audie,N. Hollywood,CA,US
-3107624,AG6VY,Rusty,El Cajon,CA,US
-3107625,KE6NAV,Moises,Riverside,CA,US
-3107626,KM6DMB,Mark,Pasadena,CA,US
-3107627,K6BEZ,Beric,San Jose,CA,US
-3107628,KF6VGZ,Craig,Escondido,CA,US
-3107629,K6HF,Mike,Rolling Hills Estates,CA,US
-3107630,N6YN,Ed,Los Angeles,CA,US
-3107631,KK6ZTV,Mark,Los Alamitos,CA,US
-3107632,KI6QEE,William,Salinas,CA,US
-3107633,KF6VGZ,Craig,Escondido,CA,US
-3107634,W6INE,Erik,Mission Viejo,CA,US
-3107635,N6CZE,Gary,Montclair,CA,US
-3107636,K6CW,Donald,Yorba Linda,CA,US
-3107637,W6TYL,Joseph,Tarzana,CA,US
-3107638,N6CZE,Gary,Montclair,CA,US
-3107639,AG6VY,Rusty,El Cajon,CA,US
-3107640,K6MMR,Mary,Menlo Park,CA,US
-3107641,KB6OZX,Ray,Riverside,CA,US
-3107642,KJ6YNR,Alex,Walnut Creek,CA,US
