@@ -10142,7 +10142,7 @@
 2020422,SV1CHE,Dimitrios,Greece 11145,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020423,SY1DRT,Stavros,Elliniko,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020424,SV3SFL,Andreas,PATRAS,Attiki / Sterea Ellada / Dytiki Ellada,GR
-2020425,SV3IRR,Ιωαννης,NAFPLIO,Peloponnisos,GR
+2020425,SV3IRR,Ιωαννης,Nafplio,Peloponnisos,GR
 2020426,SV4RQO,Alexis,VOLOS,Thessalia,GR
 2020427,SV1BYO,Konstantinos,Zografou 15773 Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
@@ -16461,6 +16461,7 @@
 2080836,F4FTB,Benjamin,Tortequesne,Hauts-de-France,FR
 2080837,F4JCD,Laurent,Cavaillon,Provence-Alpes-Côte d Azur,FR
 2080838,F8BII,Salvatore,puttelange les thionville,Grand Est,FR
+2080839,F4HER,Philippe,MARCAY,Nouvelle-Aquitaine,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -23031,6 +23032,9 @@
 2144850,EA4EA,José,Móstoles,Madrid,ES
 2144851,EA7KQI,Francisco,Sevilla,Sevilla,ES
 2144852,EA4HOI,Francisco,Madrid,Madrid,ES
+2144853,EA5GHZ,Jose,Molina de Segura,Murcia,ES
+2144854,EA1ENT,Itus,Alfaro,La Rioja,ES
+2144855,EA8CRJ,José,Güimar Santa Cruz de Tenerife,Santa Cruz de Tenerife,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -25303,6 +25307,7 @@
 2160102,HA5GB,Balazs,Budapest,Budapest,HU
 2160103,HA0GB,Gabor,Debrecen,Pest / Eger / Erd / Miskolc / Salgotarjan / Szolnok,HU
 2160104,HA7JAZ,Laszlo,Budakalasz,Budapest,HU
+2160105,HA5GCS,Gembiczki,Budapest,Budapest,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -35888,6 +35893,9 @@
 2228908,IU8IVC,Antonio,Vico Equense,Molise / Campania / Calabria,IT
 2228909,IU8PNS,Enrico,Napoli,Molise / Campania / Calabria,IT
 2228910,IU0PPT,Domenico,Roma,Lazio / Umbria / Sardinia,IT
+2228911,IT9WBN,Natale,90017 Santa FLAVIA PA,Sicily,IT
+2228912,IQ3GO,A,GORIZIA,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2228913,IK8DOE,Arturo,84013 CAVA D TIRRENI SA,Molise / Campania / Calabria,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -55754,6 +55762,7 @@
 2380168,OZ0RGM,Stefan,Dronningmolle,Hovedstaden,DK
 2380169,OZ1GBE,Hans,Randers,Midtjylland,DK
 2380170,OZ3EBR,Niels,Aars,Nordjylland,DK
+2380171,OZ9ZZ,Jens,Karup,Midtjylland,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -57759,6 +57768,7 @@
 2400685,SA7BDN,Per,SE-593 75 Gunnebo,Kalmar,SE
 2400686,SM6PZB,Christer,Horred,Vastra Gotaland,SE
 2400687,SA0POW,Patric,Huddinge,Stockholm,SE
+2400688,SK7UA,Per,Svedala,Skane,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -61817,6 +61827,9 @@
 2500236,R4HIM,Viktor,Samara,All Regions,RU
 2500237,R3THC,Nicholas,Moscow,All Regions,RU
 2500238,UB6JCA,Nikita,Vladikavkaz,All Regions,RU
+2500239,R1BHI,Dmitriy,Saint Petersburg,All Regions,RU
+2500240,UB3AWP,Alexandr,Moscow,All Regions,RU
+2500241,R2AHE,Konstantin,Moscow,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -63019,7 +63032,7 @@
 2506206,R6KAI,,,,RU
 2506207,UB6LNE,,,,RU
 2506208,UB6HRG,,,,RU
-2506209,R6YAN,,,,RU
+2506209,R6YAN,Oleg,Maykop,,RU
 2506210,R6FGS,,,,RU
 2506211,R6UAQ,Vitaliy,Rostov-Don,Rostov,RU
 2506212,UA6UDI,,,,RU
@@ -64936,6 +64949,7 @@
 2600830,SP5SI,Szymon,Warszawa,PLMZ,PL
 2600831,SP6GDI,Przemyslaw,Walbrzych,dolnośląskie,PL
 2600832,SP3VZT,Artur,Kalisz,PLWP,PL
+2600833,SP2MGO,Marcin,Gdansk,PLPM,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76689,6 +76703,10 @@
 2629470,DO5FDR,Daniel,Unterwellenborn,Sachsen / Thueringen,DE
 2629471,DD5AM,Alan,Stuttgart,BW,DE
 2629472,DG6SCP,Alexander,72639 Neuffen,BW,DE
+2629473,DL1SMF,Stefan,44575 Castrop Rauxel,NW,DE
+2629474,DL2VML,Udo,Dresden,Sachsen / Thueringen,DE
+2629475,DL5KY,Abdulrahman,Münchhausen,HE,DE
+2629476,DF1TY,Dieter,Kuenzelsau,BW,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -81174,6 +81192,7 @@
 2680237,CS9ABS,Rui,Santana,Madeira,PT
 2680238,CT5GOQ,Rui,2665 101 GRADIL,Regiao de Lisboa,PT
 2680239,CU3DI,Pedro,Angra Do Heroísmo,Azores,PT
+2680240,CR5EFF,Escoteiros,Figueira Da Foz,Regiao Centro,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -83264,6 +83283,7 @@
 2840485,LZ2SVK,Simeon,Sofia,All Regions,BG
 2840486,LZ1VNP,Valentin,Sofia,All Regions,BG
 2840487,LZ1DNN,Danail,Sopot,All Regions,BG
+2840488,LZ1ADG,Iliya,Gotse Delchev,All Regions,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -86815,6 +86835,7 @@
 2863560,TA2SHC,Hüseyi̇n,Karamürsel,Kocael,TR
 2863561,TA3HRJ,Erhan,Karsiyaka,Izmir,TR
 2863562,TB4MTJ,Murat,Isparta,Antalya,TR
+2863563,TA2ICV,Ilyas,Maltepe,Istanbul,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99977,24 +99998,3 @@
 3107503,KK6MRI,Shimon,Moraga,CA,US
 3107504,N6HGJ,David,Culver City,CA,US
 3107505,K1GR,Frank,Chula Vista,CA,US
-3107506,AI6NJ,Michael,Escondido,CA,US
-3107507,K1GR,Frank,Chula Vista,CA,US
-3107508,N6MQG,Thomas,Sanger,CA,US
-3107509,N6YCK,Albert,Corning,CA,US
-3107510,KM6CYB,Daniel,San Diego,CA,US
-3107511,KG6TTN,Christopher,Roseville,CA,US
-3107512,KK6FNS,Saif,Santa Clara,CA,US
-3107513,W6BNS,Robert,Manhattan Beach,CA,US
-3107514,K6EF,Mark,San Mateo,CA,US
-3107515,N6BRL,Benjamin,Sunnyvale,CA,US
-3107516,AI6SB,Steven,El Cerrito,CA,US
-3107517,AC6AC,Elliot,Topanga,CA,US
-3107518,KY6O,Richard,Victorville,CA,US
-3107519,K6BKD,Benjamin,Highland,CA,US
-3107520,KD6YDZ,Boyan,San Francisco,CA,US
-3107521,KM6AB,Mike,San Pedro,CA,US
-3107522,N6IB,Mark,Hanford,CA,US
-3107523,N6SH,Anthony,Orange,CA,US
-3107524,K6GKB,Goetz,San Jose,CA,US
-3107525,K6JDM,James,Clovis,CA,US
-3107526,KK6FEN,Ryan,San Francisco,CA,US
