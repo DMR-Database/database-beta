@@ -1943,7 +1943,7 @@
 1108037,KK6BMA,Pearlenna,Highlands Ranch,CO,US
 1108038,KK6BMA,Pearlenna,Highlands Ranch,CO,US
 1108039,AD0PD,John,Centennial,CO,US
-1108040,AA0FK,Forrest,Aurora,CO,US
+1108040,AA0FK,Forrest,,,US
 1108041,KB0RVE,Jon,Longmont,CO,US
 1108042,K0CVH,Carol,Thornton,CO,US
 1108044,KD0SSP,Denver,Denver,CO,US
@@ -2260,7 +2260,7 @@
 1108395,KD0EXI,Cheyenne,Aurora,CO,US
 1108396,KE0ER,Carl,Aurora,CO,US
 1108397,W0NEV,John,Bellvue,CO,US
-1108398,AA0FK,Forrest,Aurora,CO,US
+1108398,AA0FK,Forrest,,,US
 1108399,W0GI,Robert,Loveland,CO,US
 1108400,KC0PXT,Mark,Highlands Ranch,CO,US
 1108401,KE0KQL,Michael,Fort Collins,CO,US
@@ -7668,10 +7668,10 @@
 1142128,W2JRW,James,Equinunk,PA,US
 1142129,KS3X,Enoch,Philadelphia,PA,US
 1142130,KC3EUJ,William,Damascus,PA,US
-1142131,N3GTO,Stephen,Hazleton,PA,US
+1142131,N3GTO,Stephen,Jacksonville,FL,US
 1142132,KC3KMY,Terry,Bethel Park,PA,US
 1142134,KC3CRN,Lucille,Lancaster,PA,US
-1142135,N3GTO,Stephen,Hazleton,PA,US
+1142135,N3GTO,Stephen,Jacksonville,FL,US
 1142136,N2FOP,Edward,Shippensburg,PA,US
 1142137,AB3ZI,John,Wilkes Barre,PA,US
 1142138,AC3BS,Jeff,Ephrata,PA,US
@@ -9502,6 +9502,7 @@
 2020425,SV3IRR,Ioannis,Nafplio Argolida,Peloponnisos,GR
 2020426,SV4RQO,Alexis,VOLOS,Thessalia,GR
 2020427,SV1BYO,Konstantinos,Zografou 3Athens,Attiki,GR
+2020428,SV1IYA,Christos-Sotirios,Byron Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -22419,6 +22420,8 @@
 2144860,EA5JFL,Jose,Valencia,Valencia,ES
 2144861,EA5CBX,Antonio,Valencia,Valencia,ES
 2144862,EA5JGR,Felipe,Cartagena,Murcia,ES
+2144863,EA5JGS,Martin,Alicante,Valencia,ES
+2144864,EA1IB,Miguel,MONTEJOS DEL CAMINO Leon,Leon,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -38377,6 +38380,7 @@
 2300187,OK1PRB,Petr,Kunratice,Prague,CZ
 2300188,OK2STM,Milan,Bosovice,S. Moravian Region,CZ
 2300189,OK1ZJH,Jiri,Hubenov Nr Pilsen,Pilsen Region,CZ
+2300190,OK1JPS,Jiří,Děčín - Maxičky,Usti nad Labem Region,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -50879,6 +50883,13 @@
 2349920,G4NEG,William,Doncaster,England,UK
 2349921,G7NVQ,Mike,Gillingham,England,UK
 2349922,M0RCQ,Atanas,Sevenoaks,England,UK
+2349923,2E0TAP,Craig,Epping,England,UK
+2349924,M0HPF,Glitsun,Dartford,England,UK
+2349925,M0IID,Melvin,Stowmarket,England,UK
+2349926,M7DKE,Daryl,Dagenham,England,UK
+2349927,G0VNW,John,Hucknall,England,UK
+2349928,M7CLK,David,Bury,England,UK
+2349929,M7CAY,David,Bridgwater,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -60100,6 +60111,7 @@
 2441354,OH6OA,Olli,Peraseinajoki,All Regions,FI
 2441355,OH9MVX,Heikki,Tornio,All Regions,FI
 2441356,OH4SSV,Suur-Savon,Mikkeli,All Regions,FI
+2441357,OH2CJI,Jan,Vihti,All Regions,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -63451,6 +63463,7 @@
 2550491,UR5FUI,Dmytro,Odessa,All Regions,UA
 2550492,UR6LRP,Denis,Kharkov,All Regions,UA
 2550493,UR5TMZ,Bohdan,Kamenets-Podolskiy,All Regions,UA
+2550494,US5RK,Alexander,16100 Sosnitsa,All Regions,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -64463,6 +64476,7 @@
 2600854,SQ5RDF,Pawel,Krakow,małopolskie,PL
 2600855,SP8ABT,Piotr,Rzeszow,PLPK,PL
 2600856,SP8KM,Mariusz,39 207 Brzeznica,PLPK,PL
+2600857,SP3BAH,Mariusz,Strzelce Krajenskie,PLLB,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76247,6 +76261,7 @@
 2629501,DL4SDA,Alexander,Steinheim,BW,DE
 2629502,DF6UY,Lothar,78647 Trossingen,BW,DE
 2629503,DO9OX,Florian,Weilrod,HE,DE
+2629504,DO3BP,Bernhard,82152 Planegg,Bayern,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -86424,6 +86439,11 @@
 2863587,TB4AGA,Ahmet,Antalya,Antalya,TR
 2863588,TA2SY,Yigiter,Sakarya,Sakarva,TR
 2863589,TA3DEE,Erkan,Izmir,Izmir,TR
+2863590,TB2LYC,Yücel,Kdz Ereğli̇,Trabozon,TR
+2863591,TB4TEE,Erkan,Burdur,Antalya,TR
+2863592,TA3GLY,Cengiz,Altıeylül,Balikesir,TR
+2863593,TA4SBO,Ozgur,Burdur,Antalya,TR
+2863594,TA3TAM,Emre,Sehzadeler,Manisa,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -91827,6 +91847,12 @@
 3024632,VA3FGL,Fernando,Toronto,ON,CA
 3024633,VA7OMH,Joshua,Vernon,BC,CA
 3024634,VE6KEZ,Kevin,Clive,AB,CA
+3024635,VA7DXD,Dallas,Campbell River,BC,CA
+3024636,VA3AGH,Alexander,Kanata,ON,CA
+3024637,VA1WV,William,Springhill,NS,CA
+3024638,VE7NHW,Randal,Aldergrove,BC,CA
+3024639,VA2TBZ,Levert,Terrebonne,QC,CA
+3024640,VE6GTZ,Jose,Calgary,AB,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99972,29 +99998,3 @@
 3107872,KG6FGX,Jim,Laguna Niguel,CA,US
 3107873,KM6EUV,Will,San Jose,CA,US
 3107874,AG6YH,Daniel,Yuba City,CA,US
-3107875,KJ6UJO,Philip,San Pedro,CA,US
-3107876,KJ6LEO,David,Milpitas,CA,US
-3107877,KM6ECD,Justin,Poway,CA,US
-3107878,KE6CAG,Theodore,Inglewood,CA,US
-3107879,KH7Y,Frederic,Pine Grove,CA,US
-3107880,KE6EQJ,William,Glendale,CA,US
-3107881,WB6AJX,Douglas,Ramona,CA,US
-3107882,N6JDS,Justin,Poway,CA,US
-3107883,W6ARH,Alan,Huntington Beach,CA,US
-3107884,KE6BK,Eddie,Porterville,CA,US
-3107885,KK6SEI,Kerop,Valley Village,CA,US
-3107886,N6FW,Kurt,San Jose,CA,US
-3107887,WB6PFJ,James,San Jose,CA,US
-3107888,WW6SE,Steven,Redwood City,CA,US
-3107889,AG6ZH,Richard,San Jose,CA,US
-3107890,K6KWR,Keith,Orinda,CA,US
-3107891,WA6JAY,Jason,Winnetka,CA,US
-3107892,K6BAA,Bruce,Rocklin,CA,US
-3107893,KI6BEQ,David,Pittsburg,CA,US
-3107894,KE6FIQ,John,Grass Valley,CA,US
-3107895,NN6H,Tom,Discovery Bay,CA,US
-3107896,KT6Y,Jay,Walnut Creek,CA,US
-3107897,K4NZD,Adam,Hawthorne,CA,US
-3107898,N6HRO,Jon,Sunnyvale,CA,US
-3107899,KC7VFT,Melanie,Westminster,CA,US
-3107900,WB9RER,Duane,Westminster,CA,US
