@@ -482,7 +482,7 @@
 1106363,WB6LLW,Norman,Tollhouse,CA,US
 1106364,K6RUE,John,Camarillo,CA,US
 1106365,KM6BRH,Ricardo,N. Hollywood,CA,US
-1106366,KJ6QIQ,Scott,Santa Rosa,CA,US
+1106366,AE6SW,Scott,Santa Rosa,CA,US
 1106367,W6HBD,Patrick,Davis,CA,US
 1106368,N6CEK,Charles,Calimesa,CA,US
 1106369,AI6VT,Kazuyoshi,Covina,CA,US
@@ -1395,7 +1395,7 @@
 1107425,KM6NB,Eric,San Francisco,CA,US
 1107426,KM6HIB,Miguel,San Lorenzo,CA,US
 1107427,WA6MHA,Glen,Encino,CA,US
-1107428,KG6QCK,Trevor,Lancaster,CA,US
+1107428,KG6QCK,Trevor,Phelan,CA,US
 1107429,KH2VY,Teodulo,Barrigada,AL,US
 1107430,KI6GJV,Montree,San Francisco,CA,US
 1107431,N6PET,Pet,Winnetka,CA,US
@@ -26355,6 +26355,7 @@
 2200344,YU7VSN,Nikola,Zrenjanin,All Regions,RS
 2200345,YU7RM,Aleksandar,Zrenjanin,All Regions,RS
 2200346,YU4DUH,Aleksa,Belgrade,All Regions,RS
+2200347,YT1NIK,Nikola,Nis,All Regions,RS
 2210001,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
 2210002,Z63CIA,Aurora,Prishtina,Pristina,Kosovo
 2220001,IK0YYY,Luca,Rome,LAZ,IT
@@ -35313,6 +35314,7 @@
 2228954,IU3NPL,Massimiliano,Este,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2228955,IW1FGA,Alessandro,Vinovo,Piedmont / Liguria / Aosta,IT
 2228956,IK8GCZ,Maurizio,AVELLINO,Molise / Campania / Calabria,IT
+2228957,IW2KZW,Gabriele,Misinto,LOM,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -36616,6 +36618,8 @@
 2280106,HB9RS,Radio,CH 1692 Massonnens,Fribourg,CH
 2280107,HB3XYN,Rene,Aesch LU,Lucerne,CH
 2280108,HB9HMG,Andreas,Schiers,Grigioni Grisons,CH
+2280109,HB9HNF,Marcus,Gais,Appenzell Outer-Rhodes,CH
+2280110,HB9HEH,Daniel,Zuerich Altstetten,Zurich,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -50950,6 +50954,8 @@
 2349963,M7CPE,Christopher,Hastings,England,UK
 2349964,M7DEC,Declan,Newtownstewart,Northern Ireland,UK
 2349965,2E0PAB,Phillip,Braintree,England,UK
+2349966,M0WKL,Wing,London,England,UK
+2349967,M7TVR,Iain,Iver,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -58991,6 +58997,7 @@
 2420278,LA8RTA,Asbjorn,6905 Floroe,More og Romsdal / Sogn og Fjordane,NO
 2420279,LA2BBA,Jan,1680 SKJÆRHALLEN,Vestfold / Ostfold,NO
 2420280,LA7BFA,Sverre,1415 Oppegaard,Akershus,NO
+2420281,LB0PI,Jan,Oslo,Oslo,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -64618,6 +64625,9 @@
 2600884,SP4TW,Tomasz,Lomza,PLPD,PL
 2600885,SP4BL,Bartosz,Gielczyn,PLPD,PL
 2600886,SQ5RGW,Jacek,Lipinki,PLMZ,PL
+2600887,SP4EBD,Edmund,Bialystok,PLPD,PL
+2600888,SP2PWM,Klub,Gdynia,PLPM,PL
+2600889,SP7SKT,Michal,Koprzywnica,świętokrzyskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -82565,6 +82575,7 @@
 2820006,4L1FH,Aleksi,Tbilisi,Tbilisi,Georgia
 2820007,4L0VE,Shota,Gori,Shida Kartli,Georgia
 2820008,4L5C,Levan,Gori,Shida Kartli,Georgia
+2820009,4L4CR,Mike,KASPI,All Regions,Georgia
 2830001,EK6OLM,Mher,Yerevan,Yerevan,Armenia
 2830002,EK1RR,Hayk,Yerevan,Yerevan,Armenia
 2830003,EK6RAM,Arthur,Yerevan,Yerevan,Armenia
@@ -86709,6 +86720,7 @@
 2863646,TA5IM,İsmai̇L,ANTAKYA,Hatay,TR
 2863647,TA1SKO,Okan,Sarıyer,Istanbul,TR
 2863648,TB3ADP,Onder,Bursa,Bursa,TR
+2863649,TA8VAM,Volkan,Malatya,Malatya,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92109,7 +92121,7 @@
 3024626,VA7NSP,Norm,Courtenay,BC,CA
 3024627,VE3NZC,Nicholas,Sudbury,ON,CA
 3024628,VA6CLO,Carter,Edmonton,AB,CA
-3024629,VE3QS,W,Orleans,ON,CA
+3024629,VE3QS,Ken,Orleans,ON,CA
 3024630,VA3GIF,Andrew,Carp,ON,CA
 3024631,VA3JPG,Jean-Pierre,Ottawa,ON,CA
 3024632,VA3FGL,Fernando,Toronto,ON,CA
@@ -92149,6 +92161,7 @@
 3024666,VE3WJI,James,sarnia,ON,CA
 3024667,VE2OLO,Marc,Longueuil,QC,CA
 3024668,VE3STY,Stuart,Elizabethtown,ON,CA
+3024669,VA3CRF,Vernon,Waterdown,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99985,16 +99998,3 @@
 3107561,AC6Y,Michael,Oakland,CA,US
 3107562,KK6TTJ,Matt,San Clemente,CA,US
 3107563,W6CKC,Jess,Basalt,CO,US
-3107564,N6MIK,Mike,Yorba Linda,CA,US
-3107565,N6MIK,Mike,Yorba Linda,CA,US
-3107566,N6MIK,Mike,Yorba Linda,CA,US
-3107567,K1USC,Javier,Northridge,CA,US
-3107568,WB6NXP,John,Simi Valley,CA,US
-3107569,W6WDJ,William,Vista,CA,US
-3107570,K6WDE,Dave,Running Springs,CA,US
-3107571,WB6POT,Peter,San Jose,CA,US
-3107572,KK6JQH,Brian,Madera,CA,US
-3107573,N7EAL,Neal,Los Angeles,CA,US
-3107574,KK6ISP,Clark,Redwood City,CA,US
-3107575,KB6VHF,Michael,Buena Park,CA,US
-3107576,KB6UHF,Laura,Buena Park,CA,US
