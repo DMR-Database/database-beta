@@ -5196,7 +5196,6 @@
 1136505,WJ2H,Ronald,Elmsford,NY,US
 1136506,KC2ILP,Robert,Oceanside,NY,US
 1136507,KD2MDO,Colin,Greenwich,NY,US
-1136508,KC2IQV,Charles,Kingston,NY,US
 1136509,KY2T,Dima,Suffern,NY,US
 1136510,W3AAP,Anthony,Pleasant Gap,PA,US
 1136514,KD2EQH,Johnny,E. Rockaway,NY,US
@@ -9409,6 +9408,7 @@
 2020441,SV1PBB,Elias,Galatsi,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020442,SV6JUL,Konstantinos,ARTA,Ipeiros,GR
 2020443,SY3DPI,George,Kato Achaia,Peloponnisos,GR
+2020444,SY2DON,Vasilis,kozani,Dytiki Makedonia / Kentriki Makedonia,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -15774,8 +15774,9 @@
 2080859,F4IPB,Henry,Sedze Maubecq,Nouvelle-Aquitaine,FR
 2080860,F4IVZ,Herve,LE PRADET,Provence-Alpes-Côte d Azur,FR
 2080861,F8AXW,Sylvain,pineuilh,Nouvelle-Aquitaine,FR
-2080862,F5IHN,Aknin,Bezouce,Occitanie,FR
+2080862,F5IHN,David,Bezouce,Occitanie,FR
 2080863,F4IEE,F4Iee,Aston,Occitanie,FR
+2080864,F4IAA,Laurent,La Douze,Nouvelle-Aquitaine,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22390,6 +22391,8 @@
 2144894,EA4PD,Pablo,45600 Talavera de la Reina,Toledo,ES
 2144895,EA1FNJ,Diego,Logroño,La Rioja,ES
 2144896,EA3IKN,Emilio,Lleida,Lerida,ES
+2144897,EA1IGC,Ricardo,Vilanova de Arousa,Pontevedra,ES
+2144898,EA3FBC,Armand,REUS,Tarragona,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -35315,6 +35318,7 @@
 2228955,IW1FGA,Alessandro,Vinovo,Piedmont / Liguria / Aosta,IT
 2228956,IK8GCZ,Maurizio,AVELLINO,Molise / Campania / Calabria,IT
 2228957,IW2KZW,Gabriele,Misinto,LOM,IT
+2228958,IQ3FX,Ari,Udine,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -38940,6 +38944,7 @@
 2310043,OM3KMK,Club,Puchov,Nitriansky / Trenciansky / Trnavsky,SK
 2310044,OM4AA,Michal,Puchov,Nitriansky / Trenciansky / Trnavsky,SK
 2310045,OM6APP,Peter,Vricko,Banskobystricky / Zilinsky,SK
+2310046,OM3TLG,Milos,Púchov,Nitriansky / Trenciansky / Trnavsky,SK
 2311001,OM1ATS,Daniel,Bratislava,Bratislavsky,SK
 2311002,OM1AEG,Anton,Bratislava,Bratislavsky,SK
 2311003,OM1EI,Marian,Bratislava,Bratislavsky,SK
@@ -50956,6 +50961,9 @@
 2349965,2E0PAB,Phillip,Braintree,England,UK
 2349966,M0WKL,Wing,London,England,UK
 2349967,M7TVR,Iain,Iver,England,UK
+2349968,MI7NKJ,Frankie,Portadown,Northern Ireland,UK
+2349969,G0RVY,Peter,Chatham,England,UK
+2349970,GM4ZQZ,Hugh,Larkhall,Scotland,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2350001,ZC4GR,Garry,Ayios Nikoloas,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
@@ -58998,6 +59006,8 @@
 2420279,LA2BBA,Jan,1680 SKJÆRHALLEN,Vestfold / Ostfold,NO
 2420280,LA7BFA,Sverre,1415 Oppegaard,Akershus,NO
 2420281,LB0PI,Jan,Oslo,Oslo,NO
+2420282,LA4HSA,Torgeir,8663 Mosjoen,Finnmark / Troms / Nordland,NO
+2420283,LA7LTA,Svein,,Rogaland,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -60202,6 +60212,8 @@
 2441362,OH6CIG,Joakim,Seinäjoki,All Regions,FI
 2441363,OH6LO,Arto,SEINÄJOKI,All Regions,FI
 2441364,OH2CIP,Juhani,Espoo,All Regions,FI
+2441365,OH2KKS,Raul,Nurmijärvi,All Regions,FI
+2441366,OH3NOD,Esa,Espoo,All Regions,FI
 2442001,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442002,OH2LAK,Erik,Espoo,Uusimaa,FI
 2442003,OH2LAK,Erik,Espoo,Uusimaa,FI
@@ -64628,6 +64640,7 @@
 2600887,SP4EBD,Edmund,Bialystok,PLPD,PL
 2600888,SP2PWM,Klub,Gdynia,PLPM,PL
 2600889,SP7SKT,Michal,Koprzywnica,świętokrzyskie,PL
+2600890,SP5DJ,Jacek,Plochocin Osiedle,PLMZ,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76469,6 +76482,8 @@
 2629558,DO5CHB,Christian,Mölln,Hamburg / Schleswig-Holstein,DE
 2629559,DG6MS,Martin,Karlsruhe,BW,DE
 2629560,DM2KG,Kai,Mannheim,BW,DE
+2629561,DO1DV,Hans-Dieter,Rheda- Wiedenbrück,NW,DE
+2629562,DG3JO,Jochen,Leimen,BW,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -80966,6 +80981,7 @@
 2680249,CR7AWZ,Luis,Azinhaga,Regiao Centro,PT
 2680250,CS1ACP,Arcp,3081 903 Figueira Da Foz,Regiao Centro,PT
 2680251,CT2HCI,Firmino,Braga,Regiao Norte,PT
+2680252,CT5HKI,Carlos,Seixal,Regiao de Lisboa,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -86721,6 +86737,14 @@
 2863647,TA1SKO,Okan,Sarıyer,Istanbul,TR
 2863648,TB3ADP,Onder,Bursa,Bursa,TR
 2863649,TA8VAM,Volkan,Malatya,Malatya,TR
+2863650,TA3AFR,Samet,Manisa,Manisa,TR
+2863651,TA8EJD,Ejder,Malatya,Malatya,TR
+2863652,TA1EYM,Eymen,Kırklareli,,TR
+2863653,TA4MEK,Mesut,Türkiye,Denzli,TR
+2863654,TB2GKJ,Fatih,Ankara,Ankara,TR
+2863655,TB6BSH,Serdar,Çorum,Ankara,TR
+2863656,TA2WHO,Mustafa,İstanbul,Istanbul,TR
+2863657,TB3AZZ,Altan,İzmi̇r,Izmir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92162,6 +92186,9 @@
 3024667,VE2OLO,Marc,Longueuil,QC,CA
 3024668,VE3STY,Stuart,Elizabethtown,ON,CA
 3024669,VA3CRF,Vernon,Waterdown,ON,CA
+3024670,VE3XEM,Peter,Orleans,ON,CA
+3024671,VE7JFF,Shane,Kamloops,BC,CA
+3024672,VY2JS,Jamie,Nine Mile Creek,PE,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99971,30 +99998,3 @@
 3107534,KG6O,Christopher,Mountain View,CA,US
 3107535,KK6EZJ,Brian,San Ramon,CA,US
 3107536,AG6XQ,Leo,San Lorenzo,CA,US
-3107537,KK6YER,Jackson,Denair,CA,US
-3107538,WA5ZNU,Leigh,Palo Alto,CA,US
-3107539,KE6NGC,Mary,Granada Hills,CA,US
-3107540,W6WDA,Steinar,Rancho Mirage,CA,US
-3107541,KD0EZJ,Zachary,San Jose,CA,US
-3107542,K6WX,Kristen,Fremont,CA,US
-3107543,KB1RBA,Mark,Vienna,VA,US
-3107544,K6GAV,Gavin,Glendale,CA,US
-3107545,KE6UVV,Hitoshi,Monterey Park,CA,US
-3107546,AD6GN,Beom,Fullerton,CA,US
-3107547,KJ6CTC,Joseph,Ontario,CA,US
-3107548,KD6YDZ,Boyan,San Francisco,CA,US
-3107549,K6ABM,Austin,Oakland,CA,US
-3107550,K6JWL,James,San Pedro,CA,US
-3107551,KM6AHW,Paul,Claremont,CA,US
-3107552,K6CCI,Jim,Visalia,CA,US
-3107553,K6DDV,James,Danville,CA,US
-3107554,NZ6J,Robert,Mill Valley,CA,US
-3107555,NZ6J,Robert,Mill Valley,CA,US
-3107556,KG8ORS,Terin,San Francisco,CA,US
-3107557,K6DI,Dan,Knoxville,TN,US
-3107558,KJ6RAR,Craig,Burbank,CA,US
-3107559,KJ6N,Stephen,Newark,CA,US
-3107560,W6WDJ,William,Vista,CA,US
-3107561,AC6Y,Michael,Oakland,CA,US
-3107562,KK6TTJ,Matt,San Clemente,CA,US
-3107563,W6CKC,Jess,Basalt,CO,US
