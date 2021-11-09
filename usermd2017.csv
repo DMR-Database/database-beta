@@ -8080,7 +8080,6 @@
 1148305,NE5TX,James,Baytown,TX,US
 1148306,KM5NO,Curt,Arlington,TX,US
 1148307,KG5LKH,Charles,Lake Jackson,TX,US
-1148309,KG5CJI,Robert,Plano,TX,US
 1148310,KG5EBI,Joshua,Pleasanton,TX,US
 1148312,WB5LJO,Martin,El Paso,TX,US
 1148313,N5FAZ,Paul,El Paso,TX,US
@@ -11058,6 +11057,7 @@
 2040407,PA0WAH,Willyan,9967PK EENRUM,Groningen / Drenthe / Friesland,NL
 2040408,PB7J,Jeroen,Schinveld,VLI,NL
 2040409,PA3EWC,Andre,Drunen,N-B,NL
+2040410,PE1GYM,Cor,2134 XC Hoofddorp,N-H,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -36641,6 +36641,7 @@
 2280108,HB9HMG,Andreas,Schiers,Grigioni Grisons,CH
 2280109,HB9HNF,Marcus,Gais,Appenzell Outer-Rhodes,CH
 2280110,HB9HEH,Daniel,Zuerich Altstetten,Zurich,CH
+2280111,HB9ZF,Ernst,Hinwil,Zurich,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -55347,6 +55348,7 @@
 2380175,OZ1KZY,Charles,Frederikshavn,Nordjylland,DK
 2380176,OZ1KRI,Orla,Svendborg,Syddanmark,DK
 2380177,OZ7MC,Marck,Horsens,Midtjylland,DK
+2380178,OZ4TD,Tobias,Vojens,Syddanmark,DK
 2381001,OZ2CA,Soren,Bronderslev,Nordjylland,DK
 2381002,5P4Z,Herman,Ulbjerg,Nordjylland,DK
 2381003,5P5V,Find,Farsoe,Nordjylland,DK
@@ -57369,6 +57371,8 @@
 2400702,SA5AMW,Fredrik,Linköping,Ostergotland,SE
 2400703,SA6FBG,Lars,Falkenberg,Halland,SE
 2400704,SA7GBS,Gun-Britt,Moheda,Kronoberg,SE
+2400705,SM6JRG,Roland,Vårgårda,Vastra Gotaland,SE
+2400706,SM5TPX,Lars,Tullinge,Stockholm,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -61406,7 +61410,7 @@
 2500191,RY3DAE,Sergey,Sergiev Posad,,RU
 2500192,R1BJI,Dmitriy,Stpetersburg,,RU
 2500193,RY6AAN,Falin,Krasnodar,All Regions,RU
-2500194,UB6AIJ,Maxim,Krasnodar,,RU
+2500194,UB6AIJ,Maxim,Krasnodar,All Regions,RU
 2500195,UD6AAE,Stanislav,Krasnodar,All Regions,RU
 2500196,UB3WCN,Алексей,Железногорск,All Regions,RU
 2500197,R4PGC,Petr,Kazan,All Regions,RU
@@ -64685,6 +64689,7 @@
 2600896,SP9RRI,Anna,Krakow,małopolskie,PL
 2600897,SQ3MZU,Lukasz,Stara Kopernia,PLLB,PL
 2600898,SP8DSX,Bogdan,Maleniska,PLPK,PL
+2600899,SP6BVK,Artur,Kaczowiska,dolnośląskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76533,6 +76538,10 @@
 2629565,DL4AA,Arne,Bad Schwalbach,HE,DE
 2629566,DB1ZA,Bader,Aachen,NW,DE
 2629567,DL9FAQ,Günter,Flörsheim,HE,DE
+2629568,DL9NAG,Andreas,Nürnberg,Bayern,DE
+2629569,DO8MRO,Mirco,Kirchentellinsfurt,BW,DE
+2629570,DH0YAY,Uwe,Kirchlengern,NW,DE
+2629571,DC1WI,Andreas,Calw,BW,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -86804,6 +86813,11 @@
 2863663,TA6AAA,Adi̇l,Çorum,Samsun,TR
 2863664,TA2IEL,Erol,Istanbul,,TR
 2863665,TA3HSN,Hasan,İzmir,Izmir,TR
+2863666,TA3ARA,Rusdu,Izmir,Izmir,TR
+2863667,TA2YKR,Ulaş,Kadıköy,Istanbul,TR
+2863668,TB9ASC,Selim,Erzurum,Erzurum,TR
+2863669,TA1TEK,Özcan,İstanbul Gaziosmanpaşa,Istanbul,TR
+2863670,TA1CFV,Ayhan,Halkali Istanbul,Istanbul,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92251,6 +92265,8 @@
 3024673,VE4EAR,Edward,Winnipeg,MB,CA
 3024674,VE2CGV,Claude,Mascouche,QC,CA
 3024675,VE7JEY,John,Qualicum Beach,BC,CA
+3024676,VE2TMI,Mario,Contrecoeur,QC,CA
+3024677,VA2JWW,John,Gore,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99982,19 +99998,3 @@
 3107455,N6GWH,George,Hollister,CA,US
 3107456,K6YAP,Reilly,Sunnyvale,CA,US
 3107457,K2MME,Howard,Walnut Creek,CA,US
-3107458,N6IFR,Christopher,Garden Valley,CA,US
-3107459,WB6OVH,Gordon,Fair Oaks,CA,US
-3107460,KJ6PPC,Jane,San Carlos,CA,US
-3107461,KJ6OIT,Raymond,Galt,CA,US
-3107462,K6NGF,Noel,Santa Rosa,CA,US
-3107463,K8TA,Todd,Walnut Creek,CA,US
-3107464,NX6V,Dennis,San Diego,CA,US
-3107465,W6EAT,Andreas,Santa Clara,CA,US
-3107466,W6EAT,Andreas,Santa Clara,CA,US
-3107467,N6CRC,Chris,San Jose,CA,US
-3107468,K6PFG,Patrick,El Cajon,CA,US
-3107469,KI6TCB,Oleg,San Jose,CA,US
-3107470,KX6A,Michael,Newport Beach,CA,US
-3107471,KK6CYE,Chris,San Jose,CA,US
-3107472,KK6CYE,Chris,San Jose,CA,US
-3107473,KI6NBZ,Manuel,Oroville,CA,US
