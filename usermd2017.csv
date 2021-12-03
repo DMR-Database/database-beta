@@ -1617,7 +1617,6 @@
 1107686,KM6DET,Michael,Modesto,CA,US
 1107687,KM6MHS,David,Modesto,CA,US
 1107688,KA6FFM,Mark,Yuba City,CA,US
-1107689,AD6VO,Daniel,Escondido,CA,US
 1107691,K7FED,Andrew,Tracy,CA,US
 1107692,KI6PIE,Mark,Long Beach,CA,US
 1107693,WB6OVH,Gordon,Fair Oaks,CA,US
@@ -4426,7 +4425,6 @@
 1126425,KE8GOJ,Seth,Plainwell,MI,US
 1126427,KD8NIK,Douglas,Lambertville,MI,US
 1126430,KE8AXI,Joseph,Redford,MI,US
-1126431,KE8IGW,Ernest,Madison Heights,MI,US
 1126432,KI4VUO,Jason,Muskegon,MI,US
 1126433,KJ4PV,Gary,Rochester Hills,MI,US
 1126434,KE8IIB,Jaron,Livonia,MI,US
@@ -8267,10 +8265,8 @@
 1148544,K5GH,George,Greenwood,TX,US
 1148545,W5PUT,Val,Lantana,TX,US
 1148546,K5EJF,Raymond,Hurst,TX,US
-1148549,AF7D,William,Arlington,TX,US
 1148550,KG5UEZ,Deana,Houston,TX,US
 1148551,KG5UEY,Mark,Houston,TX,US
-1148552,AF7D,William,Arlington,TX,US
 1148553,KF5GGS,Linda,San Angelo,TX,US
 1148554,KE5NCI,Cory,Liberty Hill,TX,US
 1148555,N5EN,Neal,Houston,TX,US
@@ -15810,6 +15806,8 @@
 2080878,F8UAX,Jean,88230 FRAIZE,Grand Est,FR
 2080879,F4IOG,Guillaume,Brocéliande,Bretagne,FR
 2080880,F4JDV,Bruno,SAINT-JORY,Occitanie,FR
+2080881,F0DDB,Philippe,EPOISSES,Bourgogne-Franche-Comté,FR
+2080882,F5OQF,Alglave,VITROLLES,Provence-Alpes-Côte d Azur,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22462,6 +22460,8 @@
 2144932,EA7HML,David,Mijas,Malaga,ES
 2144933,EA1FMW,Sergio,Cerceda,A Coruna,ES
 2144934,EA7KSB,Pilar,Algeciras,Cadiz,ES
+2144935,EA8XA,Juan,PLAYA San Juan,Santa Cruz de Tenerife,ES
+2144936,EA8AID,Anselmo,Vecindario,Las Palmas,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -24741,6 +24741,7 @@
 2160109,HG4GBX,Janos,Várpalota,Pest / Eger / Erd / Miskolc / Salgotarjan / Szolnok,HU
 2160110,HG1DBT,Tibor,Győr,Baranya / Somogy / Tolna / Kaposvar / Pecs / Szekszard,HU
 2160111,HA4PZ,Gabor,Seregélyes,Budapest,HU
+2160112,HG5CYB,Almos,Budapest,Budapest,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -25587,7 +25588,6 @@
 2180335,E77MJV,Josip,Vitina,All Regions,BA
 2180336,E73MVZ,Milenko,Bijeljina,All Regions,BA
 2180337,E77FM,Frano,Vitina,All Regions,BA
-2180338,E79DBL,Srrs-Radio,Banja Luka,All Regions,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -35940,6 +35940,16 @@
 2229491,IT9MRB,Vincenzo,Cammarata,SIC,IT
 2229492,IT9HTB,Giuseppe,Castronovo Di Sicilia,SIC,IT
 2229493,IT9JMR,Gianpiero,Nicosia,SIC,IT
+2229494,IU4PSZ,Giovanni,Riolo Terme,Emilia-Romagna,IT
+2229495,IU4PUJ,Simone,Riolo Terme,Emilia-Romagna,IT
+2229496,IK1YEK,Vincenzo,Finale Ligure,Piedmont / Liguria / Aosta,IT
+2229497,IU3KJZ,Ergi,Brenzone sul Garda VR ​,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2229498,IU4PTG,Marco,41122 Modena MO,Emilia-Romagna,IT
+2229499,IU5PUE,Paolo,MONTEVARCHI,TOS,IT
+2229500,IK0UGC,Gabriele,FONTE NUOVA,Lazio / Umbria / Sardinia,IT
+2229501,I4ZDX,Francesco,LUGO RA,Emilia-Romagna,IT
+2229502,IT9AEQ,Giuseppe,Canicatti,Sicily,IT
+2229503,IN3ADG,Ignazio,Campo Tures Bolzano ITALIA,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Transylvania,RO
 2260003,YO3IPJ,Adriann,Bucharest,Bucharest,RO
@@ -51214,6 +51224,8 @@
 2350056,M7BLN,Andrew,Dewsbury,England,UK
 2350057,MM7CTG,Thomas,Hamilton,Scotland,UK
 2350058,M1EOM,David,None,England,UK
+2350059,2E0PRO,Philip,Maghull,England,UK
+2350060,M7GKU,Barry,Boldon Colliery,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -61758,6 +61770,8 @@
 2500298,RY9OAJ,Pavel,Novosibirsk,All Regions,RU
 2500299,RA3RBN,Dmitriy,Tambov,All Regions,RU
 2500300,R2FCY,Damir,Kaliningrad,All Regions,RU
+2500301,R7RBO,Evgeniy,Sevastopol,All Regions,RU
+2500302,UB7RBE,Ruslan,Sevastopol,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -83529,6 +83543,7 @@
 2840511,LZ1FEM,Dian,stara zagora,All Regions,BG
 2840512,LZ1EGT,Evgeni,Sofia,All Regions,BG
 2840513,LZ1GAD,Diyan,Stara Zagora,All Regions,BG
+2840514,LZ1CPB,Petko,k Lazur bl 14 et 7 app 39 8000 Burgas,All Regions,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -87236,6 +87251,9 @@
 2863716,TA1CRX,Yusa,Istanbul,Istanbul,TR
 2863717,TA9AAT,Bekir,Rize,Trabozon,TR
 2863718,TA6DLL,Kutsal,Trabzon,Trabozon,TR
+2863719,TA1MYC,Yakup,Istanbul,Istanbul,TR
+2863720,TA4SAM,Birkan,Alanya,Antalya,TR
+2863721,TB5BAE,Orkun,,Konya,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92726,6 +92744,8 @@
 3024708,VE2JSN,Jean,Gatineau,QC,CA
 3024709,VE1OZY,Myles,Windsor Hants Co,NS,CA
 3024710,VA3CFT,Alan,Erin,ON,CA
+3024711,VE2BTD,Kevin,Becancour,QC,CA
+3024712,VA7NAX,Shoma,Vancouver,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99978,23 +99998,3 @@
 3106975,KC6VRE,Rhonda,Lompoc,CA,US
 3106976,KK6CRP,Rich,Chino Hills,CA,US
 3106977,KE6OIV,Ron,Torrance,CA,US
-3106978,KK6JUF,Wally,Camarillo,CA,US
-3106979,KR6FU,Mark,Carlsbad,CA,US
-3106980,WN1Z,Orrin,Susanville,CA,US
-3106981,KI6AOK,Laura,San Marcos,CA,US
-3106982,K6VVV,Uni,Burbank,CA,US
-3106983,N6JVH,Michael,Chatsworth,CA,US
-3106984,KK6WTJ,Bret,Pinole,CA,US
-3106985,KC6TNY,Michael,Los Angeles,CA,US
-3106986,W6USC,Bruno,Pico Rivera,CA,US
-3106987,N6NNA,Andreas,Los Angeles,CA,US
-3106988,KG6FHU,Joyce,Indio,CA,US
-3106989,N6XDX,Todd,Vista,CA,US
-3106990,K6JLW,Thomas,Oxnard,CA,US
-3106991,K6MCF,Matthew,Beverly Hills,CA,US
-3106992,N6XKN,Andrew,Valencia,CA,US
-3106993,KG6QET,Randy,Pittsburg,CA,US
-3106994,K7CFO,Nick,Irvine,CA,US
-3106995,W6TAB,Todd,Chino Hills,CA,US
-3106996,KG6UDW,James,Magalia,CA,US
-3106997,KF6FRP,Richard,Canoga Park,CA,US
