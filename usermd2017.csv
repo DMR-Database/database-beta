@@ -4129,7 +4129,6 @@
 1126075,K8JK,James,Brighton,MI,US
 1126076,KE8BFW,Fritz,Saint Clair,MI,US
 1126077,KE8BDA,George,Washington,MI,US
-1126078,N8RDZ,Brooks,Saginaw,MI,US
 1126079,KE8BDA,George,Washington,MI,US
 1126080,KD8DLQ,James,Muskegon,MI,US
 1126081,N8HAR,Russell,Sterling Heights,MI,US
@@ -5529,7 +5528,6 @@
 1136918,W2ARD,Justin,Depew,NY,US
 1136919,W2QZ,Allen,Merrick,NY,US
 1136920,KD2RLX,Terry,Garden City,NY,US
-1136921,N2LDY,Donald,Centereach,NY,US
 1136922,N2SZS,Michael,Elmsford,NY,US
 1136923,G0JKN,Nigel,Wappingers Falls,NY,US
 1136924,KC2O,Neal,Shirley,NY,US
@@ -15806,6 +15804,8 @@
 2080884,F5LOL,Jean,COURCOURONNES 91,Île-de-France,FR
 2080885,F1HBH,Philippe,Ban sur Meurthe,Grand Est,FR
 2080886,F4KMN,Radio,Le Mans,Pays de la Loire,FR
+2080887,F6JSP,Patrice,Mazé-Milon,Pays de la Loire,FR
+2080888,F6GDL,Roland,71290 La GENETE,Bourgogne-Franche-Comté,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22468,6 +22468,10 @@
 2144942,EA1FIB,Javier,Santander,Cantabria,ES
 2144943,EA4EHD,Manuel,Casas de fernando Alonso,Cuenca,ES
 2144944,EA8C,Sebastian,C P 38 200 La Laguna Tenerife,Santa Cruz de Tenerife,ES
+2144945,EA5JGJ,Jose,Manises,Valencia,ES
+2144946,EA7KIW,Francisco,Salobreña,Granada,ES
+2144947,EA7KJI,Rafael,MALAGA,Malaga,ES
+2144948,EA4DEU,Jose,Tomelloso Ciudad Real,Ciudad Real,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -24749,6 +24753,7 @@
 2160111,HA4PZ,Gabor,Seregélyes,Budapest,HU
 2160112,HG5CYB,Almos,Budapest,Budapest,HU
 2160113,HA5JA,Joubert,Gyál,Pest / Eger / Erd / Miskolc / Salgotarjan / Szolnok,HU
+2160114,HG9FS,Fellegi,Putnok,Borsod-Abauj-Zemplen / Heves / Jasz-Nagykun-Szolnok / Nogr,HU
 2161001,HA2TO,Arpad,Papa,Veszprum,HU
 2161002,HA4XA,Istvan,Szekesfehervar,Fejur,HU
 2161003,HA9MDP,Peter,Babolna,Komurom-Esztergom,HU
@@ -36805,6 +36810,8 @@
 2280125,HB3XYV,Laurent,Geneva,Geneva,CH
 2280126,HB3XZC,Roland,Dietikon,Zurich,CH
 2280127,HB3XXT,Fabian,Engelburg,St. Gallen,CH
+2280128,HB9GYS,Gabriel,Grand Lancy GENEVA,Geneva,CH
+2280129,HB3XYY,Meier,Villmergen,Aargau,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -39493,6 +39500,7 @@
 2320197,OE1RMS,Roman,Vienna,Wien,AT
 2320198,OE3CIN,Marcin,Olgersdorf,Niederoesterreich,AT
 2320199,OE3BOH,Herta,Schwarzau Am Steinfeld,Niederoesterreich,AT
+2320200,OE3NEA,Andreas,Baumgarten A 3512,Niederoesterreich,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -51272,6 +51280,7 @@
 2350071,2M0SXA,Alastair,Errol,Scotland,UK
 2350072,M6PDD,Andrew,Ashford,England,UK
 2350073,M7AVT,Aigars,Carlisle,England,UK
+2350074,M7CPV,Keith,Wakefield,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -65068,6 +65077,7 @@
 2600929,SQ5MGP,Ireneusz,Warszawa,PLMZ,PL
 2600930,SP3WIP,Piotr,Swiebodzin,PLLB,PL
 2600931,SP3SW,Tadeusz,Swiebodzin,PLLB,PL
+2600932,SP5MDR,Miroslaw,Warszawa,PLMZ,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -76991,6 +77001,7 @@
 2629642,DK6FE,Eric,Rodgau,HE,DE
 2629643,DO4ATV,Michael,Sangerhausen,Sachsen-Anhalt / Mecklenburg-Vorpommen,DE
 2629644,DO7HT,Thilo,Rodgau,HE,DE
+2629645,DL2MJ,Matthias,Braunschweig,Niedersachsen / Bremen,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -82956,6 +82967,7 @@
 2720312,EI8ILB,Sarah,Dún Laoghaire,All Regions,IE
 2720313,EI8ICB,Daniel,Ballinagh Co Cavan,All Regions,IE
 2720314,EI8IMB,Matthew,Bandon,All Regions,IE
+2720315,EI8IPB,Johnnie,Dublin,All Regions,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
@@ -83634,6 +83646,8 @@
 2840512,LZ1EGT,Evgeni,Sofia,All Regions,BG
 2840513,LZ1GAD,Diyan,Stara Zagora,All Regions,BG
 2840514,LZ1CPB,Petko,k Lazur bl 14 et 7 app 39 8000 Burgas,All Regions,BG
+2840515,LZ1PUK,Vladimir,Sofia,All Regions,BG
+2840516,LZ1MAW,Maya,Sofia,All Regions,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -87365,6 +87379,10 @@
 2863740,TB4AOL,Musa,Kepez,Antalya,TR
 2863741,TA1SGD,Soydan,Tekirdag,Tekirdag,TR
 2863742,TA2DM,Ibrahim,Bartin,Ankara,TR
+2863743,TA2BVX,Barış,Bartın,Ankara,TR
+2863744,TA2BTG,Cihangir,Sakarya,Sakarva,TR
+2863745,TA3ZZ,Serdar,A Blok No 11 Kat 5 Daire 10 Nilüfer Bursa,Bursa,TR
+2863746,TA3OGO,Gökhan,Bursa,Bursa,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92867,6 +92885,8 @@
 3024718,VE3FNI,Shaun,Mississauga,ON,CA
 3024719,VE2NIT,Martin,Victoriaville,QC,CA
 3024720,VA1UAV,Rick,Bedford,NS,CA
+3024721,VA7LBP,Brian,Kelowna,BC,CA
+3024722,VA7PGW,Roy,Vernon,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99978,23 +99998,3 @@
 3106834,WA6MDJ,Edward,Los Angeles,CA,US
 3106835,W5SD,Richard,San Diego,CA,US
 3106836,KI6LOV,Steven,Santa Monica,CA,US
-3106837,NZ6W,John,San Diego,CA,US
-3106838,N1AB,Steve,Orange,CA,US
-3106839,N1AB,Steve,Orange,CA,US
-3106840,KR0MAN,Ramon,El Segundo,CA,US
-3106841,WA6FGW,Stephen,Woodland Hills,CA,US
-3106842,W6RXD,Ric,Vallejo,CA,US
-3106843,AA6IO,Steven,Cerritos,CA,US
-3106844,K6RCT,Kirk,Nipomo,CA,US
-3106845,K6BK,Loren,San Diego,CA,US
-3106846,KI6RTT,Anthony,Moreno Valley,CA,US
-3106847,KJ6COI,Aaron,Highland,CA,US
-3106848,WA6KLB,Jon,Bakersfield,CA,US
-3106849,AB4GT,Jeffrey,Vallejo,CA,US
-3106850,K6GSJ,Lance,Portola Valley,CA,US
-3106851,KC6FEW,Steve,Yorba Linda,CA,US
-3106852,N0ARY,Bob,Sunnyvale,CA,US
-3106853,K6SOE,Jim,Pittsburg,CA,US
-3106854,KK6IKO,Lamont,Pleasant Hill,CA,US
-3106855,K6JPS,Jim,Alta Loma,CA,US
-3106856,K6JPS,Jim,Alta Loma,CA,US
