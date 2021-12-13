@@ -894,7 +894,6 @@
 1106830,KE6GVK,Mike,Saint Johns,AZ,US
 1106831,K2VGE,Lewis,Yorba Linda,CA,US
 1106832,W6JHC,James,Los Angeles,CA,US
-1106833,AE6BP,John,Burlingame,CA,US
 1106834,KM6HWH,Anthony,Laguna Niguel,CA,US
 1106835,W6RPA,Richard,Tracy,CA,US
 1106836,KE6MOZ,Audra,Cupertino,CA,US
@@ -15804,6 +15803,7 @@
 2080888,F6GDL,Roland,71290 La GENETE,Bourgogne-Franche-Comté,FR
 2080889,F6DKZ,Michel,Grosmagny,Bourgogne-Franche-Comté,FR
 2080890,F4JEE,Marc,Bussy-Saint-Georges,Île-de-France,FR
+2080891,F5HKV,Jean,RAISMES,Hauts-de-France,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22475,6 +22475,7 @@
 2144951,EA1GEP,Carlos,Madrid,Madrid,ES
 2144952,EA8CYU,Jose,Tenerife,Santa Cruz de Tenerife,ES
 2144953,EA7KSC,Adán,None,Sevilla,ES
+2144954,EA6ANE,Tomasz,Palma,Baleares,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -35983,6 +35984,7 @@
 2229516,IU7OIZ,Domenico,Molfetta,Apulia / Basilicata,IT
 2229517,IZ6BYC,Marco,Matelica,Marche / Abruzzo,IT
 2229518,IU1HBV,Valentina,Silvano d Orba,Piedmont / Liguria / Aosta,IT
+2229519,IU5PTO,Alberto,Carrara,TOS,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Transylvania,RO
 2260003,YO3IPJ,Adriann,Bucharest,Bucharest,RO
@@ -36164,6 +36166,7 @@
 2260179,YO6BOR,Szocs,Moinesti,Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,RO
 2260180,YO8VAS,Maftei,Câmpulung Moldovenesc,Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,RO
 2260181,YO5MYT,Sorin,Cluj Napoca,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
+2260182,YO6LA,Grigore,Brasov,Brasov / Covasna / Harghita / Mures / Sibiu,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,RO
@@ -39511,6 +39514,7 @@
 2320198,OE3CIN,Marcin,Olgersdorf,Niederoesterreich,AT
 2320199,OE3BOH,Herta,Schwarzau Am Steinfeld,Niederoesterreich,AT
 2320200,OE3NEA,Andreas,Baumgarten A 3512,Niederoesterreich,AT
+2320201,OE3WHU,Wolfgang,A 2203 Manhartsbrunn,Niederoesterreich,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -62162,7 +62166,7 @@
 2502135,R2AAB,,,,RU
 2502136,R2ASO,,,,RU
 2502137,R2AQT,,,,RU
-2502138,R2AUI,Mikhail,Москва,All Regions,RU
+2502138,R2AUI,Mikhail,Moscow,All Regions,RU
 2502139,R2AJP,Alexey,Moscow,Moscow,RU
 2502140,R2FAAN,,,,RU
 2502141,RC2FB,,,,RU
@@ -65098,6 +65102,8 @@
 2600932,SP5MDR,Miroslaw,Warszawa,PLMZ,PL
 2600933,SP9PSP,Witold,Stronie,małopolskie,PL
 2600934,SP3QDU,Henryk,Ostrow Wlkp,PLWP,PL
+2600935,SP6KH,Kamil,Jelcz Laskowice,dolnośląskie,PL
+2600936,SQ2HEG,Bogdan,Elblag,warmińsko-mazurskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -77029,6 +77035,9 @@
 2629650,DO1WHW,Hans,Wöllstadt,HE,DE
 2629651,DK9SV,Alfred,Künzelsau,BW,DE
 2629652,DH8IQ,Jürgen,Eberdingen,BW,DE
+2629653,DM3TB,Timo,Aschersleben,Sachsen-Anhalt / Mecklenburg-Vorpommen,DE
+2629654,DL1YKQ,Gabriele,Waging am See,Bayern,DE
+2629655,DF9LP,Peter,Göhl,Hamburg / Schleswig-Holstein,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -87412,6 +87421,13 @@
 2863744,TA2BTG,Cihangir,Sakarya,Sakarva,TR
 2863745,TA3ZZ,Serdar,A Blok No 11 Kat 5 Daire 10 Nilüfer Bursa,Bursa,TR
 2863746,TA3OGO,Gökhan,Bursa,Bursa,TR
+2863747,TB5AOK,Ömer,konya,Konya,TR
+2863748,TA3SEK,Serkan,Nilufer,Bursa,TR
+2863749,TA3ADP,Meti̇N,Bursa,Bursa,TR
+2863750,TA8SOA,Sadık,Diyarbakır,Diyarbakir,TR
+2863751,TA1SEX,Naci̇,KAĞITHANE İSTANBUL,Istanbul,TR
+2863752,TA3HGZ,Hasan,Türkiye,Bursa,TR
+2863753,TA3EDE,Derya,BURSA OSMANGAZİ,Bursa,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -92918,6 +92934,7 @@
 3024721,VA7LBP,Brian,Kelowna,BC,CA
 3024722,VA7PGW,Roy,Vernon,BC,CA
 3024723,VA3ZAA,Mehboob,Oakville,ON,CA
+3024724,VA7KOI,Sabrina,Vancouver,BC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99981,20 +99998,3 @@
 3106786,K6LAD,Cristian,Newbury Park,CA,US
 3106787,K6LAD,Cristian,Newbury Park,CA,US
 3106788,NU6P,John,Saratoga,CA,US
-3106789,WB6VKR,Arthur,Santa Paula,CA,US
-3106790,KI6CVO,Morgan,Escondido,CA,US
-3106791,K6BOT,Aron,Moreno Valley,CA,US
-3106792,K6FCC,Khalil,Beverly Hills,CA,US
-3106793,W6DLO,Jeremiah,Colfax,CA,US
-3106794,KG6GIN,Shane,San Dimas,CA,US
-3106795,KG6GIK,Steve,Sylmar,CA,US
-3106796,KK5GPG,Mark,W. Covina,CA,US
-3106797,N6MIK,Mike,Yorba Linda,CA,US
-3106798,N6MIK,Mike,Yorba Linda,CA,US
-3106799,KK6AZF,Victor,San Diego,CA,US
-3106800,W6RJK,Rocky,Truckee,CA,US
-3106801,WA6JQB,Dan,Moorpark,CA,US
-3106802,K6TQM,Harold,Indio,CA,US
-3106803,N5ILN,Alan,Salinas,CA,US
-3106804,KF6MCD,Richard,Escondido,CA,US
-3106805,N6MVT,Tom,Lafayette,CA,US
