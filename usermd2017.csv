@@ -15804,6 +15804,7 @@
 2080893,F1JFW,Gérard,Saint-Nic,Bretagne,FR
 2080894,F4FKC,Bouvier,Saulnes,Grand Est,FR
 2080895,F4DTE,Bernard,MURET,Occitanie,FR
+2080896,F4IVR,Vincent,TAGOLSHEIM,Alsace,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -22479,6 +22480,7 @@
 2144955,EA3GOD,Antonio,Terrassa Barcelona,Barcelona,ES
 2144956,EA1AMX,Juan,Gijon,Asturias,ES
 2144957,EB5CUN,Francisco,Paterna Valencia,Valencia,ES
+2144958,EA5JGZ,Rafael,ALCOI,Alicante,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -38629,6 +38631,9 @@
 2300199,OK8DMR,Ondrej,Praha,Prague,CZ
 2300200,OK1DLA,Ludek,Hrimezdice,Central Bohemian Region,CZ
 2300201,OK1PNK,Jan,Tlucna,Pilsen Region,CZ
+2300202,OK2VUX,Lubos,Brno,S. Moravian Region,CZ
+2300203,OK3SN,Vojtech,Brno,S. Moravian Region,CZ
+2300204,OK1KB,Jan,Štěnovice,Pilsen Region,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -51344,6 +51349,11 @@
 2350095,M7JDV,Julian,London,England,UK
 2350096,M7JUD,George,Chesterfield,England,UK
 2350097,MI7WPX,John,Derry,Northern Ireland,UK
+2350098,MW7MBZ,Michael,Port Talbot,Wales,UK
+2350099,M7LDT,Luke,Waltham Cross,England,UK
+2350100,G4DBL,Tim,High Wycombe,England,UK
+2350101,M5ERN,Ernest,Newcastle Upon Tyne,England,UK
+2350102,M3FOR,Michael,Chatham Kent,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -59433,6 +59443,10 @@
 2420301,LB3QJ,Lars,Ytre Enebakk,Viken,NO
 2420302,LB3SJ,Ole,Oslo,Oslo,NO
 2420303,LB3RJ,Tom,Oslo,Oslo,NO
+2420304,LB3MJ,Lars,RYKKINN,Viken,NO
+2420305,LB3LJ,Ståle,Vallset,Innlandet,NO
+2420306,LB3TJ,Rene,Lommedalen,Viken,NO
+2420307,LB3UJ,Per,Lommedalen,Viken,NO
 2421001,LA6VMA,Tommy,Dal,Akershus,NO
 2421002,LA7ZKA,Arve,Trollasen,Akershus,NO
 2421003,LA2YUA,Robin,Strmmen,Akershus,NO
@@ -61923,6 +61937,7 @@
 2500308,R2DBM,Mikhail,Podolsk,All Regions,RU
 2500309,R2BFH,Andrej,Moscow,All Regions,RU
 2500310,R3LC,Sergey,Smolensk,All Regions,RU
+2500311,R3UCR,Igor,Ivanovo,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -65171,6 +65186,7 @@
 2600936,SQ2HEG,Bogdan,Elblag,warmińsko-mazurskie,PL
 2600937,SP9EP,Pawel,Cisownica,śląskie,PL
 2600938,SP8OWL,Piotr,Swidnik,PLLU,PL
+2600939,SQ7EHG,Michal,Sieradz,łódzkie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -77101,7 +77117,7 @@
 2629649,DL4VBU,Walter,Saarbrücken,Rheinland-Pfalz / Saarland,DE
 2629650,DO1WHW,Hans,Wöllstadt,HE,DE
 2629651,DK9SV,Alfred,Künzelsau,BW,DE
-2629652,DH8IQ,Jürgen,Eberdingen,BW,DE
+2629652,DH8IQ,Juergen,Eberdingen,BW,DE
 2629653,DM3TB,Timo,Aschersleben,Sachsen-Anhalt / Mecklenburg-Vorpommen,DE
 2629654,DL1YKQ,Gabriele,Waging am See,Bayern,DE
 2629655,DF9LP,Peter,Göhl,Hamburg / Schleswig-Holstein,DE
@@ -77115,6 +77131,8 @@
 2629663,DO3RON,Ronny,Weitramsdorf,Bayern,DE
 2629664,DG6DBQ,Thorsten,Dörth,Rheinland-Pfalz / Saarland,DE
 2629665,DO1MMS,Marxen,Markt Indersdorf,Bayern,DE
+2629666,DL2YFG,Martin,Marl,NW,DE
+2629667,DL2DID,Dincho,Berlin,Berlin / Brandenburg,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -99980,21 +99998,3 @@
 3106681,KI6CRN,Rebecca,Sierra Madre,CA,US
 3106682,WA6VHA,Chris,Woodland Hills,CA,US
 3106683,KG6NUO,Dave,Los Banos,CA,US
-3106684,KI6SYM,Marcus,Vista,CA,US
-3106685,W6RCC,Russell,Benicia,CA,US
-3106686,AA6RV,David,Vancouver,WA,US
-3106687,N6ENL,Abel,La Puente,CA,US
-3106688,WA6LIF,Robert,Long Beach,CA,US
-3106689,K6JWM,Ken,Snelling,CA,US
-3106690,W6FRD,Fernando,Turlock,CA,US
-3106691,W6OSC,Edward,Roseville,CA,US
-3106692,K6DEW,Dave,Victorville,CA,US
-3106693,N6MUD,Craig,San Diego,CA,US
-3106694,KD6GNB,Robert,Santee,CA,US
-3106695,WA6YRE,Fred,La Habra,CA,US
-3106696,KC7NP,Rob,Riverside,CA,US
-3106697,KI6TRK,Robert,Truckee,CA,US
-3106698,K2ACK,Alan,Santa Cruz,CA,US
-3106699,N6PAV,Pete,Morgan Hill,CA,US
-3106700,K6PIT,Tim,Pittsburg,CA,US
-3106701,K6RRR,React,San Diego,CA,US
