@@ -23446,6 +23446,9 @@
 2145903,EA3BFE,Josep,SABADELL SPAIN E 08200,Barcelona,ES
 2145904,EA4HQF,Santiago,Madrid,Madrid,ES
 2145905,EA7KNB,Benjamín,La Zubia,Granada,ES
+2145906,EA3FZN,Jose,Rubí,Barcelona,ES
+2145907,EA3IOA,Antonio,Sant Andreu De La Barca,Barcelona,ES
+2145908,EA4HPI,Luis,Batres,Madrid,ES
 2146001,EA6AFZ,Antonio,Inca,Islas Baleares,ES
 2146002,EA6AID,Ana,Inca,Islas Baleares,ES
 2146003,EA6AFZ,Antonio,Inca,Islas Baleares,ES
@@ -37023,6 +37026,7 @@
 2280148,HB9HIX,Mathias,Aproz,Valais,CH
 2280149,HB9UFP,Philippe,Echallens,Vaud,CH
 2280150,HB9HOW,Ladino,Ramlinsburg,Basel-Country,CH
+2280151,HB9TYK,Allen,Davesco Soragno,Ticino,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -51668,6 +51672,13 @@
 2350209,M7DPH,Devrim,Colchester,England,UK
 2350210,2E0EIH,Shaun,Shrewsbury,England,UK
 2350211,MI0RSN,Richard,NEWTOWNARDS,Northern Ireland,UK
+2350212,G4MQK,Colin,Walcott,England,UK
+2350213,M0TIK,Chris,Penzance,England,UK
+2350214,M7KDZ,Kris,Chesterfield,England,UK
+2350215,M3TFO,Rob,Bath,England,UK
+2350216,2M0DXC,Alan,Bonnyrigg,Scotland,UK
+2350217,M7HHY,Malcolm,St Helens,England,UK
+2350218,GI0PML,Mervyn,Antrim,Northern Ireland,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -62296,6 +62307,11 @@
 2500332,RZ3EM,Andy,Orel,All Regions,RU
 2500333,UA4WJQ,Dmitry,Izhevsk,All Regions,RU
 2500334,R3WBW,Sergei,Moscow,All Regions,RU
+2500335,UB9OEJ,Mikhail,Novosibirsk,All Regions,RU
+2500336,R4PBE,Alexander,Kazan,All Regions,RU
+2500337,R2GCD,Denis,Lipesk,All Regions,RU
+2500338,UB1NHD,Dmitry,Petrozavodsk,All Regions,RU
+2500339,RN1NHC,Pavel,Petrozavodsk,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -64578,6 +64594,7 @@
 2570127,EU7DDU,Wadim,Могилёв,All Regions,Belarus
 2570128,EW7DDL,Dzmitry,Mogilev,All Regions,Belarus
 2570129,EW7LS,Sergey,Mogilev,All Regions,Belarus
+2570130,EW7RF,Nikita,Mogilev,All Regions,Belarus
 2574001,EU4DGC,Pavel,Grodno,Grodno,Belarus
 2590001,ER1AL,Vadim,Kishinev,Chisinau,Moldova
 2590002,ER1VOX,Dumitru,Chisinau,Chisinau,Moldova
@@ -65583,6 +65600,10 @@
 2600970,SP7ZLW,Krystian,Zelow,łódzkie,PL
 2600971,SP6PFL,Mariusz,Nowa Ruda,dolnośląskie,PL
 2600972,SP4JP,Jakub,Lomza,PLPD,PL
+2600973,SP4OIT,Tomasz,Olecko,warmińsko-mazurskie,PL
+2600974,SP6MB,Mariusz,Kielczow,dolnośląskie,PL
+2600975,SQ5RB,Robert,Sulejowek,PLMZ,PL
+2600976,SP6AFL,Artur,Wrocław,dolnośląskie,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -77613,6 +77634,10 @@
 2629749,DO1FFO,Ingo,Ratzeburg,Hamburg / Schleswig-Holstein,DE
 2629750,DL1UR,Thomas,Steinfeld,Rheinland-Pfalz / Saarland,DE
 2629751,DM9KT,Tino,Kindelbrück,Sachsen / Thueringen,DE
+2629752,DL4NHP,Harald,Bayreuth,Bayern,DE
+2629753,DO5CW,Michael,Berlin,Berlin / Brandenburg,DE
+2629754,DL3SCA,Peter,Verden,Niedersachsen / Bremen,DE
+2629755,DO1RHW,Rolf,Wunstorf,Niedersachsen / Bremen,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -87852,243 +87877,246 @@
 2863580,TA4ADD,Semih,Aydin,Aydin,TR
 2863581,TA7AHR,Mehmet,Kayseri̇,Kayseri,TR
 2863582,TB4GSA,Alptekin,Antalya,Antalya,TR
-2863583,TA3CMK,Cem,Seferihisar,Izmir,TR
-2863584,TA1NEK,Engi̇n,İstanbul,Istanbul,TR
-2863585,TA2CAO,Cagatay,Cankaya Ankara,Ankara,TR
-2863586,TB2AIP,Ahmet,Zonguldak,Istanbul,TR
-2863587,TB4AGA,Ahmet,Antalya,Antalya,TR
-2863588,TA2SY,Yigiter,Sakarya,Sakarva,TR
-2863589,TA3DEE,Erkan,Izmir,Izmir,TR
-2863590,TB2LYC,Yücel,Kdz Ereğli̇,Trabozon,TR
-2863591,TB4TEE,Erkan,Burdur,Antalya,TR
-2863592,TA3GLY,Cengiz,Altıeylül,Balikesir,TR
-2863593,TA4SBO,Ozgur,Burdur,Antalya,TR
-2863594,TA3TAM,Emre,Sehzadeler,Manisa,TR
-2863595,TB3ABT,Onur,Bursa,Bursa,TR
-2863596,TA1DEV,Turabi̇,İstanbul,Istanbul,TR
-2863597,TA2CEM,Cem,Gebze,Kocael,TR
-2863598,TA3YRT,Emrecan,Karsiyaka,Izmir,TR
-2863599,TA5CTO,Cafer,Selcuklu,Konya,TR
-2863600,TB5YSR,Yasar,KONYA,Konya,TR
-2863601,TA8DX,Mustafa,Dulkadiroğlu,Kahramanmaras,TR
-2863602,TB5HSO,Hakan,HATAY,Hatay,TR
+2863583,TA3CMK,Cem,Seferihisar,,TR
+2863584,TA1NEK,Engi̇n,İstanbul,,TR
+2863585,TA2CAO,Cagatay,Cankaya Ankara,,TR
+2863586,TB2AIP,Ahmet,Zonguldak,,TR
+2863587,TB4AGA,Ahmet,Antalya,,TR
+2863588,TA2SY,Yigiter,Sakarya,,TR
+2863589,TA3DEE,Erkan,Izmir,,TR
+2863590,TB2LYC,Yücel,Kdz Ereğli̇,,TR
+2863591,TB4TEE,Erkan,Burdur,,TR
+2863592,TA3GLY,Cengiz,Altıeylül,,TR
+2863593,TA4SBO,Ozgur,Burdur,,TR
+2863594,TA3TAM,Emre,Sehzadeler,,TR
+2863595,TB3ABT,Onur,Bursa,,TR
+2863596,TA1DEV,Turabi̇,İstanbul,,TR
+2863597,TA2CEM,Cem,Gebze,,TR
+2863598,TA3YRT,Emrecan,Karsiyaka,,TR
+2863599,TA5CTO,Cafer,Selcuklu,,TR
+2863600,TB5YSR,Yasar,KONYA,,TR
+2863601,TA8DX,Mustafa,Dulkadiroğlu,,TR
+2863602,TB5HSO,Hakan,HATAY,,TR
 2863603,TA2LA,Ersin,KARABÜK,,TR
-2863604,TB4AEE,Hasan,Muğla,Mugla,TR
-2863605,TB2MCK,Murat,Mamak,Ankara,TR
-2863606,TA3BLK,Ilknur,Karsiyaka,Izmir,TR
-2863607,TA1TZA,Zafer,Malkarra,Tekirdag,TR
-2863608,TA3AQV,Can,Izmir,Izmir,TR
-2863609,TA1KOR,Orcun,Beylikduzu,Istanbul,TR
-2863610,TA1CTE,Ahmet,Ankara,Ankara,TR
-2863611,TB3GKT,Gökhan,Turkey,Izmir,TR
-2863612,TA5ANY,Ibrahim,Mersin,Mersin,TR
-2863613,TB4FIE,Ibrahim,MERKEZ,Antalya,TR
-2863614,TA7OYZ,Omer,Kayseri,Kayseri,TR
-2863615,TA6RE,Resat,Amasya,Ankara,TR
-2863616,TA3AM,Bahattin,Sehzadeler,Manisa,TR
-2863617,TA2HSE,Hakan,Ankara,Ankara,TR
-2863618,TA4ELA,Mahmut,Muğla,Mugla,TR
-2863619,TA1MR,Murat,Istanbul,Istanbul,TR
-2863620,TA2BYT,Şafak,ODUNPAZARI,Eskisehir,TR
-2863621,TA2MAP,Deni̇Z,TEPEBAŞI,Eskisehir,TR
-2863622,TA2BDJ,Emine,Tepebaşi,Eskisehir,TR
-2863623,TA3ERC,Ercan,Nilufer,Bursa,TR
-2863624,TA3UFS,Fırat,İzmi̇r,Izmir,TR
-2863625,TA3AMJ,Mücahit,BURSA,Bursa,TR
-2863626,TA3YMA,Mehtap,Buca,Izmir,TR
-2863627,TA1YMM,Tolga,Bakırköy,Istanbul,TR
-2863628,TA3KY,Ekrem,BURSA,Bursa,TR
-2863629,TA1ILB,Serdar,Tekirdag,Tekirdag,TR
-2863630,TA3BDK,Arif,GAZİEMİR,Izmir,TR
-2863631,TA2GRS,Muhammed,Istanbul,Istanbul,TR
-2863632,TA2BYG,Gurhan,CANKAYA,Ankara,TR
-2863633,TA8AB,Muzaffer,Gaziantep,Gaziantep,TR
-2863634,TA2IKM,Murat,Zonguldak Ere li,Malatya,TR
-2863635,TB3GME,Mahmut,Bursa,Bursa,TR
-2863636,TB5CDL,İlhan,TURKEY,Adana,TR
-2863637,TA2ARS,Serdar,-,Ankara,TR
-2863638,TA3OME,Ömer,İZMİR,Izmir,TR
-2863639,TB2TJO,Ercan,Güdül,Ankara,TR
-2863640,TB2ART,Ahmet,Pendik,Istanbul,TR
-2863641,TA7KKK,Kaan,SIVAS,Ordu,TR
-2863642,TA1EVR,Evren,Istanbul,Istanbul,TR
-2863643,TB2SRP,Sarp,Istanbul,Istanbul,TR
-2863644,TA5AGV,Sadık,Antakya,Hatay,TR
-2863645,TA1YLD,Mert,Şarköy,Tekirdag,TR
-2863646,TA5IM,İsmai̇L,ANTAKYA,Hatay,TR
-2863647,TA1SKO,Okan,Sarıyer,Istanbul,TR
-2863648,TB3ADP,Onder,Bursa,Bursa,TR
-2863649,TA8VAM,Volkan,Malatya,Malatya,TR
-2863650,TA3AFR,Samet,Manisa,Manisa,TR
-2863651,TA8EJD,Ejder,Malatya,Malatya,TR
+2863604,TB4AEE,Hasan,Muğla,,TR
+2863605,TB2MCK,Murat,Mamak,,TR
+2863606,TA3BLK,Ilknur,Karsiyaka,,TR
+2863607,TA1TZA,Zafer,Malkarra,,TR
+2863608,TA3AQV,Can,Izmir,,TR
+2863609,TA1KOR,Orcun,Beylikduzu,,TR
+2863610,TA1CTE,Ahmet,Ankara,,TR
+2863611,TB3GKT,Gökhan,Turkey,,TR
+2863612,TA5ANY,Ibrahim,Mersin,,TR
+2863613,TB4FIE,Ibrahim,MERKEZ,,TR
+2863614,TA7OYZ,Omer,Kayseri,,TR
+2863615,TA6RE,Resat,Amasya,,TR
+2863616,TA3AM,Bahattin,Sehzadeler,,TR
+2863617,TA2HSE,Hakan,Ankara,,TR
+2863618,TA4ELA,Mahmut,Muğla,,TR
+2863619,TA1MR,Murat,Istanbul,,TR
+2863620,TA2BYT,Şafak,ODUNPAZARI,,TR
+2863621,TA2MAP,Deni̇Z,TEPEBAŞI,,TR
+2863622,TA2BDJ,Emine,Tepebaşi,,TR
+2863623,TA3ERC,Ercan,Nilufer,,TR
+2863624,TA3UFS,Fırat,İzmi̇r,,TR
+2863625,TA3AMJ,Mücahit,BURSA,,TR
+2863626,TA3YMA,Mehtap,Buca,,TR
+2863627,TA1YMM,Tolga,Bakırköy,,TR
+2863628,TA3KY,Ekrem,BURSA,,TR
+2863629,TA1ILB,Serdar,Tekirdag,,TR
+2863630,TA3BDK,Arif,GAZİEMİR,,TR
+2863631,TA2GRS,Muhammed,Istanbul,,TR
+2863632,TA2BYG,Gurhan,CANKAYA,,TR
+2863633,TA8AB,Muzaffer,Gaziantep,,TR
+2863634,TA2IKM,Murat,Zonguldak Ere li,,TR
+2863635,TB3GME,Mahmut,Bursa,,TR
+2863636,TB5CDL,İlhan,TURKEY,Black Sea Region,TR
+2863637,TA2ARS,Serdar,-,,TR
+2863638,TA3OME,Ömer,İZMİR,,TR
+2863639,TB2TJO,Ercan,Güdül,,TR
+2863640,TB2ART,Ahmet,Pendik,,TR
+2863641,TA7KKK,Kaan,SIVAS,,TR
+2863642,TA1EVR,Evren,Istanbul,,TR
+2863643,TB2SRP,Sarp,Istanbul,,TR
+2863644,TA5AGV,Sadık,Antakya,,TR
+2863645,TA1YLD,Mert,Şarköy,,TR
+2863646,TA5IM,İsmai̇L,ANTAKYA,,TR
+2863647,TA1SKO,Okan,Sarıyer,,TR
+2863648,TB3ADP,Onder,Bursa,,TR
+2863649,TA8VAM,Volkan,Malatya,,TR
+2863650,TA3AFR,Samet,Manisa,,TR
+2863651,TA8EJD,Ejder,Malatya,,TR
 2863652,TA1EYM,Eymen,Kırklareli,,TR
-2863653,TA4MEK,Mesut,Türkiye,Denzli,TR
-2863654,TB2GKJ,Fatih,Ankara,Ankara,TR
-2863655,TB6BSH,Serdar,Çorum,Ankara,TR
-2863656,TA2WHO,Mustafa,İstanbul,Istanbul,TR
-2863657,TB3AZZ,Altan,İzmi̇r,Izmir,TR
-2863658,TB6BYR,Sefer,Corum,Samsun,TR
-2863659,TB2DYM,Muhammet,Bolu,Istanbul,TR
-2863660,TA2BES,Tufan,None,Ankara,TR
-2863661,TA2MRE,Emre,Istanbul,Istanbul,TR
-2863662,TA3AAX,Ahmet,Şehzadeler,Manisa,TR
-2863663,TA6AAA,Adi̇l,Çorum,Samsun,TR
+2863653,TA4MEK,Mesut,Türkiye,,TR
+2863654,TB2GKJ,Fatih,Ankara,,TR
+2863655,TB6BSH,Serdar,Çorum,,TR
+2863656,TA2WHO,Mustafa,İstanbul,,TR
+2863657,TB3AZZ,Altan,İzmi̇r,,TR
+2863658,TB6BYR,Sefer,Corum,,TR
+2863659,TB2DYM,Muhammet,Bolu,,TR
+2863660,TA2BES,Tufan,None,,TR
+2863661,TA2MRE,Emre,Istanbul,,TR
+2863662,TA3AAX,Ahmet,Şehzadeler,,TR
+2863663,TA6AAA,Adi̇l,Çorum,,TR
 2863664,TA2IEL,Erol,Istanbul,,TR
-2863665,TA3HSN,Hasan,Izmır,Izmir,TR
-2863666,TA3ARA,Rusdu,Izmir,Izmir,TR
-2863667,TA2YKR,Ulaş,Kadıköy,Istanbul,TR
-2863668,TB9ASC,Selim,Erzurum,Erzurum,TR
-2863669,TA1TEK,Özcan,İstanbul Gaziosmanpaşa,Istanbul,TR
-2863670,TA1CFV,Ayhan,Halkali Istanbul,Istanbul,TR
-2863671,TA5DIU,Ilknur,Nigde,Antalya,TR
-2863672,TA2JED,Arzu,İstanbul,Istanbul,TR
-2863673,TA1ECA,Mehmet,Istanbul,Istanbul,TR
-2863674,TA7MZ,Semih,Sivas,Ankara,TR
-2863675,TA4FME,Fatih,Kutahya,Eskisehir,TR
-2863676,TA1TAB,Nurdan,Malkara,Tekirdag,TR
-2863677,TA4DDX,Poyraz,DENIZLI,Denzli,TR
-2863678,TB2DBX,Baran,İstanbul,Istanbul,TR
-2863679,TA3ECM,Murat,Mani̇sa,Manisa,TR
-2863680,TA5IZ,Mehmet,Mersin,Mersin,TR
+2863665,TA3HSN,Hasan,Izmır,,TR
+2863666,TA3ARA,Rusdu,Izmir,,TR
+2863667,TA2YKR,Ulaş,Kadıköy,,TR
+2863668,TB9ASC,Selim,Erzurum,,TR
+2863669,TA1TEK,Özcan,İstanbul Gaziosmanpaşa,,TR
+2863670,TA1CFV,Ayhan,Halkali Istanbul,,TR
+2863671,TA5DIU,Ilknur,Nigde,,TR
+2863672,TA2JED,Arzu,İstanbul,,TR
+2863673,TA1ECA,Mehmet,Istanbul,,TR
+2863674,TA7MZ,Semih,Sivas,,TR
+2863675,TA4FME,Fatih,Kutahya,,TR
+2863676,TA1TAB,Nurdan,Malkara,,TR
+2863677,TA4DDX,Poyraz,DENIZLI,,TR
+2863678,TB2DBX,Baran,İstanbul,,TR
+2863679,TA3ECM,Murat,Mani̇sa,,TR
+2863680,TA5IZ,Mehmet,Mersin,,TR
 2863681,TA2DTT,Tamer,Düzce,,TR
-2863682,TB3TRK,Sinan,Bursa,Bursa,TR
-2863683,TB7EBB,Salih,Trabzon,Trabozon,TR
-2863684,TB3TVA,Enes,Bursa,Bursa,TR
-2863685,TB2AHF,Kasım,Ankara,Ankara,TR
-2863686,TB6DO,Dursun,Yozgat,Van,TR
-2863687,TB5MBO,Muharrem,Mezitli,Mersin,TR
-2863688,YM3VKV,Anda,Bursa,Bursa,TR
-2863689,TA7NME,Emre,Kayseri,Kayseri,TR
-2863690,TB2SBK,Mehmet,Pendik,Istanbul,TR
-2863691,TB2TMP,Murat,Sakarya,Sakarva,TR
-2863692,TA3AXT,Murat,Karsiyaka,Izmir,TR
-2863693,TA8FK,Levent,Elazig,Ankara,TR
-2863694,TA3BBS,Huseyin,Gaziemir,Izmir,TR
-2863695,TB3CCC,Alper,Karsiyaka,Izmir,TR
-2863696,TA2EBE,Recep,Sultanbeyli,Istanbul,TR
-2863697,TB2GKV,Gökhan,İstanbul,Istanbul,TR
-2863698,TA2LHJ,Suleyman,Bolu,Ankara,TR
-2863699,TA5KGO,Kutlay,Eregli,Konya,TR
-2863700,TA2ESB,Mubin,Odunpazari,Eskisehir,TR
-2863701,TA2BZB,Kamil,Karabuk,Ankara,TR
-2863702,TA1KAM,Nazim,Basaksehir,Istanbul,TR
-2863703,TB6BTO,Turgut,Çorum,Ankara,TR
-2863704,TA4AUJ,Ferdi,Muratpasa,Antalya,TR
-2863705,TA4AQO,Zulfikar,Kepez,Antalya,TR
-2863706,TA2CC,Bilal,Düzce,Istanbul,TR
-2863707,TA2SSY,Sedat,İstanbul,Istanbul,TR
-2863708,TA2MKK,Mustafa,Maltepe,Istanbul,TR
-2863709,TA3BHB,Ufuk,Bursa,Bursa,TR
-2863710,TB3ARG,İsmail,Ayvalık,Balikesir,TR
-2863711,TA3AWB,Tolga,1106 Sk No 13 Izmir,Izmir,TR
-2863712,TA5ADW,Mustafa,Bolu,Kayseri,TR
-2863713,TA8SHT,Süha,Kahramanmaraş,Kahramanmaras,TR
-2863714,TA2DE,Demir,Istanbul Turkiye,Istanbul,TR
-2863715,TA3DEB,Burak,Izmir,Izmir,TR
-2863716,TA1CRX,Yusa,Istanbul,Istanbul,TR
-2863717,TA9AAT,Bekir,Rize,Trabozon,TR
-2863718,TA6DLL,Kutsal,Trabzon,Trabozon,TR
-2863719,TA1MYC,Yakup,Istanbul,Istanbul,TR
-2863720,TA4SAM,Birkan,Alanya,Antalya,TR
-2863721,TB5BAE,Orkun,Meram,Konya,TR
-2863722,TB3DCN,Dara,İzmir,Izmir,TR
-2863723,TA2BRC,Nazım,Sincan,Ankara,TR
-2863724,TA1AUS,Ahmet,Sultangazi̇,Istanbul,TR
-2863725,TA3STT,Suat,İzmir,Izmir,TR
+2863682,TB3TRK,Sinan,Bursa,,TR
+2863683,TB7EBB,Salih,Trabzon,,TR
+2863684,TB3TVA,Enes,Bursa,,TR
+2863685,TB2AHF,Kasım,Ankara,,TR
+2863686,TB6DO,Dursun,Yozgat,,TR
+2863687,TB5MBO,Muharrem,Mezitli,,TR
+2863688,YM3VKV,Anda,Bursa,,TR
+2863689,TA7NME,Emre,Kayseri,,TR
+2863690,TB2SBK,Mehmet,Pendik,,TR
+2863691,TB2TMP,Murat,Sakarya,,TR
+2863692,TA3AXT,Murat,Karsiyaka,,TR
+2863693,TA8FK,Levent,Elazig,,TR
+2863694,TA3BBS,Huseyin,Gaziemir,,TR
+2863695,TB3CCC,Alper,Karsiyaka,,TR
+2863696,TA2EBE,Recep,Sultanbeyli,,TR
+2863697,TB2GKV,Gökhan,İstanbul,,TR
+2863698,TA2LHJ,Suleyman,Bolu,,TR
+2863699,TA5KGO,Kutlay,Eregli,,TR
+2863700,TA2ESB,Mubin,Odunpazari,,TR
+2863701,TA2BZB,Kamil,Karabuk,,TR
+2863702,TA1KAM,Nazim,Basaksehir,,TR
+2863703,TB6BTO,Turgut,Çorum,,TR
+2863704,TA4AUJ,Ferdi,Muratpasa,,TR
+2863705,TA4AQO,Zulfikar,Kepez,,TR
+2863706,TA2CC,Bilal,Düzce,,TR
+2863707,TA2SSY,Sedat,İstanbul,,TR
+2863708,TA2MKK,Mustafa,Maltepe,,TR
+2863709,TA3BHB,Ufuk,Bursa,,TR
+2863710,TB3ARG,İsmail,Ayvalık,,TR
+2863711,TA3AWB,Tolga,1106 Sk No 13 Izmir,,TR
+2863712,TA5ADW,Mustafa,Bolu,,TR
+2863713,TA8SHT,Süha,Kahramanmaraş,,TR
+2863714,TA2DE,Demir,Istanbul Turkiye,,TR
+2863715,TA3DEB,Burak,Izmir,,TR
+2863716,TA1CRX,Yusa,Istanbul,,TR
+2863717,TA9AAT,Bekir,Rize,,TR
+2863718,TA6DLL,Kutsal,Trabzon,,TR
+2863719,TA1MYC,Yakup,Istanbul,,TR
+2863720,TA4SAM,Birkan,Alanya,,TR
+2863721,TB5BAE,Orkun,Meram,,TR
+2863722,TB3DCN,Dara,İzmir,,TR
+2863723,TA2BRC,Nazım,Sincan,,TR
+2863724,TA1AUS,Ahmet,Sultangazi̇,,TR
+2863725,TA3STT,Suat,İzmir,,TR
 2863726,TA2NI,Mustafa,Etimesgut Ankara,,TR
-2863727,TB2PJJ,Erhan,Cankaya,Ankara,TR
-2863728,TB2TTB,Yakup,Yeni̇mahalle,Ankara,TR
-2863729,TB4YVZ,Ersin,Deni̇zli̇,Denzli,TR
-2863730,TA4EFE,Zafer,Alanya,Antalya,TR
-2863731,TB8PMA,Mehmet,Gaziantep,Gaziantep,TR
-2863732,TA2BRR,Bahtiyar,Üsküdar,Istanbul,TR
-2863733,TA3BBJ,Ahmet,Nilufer,Bursa,TR
-2863734,TA1SDD,Seyit,Kırklareli,Istanbul,TR
-2863735,TA9MHK,Habip,Erzurum,Erzurum,TR
-2863736,TA3FTH,Fatih,Aliaga Izmir,Izmir,TR
-2863737,TA2FM,Oktay,Pls Ask My Address Via Email For Direct Qsl Cards,Istanbul,TR
-2863738,TB3AEI,Gazi,Yunusemre,Manisa,TR
-2863739,TA1DGL,Mustafa,Tekirdag,Tekirdag,TR
-2863740,TB4AOL,Musa,Kepez,Antalya,TR
-2863741,TA1SGD,Soydan,Tekirdag,Tekirdag,TR
-2863742,TA2DM,Ibrahim,Bartin,Ankara,TR
-2863743,TA2BVX,Barış,Bartın,Ankara,TR
-2863744,TA2BTG,Cihangir,Sakarya,Sakarva,TR
-2863745,TA3ZZ,Serdar,A Blok No 11 Kat 5 Daire 10 Nilüfer Bursa,Bursa,TR
-2863746,TA3OGO,Gökhan,Bursa,Bursa,TR
-2863747,TB5AOK,Ömer,konya,Konya,TR
-2863748,TA3SEK,Serkan,Nilufer,Bursa,TR
-2863749,TA3ADP,Meti̇N,Bursa,Bursa,TR
-2863750,TA8SOA,Sadık,Diyarbakır,Diyarbakir,TR
-2863751,TA1SEX,Naci̇,KAĞITHANE İSTANBUL,Istanbul,TR
-2863752,TA3HGZ,Hasan,Türkiye,Bursa,TR
-2863753,TA3EDE,Derya,Bursa Osmangazi̇,Bursa,TR
-2863754,TA3HKA,Hakan,Nilufer,Bursa,TR
-2863755,TA2NRK,Nuri,Uskudar,Istanbul,TR
-2863756,TA1NZM,Nazmi,Samsun,Istanbul,TR
-2863757,TA4TAO,Hasan,Kütahya,Ankara,TR
-2863758,TA3TR,Resul,Nilufer,Bursa,TR
+2863727,TB2PJJ,Erhan,Cankaya,,TR
+2863728,TB2TTB,Yakup,Yeni̇mahalle,,TR
+2863729,TB4YVZ,Ersin,Deni̇zli̇,,TR
+2863730,TA4EFE,Zafer,Alanya,,TR
+2863731,TB8PMA,Mehmet,Gaziantep,,TR
+2863732,TA2BRR,Bahtiyar,Üsküdar,,TR
+2863733,TA3BBJ,Ahmet,Nilufer,,TR
+2863734,TA1SDD,Seyit,Kırklareli,,TR
+2863735,TA9MHK,Habip,Erzurum,,TR
+2863736,TA3FTH,Fatih,Aliaga Izmir,,TR
+2863737,TA2FM,Oktay,Pls Ask My Address Via Email For Direct Qsl Cards,,TR
+2863738,TB3AEI,Gazi,Yunusemre,,TR
+2863739,TA1DGL,Mustafa,Tekirdag,,TR
+2863740,TB4AOL,Musa,Kepez,,TR
+2863741,TA1SGD,Soydan,Tekirdag,,TR
+2863742,TA2DM,Ibrahim,Bartin,,TR
+2863743,TA2BVX,Barış,Bartın,,TR
+2863744,TA2BTG,Cihangir,Sakarya,,TR
+2863745,TA3ZZ,Serdar,A Blok No 11 Kat 5 Daire 10 Nilüfer Bursa,,TR
+2863746,TA3OGO,Gökhan,Bursa,,TR
+2863747,TB5AOK,Ömer,konya,,TR
+2863748,TA3SEK,Serkan,Nilufer,,TR
+2863749,TA3ADP,Meti̇N,Bursa,,TR
+2863750,TA8SOA,Sadık,Diyarbakır,,TR
+2863751,TA1SEX,Naci̇,KAĞITHANE İSTANBUL,,TR
+2863752,TA3HGZ,Hasan,Türkiye,,TR
+2863753,TA3EDE,Derya,Bursa Osmangazi̇,,TR
+2863754,TA3HKA,Hakan,Nilufer,,TR
+2863755,TA2NRK,Nuri,Uskudar,,TR
+2863756,TA1NZM,Nazmi,Samsun,,TR
+2863757,TA4TAO,Hasan,Kütahya,,TR
+2863758,TA3TR,Resul,Nilufer,,TR
 2863759,TA9C,Yasar,Batman,,TR
-2863760,TB6BPW,Ibrahim,Türkiye,Ankara,TR
-2863761,TA3UHO,Hakan,Turkiye,Izmir,TR
-2863762,TA1IMU,Mustafa,Kapaklı,Tekirdag,TR
-2863763,TA9MDM,Murat,Van,Malatya,TR
-2863764,TA3TG,Hakan,Bursa,Bursa,TR
-2863765,TA2EDB,Gulten,Odunpazari,Eskisehir,TR
-2863766,TA2CNB,Can,Odunpazari,Eskisehir,TR
-2863767,TA5IAU,Ali,Aksaray,Istanbul,TR
-2863768,TA1RCW,Ayhan,Suleymanpasa,Tekirdag,TR
-2863769,TA3BN,Nadir,Bursa,Bursa,TR
-2863770,TA2KSC,Samet,Adapazarı,Sakarva,TR
-2863771,TA1BFC,Tevfi̇K,İstanbul Şi̇Şli̇ Maslak Atatürk Oto Sanayi Sitesi,Istanbul,TR
-2863772,TB5MAV,Mustafa,ADANA,Adana,TR
-2863773,TA4BOC,Mehmed,Denizli,Denzli,TR
-2863774,TA7AHI,Halil,Merkez,Erzurum,TR
-2863775,TA3XYZ,Özgür,Karşiyaka,Izmir,TR
-2863776,TA2YYY,Cumhur,Istanbul,Istanbul,TR
-2863777,TA2SSB,Sadettin,Istanbul,Istanbul,TR
-2863778,TA2KWW,Serhat,Idealtepe Maltepe,Istanbul,TR
-2863779,TA4OER,Emre,Denizli,Denzli,TR
-2863780,TB8AKS,Kutluhan,Elazig,Ankara,TR
-2863781,TB2CAM,Murat,Odunpazari,Eskisehir,TR
-2863782,TA2MKC,Mustafa,Türkiye,Ankara,TR
-2863783,TA2SEB,Emir,Ankara,Ankara,TR
-2863784,TB3MKP,Recep,Mustafakemalpasa,Bursa,TR
-2863785,TB3GAR,Ahmet,Edremit,Balikesir,TR
-2863786,TA2CCP,Ahmet,Eskisehir,Eskisehir,TR
-2863787,TA3AVR,Cafer,Izmir,Izmir,TR
-2863788,TB2AUY,Ahmet,Karabük,Istanbul,TR
-2863789,TA1KMC,Muharrem,Zeyti̇nburnu,Istanbul,TR
-2863790,TA3YEM,Yigit,Izmir,Izmir,TR
-2863791,TA1NYY,Yasin,İstanbul,Istanbul,TR
-2863792,TA1KMP,Merve,Istanbul,Istanbul,TR
-2863793,TB2OSO,Osman,Istanbul,Istanbul,TR
-2863794,TA2CUO,Ahmet,Istanbul,Istanbul,TR
-2863795,TA2CKN,Ata,Bartin,Ankara,TR
-2863796,TB4AEA,Abdurrahman,Bodrrum,Mugla,TR
-2863797,TA3CIA,Ali,İzmir,Izmir,TR
-2863798,TA2YDA,Yaren,Bartin,Ankara,TR
-2863799,TA5EYE,Onurcan,İskenderun,Hatay,TR
-2863800,TA4DES,Yigit,Pamukkale,Denzli,TR
-2863801,TA2TRZ,Rafet,Pendik,Istanbul,TR
-2863802,TB5CDJ,Abdulsamet,Adana,Adana,TR
-2863803,TB5AHM,Ahmet,Nevsehir,Kayseri,TR
-2863804,TB5ADA,Hasan,Defne,Hatay,TR
-2863805,TA2TMC,Murat,Akyazi,Sakarva,TR
-2863806,TB1AAO,Murat,Malkara,Tekirdag,TR
-2863807,TA2SCE,Şükrü,Karabuk,Ankara,TR
-2863808,TA6AK,Suleyman,Vezirkopru,Samsun,TR
-2863809,TA7CHD,Cihad,Trabzon Besikduzu,Trabozon,TR
-2863810,TA6ATA,Ali,Merzifon,Samsun,TR
-2863811,TA1MTN,Metin,Istanbul,Istanbul,TR
-2863812,TA3SED,Mehmet,izmir,Izmir,TR
-2863813,TB7DSU,Ugur,Sarioglan,Kayseri,TR
-2863814,TA1MWR,Metin,Arnavutkoy,Istanbul,TR
-2863815,TA2VAL,Mehmet,İstanbul,Istanbul,TR
-2863816,TB2SRN,Sercan,Ankara,Ankara,TR
-2863817,TA1MCX,Mustafa,Istanbul,Istanbul,TR
-2863818,TA2EHD,Hüseyin,Düzce,Sakarva,TR
-2863819,TB8ACA,Muhammet,ELAZIĞ,Erzurum,TR
+2863760,TB6BPW,Ibrahim,Türkiye,,TR
+2863761,TA3UHO,Hakan,Turkiye,,TR
+2863762,TA1IMU,Mustafa,Kapaklı,,TR
+2863763,TA9MDM,Murat,Van,,TR
+2863764,TA3TG,Hakan,Bursa,,TR
+2863765,TA2EDB,Gulten,Odunpazari,,TR
+2863766,TA2CNB,Can,Odunpazari,,TR
+2863767,TA5IAU,Ali,Aksaray,,TR
+2863768,TA1RCW,Ayhan,Suleymanpasa,,TR
+2863769,TA3BN,Nadir,Bursa,,TR
+2863770,TA2KSC,Samet,Adapazarı,,TR
+2863771,TA1BFC,Tevfi̇K,İstanbul Şi̇Şli̇ Maslak Atatürk Oto Sanayi Sitesi,,TR
+2863772,TB5MAV,Mustafa,ADANA,Black Sea Region,TR
+2863773,TA4BOC,Mehmed,Denizli,,TR
+2863774,TA7AHI,Halil,Merkez,,TR
+2863775,TA3XYZ,Özgür,Karşiyaka,,TR
+2863776,TA2YYY,Cumhur,Istanbul,,TR
+2863777,TA2SSB,Sadettin,Istanbul,,TR
+2863778,TA2KWW,Serhat,Idealtepe Maltepe,,TR
+2863779,TA4OER,Emre,Denizli,,TR
+2863780,TB8AKS,Kutluhan,Elazig,,TR
+2863781,TB2CAM,Murat,Odunpazari,,TR
+2863782,TA2MKC,Mustafa,Türkiye,,TR
+2863783,TA2SEB,Emir,Ankara,,TR
+2863784,TB3MKP,Recep,Mustafakemalpasa,,TR
+2863785,TB3GAR,Ahmet,Edremit,,TR
+2863786,TA2CCP,Ahmet,Eskisehir,,TR
+2863787,TA3AVR,Cafer,Izmir,,TR
+2863788,TB2AUY,Ahmet,Karabük,,TR
+2863789,TA1KMC,Muharrem,Zeyti̇nburnu,,TR
+2863790,TA3YEM,Yigit,Izmir,,TR
+2863791,TA1NYY,Yasin,İstanbul,,TR
+2863792,TA1KMP,Merve,Istanbul,,TR
+2863793,TB2OSO,Osman,Istanbul,,TR
+2863794,TA2CUO,Ahmet,Istanbul,,TR
+2863795,TA2CKN,Ata,Bartin,,TR
+2863796,TB4AEA,Abdurrahman,Bodrrum,,TR
+2863797,TA3CIA,Ali,İzmir,,TR
+2863798,TA2YDA,Yaren,Bartin,,TR
+2863799,TA5EYE,Onurcan,İskenderun,,TR
+2863800,TA4DES,Yigit,Pamukkale,,TR
+2863801,TA2TRZ,Rafet,Pendik,,TR
+2863802,TB5CDJ,Abdulsamet,Adana,Black Sea Region,TR
+2863803,TB5AHM,Ahmet,Nevsehir,,TR
+2863804,TB5ADA,Hasan,Defne,,TR
+2863805,TA2TMC,Murat,Akyazi,,TR
+2863806,TB1AAO,Murat,Malkara,,TR
+2863807,TA2SCE,Şükrü,Karabuk,,TR
+2863808,TA6AK,Suleyman,Vezirkopru,,TR
+2863809,TA7CHD,Cihad,Trabzon Besikduzu,,TR
+2863810,TA6ATA,Ali,Merzifon,,TR
+2863811,TA1MTN,Metin,Istanbul,,TR
+2863812,TA3SED,Mehmet,izmir,,TR
+2863813,TB7DSU,Ugur,Sarioglan,,TR
+2863814,TA1MWR,Metin,Arnavutkoy,,TR
+2863815,TA2VAL,Mehmet,İstanbul,,TR
+2863816,TB2SRN,Sercan,Ankara,,TR
+2863817,TA1MCX,Mustafa,Istanbul,Marmara Region,TR
+2863818,TA2EHD,Hüseyin,Düzce,,TR
+2863819,TB8ACA,Muhammet,ELAZIĞ,,TR
+2863820,TA2EEB,Emrah,Karabuk,Black Sea Region,TR
+2863821,TB5HAK,Hakan,Konya,,TR
+2863822,TA2DSM,Salih,Keçiören,Mediterranean Region,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -93647,6 +93675,7 @@
 3024770,VE6PCO,Richard,Picture Butte,AB,CA
 3024771,VE9SC,Stephen,Moncton,NB,CA
 3024772,VE3TDD,Chris,oshawa,ON,CA
+3024773,VA3PBW,Pamela,Smithville,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99969,32 +99998,3 @@
 3106041,K0ROC,Robert,Carson,CA,US
 3106042,K1DFO,Walt,Palos Verdes,CA,US
 3106043,KF6JIP,Karla,Downey,CA,US
-3106044,W6ESQ,Jeff,Newport Beach,CA,US
-3106045,W6ESQ,Jeff,Newport Beach,CA,US
-3106046,W6ESQ,Jeff,Newport Beach,CA,US
-3106047,N6LDJ,Greg,Pleasanton,CA,US
-3106048,W6UUU,Hork,Pleasanton,CA,US
-3106049,N6LDJ,Greg,Pleasanton,CA,US
-3106050,N6LDJ,Greg,Pleasanton,CA,US
-3106051,N6LDJ,Greg,Pleasanton,CA,US
-3106052,N6LDJ,Greg,Pleasanton,CA,US
-3106053,N6LDJ,Greg,Pleasanton,CA,US
-3106054,W6TCP,Ian,Pleasanton,CA,US
-3106055,W6TCP,Ian,Pleasanton,CA,US
-3106056,W6TCP,Ian,Pleasanton,CA,US
-3106057,W6TCP,Ian,Pleasanton,CA,US
-3106058,W6TCP,Ian,Pleasanton,CA,US
-3106059,W6TCP,Ian,Pleasanton,CA,US
-3106060,WU7Q,Mike,Sacramento,CA,US
-3106061,WA6TFD,Bryan,Los Angeles,CA,US
-3106062,KD6ELS,Jason,Harbor City,CA,US
-3106063,KJ6GLX,David,Oakley,CA,US
-3106064,WA6AXX,Ed,Saratoga,CA,US
-3106065,KJ6QBM,Sean,Santa Rosa,CA,US
-3106066,KI6LGW,Shay,Bodega Bay,CA,US
-3106067,KN6JK,Jerry,Seal Beach,CA,US
-3106068,N6XXL,Jose,Santa Paula,CA,US
-3106069,K6BIV,Tim,Pittsburg,CA,US
-3106070,K6BIV,Tim,Pittsburg,CA,US
-3106071,K6BIV,Tim,Pittsburg,CA,US
-3106072,K6EWN,Jon,Livermore,CA,US
