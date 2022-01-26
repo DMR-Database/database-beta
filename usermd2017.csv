@@ -6801,7 +6801,6 @@
 1139228,KE8CNA,John,Tiffin,OH,US
 1139229,KE8CNA,John,Tiffin,OH,US
 1139230,KD8LLS,Gary,Tiffin,OH,US
-1139231,WB8SJQ,Terry,Coshocton,OH,US
 1139232,WB8TNF,Mike,Toledo,OH,US
 1139234,W8CPL,Christopher,Newburgh Heights,OH,US
 1139235,KD8ICR,Don,Kent,OH,US
@@ -9498,6 +9497,7 @@
 2020469,SV1KXH,Giannis,Ilion attiki,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020470,SV9DJV,Vagelis,Crete Isl Gr,Kriti,GR
 2020471,SY3DTU,Billy,Patras,Peloponnisos,GR
+2020472,SV2FPG,George,Thessaloniki,Dytiki Makedonia / Kentriki Makedonia,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -11136,7 +11136,7 @@
 2040400,PD2AHQ,Arshad,Den Haag,ZH,NL
 2040401,PA0FOT,Folkert,Berg en Terblijt,LB,NL
 2040402,PD1DDY,Michael,Hendrik Ido Ambacht,ZH,NL
-2040403,PD3BLI,Danny,Vlissingen,ZE,NL
+2040403,PA3BLI,Danny,Vlissingen,ZE,NL
 2040404,PG2C,Boudewijn,Maassluis,ZH,NL
 2040405,PD4LH,Martijn,Wijchen Gelderland,GE,NL
 2040406,PA3BI,Bernhard,Leidschendam,ZH,NL
@@ -23609,6 +23609,12 @@
 2145917,EA7KPM,José,DOS HERMANAS SEVILLA,Sevilla,ES
 2145918,EA1FGQ,Ruben,Salamanca,Salamanca,ES
 2145919,EA2DKI,Inaki,Arratzu,Vizcaya,ES
+2145920,EA2EAK,Ignacio,Lasarte-Oria,Gipuzkoa,ES
+2145921,EB4HLT,Jose,Madrid,Madrid,ES
+2145922,EA8HZ,Pablo,La Esperanza TENERIFE,Santa Cruz de Tenerife,ES
+2145923,EA5JFU,Jose,alhama de murcia murcia,Murcia,ES
+2145924,EA2EYI,Jose,Vitoria-Gasteiz,Alava,ES
+2145925,EA4EEJ,Mario,Algete Madrid,Madrid,ES
 2146001,EA6AFZ,Antonio,Inca,Islas Baleares,ES
 2146002,EA6AID,Ana,Inca,Islas Baleares,ES
 2146003,EA6AFZ,Antonio,Inca,Islas Baleares,ES
@@ -25863,6 +25869,7 @@
 2180344,E73ZAV,Aldin,Sarajevo,All Regions,BA
 2180345,E73MMS,Smajil,Sarajevo,All Regions,BA
 2180346,E78MNL,Nikola,Čapljina,All Regions,BA
+2180347,E75EK,Emir,Brčko,,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -37223,6 +37230,7 @@
 2280153,HB9HPD,David,Russikon,Zurich,CH
 2280154,HB9RDA,Peter,Schwarzenburg,Bern,CH
 2280155,HB9EPG,Peter,Zürich,Zurich,CH
+2280156,HB9GYN,Gilles,Porrentruy,Jura,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,CH
@@ -39025,6 +39033,7 @@
 2300215,OK7PZ,Petr,Praha 3,Prague,CZ
 2300216,OK1TIG,Vít,Pardubice,Pardubice Region,CZ
 2300217,OK3AR,Richard,Pilsen,Pilsen Region,CZ
+2300218,OK5TI,Miroslav,Tisovec,Pardubice Region,CZ
 2301001,OK9DTZ,David,Prague,Hlavni mesto Praha,CZ
 2301002,OK3ZB,Zdenek,Praha,Hlavni mesto Praha,CZ
 2301003,OK1MX,Milan,Praha,Hlavni mesto Praha,CZ
@@ -51764,7 +51773,7 @@
 2350100,G4DBL,Tim,High Wycombe,England,UK
 2350101,M5ERN,Ernest,Newcastle Upon Tyne,England,UK
 2350102,M3FOR,Michael,Chatham Kent,England,UK
-2350103,MW7URL,Carl,Bridgend,Wales,UK
+2350103,2W0HQA,Carl,Bridgend,Wales,UK
 2350104,2E0HLU,Chris,Wisbech,England,UK
 2350105,M0IMM,Shaun,Rowley Regis,England,UK
 2350106,M0HZU,David,Broadstone,England,UK
@@ -51915,7 +51924,10 @@
 2350251,G1ONY,Ken,burntwood,England,UK
 2350252,M7THE,Sean,Upchurch,England,UK
 2350253,G4OQV,Roger,Coventry,England,UK
-2350254,M7MEE,Sam,Hull,England,UK
+2350254,M7MEE,Sam,Yorkshire,England,UK
+2350255,M0KVF,Konrad,Grantham,England,UK
+2350256,G1LQT,Colin,St Austell,England,UK
+2350257,M7JOL,Joel,Stevenage,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -58329,6 +58341,7 @@
 2400725,SM5EUU,Kerstin,Vasteras,Vastmanland,SE
 2400726,SA3MLK,Jonas,Sundsvall,Vasternorrland,SE
 2400727,SM5PAN,Michael,Motala,Ostergotland,SE
+2400728,SM2INM,Greger,Skellefteå,Vasterbotten,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -65867,6 +65880,7 @@
 2600983,SQ9JYK,Piotr,Gorlice,małopolskie,PL
 2600984,SP1LEX,Konrad,Szczecin,PLZP,PL
 2600985,SP7BMW,Filip,Lodz,łódzkie,PL
+2600986,SQ8OQC,Piotr,Stara Jastrzabka,PLPK,PL
 2601001,SP1XNE,Maciek,Szczecin,PLZP,PL
 2601002,SQ1TAO,Krzysztof,Szczecin,PLZP,PL
 2601003,SQ1GZG,Bogdan,Stargard,PLZP,PL
@@ -77921,6 +77935,10 @@
 2629771,DB1NZ,Norbert,Würselen,NW,DE
 2629772,DL7GAN,Gunnar,Bechstedtstraß,Sachsen / Thueringen,DE
 2629773,DO2GRH,Marcel,Großenhain,Sachsen / Thueringen,DE
+2629774,DO1MJ,Marc,Hamburg,Hamburg / Schleswig-Holstein,DE
+2629775,DO5EZ,Mohammed,Neustadt Am Rübenberge,Niedersachsen / Bremen,DE
+2629776,DO1WI,Mathias,Frohburg,Sachsen / Thueringen,DE
+2629777,DM3BN,Peter,Dorfhain,Sachsen / Thueringen,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -88169,7 +88187,7 @@
 2863586,TB2AIP,Ahmet,Zonguldak,,TR
 2863587,TB4AGA,Ahmet,Antalya,,TR
 2863588,TA2SY,Yigiter,Sakarya,,TR
-2863589,TA3DEE,Erkan,Izmir,,TR
+2863589,TA3DEE,Erkan,Izmir,Aegean Region,TR
 2863590,TB2LYC,Yücel,Kdz Ereğli̇,,TR
 2863591,TB4TEE,Erkan,Burdur,,TR
 2863592,TA3GLY,Cengiz,Altıeylül,,TR
@@ -99980,21 +99998,3 @@
 3105705,AE4LB,Alvin,Morganton,NC,US
 3105706,KF0JB,Jonathon,Highlands Ranch,CO,US
 3105707,KF0JB,Jonathon,Highlands Ranch,CO,US
-3105709,KI7RRL,Keith,Mesa,AZ,US
-3105710,N3BXZ,Alfred,Ellicott City,MD,US
-3105711,N4TTY,Steve,Stone Mountain,GA,US
-3105712,KE0SZM,Michael,Fort Collins,CO,US
-3105713,N1YEI,Louis,New Boston,NH,US
-3105714,N4FV,Bobby,Greeneville,TN,US
-3105715,KK4ESV,Arron,Hickory,NC,US
-3105716,N9QGU,Robert,Rochester Hills,MI,US
-3105717,N9QGU,Robert,Rochester Hills,MI,US
-3105718,K2MFF,New,Newark,NJ,US
-3105719,K5KBG,Ken,Stonewall,LA,US
-3105720,KF5THM,Michael,New Orleans,LA,US
-3105721,KQ5U,Terry,Spring,TX,US
-3105722,KJ7AGT,Joshua,Vancouver,WA,US
-3105723,K4JLK,Judith,Dunwoody,GA,US
-3105725,KJ7AGM,Duane,Vancouver,WA,US
-3105726,AA4AB,Gregory,Forsyth,GA,US
-3105727,K5LRB,Steven,Liberty,TX,US
