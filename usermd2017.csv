@@ -438,7 +438,6 @@
 1106314,AA6IT,Walter,Fresno,CA,US
 1106315,WQ1K,David,Los Altos Hills,CA,US
 1106316,KF6NRY,Robert,N. Highlands,CA,US
-1106317,KG6CWE,Ryan,San Francisco,CA,US
 1106318,W6OSC,Edward,Roseville,CA,US
 1106319,KC6ORG,Alfredo,Perris,CA,US
 1106320,KI6KNT,Mark,Santa Ana,CA,US
@@ -6203,7 +6202,7 @@
 1137579,W4RSI,Ricky,Hickory,NC,US
 1137580,KG4DML,Tosha,Marion,NC,US
 1137581,KM4DER,Michael,Kenly,NC,US
-1137582,W4BEE,Andrew,Mooresboro,NC,US
+1137582,W4BEE,Andrew,Ellenboro,NC,US
 1137583,KD4TOS,Randy,Burnsville,NC,US
 1137584,KK4ZKS,William,Raleigh,NC,US
 1137585,KD4JWF,Jose,Oxford,NC,US
@@ -11194,6 +11193,7 @@
 2040451,PD5TE,Andrei,Zoetermeer,ZH,NL
 2040452,PA3FFH,Eric,HUISSEN,GE,NL
 2040453,PA0ZDO,Wytze,Eindhoven,N-B,NL
+2040454,PD0PXG,Wil,Herkenbosch,VLI,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -16008,6 +16008,7 @@
 2080918,F1TMK,Serge,Saint REMY,Grand Est,FR
 2080919,F4JHM,Eric,Condom,Occitanie,FR
 2080920,F4IWF,Josselin,Daux,Occitanie,FR
+2080921,F4FPG,Fabrice,38690,Auvergne-Rhône-Alpes,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -36483,6 +36484,9 @@
 2229659,IK8XIR,Alessandro,Pomigliano d Arco Napoli,Molise / Campania / Calabria,IT
 2229660,IW2DKB,Claudio,bergamo,LOM,IT
 2229661,IK8IVA,Salvatore,Nola Napoli,Molise / Campania / Calabria,IT
+2229662,IU8JUF,Prospero,Salerno,Molise / Campania / Calabria,IT
+2229663,IW1FEI,Filippo,Airasca,Piedmont / Liguria / Aosta,IT
+2229664,IT9HZM,Francesco,Catania CT,Sicily,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Transylvania,RO
 2260003,YO3IPJ,Adriann,Bucharest,Bucharest,RO
@@ -40099,6 +40103,7 @@
 2320219,OE7FLT,Siegfried,Telfes,Tirol,AT
 2320220,OE5AFL,Alois,Prambachkirchen,Oberoesterreich,AT
 2320221,OE5RXP,Roland,Fraham,Oberoesterreich,AT
+2320222,OE1BFW,Florian,Vienna,Wien,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -51737,7 +51742,7 @@
 2349926,M7DKE,Daryl,Dagenham,England,UK
 2349927,G0VNW,John,Hucknall,England,UK
 2349928,M7CLK,David,Bury,England,UK
-2349929,M7CAY,David,Bridgwater,England,UK
+2349929,M7CAY,David,potterne,England,UK
 2349930,2M0FAD,John,Perth,Scotland,UK
 2349931,M6IBH,Cliff,Middlesbrough,England,UK
 2349932,2E0ROJ,Adam,Sutton Coldfield,England,UK
@@ -52120,15 +52125,19 @@
 2350313,2I1IKL,Danny,Ballymoney,Northern Ireland,UK
 2350314,GM8SJP,Iain,Roxboroughshire,Scotland,UK
 2350315,MB6IPD,Paul,Dewsbury,England,UK
-2350316,MB6ILO,James,Lowestoft,England,UK
+2350316,M0JGX,James,Lowestoft,England,UK
 2350317,M7TBD,Donald,Maidenhead,England,UK
 2350318,M7ILN,Bruce,London,England,UK
 2350319,MB6QI,Chris,Maidstone,England,UK
 2350320,M7JYM,Jamie,GLOUCESTER,England,UK
 2350321,G4HEC,Paul,Christchurch,England,UK
-2350322,G4JHD,Philip,Eastbourne,England,UK
+2350322,G4JHD,John,Eastbourne,England,UK
 2350323,M7NAR,Michael,W. Malling,England,UK
 2350324,M3GPC,Graham,Bolton,England,UK
+2350325,M7CXD,John,Newcastle,England,UK
+2350326,M0SVT,Andrew,Newcastle under lyme,England,UK
+2350327,M7LLF,Gavin,Chester,England,UK
+2350328,2M0OSZ,Bryan,Orkney,Scotland,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -66267,6 +66276,7 @@
 2601128,SP9OJW,Krzysztof,Bytom,śląskie,PL
 2601129,SP9KGR,Klub,Gorlice,małopolskie,PL
 2601130,SQ2IP,Slawomir,Laskowice,PLKP,PL
+2601131,SQ3PMG,Maciej,Poznan,PLWP,PL
 2602001,SP2WGN,Maciej,Gdask,PLPM,PL
 2602002,SP2FRN,Sebastian,Gdynia,PLPM,PL
 2602003,SP2CA,Andrzej,Bydgoszcz,PLKP,PL
@@ -78255,6 +78265,12 @@
 2629831,DL5FCE,Robert,Lohfelden,HE,DE
 2629832,DL3TMU,Tasso,Potsdam,Berlin / Brandenburg,DE
 2629833,DJ0VL,Jean,Walldorf,BW,DE
+2629834,DL1SCD,Eberhard,Güglingen,BW,DE
+2629835,DO1SRI,Sebastian,Möhnesee,NW,DE
+2629836,DL3SRH,Stefan,Hamm,NW,DE
+2629837,DL6OBM,Hans,Loose,Hamburg / Schleswig-Holstein,DE
+2629838,DG9AK,Karl,Mannheim,BW,DE
+2629839,DF9HC,Haiko,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -88714,7 +88730,7 @@
 2863787,TA3AVR,Cafer,Izmir,,TR
 2863788,TB2AUY,Ahmet,Karabük,Black Sea Region,TR
 2863789,TA1KMC,Muharrem,Zeyti̇nburnu,,TR
-2863790,TA3YEM,Yigit,Izmir,,TR
+2863790,TA3YEM,Yigit,Izmir,Aegean Region,TR
 2863791,TA1NYY,Yasin,İstanbul,,TR
 2863792,TA1KMP,Merve,Istanbul,,TR
 2863793,TB2OSO,Osman,Istanbul,,TR
@@ -94419,6 +94435,7 @@
 3024813,VA3TEC,Michael,Orléans,ON,CA
 3024814,VE4JET,Jerry,Winnipeg,MB,CA
 3024815,VE5IV,David,Saskatoon,SK,CA
+3024816,VE2LAW,Johanne,Shawinigan,QC,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99981,20 +99998,3 @@
 3105260,KF5KLS,Mary,Omaha,AR,US
 3105261,K5IZS,John,Jacksonville,AR,US
 3105262,N5UNN,Ronald,Casa,AR,US
-3105264,KG5ROH,William,Springfield,AR,US
-3105265,K5KEP,Kenneth,Sherwood,AR,US
-3105266,N5JHR,Luke,Benton,AR,US
-3105267,N5LKE,James,Searcy,AR,US
-3105268,N5LKE,James,Searcy,AR,US
-3105269,K5RPD,Jarrod,Russellville,AR,US
-3105270,K5UNX,Wayne,Bella Vista,AR,US
-3105271,WX0X,Shane,Jacksonville,AR,US
-3105272,AC5AV,Larry,Searcy,AR,US
-3105273,N5YGR,Walt,Little Rock,AR,US
-3105274,W5TCC,William,Conway,AR,US
-3105275,AF5EI,James,Morrilton,AR,US
-3105276,KC6YOT,Francis,Cabot,AR,US
-3105277,KG5RIY,Austin,Little Rock,AR,US
-3105278,N4SAB,Stephen,Little Rock,AR,US
-3105279,NZ5E,Terry,Bono,AR,US
-3105280,K5HSV,Paul,Benton,AR,US
