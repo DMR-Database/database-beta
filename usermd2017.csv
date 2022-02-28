@@ -2121,8 +2121,8 @@
 1108263,W3DIF,Michael,Broomfield,CO,US
 1108264,KD5LWU,Johnny,Cortez,CO,US
 1108265,K0DEN,Christopher,Aurora,CO,US
-1108266,W4XEN,Caleb,Commerce City,CO,US
-1108267,W4XEN,Caleb,Commerce City,CO,US
+1108266,W4XEN,Caleb,Meridian,ID,US
+1108267,W4XEN,Caleb,Meridian,ID,US
 1108269,W0USC,John,Poudre Park,CO,US
 1108270,W0USC,John,Poudre Park,CO,US
 1108271,W0GAS,Gregory,Larkspur,CO,US
@@ -4927,8 +4927,6 @@
 1136178,N2AEC,Damian,Cold Spring,NY,US
 1136179,W2NLS,Neil,Bethpage,NY,US
 1136180,W2OM,Donald,Burt,NY,US
-1136181,N2ORG,Johnny,Brooklyn,NY,US
-1136182,N2ORG,Johnny,Brooklyn,NY,US
 1136183,KR2JB,Robert,N. Syracuse,NY,US
 1136184,KC2KCL,Karl,Huntington Station,NY,US
 1136185,K2OL,Joseph,Brooklyn,NY,US
@@ -9503,6 +9501,8 @@
 2020488,SV9QCV,Michalis,moires,Kriti,GR
 2020489,SV1KWZ,Georgiou,Peristeri Athens,Attiki / Sterea Ellada / Dytiki Ellada,GR
 2020490,SY1DUP,Georges,ATHENS,Attiki / Sterea Ellada / Dytiki Ellada,GR
+2020491,SV9RXS,Ioannis,Moires,Kriti,GR
+2020492,SV3KEG,Takis,SPARTI,Peloponnisos,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -16029,6 +16029,8 @@
 2080931,F4JHI,Laurent,Killem,Hauts-de-France,FR
 2080932,F6GPC,Bruno,Chateaugiron,Bretagne,FR
 2080933,F1MOI,Jean-Pierre,BISCHHEIM,Alsace,FR
+2080934,F1SXU,Roland,BOISREDON,Nouvelle-Aquitaine,FR
+2080935,F4IYX,Pascal,NICE,Provence-Alpes-Côte d Azur,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Nouvelle-Aquitaine,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -26001,6 +26003,7 @@
 2180349,E77HZ,Huso,Kakanj,All Regions,BA
 2180350,E74D,Nermin,Zenica,All Regions,BA
 2180351,E73KCK,Kristijan,Prijedor,All Regions,BA
+2180352,E73ZVD,Darkoe,Pale,All Regions,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -36577,6 +36580,7 @@
 2229698,IU5NOW,Ivanaj,Querceta,TOS,IT
 2229699,IU6QEM,Filippo,Pesaro,Marche / Abruzzo,IT
 2229700,IZ8OLT,Bruno,80014 Giugliano in Campania Na,Molise / Campania / Calabria,IT
+2229701,IU0PQC,Luciano,Roma,Lazio / Umbria / Sardinia,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Transylvania,RO
 2260003,YO3IPJ,Adriann,Bucharest,Bucharest,RO
@@ -62987,6 +62991,7 @@
 2500378,UB8COD,Dmitriy,Asbest,All Regions,RU
 2500379,UD6APP,Sergey,Krasnodar,All Regions,RU
 2500380,UB8CAZ,Aleksandr,Ekaterinburg,All Regions,RU
+2500381,R6DRM,Ruslan,Tuapse,All Regions,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
 2501002,UA1CDG,Vitaliy,Annolovo,Tosnensky,RU
 2501003,RA1AQB,Sergey,St.Petersburg,Leningrad,RU
@@ -66467,6 +66472,7 @@
 2601151,SP4ALA,Bartosz,Ketrzyn,warmińsko-mazurskie,PL
 2601152,SP1KAR,Dawid,Lipiany,PLZP,PL
 2601153,SP2JB,Jaroslaw,Chojnice,PLPM,PL
+2601154,SQ1HTA,Pawel,Walcz,PLZP,PL
 2602001,SP2WGN,Maciej,Gdask,PLPM,PL
 2602002,SP2FRN,Sebastian,Gdynia,PLPM,PL
 2602003,SP2CA,Andrzej,Bydgoszcz,PLKP,PL
@@ -78494,6 +78500,15 @@
 2629870,DO2VO,Volker,Gladbeck,NW,DE
 2629871,DO5ZA,Daniel,Harsewinkel,NW,DE
 2629872,DK3EK,Jochen,Rodach,Bayern,DE
+2629873,DL3DND,Paul,Nordhorn,Niedersachsen / Bremen,DE
+2629874,DO1KON,Klaus,Dresden,Sachsen / Thueringen,DE
+2629875,DO1MAE,Markus,Gondelsheim,BW,DE
+2629876,DC4PAI,Klaus,Nackenheim,Rheinland-Pfalz / Saarland,DE
+2629877,DG5EH,Marco,Haltern am See,NW,DE
+2629878,DJ4UP,Stefan,Kraichtal,BW,DE
+2629879,DO1JWH,Jonas,Hamburg,Hamburg / Schleswig-Holstein,DE
+2629880,DC7UP,Uwe,Biesenthal,Berlin / Brandenburg,DE
+2629881,DG3RRW,Roland,Herford,NW,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -89096,6 +89111,10 @@
 2863922,TB4RTE,Ramazan,Antalya,Marmara Region,TR
 2863923,TA4KLY,Mevlüt,Antalya,Mediterranean Region,TR
 2863924,TA3KEI,Kutay,Izmir,Aegean Region,TR
+2863925,TA3BEK,Yılmaz,Izmir,Aegean Region,TR
+2863926,TB2COH,Burhanettin,Ankara,Central Anatolia Region,TR
+2863927,TA2OUY,Cemil,Kocaeli,Marmara Region,TR
+2863928,TA8OFS,Ömer,Diyarbakır,Southeastern Anatolia Region,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99979,22 +99998,3 @@
 3104949,K8CWG,Thomas,Milford,OH,US
 3104950,KI7HLJ,Andrew,Phoenix,AZ,US
 3104951,K9FEO,Justin,Machesney Park,IL,US
-3104952,N9VSB,Alexander,Mt Prospect,IL,US
-3104953,N9VSB,Alexander,Mt Prospect,IL,US
-3104954,KI7HLI,Gavin,Gold Canyon,AZ,US
-3104956,K0JT,Mike,Colorado Springs,CO,US
-3104957,K0JT,Mike,Colorado Springs,CO,US
-3104958,AJ4QM,Joseph,Surfside Beach,SC,US
-3104959,AJ4QM,Joseph,Surfside Beach,SC,US
-3104960,KJ4TRX,Jon,Surfside Beach,SC,US
-3104961,KJ4TRX,Jon,Surfside Beach,SC,US
-3104962,KD8IUA,Michael,Stow,OH,US
-3104963,K9DRS,John,New Lenox,IL,US
-3104964,KD9JES,Andrew,Springfield,IL,US
-3104965,KN4HFK,Andre,Charlotte,NC,US
-3104966,AG6EF,James,Morris,MN,US
-3104967,AG6EF,James,Morris,MN,US
-3104968,KC5RYL,Samir,Irvine,CA,US
-3104969,KD2BJB,Matt,Belvidere,NJ,US
-3104970,KI5BPO,Michael,Bryan,TX,US
-3104971,KD8MGB,Karen,Mansfield,OH,US
