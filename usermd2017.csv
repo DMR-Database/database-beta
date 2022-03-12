@@ -2287,7 +2287,7 @@
 1108451,W0CP,Walton,Englewood,CO,US
 1108453,KD0YCK,Michael,Northglenn,CO,US
 1108454,KC0TLY,John,Bailey,CO,US
-1108455,W7AGR,Andres,Colorado Springs,CO,US
+1108455,W7AGR,Andres,,,US
 1108456,AC0VH,David,Grand Junction,CO,US
 1108458,KE0PUY,Jack,Pine,CO,US
 1108459,N0VF,Charles,Broomfield,CO,US
@@ -14001,6 +14001,7 @@
 2060496,ON7ZC,Desmaele,6140 Fontaine L Eveque Nr Charleroi,WHT,BE
 2060497,ON3GIN,Jozef,Bredene,VWV,BE
 2060498,ON3AEB,Benny,Oostende,VWV,BE
+2060499,ON3BEA,Bart,Ardooie,VWV,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -36641,8 +36642,10 @@
 2229719,IW9EMB,Salvatore,Niscemi,Sicily,IT
 2229720,IZ5TEP,Filippo,Viareggio,TOS,IT
 2229721,IU0KSB,Silvano,Vicalvi,Lazio / Umbria / Sardinia,IT
-2229722,IU3QGB,Fulgenzio,BASSANO DEL GRAPPA,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2229722,IU3QGB,Fulgenzio,Bassano Del Grappa,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
 2229723,IU8KVC,Antonio,Gragnano,Molise / Campania / Calabria,IT
+2229724,IU3QFU,Massimo,Verona,Veneto / Trentino-Alto / Adige / Friuli-Venetia / Giuli,IT
+2229725,IT9IWD,Alfio,GIARRE Catania,Sicily,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Transylvania,RO
 2260003,YO3IPJ,Adriann,Bucharest,Bucharest,RO
@@ -36834,6 +36837,7 @@
 2260189,YO5SSS,Paul,Transylvania,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
 2260190,YO2DDY,Didi,Giroc,Hunedoara / Timis,RO
 2260191,YO5EGP,Gheorghe,Turda,Alba / Bihor / Bistrita-Nasaud / Cluj / Maramures / Salaj / Satu Mare,RO
+2260192,YO3HHC,Vlad,Bucuresti,Bucuresti / Ilfov,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2262001,YO2LOJ,Marius,Timisoara,Judeul Timi,RO
@@ -40280,6 +40284,7 @@
 2320228,OE3PDE,Peter,Sankt Poelten,Niederoesterreich,AT
 2320229,OE5GEV,Viktor,Ansfelden,Oberoesterreich,AT
 2320230,OE6AHF,Martin,Graz,Steiermark,AT
+2320231,OE9KHJ,Kurt,DORNBIRN A 6850,Vorarlberg,AT
 2321001,OE1KBC,Kurt,Wien,Wien,AT
 2321002,OE1KBC,Kurt,Wien,Wien,AT
 2321003,OE1KBC,Kurt,Wien,Wien,AT
@@ -52389,6 +52394,11 @@
 2350402,MJ0IEW,Clive,St Brelade,Channel Isles,UK
 2350403,2M0KRG,Craig,Livingston,Scotland,UK
 2350404,G7NQH,James,Reading,England,UK
+2350405,M7CUA,Jerry,St Leonards on Sea,England,UK
+2350406,G7DMQ,Simon,Horsham,England,UK
+2350407,M0IBR,Brian,Doncaster,England,UK
+2350408,MM0JKY,Alan,S. QUEENSFERRY,Scotland,UK
+2350409,2W0RGA,Roy,Swansea,Wales,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
 2351003,G7LWT,Darren,Manchester,England,UK
@@ -66625,6 +66635,8 @@
 2601164,SP5NFT,Jaroslaw,Warszawa,PLMZ,PL
 2601165,SQ1DOZ,Marcin,Swinoujscie,PLZP,PL
 2601166,SQ3PCH,Mikolaj,Poznan,PLWP,PL
+2601167,SP5RAJ,Radoslaw,Pruszkow,PLMZ,PL
+2601168,SP5XYZ,Przemyslaw,Kaluszyn,PLMZ,PL
 2602001,SP2WGN,Maciej,Gdask,PLPM,PL
 2602002,SP2FRN,Sebastian,Gdynia,PLPM,PL
 2602003,SP2CA,Andrzej,Bydgoszcz,PLKP,PL
@@ -83225,6 +83237,8 @@
 2680290,CS7AOR,Jorge,Faro,Regiao de Algarve,PT
 2680291,CT1ASN,Antonio,Freamunde,Regiao Norte,PT
 2680292,CS7AVG,Vasco,Grândola,Regiao de Alentejo,PT
+2680293,CR7BFC,Luis,Lisboa,Regiao de Lisboa,PT
+2680294,CR7BFV,Octavio,Coimbra,Regiao Centro,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -89337,6 +89351,8 @@
 2863959,TA3BCO,Cengiz,Manisa,Aegean Region,TR
 2863960,TA7LX,Muhammet,Kayseri,Central Anatolia Region,TR
 2863961,TA1GGG,Gokhan,Istanbul,Marmara Region,TR
+2863962,TA4AT,Hamdi,ANTALYA,Mediterranean Region,TR
+2863963,TB2CGW,Arıf,Ankara,Central Anatolia Region,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -94990,6 +95006,7 @@
 3024854,VA3MRB,Michael,Milton,ON,CA
 3024855,VE3GSS,Gary,Port Carling,ON,CA
 3024856,VA3KL,Andrew,Courtice,ON,CA
+3024857,VE3DRG,Donald,Azilda,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99981,20 +99998,3 @@
 3104670,N7AKC,David,Tucson,AZ,US
 3104671,KG7MCP,Tricia,Chandler,AZ,US
 3104672,N7NEV,James,Tempe,AZ,US
-3104673,K7HAA,Daniel,Tempe,AZ,US
-3104674,KI7IPF,Brian,Prescott,AZ,US
-3104675,KG7NXF,Kenneth,Scottsdale,AZ,US
-3104676,N3XLB,Tod,Glendale,AZ,US
-3104677,AF7M,Gary,Tucson,AZ,US
-3104678,KG7KWF,Kenneth,Chandler,AZ,US
-3104680,KF7TXE,William,Bisbee,AZ,US
-3104681,N7CX,Bryan,Arizona City,AZ,US
-3104682,KI7EBB,Chad,Chandler,AZ,US
-3104683,KE7URZ,Tracy,Peoria,AZ,US
-3104684,N2OML,Robert,Cave Creek,AZ,US
-3104685,N2OML,Robert,Cave Creek,AZ,US
-3104686,KG7KWF,Kenneth,Chandler,AZ,US
-3104687,W9MT,Anthony,Vail,AZ,US
-3104688,W6SEL,Salustiano,Maricopa,AZ,US
-3104689,AA7TA,Mark,Gilbert,AZ,US
-3104691,KC7SEA,Donald,Happy Jack,AZ,US
