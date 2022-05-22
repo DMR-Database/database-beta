@@ -27,7 +27,7 @@ DMR user database BETA are unverified "up to date" database files wich are autom
 <li>Tytera MD-380 and 390 BETA Database has 222198 entries<br>
 <li>Tytera MD-380 and 390 verified Database has 198869 entries<br><br>
 <li>Pi-Star BETA Database has 221964 entries<br>
-<li>Pi-Star original Database has 219325 entries<br><br>
+<li>Pi-Star original Database has 219379 entries<br><br>
 <li>Pi-Star SSH Helper Database has 221963 entries<br>
 </ul>
 <hr>
