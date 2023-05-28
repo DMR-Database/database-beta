@@ -14093,7 +14093,7 @@
 2060594,ON1BT,Bruno,Melsele,O-V,BE
 2060595,ON3RAF,Raphael,Saint-Ghislain,WHT,BE
 2060596,ON3ET,Koen,St Kruis Brugge,VWV,BE
-2060597,ON7DCK,Pieter,8730 Oedelem,VWV,BE
+2060597,ON7DCK,Pieter,Oedelem,VWV,BE
 2060598,ON8PH,Patrick,Maaseik 3680,VLI,BE
 2060599,ON5AGQ,Paul,2230 Herselt,VAN,BE
 2060600,ON3HPA,Jan,Antwerpen,VAN,BE
@@ -26089,6 +26089,7 @@
 2160194,HA5GZA,Geza,Őrbottyán,,HU
 2160195,HA7DCD,Zoltan,Budapest,Budapest,HU
 2160196,HA5ZK,Zoltan,Budapest,Budapest,HU
+2160197,HA2EBO,Laszlo,Tatabanya,Győr-Moson-Sopron,HU
 2161001,HA2TO,Arpad,Papa,,HU
 2161002,HA4XA,Istvan,Budapest,,HU
 2161003,HA9MDP,Peter,Babolna,,HU
@@ -38513,7 +38514,7 @@
 2260046,YO3IRR,Raymond,Bucharest,,RO
 2260047,YO9YUL,Iulian,Buzau,,RO
 2260048,YO3WRS,Cristi,Pantelimon,Bucuresti Ilfov,RO
-2260049,YO2PCC,Cristian,Timisoara,Hunedoara Timis,RO
+2260049,YO2PCC,Cristian,Rudna,Hunedoara Timis,RO
 2260050,YO2SRU,Bota,Giarmata,Hunedoara Timis,RO
 2260051,YO6YD,Cosmin,Tarnaveni,Brasov Covasna Harghita Mures Sibiu,RO
 2260052,YO9LIG,George,Ogrezeni,Buzau Calarasi Dambovita Giurgiu Ialomita Prahova Teleorman,RO
@@ -42009,6 +42010,7 @@
 2310094,OM1BTS,Richard,Bratislava,Bratislavsky,SK
 2310095,OM4BTW,Tomáš,Prievidza,Nitriansky Trenciansky Trnavsky,SK
 2310096,OM1MBJ,Miroslav,Bratislava,Bratislavsky,SK
+2310097,OM5AF,Pavel,Nitra,Nitriansky Trenciansky Trnavsky,SK
 2311001,OM1ATS,Daniel,Bratislava,,SK
 2311002,OM1AEG,Anton,Bratislava,Bratislavsky,SK
 2311003,OM1EI,Marian,Bratislava,,SK
@@ -59847,6 +59849,10 @@
 2355615,G4MQQ,Simon,Lapford,,UK
 2355616,M7YYZ,Nik,Camborne,England,UK
 2355617,MI7MSX,Marco,Belfast,Northern Ireland,UK
+2355618,GI8RKC,Raymond,BELFAST,Northern Ireland,UK
+2355619,G4XWV,Matthew,Hampshire,England,UK
+2355620,GM0WUR,Gareth,Stirling,Scotland,UK
+2355621,M3LBY,Paul,Nottinghamshire,England,UK
 2356001,GD6XHG,Ed,Douglas,Isle of Man,UK
 2356002,GD6XHG,Ed,Douglas,Isle of Man,UK
 2356003,GD0NFN,John,Laxey,Isle of Man,UK
@@ -64116,6 +64122,7 @@
 2420435,LB7LJ,Audun,Tananger,Rogaland,NO
 2420436,LB7SJ,Nina,Oslo,Oslo,NO
 2420437,LB7WJ,Augon,Haugesund,Rogaland,NO
+2420438,LB6OB,Tore,OYER,Innlandet,NO
 2421001,LA6VMA,Tommy,Dal,,NO
 2421002,LA7ZKA,Arve,Trollasen,,NO
 2421003,LA2YUA,Robin,Strømmen,Innlandet,NO
@@ -84126,6 +84133,8 @@
 2631081,DL1UKA,Uwe,Hamburg,Hamburg Schleswig-Holstein,DE
 2631082,DO1HRH,Helmut,Langenhagen,Niedersachsen Bremen,DE
 2631083,DC1SC,Claude,Stade,Niedersachsen Bremen,DE
+2631084,DK5HB,Hermann,Heppenheim,HE,DE
+2631085,DL6PJH,Peter,Mössingen,BW,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,,DE
 2633002,DH8AAA,Oliver,Vechelde,,DE
 2633003,DC6BV,Reinhardt,Norden,,DE
@@ -88453,6 +88462,7 @@
 2680407,CU7CA,Manuel,9900 325 Horta Faial,Azores,PT
 2680408,CR7BJT,Domingos,A dos Cunhados Torres Vedras,Regiao de Lisboa,PT
 2680409,CT2GYH,João,Aveiro,Regiao Centro,PT
+2680410,CT7AMZ,Telmo,Caldas Da Rainha,Regiao de Lisboa,PT
 2681001,CT2HMR,Manuel,Amarante,Regiao Norte,PT
 2681002,CT1DQV,Eduardo,Chaves,Regiao Norte,PT
 2681003,CT2GSW,Rui,Maia,Regiao Norte,PT
@@ -88603,7 +88613,7 @@
 2681155,CT2IOJ,Joao,Matosinhos,Regiao Norte,PT
 2681156,CT7AOS,Ze,Vila Nova de Gaia,,PT
 2681157,CT2DJM,FernandoCaldeira,Porto,,PT
-2681158,CT2IWV,Pedro,GUIMARAES,,PT
+2681158,CT2IWV,Pedro,Guimaraes,,PT
 2681159,CR7ASM,Rui,Vila Nova de Gaia,,PT
 2681160,CT7ANU,Jose,Valbom,,PT
 2681161,CT2GXK,Jose,Fafe,,PT
@@ -90707,7 +90717,7 @@
 2840593,LZ1LLO,Lalka,Plovdiv,All Regions,BG
 2840594,LZ1FA,Vasil,Sandanski,All Regions,BG
 2840595,LZ5TM,Lyubomir,Sofia,All Regions,BG
-2840596,LZ9DB,Yordan,Vinitsa KN22ND,All Regions,BG
+2840596,LZ9DB,Yordan,Vinitsa KN22ND63KB,All Regions,BG
 2840597,LZ2ZXZ,Georgi,Ruse,All Regions,BG
 2840598,LZ1MDE,Delyan,Sofia,All Regions,BG
 2840599,LZ2WRN,Valeri,Naydenov,All Regions,BG
@@ -95711,6 +95721,11 @@
 2865313,TA1OUR,Onur,İstanbul,Marmara Region,TR
 2865314,TA3SKN,Serkan,Bursa,Marmara Region,TR
 2865315,TA5AJA,Hasan,Mersin,Mediterranean Region,TR
+2865316,TA1OTT,Fatih,Başakşehir Istanbul,Marmara Region,TR
+2865317,TB3ACH,Deniz,izmir,Aegean Region,TR
+2865318,TA1XA,Akin,BASAKSEHIR Istanbul,Marmara Region,TR
+2865319,TA3SDE,Süleyman,Bursa,Marmara Region,TR
+2865320,TA3ETA,Akın,Bergama,Aegean Region,TR
 2865555,TA3RDX,Ferhat,Balikesir,Marmara Region,TR
 2866666,TA1FRK,Furkan,Istanbul,Marmara Region,TR
 2867777,TA2SEK,Serhat,Yalova,Marmara Region,TR
@@ -96569,6 +96584,7 @@
 2930819,S51SU,Marjan,Velenje,Savinjska,SI
 2930820,S57ZB,Žiga,Ljubljana,Osrednjeslovenska,SI
 2930821,S50RP,Rok,Vojnik,Savinjska,SI
+2930822,S58PA,Peter,velenje,Savinjska,SI
 2940001,Z36AEC,Herolind,Gostivar,All Regions,MK
 2940002,Z32IT,Dragan,Skopje,,MK
 2940003,Z32IT,Dragan,Skopje,,MK
@@ -99982,19 +99998,3 @@
 3023349,VA3BXG,Robert,Toronto,ON,CA
 3023350,VE3XQ,Dan,Windsor,ON,CA
 3023351,VE3OGS,Gary,Bowmanville,ON,CA
-3023352,VE3TPD,George,Leamington,ON,CA
-3023353,VE3TPD,George,Leamington,ON,CA
-3023354,VA3WEW,William,Oshawa,ON,CA
-3023355,VE3BGJ,Robert,N. York,ON,CA
-3023356,VE3MJM,Donald,Embro,ON,CA
-3023357,VA3MJM,Mari-jo,Embro,ON,CA
-3023358,VE3BGJ,Robert,N. York,ON,CA
-3023359,VA3RPA,Raymond,Waterloo,ON,CA
-3023360,VA3MET,Rob,Maple,ON,CA
-3023361,VE3NZA,Michael,Fonthill,ON,CA
-3023362,VE3XLD,Lawrence,Toronto,ON,CA
-3023363,VE3XLD,Lawrence,Toronto,ON,CA
-3023364,VA3YM,Kevin,Mitchell,ON,CA
-3023365,VE3ISS,Lenny,Burlington,ON,CA
-3023366,VE3GCM,Greg,Cambridge,ON,CA
-3023367,VE3JLC,James,Kitchener,ON,CA
