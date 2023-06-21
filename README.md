@@ -10,10 +10,10 @@
 </h1>
 <hr>
 <h2 id="english">DMR user database <b>BETA</b> for Ailunce, Anytone, Tytera and Pi-Star :)</h2>
-DMR user database BETA are unverified "up to date" database files wich are automatically created every 30 minutes. This means that after our normal <a href="https://github.com/dmr-database/database">updates</a>, new dmr users who register, will be automatically added here to the databases, but they are not verified yet by us and the data might not be complete. If you always need to be up to date, even if the display might not show all the information for the newest users, then these files are what you need.
+DMR user database BETA is an "up to date" database files wich are automatically created every 30 minutes. This means that new dmr users who register, will be automatically added here to the databases, but the data might not be complete. If you always need to be up to date, even if the display might not show all the information for the newest users, then these files are what you need.
 <br>
 <hr>
-<b>Statistics about DMR user database BETA vs verified version (updated when new users are added)
+<b>Statistics about DMR user database BETA vs (old) verified version (updated when new users are added)
 <br>
 <br>
 </b>
