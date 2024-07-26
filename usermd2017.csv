@@ -1,4 +1,4 @@
-10723036,,,,,
+10725434,,,,,
 1023001,VE3THW,Wayne,,,CA
 1023002,VA3ECM,Mathieu,Ottawa-Hull,QC,CA
 1023003,VE3QC,Guy,Gloucester,ON,CA
@@ -9738,6 +9738,7 @@
 2020871,SV3PJL,Georgios,Kiato Korinthias,Peloponnisos,GR
 2020872,SY1ENZ,Dimitris,Athense,Attiki Sterea Ellada Dytiki Ellada,GR
 2020873,SY1ENS,Panos,Athens,Attiki Sterea Ellada Dytiki Ellada,GR
+2020874,SV3KAW,Παναγιώτη,ΚΌΡΙΝΘΟ,Peloponnisos,GR
 2021001,SV1BYK,Babis,Athens,,GR
 2021002,SV1PDW,Ioannis,Athens,,GR
 2021003,SV1IW,Manos,Athens,Attiki Sterea Ellada Dytiki Ellada,GR
@@ -11788,6 +11789,7 @@
 2040834,PA5AV,Adri,Waardenburg,GE,NL
 2040835,PD7MVZ,Martin,Zwolle,,NL
 2040836,PE1LYN,Hans,Deil,GE,NL
+2040837,PD7MR,Marco,4181Ba Waardenburg,GE,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -64045,6 +64047,10 @@
 2356916,MM7GJY,Connor,Uphall Broxburn,Scotland,UK
 2356917,M7RNW,Richard,Southend,England,UK
 2356918,G7SSB,Darren,Sheffield,England,UK
+2356919,G1VFH,Martin,Stoke On Trent,England,UK
+2356920,M7FZO,Graeme,Oulton,England,UK
+2356921,G7SVT,Debbie,Devizes,England,UK
+2356922,M7LHE,Gary,Great Hale Sleaford,England,UK
 2357001,GJ6WRI,Steve,St Peter,Channel Isles,UK
 2357002,GJ7DTA,Anthony,St Peter,Channel Isles,UK
 2357003,GJ7LJJ,Nigel,St. Saviour,Channel Isles,UK
@@ -71222,7 +71228,7 @@
 2500174,R0CBO,,,,RU
 2500175,R0AEA,Sergei,,,RU
 2500176,R0OMZ,Sergey,Sotnicovo,All Regions,RU
-2500177,RA0LML,Igor,None,,RU
+2500177,RA0LML,Igor,None,All Regions,RU
 2500178,RZ0LWA,Primorye,,,RU
 2500179,UA0LTE,,,,RU
 2500180,UA0LAL,,,,RU
@@ -72469,6 +72475,7 @@
 2501431,R4PAM,Vladimir,Kazan,All Regions,RU
 2501432,UB6YCI,Кирилл,Богурсуков,,RU
 2501433,R5KV,Victor,Rossosh,All Regions,RU
+2501434,R2BCF,Василий,Moscow,All Regions,RU
 2502001,R2AEE,Alexey,,,RU
 2502002,R2AAAA,Alexey,,,RU
 2502003,R2DFR,Mikhail,Moscow,,RU
@@ -74615,8 +74622,8 @@
 2550683,UR5KAC,Andrii,Kyiv,All Regions,UA
 2550684,UT3UVI,Mykhailo,Kyiv,All Regions,UA
 2555555,UR5SSB,Yaroslav,Ivano-Frankivsk,All Regions,UA
-2570001,EW7AS,,Klimovichi,,Belarus
-2570002,EW7AS,,Klimovichi,,Belarus
+2570001,EW7AS,Uladzimir,Klimovichi,All Regions,Belarus
+2570002,EW7AS,Uladzimir,Klimovichi,All Regions,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,,Belarus
 2570004,EW1ADG,Dzmitry,Minsk,,Belarus
 2570005,EW1ACB,Ew1acb,Minsk,,Belarus
@@ -75418,7 +75425,7 @@
 2600586,SQ5PTY,Pawel,Warszawa,PLMZ,PL
 2600587,SP44WFF,Ryszard,Rzeszow,PLPK,PL
 2600588,SP6EWO,Oleg,Wroclaw,dolnośląskie,PL
-2600589,SQ9MDN,Jacek,Zabrze,śląskie,PL
+2600589,SQ9MDN,Jacek,Upper Anywhere,śląskie,PL
 2600590,SQ1SDY,Tadeusz,Swinoujscie,PLZP,PL
 2600591,SP2HBS,Tomasz,Gdynia,PLPM,PL
 2600592,3Z5YT,Artur,Bronisławow,PLMZ,PL
@@ -77465,6 +77472,8 @@
 2602712,SQ6SM,Mateusz,Wroclaw,dolnośląskie,PL
 2602713,SP6DAD,Piotr,Chojnow,dolnośląskie,PL
 2602714,SP2MZK,Tomasz,Bydgoszcz,PLKP,PL
+2602715,SP9OE,Szymon,Kuznia Raciborska,śląskie,PL
+2602716,SP8CAP,Bartosz,Ruda Lancucka,PLPK,PL
 2603001,SQ3CLK,Michal,Poznan,,PL
 2603002,SQ3GJH,Chrystian,Srem,PLWP,PL
 2603003,SP3WBY,Artur,Poznan,,PL
@@ -89785,7 +89794,7 @@
 2631158,DL1VCA,Mario,Brandenburg An Der Havel,Berlin Brandenburg,DE
 2631159,DO1SGH,Sven,Holzminden,Niedersachsen Bremen,DE
 2631160,DM2DX,Steffen,Neuburg am Rhein,Rheinland-Pfalz Saarland,DE
-2631161,DO1BRZ,Robert,Lindenberg,Bayern,DE
+2631161,DG0BR,Robert,Lindenberg,Bayern,DE
 2631162,DH9MAJ,Bernhard,Ruhstorf,Bayern,DE
 2631163,DO3RT,Thomas,Ruhstorf,Bayern,DE
 2631164,DL1CSB,Carsten,Braunschweig,Niedersachsen Bremen,DE
@@ -95237,6 +95246,7 @@
 2680504,CT2HJY,Artur,VILA Do CONDE,Regiao Norte,PT
 2680505,CT5JYD,Manuel,Gafanha Nazare,Regiao Centro,PT
 2680506,CS7AVX,Vasco,Alpiarça,Regiao de Alentejo,PT
+2680507,CT7ATO,Jorge,Penafiel,Regiao Norte,PT
 2681001,CT2HMR,Manuel,Amarante,Regiao Norte,PT
 2681002,CT1DQV,Eduardo,Chaves,Regiao Norte,PT
 2681003,CT2GSW,Rui,Maia,Regiao Norte,PT
@@ -99724,7 +99734,7 @@
 2862270,TB2TRX,TB2TRX,,,TR
 2862271,TA2MIT,Umit,Düzce,,TR
 2862272,TA2DHY,Huseyin,Kaynaşlı,,TR
-2862273,TB2BHR,Bahri,Ankara,,TR
+2862273,TB2BHR,Bahri,Ankara,Eastern Anatolia Region,TR
 2862274,TA8AZ,MURAT,,,TR
 2862275,TA4ACW,FETHI,Turkey,,TR
 2862276,TA3HS,Haluk,Inegol,,TR
@@ -99988,13 +99998,3 @@
 2862560,TA4LCZ,Abdurrahim,ANTALYA,,TR
 2862561,TA3SNN,Sinan,Balikesi̇r,Eastern Anatolia Region,TR
 2862562,TA2URN,Yunus,Bilecik,,TR
-2862563,TA5HA,Hamit,Ceyhan,Black Sea Region,TR
-2862564,TA3SR,Serdar,Canakkale,Marmara Region,TR
-2862565,TA6AOD,Osman,Samsun,,TR
-2862566,TA2LSY,süleyman,KIRIKKALE,,TR
-2862567,TA2UZJ,Ayse,Uskudar,,TR
-2862568,TB2FNU,Nurettin,Gebze,,TR
-2862569,TA8ARL,Talha,Malatya,,TR
-2862570,TA6OED,Eyup,Amasya,,TR
-2862571,TA2MGO,Goksel,Kocaeli,,TR
-2862572,TA5MEU,Muhammed,Aksaray,,TR
