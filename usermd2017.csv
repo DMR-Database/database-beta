@@ -1,4 +1,4 @@
-10789137,,,,,
+10791587,,,,,
 1023001,VE3THW,Wayne,,,CA
 1023002,VA3ECM,Mathieu,Ottawa-Hull,QC,CA
 1023003,VE3QC,Guy,Gloucester,ON,CA
@@ -14702,6 +14702,7 @@
 2060706,ON2LG,Jean,flemalle,WLG,BE
 2060707,ON3GRG,Geert,Brakel,O-V,BE
 2060708,ON3MC,Micael,Bersilles L Abbaye,WHT,BE
+2060709,ON3BHV,Hubert,1470 Genappe Brabant Wallon,Wal. Brabant,BE
 2061001,ON8SVH,Stijn,Oudenaarde,,BE
 2061002,ON8SI,Simon,Oosterzele,,BE
 2061003,ON5LUC,Luc,Gent,O-V,BE
@@ -38366,7 +38367,7 @@
 2228560,IZ8KMJ,Giulio,Giugliano,,IT
 2228561,IZ8LYR,Gennaro,Cava Dei Tirreni,Molise Campania Calabria,IT
 2228562,IZ8EGF,Salvo,San Giovanni in fiore cs,,IT
-2228563,IU8JYL,Renato,Napoli,,IT
+2228563,IU8JYL,Renato,Napoli,Molise Campania Calabria,IT
 2228564,IZ8FQQ,Giuseppe,Catanzaro,,IT
 2228565,IK8YJS,Agostino,San Pietro in Guarano,,IT
 2228566,IZ8YNA,Mario,San Giovanni in fiore cs,,IT
@@ -41006,6 +41007,9 @@
 2231210,IW2CMO,Costantino,Milano,LOM,IT
 2231211,IU0TEZ,Corrado,Vetralla,Lazio Umbria Sardinia,IT
 2231212,IU8TFB,Francesco,Napoli,Emilia-Romagna,IT
+2231213,IU0RAZ,Marco,Perugia Umbria,Lazio Umbria Sardinia,IT
+2231214,IW6PNB,Franco,Atessa,Marche Abruzzo,IT
+2231215,IU3HCS,Luca,Chioggia,Veneto Trentino-AA Friuli-VG,IT
 2231276,IU5PTS,Stefano,Livorno,TOS,IT
 2231277,IT9BRN,Antonino,Roccavaldina,Sicily,IT
 2231278,IK1WGX,Luca,Alba,Piedmont Liguria Aosta,IT
@@ -64183,7 +64187,7 @@
 2356920,M7FZO,Graeme,Oulton,England,UK
 2356921,G7SVT,Debbie,Devizes,England,UK
 2356922,M7LHE,Gary,Great Hale Sleaford,England,UK
-2356923,GI4GUH,John,Banbridge,Northern Ireland,UK
+2356923,GI4GUH,Maurice,Banbridge,Northern Ireland,UK
 2356924,G0HKC,Keith,Alveston Bristol,England,UK
 2356925,G6JUT,Jonathan,Sleaford Lincolnshire,England,UK
 2356926,G7FYO,Bryan,W. Midlands,England,UK
@@ -64251,6 +64255,8 @@
 2356988,M7WLY,Euan,Walney,England,UK
 2356989,2M0BGK,Gordon,Prestonpans East Lothian,Scotland,UK
 2356990,M7GGI,Mark,Newport Isle Of Wight,England,UK
+2356991,M7IDE,John,W. Yorkshire Uk,,UK
+2356992,M7MUJ,Barrie,Fareham,England,UK
 2357001,GJ6WRI,Steve,St Peter,Channel Isles,UK
 2357002,GJ7DTA,Anthony,St Peter,Channel Isles,UK
 2357003,GJ7LJJ,Nigel,St. Saviour,Channel Isles,UK
@@ -71282,6 +71288,7 @@
 2480102,ES4TID,Vitaly,Narva,All Regions,EE
 2480103,ES1ANTU,Andris,Tallinn,All Regions,EE
 2480104,ES2ESN,Martin,Kose,All Regions,EE
+2480105,ES1JQB,Juan,Tallinn,,EE
 2500001,RU0LA,Alexandr,Ekaterynburg,,RU
 2500002,R0AET,Vladimir,Gvardeysk,,RU
 2500003,R0ADW,Alexandr,Krasnodar,,RU
@@ -72729,6 +72736,7 @@
 2501456,R1BNI,Yuriy,Sankt-Petersburg,All Regions,RU
 2501457,RU3ACS,Alexej,Moscow,All Regions,RU
 2501458,RC8SC,Jakob,Orenburg,,RU
+2501459,UB1OBZ,Алексей,Archangelsk,All Regions,RU
 2502001,R2AEE,Alexey,,,RU
 2502002,R2AAAA,Alexey,,,RU
 2502003,R2DFR,Mikhail,Moscow,,RU
@@ -91270,6 +91278,11 @@
 2632347,DN9BF,Bjorn,Büdelsdorf,Hamburg Schleswig-Holstein,DE
 2632348,DM8SB,Sebastian,Berlin,Berlin Brandenburg,DE
 2632349,DL6KCN,Wilfried,Bonn,NW,DE
+2632350,DL9MX,Maximilian,Reichertshausen,Bayern,DE
+2632351,DN9SW,Sven,Kiel,Hamburg Schleswig-Holstein,DE
+2632352,DN9PS,Peter,Vohburg,Bayern,DE
+2632353,DF7IF,Georg,Hattenhofen,BW,DE
+2632354,DN9MT,Marco,Röhl,Rheinland-Pfalz Saarland,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,,DE
 2633002,DH8AAA,Oliver,Vechelde,,DE
 2633003,DC6BV,Reinhardt,Norden,,DE
@@ -96288,7 +96301,7 @@
 2683311,CT1FGK,Jose,Almada,,PT
 2683312,CS7AQZ,Rui,Montijo,,PT
 2683313,CT1FCI,Paulo,Parede,,PT
-2683314,CS7ATJ,Esteves,Queluz,,PT
+2683314,CS7ATJ,Esteves,Queluz,Regiao de Lisboa,PT
 2683315,CT1CSP,Luis,Sesimbra,Regiao Centro,PT
 2683316,CT2HLH,Pereiro,Miratejo,,PT
 2683317,CT7AMI,Antonio,Odivelas,Regiao de Lisboa,PT
@@ -99985,16 +99998,3 @@
 2862136,TA2RMJ,Hakan,Istanbul,,TR
 2862137,TB3HBA,Burak,ZMR,,TR
 2862138,TA2AQK,ZAFER,ANKARA,,TR
-2862139,TA3UHD,Hasan,Izmir,Aegean Region,TR
-2862141,TB3HST,Sonertopal,Zmir,,TR
-2862143,TA2LU,Tolga,Umraniye,Marmara Region,TR
-2862144,YM2XGB,GRAK,KOCAEL,,TR
-2862145,TA3GT,TAYLAN,Izmir,,TR
-2862146,TA2AIT,Osman,Yalova,,TR
-2862147,TA4AAW,Ozgur,TURKEY,,TR
-2862148,TB2WTI,TB2WTI,Gebze / Kocaeli,,TR
-2862149,TA5AAI,Muhammed,Niğde,,TR
-2862151,TA1CUN,Cuneyt,Istanbul,,TR
-2862153,TA9AAD,Abdullah,Ardahan,,TR
-2862154,TA5AAW,Furkan,HATAY,,TR
-2862155,TA2AFV,Brahim,Eskiehir,,TR
