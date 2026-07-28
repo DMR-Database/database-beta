@@ -1,4 +1,4 @@
-16061420
+16065266
 1023007,VA3BOC,Hans,Cornwall,ON,,CA
 1023008,VE3JMR,Mark,Niagara Falls,ON,,Canada
 1023009,VA3AMO,Rolando,Scarborough,ON,,CA
@@ -64,7 +64,7 @@
 1023114,VE3RJ,Rolland,sault ste marie,ON,,Canada
 1023115,VE3KUU,William,Toronto,ON,,Canada
 1023116,VE3OTL,Brent,Sault Ste Marie,ON,,Canada
-1023117,VE3KT,Mark,Wingham,ON,,CA
+1023117,VE3KT,Mark,Wingham,ON,,Canada
 1023118,VA3OFF,Dean,Hammond,ON,,CA
 1023120,VA3CW,Andrew,Toronto,YT,,Canada
 1023121,VE3MUD,Ian,Meaford,ON,,Canada
@@ -177,7 +177,7 @@
 1106063,N6AJB,Aaron,Riverside,CA,,United States
 1106065,N1YNQ,Jeremy,Dublin,CA,,United States
 1106067,AD6UP,Luis,Los Angeles,CA,,United States
-1106068,WA6SXU,Brett,Lakewood,CA,,United States
+1106068,WA6SXU,Brett,Lakewood,CA,,US
 1106069,K7AWP,Don,Beaverton,OR,,United States
 1106070,KM6DUE,James,Menlo Park,CA,,US
 1106071,N6AMY,Amy,Antelope,CA,,United States
@@ -312,7 +312,7 @@
 1106230,K6WRJ,James,Poway,CA,,United States
 1106231,N6ZOL,Donald,Chino,CA,,United States
 1106232,KM6HXM,Joe,Northridge,CA,,United States
-1106233,W6SSK,Safa,Aliso Viejo,CA,,United States
+1106233,W6SSK,Safa,Aliso Viejo,CA,,US
 1106234,N6MFT,Arthur,San Jose,CA,,United States
 1106236,KM6AYR,Kellianne,Murrieta,CA,,United States
 1106237,NA6MD,Emmanuel,San Jose,CA,,United States
@@ -2238,7 +2238,7 @@
 1112190,K4LWC,Larry,Milton,FL,,United States
 1112191,AJ4EG,Wallace,Milton,FL,,United States
 1112192,KK4LTO,Mary,Milton,FL,,United States
-1112193,KM4VPC,David,Ormond Beach,FL,,United States
+1112193,KM4VPC,David,Ormond Beach,FL,,US
 1112194,KF4AON,Ian,Lakeland,FL,,United States
 1112195,AJ4NA,John,Pensacola,FL,,United States
 1112196,KK4KRX,Amanda,Milton,FL,,United States
@@ -4264,7 +4264,7 @@
 1136217,N2QYT,Gary,Verplanck,NY,,United States
 1136218,KC2NAT,John,W. Babylon,NY,,United States
 1136220,KD2IQM,Robert,Lodi,NJ,,United States
-1136221,N2ONY,Anthony,Buffalo,NY,,United States
+1136221,N2ONY,Anthony,Buffalo,NY,,US
 1136222,W2RRG,Bob,E. Aurora,NY,,United States
 1136223,NY2KW,Jerry,Katonah,NY,,United States
 1136224,WX2LI,Nassau,New Hyde Park,NY,,United States
@@ -4951,7 +4951,7 @@
 1137131,AF5LB,Dennis,Waynesville,NC,,United States
 1137132,K2UCU,Thomas,Cary,NC,,United States
 1137135,K4CET,Clyde,Hope Mills,NC,,US
-1137137,W4ARX,Richard,Washington,NC,,United States
+1137137,W4ARX,Richard,Washington,NC,,US
 1137139,WJ4DSP,Clark,Cary,NC,,United States
 1137141,KU4GC,Dietolf,Hillsborough,NC,,United States
 1137142,KK4UZP,Oliver,Whittier,NC,,United States
@@ -5848,7 +5848,7 @@
 1139223,W4JKW,John,Powell,OH,,United States
 1139224,KD8MRO,Lisa,Wadsworth,OH,,United States
 1139225,KE8EGH,Kevin,Hiram,OH,,US
-1139226,K8TRL,Timothy,Shaker Heights,OH,,United States
+1139226,K8TRL,Timothy,Shaker Heights,OH,,US
 1139227,KE8GHD,Kenneth,Grove City,OH,,United States
 1139228,KE8CNA,John,Tiffin,OH,,United States
 1139229,KE8CNA,John,Tiffin,OH,,United States
@@ -7733,7 +7733,7 @@
 1151272,KM4MLF,Ryan,Virginia Beach,VA,,United States
 1151274,N4DEN,Dennis,Montpelier,VA,,United States
 1151275,KD4NVT,Wade,Chincoteague Island,VA,,United States
-1151276,K4URW,Richard,Springfield,VA,,United States
+1151276,K4URW,Richard,Springfield,VA,,US
 1151277,WE4RIC,Ric,Roanoke,VA,,United States
 1151278,W4NM,Alfred,Richmond,VA,,United States
 1151279,KJ4CBO,Brian,Nathalie,VA,,United States
@@ -11800,6 +11800,7 @@
 2041604,PA3MM,Jan,Minnertsga,FR,,Netherlands
 2041605,PD4TSI,Theo,Zwijndrecht,ZH,,Netherlands
 2041606,PD2RDB,Robert,Gorredijk,FR,,Netherlands
+2041607,PA1TW,Johan,Oosterwolde,FR,,Netherlands
 2042001,PA0HTW,Henk,Rotterdam,Rotterdam,,Netherlands
 2042002,PA0HTW,Henk,Rotterdam,Rotterdam,,Netherlands
 2042003,PA3DFN,Philip,Spijkenisse,Spijkenisse,,Netherlands
@@ -14232,7 +14233,7 @@
 2060526,ON5AT,Thierry,Messancy,Luxemburg,,Belgium
 2060527,ON7FM,Florian,Charleroi,WHT,,Belgium
 2060528,ON3PMC,Peter,Kluisbergen,O-V,,Belgium
-2060529,OT6X,Patrick,Opoeteren,VLI,,Belgium
+2060529,OT6X,Patrick,Opoeteren Maaseik,VLI,,Belgium
 2060530,ON3RLD,Roland,Gembloux,WNA,,Belgium
 2060531,ON4BHL,Hoekman,Sint-Pieters Leeuw,Vlaams Brabant,,Belgium
 2060532,ON4ROS,Douglas,Lovenjoel Bierbeek,Vlaams Brabant,,Belgium
@@ -14644,6 +14645,7 @@
 2060940,ON3PH,Henri,Wemmel,Vlaams Brabant,,Belgium
 2060941,ON3LRH,Luc,Poederlee,VAN,,BE
 2060942,ON5MGA,Michel,Namur,WNA,,Belgium
+2060943,ON5LU,Eric,Ichtegem,VWV,,Belgium
 2061001,ON8SVH,Stijn,Oudenaarde,Oudenaarde,,Belgium
 2061002,ON8SI,Simon,Oosterzele,Oosterzele,,Belgium
 2061003,ON5LUC,Luc,Gent,O-V,,Belgium
@@ -18516,7 +18518,7 @@
 2086140,F4IFY,Anthony,MERIGNAC,MERIGNAC,,France
 2086141,F6HFY,Yves,LONS,LONS,,France
 2086142,F4IQT,Pierre,COULOUNIEIX CHAMIERS,COULOUNIEIX CHAMIERS,,France
-2086143,F4ACR,Antoine,Niort,Niort,,France
+2086143,F4ACR,Silva,Niort,Nouvelle-Aquitaine,,France
 2086144,F4GFY,Yannick,Liste orange,Liste orange,,France
 2086145,F4IIJ,Jean-Paul,Saint-Xandre,Saint-Xandre,,France
 2086146,F5LNH,Didier,Villenave dOrnon,Villenave dOrnon,,France
@@ -21292,7 +21294,7 @@
 2142015,EA2RY,Roberto,Vitoria-Gasteiz,Vitoria-Gasteiz,,Spain
 2142016,EA2CYT,Jose,Vitoria-Gasteiz,Vitoria-Gasteiz,,Spain
 2142017,EA2COA,Luis,Vitoria,Vitoria,,Spain
-2142018,EA2AQ,Cruz,Laguardia-Biazteri,Laguardia-Biazteri,,Spain
+2142018,EA2AQ,Cruz,Laguardia-Biasteri,Alava,,Spain
 2142019,EA2ANS,Ruben,Vitoria,Vitoria,,Spain
 2142020,EA2AM,Hilario,Vitoria Gasteiz,Vitoria Gasteiz,,Spain
 2142021,EA2AVH,Francisco,Vitoria-Gasteiz,Vitoria-Gasteiz,,Spain
@@ -21609,7 +21611,7 @@
 2142335,EA2EGL,Javier,IRUN,IRUN,,Spain
 2142336,EA2AYW,GOITIBERA,Lasarte-Oria,Lasarte-Oria,,Spain
 2142337,EA2ELK,Jon,Bilbao,Bilbao,,Spain
-2142338,EA2AQ,Cruz,Laguardia-Biazteri,Laguardia-Biazteri,,Spain
+2142338,EA2AQ,Cruz,Laguardia-Biasteri,Alava,,Spain
 2142339,EA2DOW,Felix,Bilbao,Bilbao,,Spain
 2142340,EA2EKO,EA2EKO,Tafalla,Tafalla,,Spain
 2142341,EA2AFZ,David,Bilbao,Vizcaya,,Spain
@@ -22783,7 +22785,7 @@
 2143519,EA3GUN,Eugenio,MASSANES,MASSANES,,Spain
 2143520,EB3AJY,SUBIROS,Girona,Girona,,Spain
 2143521,EB3EAQ,PERE,Sabadell,Sabadell,,Spain
-2143522,EA3ICA,Emilio,Terrassa,Terrassa,,Spain
+2143522,EA3ICA,Emilio,Terrassa,Barcelona,,Spain
 2143523,EA3AGB,Jorda,AMPOSTA,AMPOSTA,,Spain
 2143524,EA3ICD,Joan,Odena,Odena,,Spain
 2143525,EA2BIT,Carlos,TERRASSA,TERRASSA,,Spain
@@ -23137,7 +23139,7 @@
 2143875,EB1IQH,Antonio,Vallelado,Segovia,,Spain
 2143876,EA5GWD,Jose,Benidorm,Alicante,,Spain
 2143877,EA8DLO,Cristofer,Los Realejos,Santa Cruz de Tenerife,,Spain
-2143878,EA5JFR,Juan,Alquerias,Castellon,,Spain
+2143878,EA5JFR,Juanjose,Alquerias,Castellon,,Spain
 2143879,EA5JFY,Jose,Manises,Valencia,,Spain
 2143880,EA5IZT,Carlos,Alicante,Alicante,,Spain
 2143881,EA7DQH,Antonio,Sanlúcar de Barrameda,Cadiz,,Spain
@@ -29682,6 +29684,11 @@
 2150432,EB4GTN,Antonio,San Martin De Valdeiglesias,Madrid,,Spain
 2150433,EA3JKT,Toni,Barcelona,Barcelona,,Spain
 2150434,EB1AYX,Jose,Leon,Leon,,Spain
+2150435,EA4JCH,Francisco,Madrid,Madrid,,Spain
+2150436,EA1FSJ,Segismundo,Santa Colomba De Las Monjas,Zamora,,Spain
+2150437,EA8DTS,Fernando,San Nicolas De Tolentino,Las Palmas,,Spain
+2150438,EA7LDA,Gerardo,Santa Fe,Granada,,Spain
+2150439,EA5HRA,Carlos,Onda,Castellon,,Spain
 2157000,EA7IYR,Juan-Carlos,Granada,Granada,,Spain
 2160001,HA8DJ,Sandor,Bordany,Bordany,,Hungary
 2160002,HA4XA,Istvan,Budapest,Budapest,,Hungary
@@ -29732,7 +29739,7 @@
 2160047,HA5BM,Jinos,Budapest,Budapest,,Hungary
 2160048,HA0AK,Attila,Pusztaujlak,Pusztaujlak,,Hungary
 2160049,HG7AN,Zoli,Monor,Monor,,Hungary
-2160050,HA1SM,Károly,Győr,Győr-Moson-Sopron,,Hungary
+2160050,HA1SM,Karoly,Gyor,Nyugat-Dunantul,,Hungary
 2160051,HA5CTI,Istvan,Gyenesdias,Budapest,,Hungary
 2160052,HA5MIG,Zoli,Budapest,Budapest,,Hungary
 2160053,HA3MAR,Marci,Budapest,Budapest,,Hungary
@@ -29810,9 +29817,9 @@
 2160125,HA7AB,Akos,None,Pest Eger Erd Miskolc Salgotarjan Szolnok,,Hungary
 2160126,HG6KID,Radio,Pétervására,Borsod-Abauj-Zemplen Heves Jasz-Nagykun-Szolnok Nogr,,Hungary
 2160127,HA2PWR,Peter,Balatonfokajar,Baranya Somogy Tolna Kaposvar Pecs Szekszard,,Hungary
-2160128,HA1SP,Peter,Pannonhalma,Győr-Moson-Sopron,,Hungary
+2160128,HA1SP,Peter,Pannonhalma,Nyugat-Dunantul,,Hungary
 2160129,HA5XA,Krisztian,Budapest,Budapest,,Hungary
-2160130,HA1MZS,Zsolt,Győr,Budapest,,Hungary
+2160130,HA1MZS,Zsolt,Gyor,Budapest,,Hungary
 2160131,HA1GBR,Gabor,Ikreny,Nyugat-Dunantul,,Hungary
 2160132,HG9CAT,Katalin,Pápa,Budapest,,Hungary
 2160133,HA8MBM,Márton,Pécs,Baranya Somogy Tolna Kaposvar Pecs Szekszard,,Hungary
@@ -30185,7 +30192,7 @@
 2163018,HG3FAX,Gyuri,Szava,Szava,,Hungary
 2163019,HG3FAX,Gyuri,Szava,Szava,,Hungary
 2163020,HA3IN,Norbert,Pecs,Pecs,,Hungary
-2163022,HA3HJ,Jozsef,Darany,Darany,,Hungary
+2163022,HA3HJ,Jozsef,Darany,Del-Dunantul,,Hungary
 2163023,HA3TQ,Gabor,Pecs,Pecs,,Hungary
 2163024,HA3TA,Zsolti,Pecs,Pecs,,Hungary
 2163025,HG3TR,Eszter,Pecs,Pecs,,Hungary
@@ -31136,6 +31143,7 @@
 2180570,E75IMZ,Idriz,Bihac,All Regions,,Bosnia and Hercegovina
 2180571,E77OS,Ante,Orasje,All Regions,,Bosnia and Hercegovina
 2180572,E74UY,Samir,Sarajevo,All Regions,,Bosnia and Hercegovina
+2180573,E78KD,Danir,Tesanj,All Regions,,Bosnia and Hercegovina
 2190001,9A5PH,Richard,Murter,Murter,,Croatia
 2190002,9A5DW,Johann,Zadar,Zadar,,Croatia
 2190003,9A0W,Ivan,Oroslevje,Oroslevje,,Croatia
@@ -32680,6 +32688,7 @@
 2200836,YU7ZET,Silvestro,Nikolinci,All Regions,,Serbia
 2200837,YU4SLM,Slobodan,Zrenjanin,All Regions,,Serbia
 2200838,YT7VNV,Vuk,Novi Sad,All Regions,,Serbia
+2200839,YU2ROS,Marko,Kragujevac,All Regions,,Serbia
 2200999,YT3VD,Dejan,Belgrade,All Regions,,Serbia
 2201000,YU4RIS,Ivan,Beograd,All Regions,,Serbia
 2202222,YT5HOK,Marko,Beograd,All Regions,,Serbia
@@ -34649,7 +34658,7 @@
 2221994,IK0SMD,Raffaele,Civitavecchia,Civitavecchia,,Italy
 2221995,IU1LAY,Riccardo,Cogoleto,Cogoleto,,Italy
 2221996,IS0HYQ,RE72,Oristano,Oristano,,Italy
-2221997,IW0HKX,Batman,Roma,Roma,,Italy
+2221997,IW0HKX,Batman,Roma,Lazio Umbria Sardinia,,Italy
 2221998,IQ1YY,AIRS,,Italy,,Italy
 2221999,IZ1HVD,Danilo,Nole,Piedmont Liguria Aosta,,Italy
 2222000,IK1SPR,Flavio,Savigliano,Savigliano,,Italy
@@ -35423,7 +35432,7 @@
 2222782,IZ2RLO,Cris,Casalmaggiore CR,LOM,,Italy
 2222783,IZ2EWL,IZ2EWL,Cavaria,Cavaria,,Italy
 2222784,IU2GGI,Giorgio,Torrazza Coste,LOM,,Italy
-2222785,IU2DWL,Mark67,Morbegno,LOM,,Italy
+2222785,IU2DWL,Marco,Morbegno,LOM,,Italy
 2222786,IZ2YAF,Iz2yaf,Cassina Rizzardi,Cassina Rizzardi,,Italy
 2222787,IZ2NIS,IZ2NIS,Sesto san giovanni,Sesto san giovanni,,Italy
 2222788,I2ZQW,Anchise,Albizzate,Albizzate,,Italy
@@ -39667,7 +39676,7 @@
 2227061,IZ7WEM,Antonio,Cellamare,Cellamare,,Italy
 2227062,IZ7DOZ,Pasquale,Andria,Apulia Basilicata,,Italy
 2227063,IU7EPP,Giancarlo,Valenzano,Valenzano,,Italy
-2227064,IW7CLG,iw7clg,Noicattaro,Noicattaro,,Italy
+2227064,IW7CLG,Giovanni,Noicattaro,Apulia Basilicata,,Italy
 2227065,IZ7YVH,Antonio,Bisceglie,Apulia Basilicata,,Italy
 2227066,IZ7KYS,Claudio,Maglie,Apulia Basilicata,,Italy
 2227067,IK7XIW,Angelo,Grottaglie,Grottaglie,,Italy
@@ -42313,7 +42322,7 @@
 2229730,IU3QFE,Paolo,Crespino Rovigo,Veneto Trentino-AA Friuli-VG,,Italy
 2229731,I1HNU,Marco,Piedmont Liguria Aosta,Piedmont Liguria Aosta,,Italy
 2229732,IU0OFK,Giuseppe,Roma,Lazio Umbria Sardinia,,Italy
-2229733,IW2LUY,Lucs,Milano Mi,LOM,,Italy
+2229733,IW2LUY,Luca,Milano Mi,LOM,,Italy
 2229734,IU3QFX,Piergiorgio,Venezia,Veneto Trentino-AA Friuli-VG,,Italy
 2229735,IZ2XGI,Luciano,Como,LOM,,Italy
 2229736,IU1PZF,Franco,Arona,Piedmont Liguria Aosta,,Italy
@@ -42420,7 +42429,7 @@
 2229837,IV3AOW,Bernardino,Campoformido,Veneto Trentino-AA Friuli-VG,,Italy
 2229838,IU4PTA,Gian,Monteveglio,Emilia-Romagna,,Italy
 2229839,IT9BPN,Antonino,messina,Sicily,,Italy
-2229840,IV3QBE,Flavio,Reana Del Rojale,Veneto Trentino-AA Friuli-VG,,Italy
+2229840,IV3QBE,Flavio,Reana Del Rojale,Veneto Trentino-AA Friuli-VG,,IT
 2229841,IT9JFN,Genzone,Sicily,Sicily,,Italy
 2229842,IW3RFA,Dario,Trieste,Veneto Trentino-AA Friuli-VG,,Italy
 2229843,IZ0SCI,Stefano,NARNI,Lazio Umbria Sardinia,,Italy
@@ -45653,7 +45662,7 @@
 2233083,IT9LLP,Ivan,Nicosia,Sicily,,Italy
 2233084,IT9LLH,Giuseppe,Misterbianco,Sicily,,Italy
 2233085,IT9GHK,Giovanni,Siracusa,Sicily,,Italy
-2233086,IU7WCC,Mimmo,Valenzano,Apulia Basilicata,,Italy
+2233086,IU7WCC,Mimmo,Valenzano,Apulia Basilicata,,IT
 2233087,IU6RKN,Giovanni,Bucchianico,Marche Abruzzo,,Italy
 2233088,IT9LMC,Massimo,Trapani,Sicily,,Italy
 2233089,IK4WMH,Stefano,Cesena,Emilia-Romagna,,Italy
@@ -45669,7 +45678,7 @@
 2233099,IU1JDH,Francesco,Turin,Piedmont Liguria Aosta,,Italy
 2233100,IK6RHT,Stefano,Tolentino,Marche Abruzzo,,Italy
 2233101,IU8STX,Alfredo,Casal Velino,Molise Campania Calabria,,Italy
-2233102,IS0IZI,Marco,Iglesias,Lazio Umbria Sardinia,,IT
+2233102,IS0IZI,Marco,Iglesias,Lazio Umbria Sardinia,,Italy
 2233103,IT9LMJ,Antonino,Messina,Sicily,,Italy
 2233104,IK8TVG,Gianluca,Napoli,Molise Campania Calabria,,Italy
 2233105,IV3KPL,Cristiano,Moruzzo,Veneto Trentino-AA Friuli-VG,,Italy
@@ -45684,6 +45693,9 @@
 2233114,IU1WFE,Denis,Torino,Piedmont Liguria Aosta,,Italy
 2233115,IT9LLR,Alessio,Augusta,Sicily,,Italy
 2233116,IU6WSB,Stefano,Giulianova,Marche Abruzzo,,Italy
+2233117,IK2DRD,Gianni,Lipomo,LOM,,Italy
+2233118,IU2JKK,Andrea,Certosa Di Pavia,LOM,,Italy
+2233119,IT9LNP,Salvatore,Palermo,Sicily,,Italy
 2242222,IT9JFW,Lorenzo,Palermo,Sicily,,Italy
 2260001,YO3DSG,Daniel,Bucharest,Bucuresti Ilfov,,Romania
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Tirgu-Mures,,Romania
@@ -46430,7 +46442,7 @@
 2260747,YO6SAP,Rudi,Baraolt,Brasov Covasna Harghita Mures Sibiu,,Romania
 2260748,YO9HXU,Tica,Campina,Bucuresti Ilfov,,Romania
 2260749,YO3IEW,Andrei,Bucharesti,Bucuresti Ilfov,,Romania
-2260750,YO5ODA,Gergely,Cluj-Napoca,Alba Bihor Bistrita-Nasaud Cluj Maramures Salaj Satu Mare,,Romania
+2260750,YO5ODA,Stefan,Cluj-Napoca,Alba Bihor Bistrita-Nasaud Cluj Maramures Salaj Satu Mare,,Romania
 2260751,YO3GJE,Gelu,Bucuresti,Bucuresti Ilfov,,Romania
 2260752,YO3IEJ,Adrian,Bucharest,Bucuresti Ilfov,,Romania
 2260753,YO9IGQ,Aurel,Breaza,Buzau Calarasi Dambovita Giurgiu Ialomita Prahova Teleorman,,Romania
@@ -47496,6 +47508,7 @@
 2280545,HB3YQE,Simone,Verscio,Ticino,,Switzerland
 2280546,HB9VJI,Gavillet,Ollon Vd,Vaud,,Switzerland
 2280547,HB9SKR,Hanspeter,Signau,Bern,,Switzerland
+2280548,HB3YSV,Daniel,Lostorf,Solothurn,,Switzerland
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,,Switzerland
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,,Switzerland
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,,Switzerland
@@ -50377,7 +50390,7 @@
 2314015,OM0RW,Ed,Snina,Snina,,Slovakia
 2314016,OM8AFR,Frankie,Kosice,Kosicky Presovsky,,Slovakia
 2314017,OM8FT,Stehlo,Medzev,Medzev,,Slovakia
-2314018,OM8AGG,Gusto,Koiice,Koiice,,Slovakia
+2314018,OM8AGG,Gusto,Kosice,Kosicky Presovsky,,Slovakia
 2314019,OM8ACD,Miso,Kosice,Kosice,,Slovakia
 2314020,OM8ATS,Rudo,Koiice,Koiice,,Slovakia
 2314021,OM8AE,Marek,Kosice,Kosice,,Slovakia
@@ -53577,7 +53590,7 @@
 2340478,M0OKD,David,Colchester,England,,United Kingdom
 2340479,M8HXM,Craig,Swadlincote,England,,United Kingdom
 2340480,M7ESA,Andrea,London,England,,United Kingdom
-2340481,M0JIC,Marian,Doncaster,England,,United Kingdom
+2340481,M0JIC,Marian,Doncaster,England,,UK
 2340482,G7KXX,Gary,Aldridge,England,,United Kingdom
 2340483,2E0MCG,John,Crewe,England,,United Kingdom
 2340484,M7TCO,Edward,Liverpool,England,,United Kingdom
@@ -54902,7 +54915,7 @@
 2341841,M0VEZ,Simon,Lincoln,England,,United Kingdom
 2341842,M0HSZ,John,Watford,Watford,,United Kingdom
 2341843,2E0CMI,Richard,Nuneaton,Nuneaton,,United Kingdom
-2341844,M0IJS,Ian,Rugby,Rugby,,United Kingdom
+2341844,M0IJS,Ian,Rugby,England,,United Kingdom
 2341845,M8IHO,Keith,Ellesmere Port,England,,United Kingdom
 2341846,M8RRF,Derry,Derby,England,,United Kingdom
 2341847,G4WQB,Keith,Amersham,Amersham,,United Kingdom
@@ -55580,7 +55593,7 @@
 2342524,G7ORT,Starman,Birmingham,Birmingham,,United Kingdom
 2342525,M6USL,Joe90,Bolton,Bolton,,United Kingdom
 2342526,M5MOW,Steve,Letchworth,Letchworth,,United Kingdom
-2342527,M9TZR,Tris,Plymouth,England,,United Kingdom
+2342527,M9TZR,Tristan,Plymouth,England,,United Kingdom
 2342528,M6GZI,Billy,Moreton,England,,United Kingdom
 2342529,M0GQU,Marcin,Eaton Bray,Eaton Bray,,United Kingdom
 2342530,ME0UEH,Steve,Southend On Sea,Southend On Sea,,United Kingdom
@@ -56540,7 +56553,7 @@
 2343552,G4PDF,BobC,Lincoln,Lincoln,,United Kingdom
 2343553,M9SKA,Bill,Doncaster,England,,United Kingdom
 2343554,M6SPD,Sean,Stevenage,Stevenage,,United Kingdom
-2343555,M0NDE,Nigel,Burnham on Sea,Burnham on Sea,,United Kingdom
+2343555,M0NDE,Nigel,Rhyl,Wales,,United Kingdom
 2343556,G8GBP,Chris,Southampton,Southampton,,United Kingdom
 2343557,G8OSZ,Soundman,Wellingborough,Wellingborough,,United Kingdom
 2343558,2E0OFF,Giz,Manchester,Manchester,,United Kingdom
@@ -62645,7 +62658,7 @@
 2349700,2E0HNR,Terry,Salisbury,England,,United Kingdom
 2349701,2E0XCC,James,Minster On Sea,England,,United Kingdom
 2349702,GW1CJJ,Phil,Colwyn Bay,Wales,,United Kingdom
-2349703,G4LYE,Norman,Selby,England,,United Kingdom
+2349703,G4LYE,Norman,Selby,England,,UK
 2349704,GW7TZI,Mark,Swansea,Wales,,United Kingdom
 2349705,M0ZMS,Matthew,York,England,,United Kingdom
 2349706,M9YKD,Gerry,Watchet,England,,United Kingdom
@@ -64641,7 +64654,7 @@
 2351709,G8TIC,Mike,Worcester,Worcester,,United Kingdom
 2351710,G7TXU,Tony,Brighton,Brighton,,United Kingdom
 2351711,G8TPX,John,Ickenham,England,,United Kingdom
-2351712,G7DKY,Graham,Euxton,Euxton,,United Kingdom
+2351712,G7DKY,Graham,Leyland,England,,United Kingdom
 2351713,2E1GUA,James,Writtle,Writtle,,United Kingdom
 2351715,G4ENS,Alan,Bury St Edmunds,Bury St Edmunds,,United Kingdom
 2351716,G3XUX,Ted,Fareham,Fareham,,United Kingdom
@@ -72008,6 +72021,9 @@
 2359143,M7NQB,Kevin,Hartlepool Cleveland,England,,United Kingdom
 2359144,M7IVQ,Charles,Milton Keynes,England,,United Kingdom
 2359145,M8LCU,James,Runcorn,England,,United Kingdom
+2359146,M7GYN,John,Ashbourne,England,,United Kingdom
+2359147,M0KVO,Matthew,Crawley,England,,United Kingdom
+2359148,G7NKZ,Keith,Coxford,England,,United Kingdom
 2360000,M0NOA,Anthony,Leeds,England,,United Kingdom
 2360001,M1HAC,Alex,Southampton,England,,United Kingdom
 2360002,M1HAC,Alex,Southampton,England,,United Kingdom
@@ -72387,6 +72403,7 @@
 2380368,OZ3JC,Jan,Helsingor,Sjaelland,,Denmark
 2380369,OZ4AM,Karsten,Esbjerg V,Syddanmark,,Denmark
 2380370,OZ6RO,Rasmus,Sakskoebing,Sjaelland,,Denmark
+2380371,OZ05C,Lars,Vaerloese,Hovedstaden,,Denmark
 2380822,OZ8ADK,Anders,Lyngby,Hovedstaden,,Denmark
 2380823,5P4L,Matt,Vejle,Syddanmark,,Denmark
 2380824,OV4SB,Sana,Ringsted,Sjaelland,,Denmark
@@ -78713,6 +78730,8 @@
 2441846,OH7OCI,Jarkko,Helsinki,All Regions,,Finland
 2441847,OH1FJZ,Juuso,Lempaala,All Regions,,Finland
 2441848,OH6CPJ,Pasi,Saynatsalo,All Regions,,Finland
+2441849,OH3OCK,Jon,Lempaala,All Regions,,Finland
+2441850,OH2OJA,Janne,Espoo,All Regions,,Finland
 2442001,OH2LAK,Erik,Espoo,All Regions,,Finland
 2442002,OH2LAK,Erik,Espoo,All Regions,,Finland
 2442003,OH2LAK,Erik,Espoo,All Regions,,Finland
@@ -87845,7 +87864,7 @@
 2603512,SP9AMA,Adam,Ustron,śląskie,,Poland
 2603513,SQ1BVE,Tomasz,Stare Bielice,PLZP,,Poland
 2603514,SP2PKP,Marek,Jablonowo Pomorskie,PLKP,,Poland
-2603515,SP7PC,Piotr,Belchatow,łódzkie,,Poland
+2603515,SP7PC,Piotr,Belchatow,łódzkie,,PL
 2603516,SP9FL,Robert,Podhale,małopolskie,,Poland
 2603517,SP9DOU,Mateusz,Krakow,małopolskie,,Poland
 2603518,SQ6ODL,Przemek,Radziadz,dolnośląskie,,Poland
@@ -88703,6 +88722,8 @@
 2604399,SQ3WMZ,Pawel,Barlogi,PLWP,,Poland
 2604400,SQ8IJT,Lukasz,Krakow,małopolskie,,Poland
 2604401,SP1WK,Piotr,Suliszewo,PLZP,,Poland
+2604402,SP9VFG,Piotr,Krakow,małopolskie,,Poland
+2604403,SP1PP,Przemyslaw,Szczecin,PLZP,,Poland
 2605001,SP5GDM,Jan,Wierzbica,Wierzbica,,Poland
 2605002,SP5GDM,Jan,Wierzbica,Wierzbica,,Poland
 2605003,SP5GDM,Jan,Wierzbica,Wierzbica,,Poland
@@ -88763,7 +88784,7 @@
 2605068,SQ5OVI,Pawel,Warszawa,Warszawa,,Poland
 2605069,SP5YAM,Klub,Komorow,Komorow,,Poland
 2605071,SQ5AAG,Jacek,Warszawa,PLMZ,,Poland
-2605072,SQ5SCR,Mariusz,Warszawa,Warszawa,,Poland
+2605072,SQ5SCR,Mariusz,Warszawa,Warszawa,,PL
 2605074,SQ5PGI,Marcin,Warsaw,WARSAW,,Poland
 2605075,SQ5NAG,Sylwester,Pruszkow,Pruszkow,,Poland
 2605076,SP5VJE,Pawel,Ostroleka,Ostroleka,,Poland
@@ -93027,7 +93048,7 @@
 2623021,DO5BGL,Bernd,Delmenhorst,Delmenhorst,,Germany
 2623022,DG7BST,Torsten,Weyhe,Weyhe,,Germany
 2623023,DH1HT,Fred,Hanstedt,Hanstedt,,Germany
-2623024,DL6OBU,Volker,Bremervoerde,Bremervoerde,,Germany
+2623024,DL6OBU,Volker,Bremervoerde,Niedersachsen Bremen,,Germany
 2623025,DL5BG,Rainer,Bremervoerde,Bremervoerde,,Germany
 2623026,DG9BFP,Tobi,Delmenhorst,Delmenhorst,,Germany
 2623027,DL8BDR,Niels,Oldenburg,Oldenburg,,Germany
@@ -103451,7 +103472,7 @@
 2633790,DB2NK,Nicolas,,Germany,,Germany
 2633791,DK6HPC,Peter,88471 Laupheim,BW,,Germany
 2633792,DN9MFM,Martina,Westerrade,Hamburg Schleswig-Holstein,,Germany
-2633793,DO4RY,Ronny,Oberkail,Rheinland-Pfalz Saarland,,Germany
+2633793,DL4RY,Ronny,Oberkail,Rheinland-Pfalz Saarland,,Germany
 2633794,DO6CU,Carsten,Berlin,Berlin Brandenburg,,Germany
 2633795,DG1ULI,Ulrich,Schoenaich,BW,,Germany
 2633796,DO8STJ,Juergen,Thiersheim,Bayern,,Germany
@@ -106106,6 +106127,10 @@
 2636484,DG3DAI,Andreas,Soest,NW,,Germany
 2636485,DF6PF,Berthold,Heidenburg,Rheinland-Pfalz Saarland,,Germany
 2636486,DF1WZ,Frank,Bad Nauheim,HE,,Germany
+2636487,DL5BQ,Gerd,Herten,NW,,Germany
+2636488,DB2TE,Torsten,Witten,NW,,Germany
+2636489,DN9CTH,Christian,Lingen Ems,Niedersachsen Bremen,,Germany
+2636490,DL7PBI,Peter,Herbrechtingen,BW,,Germany
 2637001,DF6MP,Marcus,,Germany,,Germany
 2637002,DO2STO,DO2STO,Stockach,Stockach,,Germany
 2637003,DK7OJ,Klaus,Sauldorf,BW,,Germany
@@ -108021,7 +108046,7 @@
 2644503,DF4HKF,Dimitri,Cologne,Cologne,,Germany
 2644504,DF3AH,Arthur,Kranenburg,Kranenburg,,Germany
 2644505,DB4CB,Cazim,Essen,Essen,,Germany
-2644506,DK6OC,Dieter,Duesseldorf,NW,,Germany
+2644506,DK6OC,Dieter,Duesseldorf,NW,,DE
 2644508,DL3ELM,Elmar,Moenchengladbach,Moenchengladbach,,Germany
 2644509,DL1YES,Rudi,Minden,Minden,,Germany
 2644510,DC3JE,Holger,Oberhausen,Oberhausen,,Germany
@@ -112738,7 +112763,7 @@
 2860886,TA8XYZ,Celal,Gaziantep,Southeastern Anatolia Region,,Turkiye
 2860887,TA5DD,Ersin,SELCUKLU,SELCUKLU,,Turkiye
 2860888,TA2TC,Cevat,Bartin,Black Sea Region,,Turkiye
-2860889,TB2GDM,Murat,Istanbul,Istanbul,,Turkiye
+2860889,TB2GDM,Murat,Istanbul,Aegean Region,,Turkiye
 2860890,TB2GEU,Ulku,Istanbul,Istanbul,,Turkiye
 2860891,TA3OEE,EnginEker,Canakkale,Canakkale,,Turkiye
 2860892,TB8AS,Ibrahim,Sanliurfa,Sanliurfa,,Turkiye
@@ -119659,7 +119684,7 @@
 2867935,TA2DWW,Erk,Yalova,Marmara Region,,Turkiye
 2867936,TA6KYA,Turhan,Cankiri,Central Anatolia Region,,Turkiye
 2867937,TB1TAP,Furkan,Istanbul,Marmara Region,,Turkiye
-2867938,TA3OFC,Ozgur,Izmir,Aegean Region,,Turkiye
+2867938,TA3OFC,Ozgur,Ankara,Central Anatolia Region,,Turkiye
 2867939,TA3EYP,Eyup,Manisa,Aegean Region,,Turkiye
 2867940,TA2DSR,Yusuf,Ankara,Central Anatolia Region,,Turkiye
 2867941,TA2NUN,Tayfun,Birecik Sogut,Marmara Region,,Turkiye
@@ -119877,7 +119902,7 @@
 2868158,TA4MEW,Mustafa,Mugla,Aegean Region,,Turkiye
 2868159,TB5DEL,Feridun,Aksaray,Central Anatolia Region,,Turkiye
 2868160,TA2SHM,Sehmuz,Istanbul,Marmara Region,,Turkiye
-2868161,TB1YFT,Kartal,Balikesir,Aegean Region,,Turkiye
+2868161,TA9MCC,Musa,Van,Eastern Anatolia Region,,Turkiye
 2868162,TB7YVC,Yavuz,Giresun,Black Sea Region,,Turkiye
 2868163,TB2CRD,Dicle,Kocaeli,Marmara Region,,Turkiye
 2868164,TB1BSH,Saban,Arnavutkoy,Black Sea Region,,Turkiye
@@ -120101,6 +120126,7 @@
 2868382,YM6VSM,SAMSUN,Samsun,Black Sea Region,,Turkiye
 2868383,TA6FER,Ferat,Samsun,Black Sea Region,,Turkiye
 2868384,TA5BBT,Mehmet,Adana,Mediterranean Region,,Turkiye
+2868385,TA3AGS,Serkan,Bursa,Marmara Region,,Turkiye
 2868686,TB3ACU,Baris,Buca,Aegean Region,,Turkiye
 2868888,TA1QQ,Erol,Istanbul,Marmara Region,,Turkiye
 2880001,OY8W,Steffen,Kollafjordur,All Regions,,Faroe Islands
@@ -121298,7 +121324,7 @@
 2940071,Z34LRA,Ljupce,Stip,All Regions,,Macedonia
 2940072,Z32ABB,Saso,Skopje,All Regions,,Macedonia
 2940073,Z33ITG,Igor,,Macedonia,,Macedonia
-2940074,Z37CXY,Nikola,All Regions,All Regions,,Macedonia
+2940074,Z37CXY,Nikola,Kumanovo,All Regions,,Macedonia
 2940075,Z31PK,Panche,Skopje,All Regions,,Macedonia
 2940076,Z32TE,Jovanco,All Regions,All Regions,,Macedonia
 2940077,Z32TMK,Toni,Krusevo,All Regions,,Macedonia
@@ -121598,7 +121624,7 @@
 3020148,VE7FEB,Edward,Sooke,BC,,Canada
 3020149,VA7BJN,Benjamin,New Westminster,BC,,CA
 3020150,VE2CII,Frank,Mont-Royal,QC,,Canada
-3020151,VE2AVL,Alain,Lavaltrie,QC,,CA
+3020151,VE2AVL,Alain,Lavaltrie,QC,,Canada
 3020152,VO1RCL,Rob,Mount Pearl,NL,,CA
 3020153,VE3NV,Harrison,Mississauga,ON,,Canada
 3020154,VA3SV,Serafino,Stoney Creek,ON,,Canada
@@ -123687,7 +123713,7 @@
 3022247,VE2MKE,Michel,Sherbrooke,QC,,Canada
 3022248,VE2GXC,Guillaume,Magog,QC,,Canada
 3022249,VE2GDR,Raynald,St-Joseph Du Lac,QC,,Canada
-3022250,VE2GTZ,Sebastien,Laval,QC,,CA
+3022250,VE2GTZ,Sebastien,Laval,QC,,Canada
 3022251,VE2WBZ,Jean,Laval,QC,,CA
 3022252,VE2FRL,Fernand,Sherbrooke,QC,,Canada
 3022253,VE2WER,Andre,Mont-Carmel,QC,,Canada
@@ -126819,7 +126845,7 @@
 3025393,VA3YJR,Ron,Woodstock,ON,,Canada
 3025394,VE3GXE,Gordon,Denfield,ON,,Canada
 3025395,VA3AZD,Shawn,Eden,ON,,Canada
-3025396,VA3NFR,Christopher,Windsor,ON,,Canada
+3025396,VA3NFR,Chris,Windsor,ON,,Canada
 3025397,VE2HHM,Daniel,shefford,QC,,Canada
 3025398,VE4JUB,Jean,Letellier,MB,,Canada
 3025399,VA6DKA,Deneir,Calgary,AB,,Canada
@@ -128799,6 +128825,7 @@
 3027377,VO1GC,Gerald,St JohnS,NL,,Canada
 3027378,VA7NRC,Brendan,W. Vancouver,BC,,Canada
 3027379,VE7KGV,Kevin,Parksville,BC,,Canada
+3027380,VE6VO,Eric,Donnelly,AB,,Canada
 3027911,RADIOID,RadioID.net,Fredericton,NB,,CA
 3028001,VY1CA,Kelly,Whitehorse,YT,,CA
 3028002,VE3YUL,John,Ottawa,YT,,Canada
@@ -132510,7 +132537,7 @@
 3103658,KE0RTF,Charles,Blue Earth,MN,,United States
 3103659,KI5ALR,Aaron,Sherwood,AR,,United States
 3103660,N2PKW,Charles,Ocean Springs,MS,,United States
-3103661,K9NNR,Steve,Waupaca,WI,,United States
+3103661,K9NNR,Steve,Waupaca,WI,,US
 3103662,N2IPE,Julio,Miami Beach,FL,,United States
 3103663,KC0GOY,Joy,Merriam,KS,,United States
 3103664,W4UGO,Don,Pensacola,FL,,United States
@@ -132613,7 +132640,7 @@
 3103761,K8MHW,Mark,Blacklick,OH,,United States
 3103762,KE0IDQ,Alec,Owatonna,MN,,United States
 3103763,WA5TDT,Stephen,Lubbock,TX,,United States
-3103764,KF6FIR,Edward,Modesto,CA,,United States
+3103764,KF6FIR,Edward,Modesto,CA,,US
 3103765,W2JSB,Jeremy,Henrietta,NY,,United States
 3103766,N5QPN,Curtis,Schertz,TX,,United States
 3103767,KE5ZNT,Taylor,Oklahoma City,OK,,United States
@@ -132870,7 +132897,7 @@
 3104022,W9NQP,Steve,Phoenix,AZ,,United States
 3104023,N7HRO,David,Tucson,AZ,,United States
 3104024,N1DHS,Gary,Tucson,AZ,,United States
-3104025,N7HND,Henry,Tucson,AZ,,United States
+3104025,N7HND,Henry,Tucson,AZ,,US
 3104026,N7LOQ,Chico,Phoenix,AZ,,United States
 3104027,N1KQ,Joe,Phoenix,AZ,,United States
 3104028,W0NWA,Jeff,Phoenix,AZ,,United States
@@ -133108,7 +133135,7 @@
 3104261,KE7SNI,Timothy,Kingman,AZ,,United States
 3104262,N7IZM,Walt,Scottsdale,AZ,,United States
 3104263,KG7QMX,Daniel,Tempe,AZ,,United States
-3104264,N7HND,Henry,Tucson,AZ,,United States
+3104264,N7HND,Henry,Tucson,AZ,,US
 3104265,AC7IL,Matthew,Mount Lemmon,AZ,,United States
 3104266,KF7YIO,William,Mesa,AZ,,United States
 3104267,KF7YIN,Michael,Mesa,AZ,,United States
@@ -133312,8 +133339,8 @@
 3104467,KI7FZL,Charles,Cortaro,AZ,,United States
 3104468,KI7FZL,Charles,Cortaro,AZ,,United States
 3104469,K7NDM,Nathan,Maricopa,AZ,,United States
-3104470,K7ABG,Glenn,Mesa,AZ,,United States
-3104471,K7ABG,Glenn,Mesa,AZ,,United States
+3104470,K7ABG,Glenn,Mesa,AZ,,US
+3104471,K7ABG,Glenn,Mesa,AZ,,US
 3104472,N4SMG,Robb,Chandler,AZ,,United States
 3104473,K7DIC,Richard,Phoenix,AZ,,United States
 3104474,KH6HOU,Donald,Chandler,AZ,,United States
@@ -133483,7 +133510,7 @@
 3104638,K7ZME,John,Surprise,AZ,,United States
 3104639,N7TWR,Timothy,Yuma,AZ,,US
 3104640,N7WSS,William,Tucson,AZ,,United States
-3104641,AB9JS,John,Prescott,AZ,,United States
+3104641,AB9JS,John,Prescott,AZ,,US
 3104642,KI7HHP,Harrison,Quartzsite,AZ,,United States
 3104643,KG7TEI,Tom,Mesa,AZ,,United States
 3104644,KG7EFQ,Edward,Scottsdale,AZ,,United States
@@ -133553,7 +133580,7 @@
 3104708,KA7TTP,Michael,Gilbert,AZ,,United States
 3104709,KE7ENS,Chris,Gilbert,AZ,,United States
 3104710,KI6LNA,Andrew,Casa Grande,AZ,,United States
-3104711,KI6EWE,Donn,Casa Grande,AZ,,United States
+3104711,KI6EWE,Donn,Casa Grande,AZ,,US
 3104712,KI7JTA,John,Yuma,AZ,,United States
 3104713,KG7NAI,Gordon,Tempe,AZ,,United States
 3104714,WF7D,Terry,Chandler,AZ,,United States
@@ -135510,7 +135537,7 @@
 3106673,N5ICK,Nicholas,Menifee,CA,,United States
 3106674,KK6JCY,Gregory,Phelan,CA,,United States
 3106675,KK6MLY,Christopher,Saugus,CA,,United States
-3106676,KF6FGL,Michael,Fresno,CA,,United States
+3106676,KF6FGL,Michael,Fresno,CA,,US
 3106677,K6PTL,Peter,Pasadena,CA,,United States
 3106678,W7BIA,Arnie,Encinitas,CA,,United States
 3106679,N6DU,Troy,Encino,CA,,United States
@@ -136902,7 +136929,7 @@
 3108071,K0PWO,David,Centennial,CO,,United States
 3108072,KC0NSG,Douglass,Denver,CO,,United States
 3108073,KD0JJT,Amy,Denver,CO,,United States
-3108074,W8CJS,Christopher,Greely,CO,,United States
+3108074,W8CJS,Chris,Muskegon,MI,,United States
 3108075,K0PWO,David,Centennial,CO,,United States
 3108076,W0FT,Robert,Loveland,CO,,United States
 3108077,W0SLR,Irvin,Roswell,NM,,United States
@@ -137242,7 +137269,7 @@
 3108414,KD0JJP,Travis,Monument,CO,,United States
 3108415,W0BA,Art,Colorado,CO,,United States
 3108416,AG5CQ,Michael,Paonia,CO,,United States
-3108417,KE0AZ,David,Aurora,CO,,United States
+3108417,KE0AZ,David,Nacogdoches,TX,,United States
 3108418,K7DLH,David,Wellington,CO,,United States
 3108419,KC0VJD,Delbert,Limon,CO,,United States
 3108420,K0OJ,Orlin,Greeley,CO,,United States
@@ -137369,7 +137396,7 @@
 3108541,KV6O,Stephen,Manitou Springs,CO,,United States
 3108542,KD0TSA,Michael,Lakewood,CO,,United States
 3108543,N0HI,Jessie,Parker,CO,,United States
-3108544,KH6AS,Ronald,Longmont,CO,,United States
+3108544,KH6AS,Ronald,Kihei,HI,,United States
 3108545,KD4DXX,Karin,Lagrange,GA,,United States
 3108546,KC0VJD,Delbert,Limon,CO,,United States
 3108547,W1CAT,Brian,Salida,CO,,United States
@@ -140699,7 +140726,7 @@
 3111880,W2LW,Scott,W. Henrietta,NY,,United States
 3111881,WB0FZV,David,Anamosa,IA,,United States
 3111882,WA4MCK,Charles,Norfolk,VA,,United States
-3111883,K6VLH,David,Reno,NV,,United States
+3111883,K6VLH,David,Reno,NV,,US
 3111884,KA6QDE,Thomas,San Bernardino,CA,,United States
 3111885,KB3ODU,Scott,Hyattsville,MD,,United States
 3111886,W9DOR,Door,Sturgeon Bay,WI,,United States
@@ -141618,7 +141645,7 @@
 3112803,KK4VRP,Tony,Orlando,FL,,United States
 3112804,WB2SNN,Charles,Loxahatchee,FL,,United States
 3112805,AA1FF,Steven,Putnam,CT,,United States
-3112806,K4CJP,Clayton,New Port Richey,FL,,United States
+3112806,K4CJP,Clayton,New Port Richey,FL,,US
 3112807,W4OZ,Dennis,Tallahasse,FL,,United States
 3112808,N4RGW,Gregg,Leesburg,OH,,United States
 3112809,KG4ZOW,John,Sarasota,FL,,United States
@@ -142304,7 +142331,7 @@
 3113490,KD4NUE,David,Brunswick,GA,,United States
 3113491,KD2GRS,Robert,Floral Park,NY,,United States
 3113492,KM4SPL,Mike,Savannah,GA,,United States
-3113493,AI4DK,Michael,Lafayette,GA,,United States
+3113493,AI4DK,Michael,LaFayette,GA,,United States
 3113494,K4JMA,James,Seneca,SC,,United States
 3113495,KM4BH,Brian,Newnan,GA,,United States
 3113496,KC4WZB,Joel,Suwanee,GA,,United States
@@ -142412,7 +142439,7 @@
 3113598,W4RLN,Rickey,Fortson,GA,,United States
 3113599,W9HIF,Leland,Athens,GA,,United States
 3113600,W9HIF,Leland,Athens,GA,,United States
-3113601,KM4YMA,Tony,La Fayette,GA,,United States
+3113601,KM4YMA,Tony,LaFayette,GA,,United States
 3113602,N8FLL,Mark,Mcdonough,GA,,United States
 3113603,N4BSM,Benjamin,Monroe,GA,,United States
 3113604,N4BSM,Benjamin,Monroe,GA,,United States
@@ -142583,8 +142610,8 @@
 3113769,KD4EXY,Royce,Monroe,GA,,United States
 3113770,K4LED,Larry,Jasper,GA,,United States
 3113771,N4MOO,Sheldon,Ringgold,GA,,United States
-3113772,W4RGW,Richard,La Fayette,GA,,United States
-3113773,W4RGW,Richard,La Fayette,GA,,United States
+3113772,W4RGW,Richard,LaFayette,GA,,United States
+3113773,W4RGW,Richard,LaFayette,GA,,United States
 3113774,G3XDZ,Zygmunt,Roswell,GA,,United States
 3113775,N1SEA,Daniel,Milton,GA,,United States
 3113776,N4PGM,Norman,Ellijay,GA,,United States
@@ -143215,7 +143242,7 @@
 3114402,AF5DF,Jonathan,Cedar Park,TX,,United States
 3114403,K3DF,John,Downey,CA,,United States
 3114404,KC6YYM,David,Riverside,CA,,United States
-3114405,KG5OQH,Dayton,Schertz,TX,,United States
+3114405,KG5OQH,Dayton,Schertz,TX,,US
 3114406,AB7SC,Scott,Hayden,ID,,United States
 3114407,W4TRK,Michael,Alabaster,AL,,United States
 3114408,K1OK,Jeffrey,New Sharon,ME,,United States
@@ -143599,7 +143626,7 @@
 3114787,K0BHR,Shane,Park City,KS,,United States
 3114788,WA4PPL,Charles,Livingston,TN,,United States
 3114789,KB2MJP,Donnell,Raleigh,NC,,United States
-3114790,W6CIB,Douglas,Yucaipa,CA,,United States
+3114790,W6CIB,Douglas,Yucaipa,CA,,US
 3114791,W2UW,Richard,Tryon,NC,,United States
 3114792,KD7LBV,Jay,Mesa,AZ,,United States
 3114793,KE0LJG,Robert,Goddard,KS,,United States
@@ -143641,7 +143668,7 @@
 3114829,W5YG,Patricia,Houston,TX,,US
 3114830,KM4CDW,Randy,Boynton Beach,FL,,United States
 3114831,K5HIG,James,Copperas Cove,TX,,United States
-3114832,W6CIB,Douglas,Yucaipa,CA,,United States
+3114832,W6CIB,Douglas,Yucaipa,CA,,US
 3114833,KN4NGI,Paul,Fuquay Varina,NC,,United States
 3114834,KE7DTU,Craig,Kimberling City,MO,,United States
 3114835,WA6HYP,Richard,Colorado Springs,CO,,United States
@@ -146774,7 +146801,7 @@
 3117971,KD9FQR,Krystal,Cicero,IL,,United States
 3117972,WD9T,Wil,Batavia,IL,,United States
 3117973,KB9WHO,Stephanie,Round Lake,IL,,United States
-3117974,KD9GQX,Evan,Metamora,IL,,United States
+3117974,KD9GQX,Evan,Metamora,IL,,US
 3117975,KC9VDK,Mike,Danville,IL,,United States
 3117976,WX9CAH,Craig,Pleasant Plains,IL,,United States
 3117977,N9LOB,Randy,Eureka,IL,,United States
@@ -150570,9 +150597,9 @@
 3121782,KM4CVN,Jeremie,Florence,AL,,United States
 3121783,KB9PPX,Whitley,Columbia City,IN,,United States
 3121784,N9RR,Fu,Marquette,MI,,United States
-3121785,KN4CYH,Wesley,La Fayette,GA,,United States
+3121785,KN4CYH,Wesley,LaFayette,GA,,United States
 3121786,KD2EDU,Hong,Jamaica,NY,,United States
-3121787,KN4CYH,Wesley,La Fayette,GA,,United States
+3121787,KN4CYH,Wesley,LaFayette,GA,,United States
 3121788,WA8RR,Richard,Powell,OH,,United States
 3121789,AA6AU,Richard,Wichita,KS,,United States
 3121790,AC4KW,Angel,Summerville,SC,,United States
@@ -150969,7 +150996,7 @@
 3122185,N5KRW,Kevin,Harahan,LA,,United States
 3122186,W5DGM,Dominic,Slidell,LA,,United States
 3122187,W5DGM,Dominic,Slidell,LA,,United States
-3122188,KI2N,Mark,La Fayette,NY,,United States
+3122188,KI2N,Mark,LaFayette,NY,,United States
 3122189,WD5CVN,Michael,Mandeville,LA,,United States
 3122190,K5OZ,David,Slidell,LA,,United States
 3122191,N3LLY,Glenn,Glen Burnie,MD,,United States
@@ -151232,7 +151259,7 @@
 3122450,KB3WDN,Raymond,Portage,PA,,United States
 3122451,KD9HJX,Alan,Syracuse,IN,,United States
 3122452,K4IPO,Greg,Raleigh,NC,,United States
-3122453,W2GAM,George,Saint James,NY,,United States
+3122453,W2GAM,George,Saint James,NY,,US
 3122454,W0VFK,Jack,Cedar Rapids,IA,,United States
 3122455,N5CEC,Michael,Spencer,IN,,United States
 3122456,N3WXR,Michael,Camp Spring,MD,,United States
@@ -151327,7 +151354,7 @@
 3122545,KI4LSV,Richard,Nashville,TN,,United States
 3122546,K0TNG,Randy,Parker,CO,,United States
 3122547,W4ERN,Ashley,W. Palm Beach,FL,,United States
-3122548,AA7RH,Jeffrey,Boise,ID,,United States
+3122548,AA7RH,Jeff,Boise,ID,,United States
 3122549,AB1HD,Richard,Chelmsford,MA,,United States
 3122550,W5CYC,David,Edmond,OK,,United States
 3122551,KC0QJZ,Thomas,Mina,SD,,United States
@@ -153722,7 +153749,7 @@
 3124944,KM6RJR,Brian,GREENBRAE,CA,,United States
 3124945,KC5DHM,William,Cibolo,TX,,United States
 3124946,KB9ZYX,Fred,Lake In The Hills,IL,,United States
-3124947,KM6PRD,Steven,Pasadena,CA,,United States
+3124947,KM6PRD,Steven,Downey,CA,,United States
 3124948,W5KY,Jesse,Houston,TX,,United States
 3124949,KM6AHK,Chris,W. Hills,CA,,United States
 3124950,KC8IQ,Edward,Monroe,MI,,United States
@@ -157564,7 +157591,7 @@
 3128796,AB8XA,Moe,Beavercreek,OH,,United States
 3128797,KA2NZV,Daniel,Liberty,NY,,United States
 3128798,WX0K,Jesse,Columbia,MO,,United States
-3128799,W8JVP,Ken,Kalamazoo,MI,,United States
+3128799,W8JVP,Ken,Kalamazoo,MI,,US
 3128800,N8NQH,Tim,Bellbrook,OH,,United States
 3128801,N8LHA,Daniel,Girard,OH,,United States
 3128802,KI4OHR,Joseph,Nokesville,VA,,United States
@@ -158028,7 +158055,7 @@
 3129261,NC4GP,George,Clinton,NC,,United States
 3129262,KE0JGF,Ewing,Springfield,MO,,US
 3129263,KC0EFC,Robert,Lenexa,KS,,United States
-3129264,KB0YAS,Bradley,Trenton,MO,,US
+3129264,KB0YAS,Bradley,Trenton,MO,,United States
 3129265,KK0SS,Steven,Saint Louis,MO,,United States
 3129266,KB3HF,Jeffrey,Saint Peters,MO,,United States
 3129267,WB9PNU,John,Sunset Hills,MO,,United States
@@ -159461,7 +159488,7 @@
 3130695,W2IVV,Parth,Rochester,NY,,United States
 3130696,N2JKV,John,Garden City,NY,,United States
 3130697,N6RKK,Ruben,Los Angeles,CA,,United States
-3130698,WA2LEY,William,Lafayette,NY,,United States
+3130698,WA2LEY,William,LaFayette,NY,,United States
 3130699,K0QS,Harry,Saint Louis,MO,,United States
 3130700,K7RWB,Rowland,Issaquah,WA,,United States
 3130701,K6DUX,Irving,Pleasanton,CA,,United States
@@ -166809,7 +166836,7 @@
 3138072,K9MQ,Mark,Saint John,IN,,United States
 3138073,KF5YAJ,Cecil,Grapeland,TX,,United States
 3138074,KE7EDN,Robert,Springerville,AZ,,United States
-3138075,KY4KH,Kenneth,Clay City,KY,,United States
+3138075,KY4KH,Kenneth,Clay City,KY,,US
 3138077,KN4TOL,James,Burnsville,NC,,United States
 3138078,N8DYJ,Giovanni,Sarasota,FL,,United States
 3138079,KB3LAQ,Joseph,Crisfield,MD,,United States
@@ -167219,7 +167246,7 @@
 3138483,N4JWA,James,Bartlett,TN,,United States
 3138484,NG5U,Stephen,Tupelo,MS,,United States
 3138485,N5VGK,Charles,Belden,MS,,United States
-3138486,KD9GRJ,John,Crestview,FL,,United States
+3138486,KD9GRJ,John,Crestview,FL,,US
 3138487,AC4VT,Michael,Wagener,SC,,United States
 3138488,W8DYY,Steven,MIAMISBURG,OH,,United States
 3138489,KE8EIP,Jerry,Xenia,OH,,United States
@@ -168098,7 +168125,7 @@
 3139363,WD8LWE,Buck,Bucyrus,OH,,United States
 3139364,KB8VUL,Keith,Columbus,OH,,United States
 3139365,KD8ZDN,Matthew,Columbus,OH,,United States
-3139366,N0CZV,Steven,Attica,OH,,United States
+3139366,N0CZV,Steven,Attica,OH,,US
 3139367,N8JET,William,Avon,OH,,United States
 3139368,KD8TXF,Nicholas,Bucyrus,OH,,United States
 3139369,KD8BKB,Robert,Pataskala,OH,,United States
@@ -168341,7 +168368,7 @@
 3139606,KX8O,Mark,Kettering,OH,,United States
 3139607,KE8ATX,Brad,Cincinnati,OH,,United States
 3139608,W8WJW,John,Toledo,OH,,United States
-3139609,N0CZV,Steven,Attica,OH,,United States
+3139609,N0CZV,Steven,Attica,OH,,US
 3139610,WA8SDF,James,Madeira,OH,,United States
 3139611,W8ZJT,Zach,W. Chester,OH,,United States
 3139612,K8CM,Carl,Middletown,OH,,United States
@@ -170374,7 +170401,7 @@
 3141649,KI5EGZ,David,Pearl River,LA,,United States
 3141650,KC8PZA,Michael,Metairie,LA,,United States
 3141651,N1IVJ,Charles,Derry,NH,,United States
-3141652,WA4ADT,Daniel,Memphis,TN,,US
+3141652,WA4ADT,Daniel,Memphis,TN,,United States
 3141653,KN4UMR,Daniel,Lenoir,NC,,United States
 3141654,KJ7GLY,Keegan,Tucson,AZ,,United States
 3141655,K3TMI,Newberry,Etters,PA,,United States
@@ -172056,12 +172083,12 @@
 3143336,N8DVH,Alan,Owosso,MI,,United States
 3143337,KD8AMR,David,Dearborn Heights,MI,,United States
 3143338,KC0PDS,Beth,Minneapolis,MN,,United States
-3143339,KC7SBS,Brice,Aurora,CO,,United States
+3143339,KC7SBS,Brice,Aurora,CO,,US
 3143340,N7ULC,Floyd,Opdyke West,TX,,United States
 3143341,N4AWA,Thomas,Millen,GA,,United States
 3143342,KN4URZ,Mitchell,Coral Springs,FL,,United States
 3143343,AA2UP,Richard,Las Cruces,NM,,United States
-3143344,KC7SBS,Brice,Aurora,CO,,United States
+3143344,KC7SBS,Brice,Aurora,CO,,US
 3143345,KN4NUL,Benjamin,Jackson,TN,,United States
 3143346,KM6YTW,William,San Francisco,CA,,United States
 3143347,KA1HEW,Roger,Seymour,CT,,United States
@@ -173054,7 +173081,7 @@
 3144335,W2HCB,John,Babylon,NY,,United States
 3144336,K6TTK,James,Fort Bragg,CA,,United States
 3144337,N4KDW,Dale,Etowah,TN,,United States
-3144338,KT0W,Nicholas,Yankton,SD,,United States
+3144338,KT0W,Nick,Yankton,SD,,United States
 3144339,KD8BTU,Richard,Cincinnati,OH,,US
 3144340,K7ES,David,Bend,OR,,United States
 3144341,K4HQ,Kenneth,Gray,TN,,United States
@@ -173208,7 +173235,7 @@
 3144489,K1PMP,Paul,S. Grafton,MA,,United States
 3144490,KE4JMJ,Brian,Nashville,TN,,United States
 3144491,KB1HKO,Laurence,Worcester,MA,,United States
-3144492,KM4VPG,Douglas,Northport,AL,,United States
+3144492,KM4VPG,Douglas,Northport,AL,,US
 3144493,KQ4G,Jeffrey,Summerville,SC,,United States
 3144494,KB1HKO,Laurence,Worcester,MA,,United States
 3144495,KC0ILK,James,Eaton,CO,,United States
@@ -175352,7 +175379,7 @@
 3146640,KD2SKJ,Lila,Woodside,NY,,United States
 3146641,KM6WSW,Derek,La Verne,CA,,United States
 3146642,N2PTI,Timothy,Warren,RI,,United States
-3146643,KB0WRO,Russell,Plymouth,MN,,United States
+3146643,KB0WRO,Russell,Plymouth,MN,,US
 3146644,KB1CAT,William,Sanford,ME,,United States
 3146645,KE7JFZ,Patti,Apache Junction,AZ,,United States
 3146646,K3KDB,Andrew,Pittsburgh,PA,,United States
@@ -178123,7 +178150,7 @@
 3149429,N7JKR,Jon,Rosedale,MD,,United States
 3149430,WB6ENV,Joseph,Lakewood,CA,,United States
 3149431,KM6LCP,Robert,Carmichael,CA,,United States
-3149432,W5GSF,Gregory,Trinity,TX,,United States
+3149432,W5GSF,Gregory,Trinity,TX,,US
 3149433,WA3IGU,Dennis,Lancaster,PA,,United States
 3149434,N2LEC,Robert,Asbury,NJ,,United States
 3149435,KC1KXK,Raymond,Guilford,CT,,United States
@@ -178232,7 +178259,7 @@
 3149538,KM4DQK,Stephanie,Tamarac,FL,,United States
 3149539,KD2SNG,Thomas,BLAIRSTOWN,NJ,,United States
 3149540,KG4VIQ,Peter,Delray Beach,FL,,United States
-3149541,KE0AZ,David,Aurora,CO,,United States
+3149541,KE0AZ,David,Nacogdoches,TX,,United States
 3149542,KJ3LLY,Jelly,Columbia,MD,,United States
 3149543,W4CPP,Alexander,Roswell,GA,,United States
 3149544,WZ5K,Mark,Norman,OK,,United States
@@ -179111,7 +179138,7 @@
 3150418,KF4ETR,John,Semmes,AL,,United States
 3150419,KI5PG,Robert,Victoria,TX,,United States
 3150420,W1LB,Milton,Shirley,MA,,United States
-3150421,KF4KYZ,Arleen,Waleska,GA,,US
+3150421,KF4KYZ,Arleen,Waleska,GA,,United States
 3150422,KB8LLW,Michael,Mecosta,MI,,United States
 3150423,K0XHF,Kenneth,Coffeyville,KS,,United States
 3150424,KM4ZST,Joel,Easley,SC,,United States
@@ -179525,9 +179552,9 @@
 3150834,WB4EGE,David,Middleburg,FL,,United States
 3150835,KC1LTS,Sajin,Somerville,MA,,United States
 3150836,KL7SR,Michael,Norfolk,VA,,United States
-3150837,W9HPX,Roland,Indian Land,SC,,United States
+3150837,W9HPX,Roland,Indian Land,SC,,US
 3150838,K4FOY,David,Emporia,VA,,United States
-3150839,W9HPX,Roland,Indian Land,SC,,United States
+3150839,W9HPX,Roland,Indian Land,SC,,US
 3150840,KC0HWS,Roger,westcliffe,CO,,United States
 3150841,W6SON,SCRA,Santa Rosa,CA,,United States
 3150842,W2VL,LIMARC,Levittown,NY,,United States
@@ -183986,7 +184013,7 @@
 3155317,K4RTH,Rick,Jacksonville,FL,,United States
 3155318,W9RCG,Robert,Slinger,WI,,United States
 3155319,N9KHZ,Michael,Milwaukee,WI,,US
-3155320,KD9GRG,Wls,Racine,WI,,United States
+3155320,KD9GRG,Wls,Racine,WI,,US
 3155321,KC9OMR,Matthew,Edgerton,WI,,United States
 3155322,K9CHU,Chui,Racine,WI,,United States
 3155323,KC9RGC,Adam,Whitehall,WI,,United States
@@ -184641,7 +184668,7 @@
 3155974,N8DIX,Steven,De Graff,OH,,United States
 3155975,KD8QAO,Jack,Harrison,MI,,United States
 3155976,KN4ZVU,Ronnie,Kill Devil Hills,NC,,United States
-3155977,N5GIT,Tom,San Antonio,TX,,United States
+3155977,N5GIT,Tom,Schertz,TX,,United States
 3155978,KM4YWO,Harrison,Monroe,GA,,United States
 3155979,KJ4SYE,Kevin,Carrollton,GA,,United States
 3155980,KD4UYR,Kevin,Murphy,NC,,United States
@@ -186529,8 +186556,8 @@
 3157867,KN4ZOO,Max,Cullowhee,NC,,United States
 3157868,KO4AEO,Isaac,Fort Lauderdale,FL,,United States
 3157869,K4ISK,Isaac,Fort Lauderdale,FL,,United States
-3157870,K4SSL,Samuel,Mary Esther,FL,,United States
-3157871,K4SSL,Samuel,Mary Esther,FL,,United States
+3157870,K4SSL,Sam,Mary Esther,FL,,United States
+3157871,K4SSL,Sam,Mary Esther,FL,,United States
 3157872,KI4WRZ,Randy,Fort Walton Beach,FL,,United States
 3157873,KC9EQM,Brandan,Port Saint Lucie,FL,,United States
 3157874,KK9R,Mac,Munster,IN,,United States
@@ -188866,7 +188893,7 @@
 3160207,KE8JEX,Dennis,Hillsboro,OH,,United States
 3160208,KD8VYT,Russell,Akron,OH,,United States
 3160209,N8TTX,Michael,Columbus,OH,,United States
-3160210,WW8TM,Milorad,Wadsworth,OH,,United States
+3160210,WW8TM,Milorad,Wadsworth,OH,,US
 3160211,KD8WSO,Don,Westlake,OH,,United States
 3160212,KC8HRX,Paul,Canton,OH,,United States
 3160213,KE8HGE,George,Mount Vernon,OH,,United States
@@ -188979,7 +189006,7 @@
 3160320,W0GFY,Chance,Parker,CO,,United States
 3160321,KC1MKY,David,Southampton,MA,,United States
 3160322,KN4BVQ,Carl,Villa Hills,KY,,United States
-3160323,N4BDP,Buddy,Lafayette,GA,,United States
+3160323,N4BDP,Buddy,LaFayette,GA,,United States
 3160324,KM6FDQ,Thomas,Yucaipa,CA,,United States
 3160325,AB1LM,Robert,Tualatin,OR,,United States
 3160326,KE6HID,Andrew,Santa Rosa,CA,,United States
@@ -194273,7 +194300,7 @@
 3165624,N7MJL,Michael,Kent,WA,,United States
 3165625,KB1HAZ,Michael,Groveland,MA,,United States
 3165626,KD2TVY,William,Apo,MD,,United States
-3165627,N2YYP,Jeffery,Lafayette,GA,,United States
+3165627,N2YYP,Jeffery,LaFayette,GA,,United States
 3165628,KI6CM,Charles,Penn Valley,CA,,United States
 3165629,W5GWQ,George,Pikeville,TN,,United States
 3165630,WA4BYP,John,Gainesville,FL,,United States
@@ -194784,7 +194811,7 @@
 3166136,KC3PEM,Charles,Apollo,PA,,United States
 3166137,WB9FHP,Larry,Paoli,IN,,United States
 3166138,KG4UKN,Jason,Tuscaloosa,AL,,United States
-3166139,WB4CLU,Thomas,Lafayette,GA,,United States
+3166139,WB4CLU,Thomas,LaFayette,GA,,United States
 3166140,W4SHB,Jerry,N. Fort Myers,FL,,United States
 3166141,N0YKX,Robert,Boone,IA,,United States
 3166142,K2ZMB,Justin,E. Northport,NY,,United States
@@ -195162,7 +195189,7 @@
 3166514,W3ROS,Dorion,Saugerties,NY,,United States
 3166515,N5HUM,Scott,Leander,TX,,United States
 3166516,KD9PLE,Alfred,Fishers,IN,,United States
-3166517,N2ONY,Anthony,Buffalo,NY,,United States
+3166517,N2ONY,Anthony,Buffalo,NY,,US
 3166518,AA5JC,Joshua,Little Rock,AR,,United States
 3166519,KE7IAT,Gary,Spokane Valley,WA,,US
 3166520,KK6AVY,William,Running Springs,CA,,United States
@@ -197482,7 +197509,7 @@
 3168839,KA7VCC,Jacob,Centerville,UT,,United States
 3168840,KI5KGC,Rod,Amarillo,TX,,United States
 3168841,AI5BE,Timothy,Waveland,MS,,United States
-3168842,KC8YZR,William,Chillicothe,OH,,US
+3168842,KC8YZR,William,Chillicothe,OH,,United States
 3168843,KO4EBC,Phillip,Myrtle Beach,SC,,United States
 3168844,KI5KFJ,Paul,Fort Worth,TX,,United States
 3168845,K7RCR,Richard,Sahuarita,AZ,,United States
@@ -198242,7 +198269,7 @@
 3169601,KC9UGO,Christopher,Sandwich,IL,,United States
 3169602,KC0SDG,Ryan,Castle Pines,CO,,United States
 3169603,KJ7PCR,Bill,Bonner,MT,,United States
-3169604,N4GJM,Jeffery,La Fayette,GA,,United States
+3169604,N4GJM,Jeffery,LaFayette,GA,,United States
 3169605,N8PRJ,Craig,New Vienna,OH,,United States
 3169606,KD9QBJ,Michael,Springfield,IL,,United States
 3169607,N7WOG,Greg,Catonsville,MD,,United States
@@ -198547,7 +198574,7 @@
 3169906,KB2YUF,Jeff,Wappingers Falls,NY,,United States
 3169907,KI7VYB,Gary,Powell Butte,OR,,United States
 3169908,WB9JAS,James,Coal City,IL,,United States
-3169909,KD2TCQ,Peter,Orlando,FL,,United States
+3169909,KD2TCQ,Peter,Windermere,FL,,United States
 3169910,K7PWS,Stuart,Sandy,UT,,United States
 3169911,N4IJD,Jane,Richmond,VA,,United States
 3169912,WB2YZX,Charles,Staten Island,NY,,United States
@@ -199434,7 +199461,7 @@
 3170793,AK7V,Jason,Wrightwood,CA,,United States
 3170794,K4XYR,Adam,Marietta,GA,,United States
 3170795,KC3KZZ,Jose,Germantown,MD,,United States
-3170796,KF4LAF,Vickie,Shreveport,LA,,United States
+3170796,KF4LAF,Vickie,Shreveport,LA,,US
 3170797,KC7NNY,Michael,Spokane Valley,WA,,United States
 3170798,KO4HFH,Andrew,Richmond,VA,,United States
 3170799,W6JFC,Thomas,San Diego,CA,,United States
@@ -204454,7 +204481,7 @@
 3175821,KC3CDY,Robert,Mars,PA,,United States
 3175822,K9EWF,Eric,Sebring,FL,,United States
 3175823,KC7RHT,Terry,Park City,UT,,US
-3175824,W2SJZ,Sean,La Fayette,NY,,United States
+3175824,W2SJZ,Sean,LaFayette,NY,,United States
 3175825,W1SI,Brandon,Chandler,AZ,,United States
 3175826,KF7HQR,Delmer,Enumclaw,WA,,United States
 3175827,KD7QAA,Robert,Henderson,NV,,United States
@@ -210053,7 +210080,7 @@
 3181426,KI5QCB,Gladys,McKinney,TX,,United States
 3181427,KG4BLH,Tony,Stedman,NC,,United States
 3181428,KI5JXX,Karlson,Tyler,TX,,United States
-3181429,WA6STV,Paul,Mesa,AZ,,United States
+3181429,WA6STV,Paul,Mesa,AZ,,US
 3181430,N4JAB,Joseph,Chuckey,TN,,United States
 3181431,KO4NEE,David,Hickory,NC,,United States
 3181432,K8JOS,Ronald,Oak Park,MI,,United States
@@ -211701,7 +211728,7 @@
 3183075,KO4JEG,Chris,Chesapeake,VA,,United States
 3183076,KD2WSE,Wayne,E. Orange,NJ,,United States
 3183077,KC3WEB,John,Duncannon,PA,,United States
-3183078,KW4PH,Phillip,La Fayette,GA,,United States
+3183078,KW4PH,Phillip,LaFayette,GA,,United States
 3183079,N5LSN,Mason,Bauxite,AR,,United States
 3183080,K0KPK,Adam,Simi Valley,CA,,United States
 3183081,K4JMT,John,Moyock,NC,,United States
@@ -211804,7 +211831,7 @@
 3183179,KO4PCZ,Vince,Moyock,NC,,United States
 3183180,KA5SAR,Floyd,Nashville,AR,,United States
 3183181,N2KBE,John,Monroe,NC,,United States
-3183182,K4OLD,Michael,Advance,NC,,United States
+3183182,K4OLD,Michael,Advance,NC,,US
 3183183,N8LNH,Robert,Vanlue,OH,,United States
 3183184,KJ7YGG,Horace,Riverton,UT,,United States
 3183185,K6WRF,Steven,Kent,WA,,United States
@@ -212263,7 +212290,7 @@
 3183642,N7QXB,Dan,Salt Lake City,UT,,United States
 3183643,KF6JOQ,Larry,Bakersfield,CA,,United States
 3183644,KB1KRB,William,Waterbury,CT,,United States
-3183645,N8WCR,Ronald,Monroe,WA,,United States
+3183645,N8WCR,Ronald,Arlington,WA,,United States
 3183646,KN6QAW,John,Temecula,CA,,United States
 3183647,KO4SPN,Samuel,Canton,GA,,United States
 3183648,N7FLM,Bradley,Chubbuck,ID,,United States
@@ -213354,7 +213381,7 @@
 3184740,N0XNG,William,Grayson,KY,,United States
 3184741,KC3SSY,Brian,Bath,PA,,United States
 3184742,KD9QMC,James,Chesterton,IN,,United States
-3184743,KG6TQP,Sandra,Whittier,CA,,United States
+3184743,KG6TQP,Sandra,Whittier,CA,,US
 3184744,N8OLN,Ohio,Grove City,OH,,United States
 3184745,KI5RQY,Xingde,Austin,TX,,United States
 3184746,KD9HVU,Dushan,Arlington Heights,IL,,United States
@@ -213633,7 +213660,7 @@
 3185019,NA7GM,Marlon,Tempe,AZ,,United States
 3185020,KK7BDB,William,Sparks,NV,,United States
 3185021,N2SCH,Samuel,Claremore,OK,,United States
-3185022,KO4TJT,John,Irmo,SC,,United States
+3185022,KO4TJT,John,Huntsville,AL,,United States
 3185023,KB2ITT,Joseph,Pittston,PA,,United States
 3185024,KI5RWK,David,Los Alamos,NM,,United States
 3185025,KA9TEN,Russell,Springfield,IL,,United States
@@ -215014,7 +215041,7 @@
 3186403,K4NNX,James,Islamorada,FL,,United States
 3186404,N8LOU,Louis,Midland,MI,,United States
 3186405,KD0EZS,Matt,Tribune,KS,,United States
-3186406,W6RJG,Ricky,Longview,WA,,United States
+3186406,W6RJG,Ricky,Longview,WA,,US
 3186407,KG4GYT,Phillip,Gloucester,VA,,United States
 3186408,KM4SWN,Pramod,Irvine,CA,,United States
 3186409,K7SMG,Stephen,Rickreall,OR,,United States
@@ -219077,7 +219104,7 @@
 3190470,AD7XS,Bruce,Auburn,WA,,United States
 3190471,N7CME,Dennis,Yuma,AZ,,United States
 3190472,KO4YML,Aaron,Cleveland,TN,,United States
-3190473,KO4YQD,David,La Fayette,GA,,United States
+3190473,KO4YQD,David,LaFayette,GA,,United States
 3190474,W4CKO,Robert,Bethel,CT,,United States
 3190475,KN6TIP,Brian,Redding,CA,,United States
 3190476,W8GRO,Sandy,Charlotte,MI,,United States
@@ -222374,7 +222401,7 @@
 3193774,KI5VZW,Heather,Boles,AR,,United States
 3193775,W8PTM,Minh,Boynton Beach,FL,,United States
 3193776,KG4APQ,Miles,W. Melbourne,FL,,United States
-3193777,WW2N,Donald,La Fayette,NY,,United States
+3193777,WW2N,Donald,LaFayette,NY,,United States
 3193778,WS8Y,Ual,Monroe,MI,,United States
 3193779,KI5VTK,Ayden,Boles,AR,,United States
 3193780,WA6KYR,Richard,Newhall,CA,,United States
@@ -223822,7 +223849,7 @@
 3195226,N6MX,Dylon,San Pedro,CA,,United States
 3195227,KB4MPS,Micah,Franklin,TN,,United States
 3195228,N4ZFG,Albert,Dudley,NC,,United States
-3195229,N1JJR,Julian,Burnsville,MN,,United States
+3195229,N1JJR,Julian,Burnsville,MN,,US
 3195230,KI5RQU,Sean,Lucas,TX,,United States
 3195231,WA5PCR,Larry,Arlington,TX,,United States
 3195232,K2STP,Chris,Brookhaven,NY,,United States
@@ -227943,7 +227970,7 @@
 3199364,KI6VWJ,Alan,Fresno,CA,,United States
 3199365,KK7MET,Dan,Cheyenne,Wyoming,,United States
 3199366,KK7MFM,Becky,Cheyenne,Wyoming,,United States
-3199367,N5WGB,William,San Jose,CA,,United States
+3199367,N5WGB,William,San Jose,CA,,US
 3199368,NM0X,Eric,Carl Junction,MO,,United States
 3199369,W3DLR,Dean,Muncy,PA,,United States
 3199370,WH6GVR,Sean,Aiea,HI,,United States
@@ -228228,7 +228255,7 @@
 3199651,KC1MGV,Wayne,Bow,NH,,United States
 3199652,KI5SWH,Tim,Caledonia,MS,,United States
 3199653,KQ4IGT,Tristan,Madisonville,KY,,United States
-3199654,KB8PPA,Bradley,Hunting Valley,OH,,United States
+3199654,KB8PPA,Bradley,Merion Station,PA,,United States
 3199655,KN6ZQL,Frederick,Folsom,CA,,United States
 3199656,KF4J,Michael,Leesburg,GA,,United States
 3199657,KC1KWC,Robert,Brockton,MA,,United States
@@ -236507,7 +236534,7 @@
 3207933,KE8OFP,Mark,Stow,OH,,United States
 3207934,KJ7MJS,Michael,Syracuse,UT,,United States
 3207935,KC3WQE,Lawrence,Hanover,PA,,United States
-3207936,KD5AIB,Janiece,La Fayette,LA,,United States
+3207936,KD5AIB,Janiece,Lafayette,LA,,United States
 3207937,KC1UCX,Thomas,Windham,ME,,United States
 3207938,KF6JEE,Steven,Riverside,CA,,United States
 3207939,KE8ZYJ,Jeff,Midland,MI,,United States
@@ -237643,7 +237670,7 @@
 3209070,W0LZW,Evan,Louisburg,MO,,United States
 3209071,KC1DSR,Scott,Clinton,MA,,United States
 3209072,W2RHH,Russell,Beaufort,SC,,United States
-3209073,KQ4LDA,Ronald,Richmond,VA,,United States
+3209073,W4HV,Ronald,Richmond,VA,,United States
 3209074,KQ4RSO,Joshua,Jacksonville,FL,,United States
 3209075,W5GR,Grant,Hempstead,TX,,United States
 3209076,KE8TXB,Karen,Allouez,MI,,United States
@@ -238300,7 +238327,7 @@
 3209729,KQ4UGM,Rae,Huntsville,AL,,United States
 3209730,KJ6OYJ,Douglas,Santa Rosa,CA,,United States
 3209731,N3ENA,Stephen,Old Forge,PA,,United States
-3209732,KB0YCI,Jeffrey,Colorado Springs,CO,,United States
+3209732,KB0YCI,Jeffrey,Colorado Springs,CO,,US
 3209733,KF4JZN,Elizabeth,Otsego,MI,,United States
 3209734,W6VT,Mickie,Sequim,WA,,United States
 3209735,N7UHS,Tyler,Oklahoma City,OK,,United States
@@ -239129,7 +239156,7 @@
 3210559,KN4WTY,Charles,Wake Forest,NC,,United States
 3210560,WE7PDX,John,Sarasota,FL,,United States
 3210561,KE8TLB,Randy,Rittman,OH,,United States
-3210562,KE9BDL,Joshua,Coal City,IL,,United States
+3210562,KE9BDL,Joshua,Forsyth,MO,,United States
 3210563,N4VZB,Jon,Kings Mountain,NC,,United States
 3210564,AC1ST,Louis,New Haven,CT,,United States
 3210565,K7SWZ,Steven,Reno,NV,,United States
@@ -241967,7 +241994,7 @@
 3213398,KG7LWO,Bradley,Heber City,UT,,United States
 3213399,KF0SXL,Michael,Castle Rock,CO,,United States
 3213400,KB1LUK,William,Bellingham,MA,,United States
-3213401,AE7GE,Christopher,Keizer,OR,,United States
+3213401,AE7GE,Chris,Keizer,OR,,United States
 3213402,WD4SAM,Saul,Lantana,FL,,United States
 3213403,KF8CW,John,Niles,MI,,United States
 3213404,WD9EYT,Dennis,Godfrey,IL,,United States
@@ -242268,7 +242295,7 @@
 3213699,KE8JVO,John,Kalamazoo,MI,,United States
 3213700,N8QQN,Michael,Wadsworth,OH,,United States
 3213701,KE8BWA,Andrew,Mogadore,OH,,United States
-3213702,N2EHG,Myles,Bronx,NY,,United States
+3213702,N2EHG,Myles,Boca Raton,FL,,United States
 3213703,KF8G,Bryan,Norton,OH,,United States
 3213704,KF0KOH,Aaron,Aurora,CO,,United States
 3213705,KF8BWI,William,Cincinnati,OH,,United States
@@ -244287,7 +244314,7 @@
 3215720,KE0KFB,Harold,Parker,CO,,United States
 3215721,KC3RDV,Donald,Coopersburg,PA,,United States
 3215722,KD2VRO,Jack,New Milford,NJ,,United States
-3215723,AC4RR,Andrew,Waynesville,NC,,United States
+3215723,AC4RR,Andrew,Waynesville,NC,,US
 3215724,KF0GTY,Rick,Nixa,MO,,United States
 3215725,KG4QCR,Emmet,Sarasota,FL,,United States
 3215726,KY4MOO,Brandon,Mount Sterling,KY,,United States
@@ -245444,7 +245471,7 @@
 3216878,KF6MSK,Patrick,Redding,CA,,United States
 3216879,K7KRN,Kurt,Grants Pass,OR,,United States
 3216880,KD7EC,Daniel,Beaverton,OR,,United States
-3216881,KW5PA,Peter,Cypress,TX,,United States
+3216881,KW5PA,Peter,Cypress,TX,,US
 3216882,KG2KB,Miguel,Miami,FL,,United States
 3216883,WA9TDD,Thomas,Westport,IN,,United States
 3216884,KM7AER,Jacob,Vancouver,WA,,United States
@@ -246392,7 +246419,7 @@
 3217826,KR4FAS,Lauderdale,None,TN,,United States
 3217827,KR4FAS,Lauderdale,None,TN,,United States
 3217828,KR4FAS,Lauderdale,None,TN,,United States
-3217829,WK6K,Juergen,Texas,TX,,United States
+3217829,WK6K,Juergen,Houston,TX,,United States
 3217830,WJ4CFW,James,Marietta,GA,,United States
 3217831,KE9DLV,Riley,Hanover Park,IL,,United States
 3217832,KK7WXH,Maxwell,Gilbert,AZ,,United States
@@ -246492,7 +246519,7 @@
 3217927,WM3X,William,Oriental,NC,,United States
 3217928,KO6JLE,Arthur,Costa Mesa,CA,,United States
 3217929,KF0THY,Derek,Park Hills,MO,,United States
-3217930,KD9GRL,Steven,Mobile,AL,,United States
+3217930,KD9GRL,Steven,Mobile,AL,,US
 3217931,KF8EBV,Michael,Farmington Hills,MI,,United States
 3217932,KJ7PRT,Greg,Bellevue,WA,,United States
 3217933,KQ4LW,William,Ellijay,GA,,United States
@@ -247465,7 +247492,7 @@
 3218901,KB0QGG,John,Wright City,MO,,United States
 3218902,KO6KJM,Man,Torrance,CA,,United States
 3218903,KE6LOL,Jolene,San Francisco,CA,,United States
-3218904,W0WPW,Philip,Eldon,MO,,United States
+3218904,W0WPW,Philip,Eldon,MO,,US
 3218905,KO6KKR,Kevin,San Francisco,CA,,United States
 3218906,KC1YCS,Richard,Danvers,MA,,United States
 3218907,KC1LJM,Sean,Monroe,CT,,United States
@@ -247562,7 +247589,7 @@
 3218998,KR4DZC,Tracey,Salem,VA,,United States
 3218999,K8JER,Jonathan,Suttons Bay,MI,,United States
 3219000,KC0UDT,Matthew,Moscow Mills,MO,,United States
-3219001,KJ5MLL,Matthew,Fulton,MS,,United States
+3219001,KJ5MLL,Brian,Fulton,MS,,United States
 3219002,KA6PDG,Harry,Norwich,CT,,United States
 3219003,WB0ECX,Robert,Pueblo,CO,,United States
 3219004,W7DCF,Richard,Sandy,UT,,United States
@@ -249765,8 +249792,8 @@
 3221204,K6TBY,Ramon,Winter Garden,FL,,United States
 3221205,KC5EBF,Jeff,Lewisville,TX,,United States
 3221206,KC5EBF,Jeff,Lewisville,TX,,United States
-3221207,WB2LMV,Glenn,Napanoch,NY,,United States
-3221208,WB2LMV,Glenn,Napanoch,NY,,United States
+3221207,WB2LMV,Glenn,Napanoch,NY,,US
+3221208,WB2LMV,Glenn,Napanoch,NY,,US
 3221209,N9DEA,John,Machesney Park,IL,,US
 3221210,N9DEA,John,Machesney Park,IL,,US
 3221211,KW9WR,William,Arlington Heights,IL,,United States
@@ -252738,7 +252765,7 @@
 3224185,KQ4AQT,Hans,Bardstown,KY,,United States
 3224186,KB4MDZ,Charles,Cary,NC,,United States
 3224187,K3EEF,Keith,Huntington Beach,CA,,United States
-3224188,KC3HNG,Pamela,Raleigh,NC,,United States
+3224188,KC3HNG,Pamela,Raleigh,NC,,US
 3224189,KM7FQA,Jack,Lehi,UT,,United States
 3224190,KM7FQF,Chris,Pahrump,NV,,United States
 3224191,W6JZZ,Millard,Delray Beach,FL,,United States
@@ -254227,7 +254254,7 @@
 3225697,KQ4YLS,Matthew,Lexington,KY,,United States
 3225698,KR4RAD,Anthony,Clayton,NC,,United States
 3225699,KH6GJV,Bill,Santa Rosa,CA,,United States
-3225700,KR4LMW,Marcos,Sugar Hill,GA,,United States
+3225700,K4MOR,Marcos,Sugar Hill,GA,,United States
 3225701,KD3CVQ,Gregory,Norristown,PA,,United States
 3225702,KG7QIS,Eric,Tacoma,WA,,United States
 3225703,WY7DOC,Michael,Buffalo,Wyoming,,United States
@@ -255197,6 +255224,27 @@
 3226669,KO6IRA,Ryan,Pomona,CA,,United States
 3226670,KJ5OFD,Thomas,Lavon,TX,,United States
 3226671,K4DVX,Phillip,Orlando,FL,,United States
+3226672,K2PCR,Paul,Lockport,NY,,United States
+3226673,KF8BYZ,Patrick,Grove City,OH,,United States
+3226674,KF8HBE,Joseph,Charter Township Of Clinton,MI,,United States
+3226675,W7BRP,Brandon,Hoquiam,WA,,United States
+3226676,W2RGN,Ryan,Midland Park,NJ,,United States
+3226677,KF0ZEI,Scott,Saint Paul,MN,,United States
+3226678,NV7V,Steven,Payson,UT,,United States
+3226679,KO4EVC,Marcus,Johnson City,TN,,United States
+3226680,KR4NVI,William,Spartanburg,SC,,United States
+3226681,N8LPD,Livonia,Livonia,MI,,United States
+3226682,KF8FOC,David,Montague,MI,,United States
+3226683,KR4NXV,Quinton,S. Pasadena,FL,,United States
+3226684,N4IPN,Allan,Coral Springs,FL,,United States
+3226685,KD9PNI,Rodney,Muncie,IN,,United States
+3226686,KR4NWJ,Bennie,Senoia,GA,,United States
+3226687,KF4TCV,Armand,Franklin,TN,,United States
+3226688,WA6SXU,Brett,Lakewood,CA,,United States
+3226689,K3FWN,Peter,Lansdale,PA,,United States
+3226690,KR4NLN,Alexander,Raleigh,NC,,United States
+3226691,KF0WSB,Ryan,Parker,CO,,United States
+3226692,KI5GBU,Clay,Irving,TX,,United States
 3227285,KG4GOQ,Paul,Lake Worth,FL,,United States
 3231337,KF6DMA,Clive,Livermore,CA,,United States
 3232323,W0KOS,Kostiantyn,Castle Rock,CO,,United States
@@ -255228,7 +255276,7 @@
 3300002,WP3JM,James,Salinas,All Regions,,Puerto Rico
 3300003,KP4TR,Ramon,Seffner,All Regions,,Puerto Rico
 3300004,WP4PTG,Juan,Barceloneta,Barceloneta,,Puerto Rico
-3300005,KP4EGY,Edgardo,Ponce,Ponce,,Puerto Rico
+3300005,KP4EGY,Edgardo,Ponce,Ponce,,US
 3300006,KP4JS,Jorge,Caguas,Caguas,,Puerto Rico
 3300007,NP4DS,David,Aguadilla,Aguadilla,,Puerto Rico
 3300008,KP4FJC,Felix,Toa Alta,Toa Alta,,Puerto Rico
@@ -257306,6 +257354,7 @@
 3660020,J72HLB,Howard,Roseau,Paul,,Dominica
 3660021,J73GCG,Clarence,Goodwill,George,,Dominica
 3660022,J72JEF,Jefferson,Roseau,George,,Dominica
+3660023,J73MH,John,Roseau Commonwealth Of,George,,Dominica
 3661001,J73GAR,Gordon,George,George,,Dominica
 3661002,J73CC,John,Morne Prosper,George,,Dominica
 3661003,J72HGL,Hilkiah,Copthall,George,,Dominica
@@ -257942,7 +257991,7 @@
 3740134,9Z3MG,Mark,Port Of Spain,All Regions,,Trinidad and Tobago
 3740135,9Y4PL,Jose,Port Of Spain,All Regions,,Trinidad and Tobago
 3740136,9Y4NEN,Norbert,Palmiste,All Regions,,Trinidad and Tobago
-3740137,9Y4CU,Cornelius,San Fernando,All Regions,,Trinidad and Tobago
+3740137,9Y4CU,Cornelius,San Fernando,All Regions,,TT
 3740138,9Y4ADM,Arin,S. Oropouche,All Regions,,Trinidad and Tobago
 3760001,NP2Q,Anthony,Saint Thomas,All Regions,,U.S. Virgin Islands
 3760002,NP2DZ,Russell,Saint Thomas,Saint Thomas,,U.S. Virgin Islands
@@ -259488,6 +259537,7 @@
 4041279,VU3HZW,Saquib,Guwahati,Assam,,India
 4041280,VU23MD,Dr,Nashik,Maharashtra,,India
 4041281,VU36PJ,Pranjal,Bengaluru,Karnataka,,India
+4041282,VU3GLI,Veeraraj,Udumbanchola Tk Idukki Dt Kerala India,Kerala,,India
 4043001,VU2IB,Karan,New Delhi,Delhi,,India
 4043002,VU3GTE,Tanu,New Delhi,Delhi,,India
 4043003,VU3FUN,Rajesh,New Delhi,Delhi,,India
@@ -263306,6 +263356,8 @@
 4402726,JP3OIF,Sumitomo,Gose,Kinki,,Japan
 4402727,JE2VHP,Sugahara,Ito,Tokai,,Japan
 4402728,JF6MGC,Katsutoshi,Fukuoka,Kyushu,,Japan
+4402729,JA5EGH,Shoji,Nankoku,Shikoku,,Japan
+4402730,JO3CTL,Takashi,Himeji City Hyogo Prf,Kinki,,Japan
 4403001,JP3KAF,Ryusho,Nishinomiya,Kinki,,Japan
 4403002,JO3XPH,Pascal,Kyoto,Kinki,,Japan
 4403003,JA3GQJ,Shuji,Takatuki Osaka,Takatuki Osaka,,Japan
@@ -265660,7 +265712,7 @@
 4501941,DS1UYD,Taesik,Seongbuk Gu Seoul,Seoul,,Korea Republic of
 4501942,HL1WMF,Youngsoo,Seoul,Seoul,,Korea Republic of
 4501943,DS3RAL,Kiwon,Cheonan Si Seobuk Gu,ChungChong Nam-Do,,Korea Republic of
-4501945,DS1UYF,Sm,Seoul,Seoul,,Korea Republic of
+4501945,DS1UYF,Harin,Seoul,Seoul,,Korea Republic of
 4501946,DS1UXT,Gwanho,Dobong-Gu,Seoul,,Korea Republic of
 4501947,DS1UXT,Gwanho,Dobong-Gu,Seoul,,Korea Republic of
 4501948,6K5RTO,Han-Jin,None,DaeKu Si,,Korea Republic of
@@ -270467,7 +270519,7 @@
 4603960,BI1LID,Yuewei,Beijing,Beijing,,China
 4603961,BH1NYR,Jia,Beijing,Beijing,,China
 4603962,BI4WII,Tao,Wu Xi,Shanghai Shandong Jiangsu,,China
-4603963,BH3GEY,袁佳悦,呼和浩特,Inner Mongolia,,China
+4603963,BH3GEY,Yuan,Hohhot,Inner Mongolia,,China
 4603964,BH8DFD,QILIN,Chengdu,Guizhou Sichuan,,China
 4603965,BG6WER,Song,Wuhan,Henan Hubei Anhui,,China
 4603966,BI6NCG,Zhang,LuoYang,Henan Hubei Anhui,,China
@@ -273904,7 +273956,7 @@
 4607477,BG6HVK,Wei,HeFei,Henan Hubei Anhui,,China
 4607478,BI9ABG,Liu,Xian,Shaanxi Ningxia Gansu Qinghai,,China
 4607480,BD8BSV,Xulin,Chengdu Sichuan Province,Guizhou Sichuan,,China
-4607481,BG6HVR,Ke,Hefei,Henan Hubei Anhui,,CN
+4607481,BG6HVR,KE,Hefei,Henan Hubei Anhui,,China
 4607482,BH4GGA,Huawen,Shanghai,Shanghai Shandong Jiangsu,,China
 4607483,BD8ABC,Xi,Chengdu Sichuan,Guizhou Sichuan,,China
 4607484,BG4GFX,Hai,Shanghai,Shanghai Shandong Jiangsu,,China
@@ -274845,7 +274897,7 @@
 4608426,BG5BVI,Yizhou,Shaoxing,Zhejiang Fujian Jiangxi,,China
 4608427,BG2FOT,Sichen,Harbin,Heilongjiang Jilin Liaoning,,China
 4608428,BH8WYT,Wendong,Yunnankunming,Guizhou Sichuan,,China
-4608429,BI4PYN,Yifan,Qingdao,Shanghai Shandong Jiangsu,,China
+4608429,BI4PYN,Yifan,Qingdao,Shanghai Shandong Jiangsu,,CN
 4608430,BH1ULY,Xia,Beijing,Beijing,,China
 4608431,BG5BVL,Bin,Jiaxing,Zhejiang Fujian Jiangxi,,China
 4608432,BI3XRG,Guo,Shanxi,Shanxi Hebei Tianjin,,China
@@ -276321,7 +276373,7 @@
 4609907,BG0EPX,Zhang,Xinjiang,Xinjiang,,China
 4609908,BH2VSM,Liang,Shenyang,Heilongjiang Jilin Liaoning,,China
 4609909,BG0EGE,Zheng,Urumqi,Xinjiang,,China
-4609910,BH8NUW,超,guizhouguiyang,Guizhou Sichuan,,China
+4609910,BH8NUW,TC,Guizhoushenguiyangshi,Beijing,,China
 4609911,BG0EKG,Jun,Urumqi,Xinjiang,,China
 4609912,BH2XLC,一男,锦州市,Heilongjiang Jilin Liaoning,,China
 4609913,BG0DYJ,Jia,Urmuqi,Xinjiang,,China
@@ -277725,7 +277777,7 @@
 4611312,BI1PAW,Rui,Beijing,Beijing,,China
 4611313,BH3HLF,Qikai,Tongliao,Tongliao,,China
 4611314,BH3GVW,Wang,通辽,通辽,,China
-4611315,BG9JPV,Xiaohui,Pingliang,Shaanxi Ningxia Gansu Qinghai,,China
+4611315,BG9JPV,Xiaohui,Pingliang,Shaanxi Ningxia Gansu Qinghai,,CN
 4611316,BH8UYB,Zhijie,Anning Yunnan,Guizhou Sichuan,,China
 4611317,BI1TVV,Kaicheng,Beijing,Beijing,,China
 4611318,BH2XHC,Ding,Fuxin,Fuxin,,China
@@ -280483,7 +280535,7 @@
 4614072,BH3UUN,Ding,Daxing,Beijing,,China
 4614073,BD1BHC,Yang,Beijing,Beijing,,China
 4614074,BA8ALJ,Weiwei,Suining,Guizhou Sichuan,,China
-4614075,BG6STN,Andy,Yichang,Henan Hubei Anhui,,CN
+4614075,BG6STN,Cheng,Yichang,Henan Hubei Anhui,,China
 4614076,BG7MOM,Ha,Yangjiang,Hunan Guangdong Guangxi Hainan,,China
 4614077,BD3RSR,Pingzi,None,Shanxi Hebei Tianjin,,China
 4614078,BD8EWF,Junwen,Dazhou,Guizhou Sichuan,,China
@@ -282671,6 +282723,15 @@
 4616275,BH8HKA,Chenhaoran,Chongqing,Sichuan Guizhou Chongqing Yunnan,,China
 4616276,BI3UJX,Chenwei,Taiyuan,Shanxi Hebei Tianjin,,China
 4616278,BD1EYJ,Andrew,Beijing,Beijing,,China
+4616279,BA4VWS,Tao,Nanjing,Shanghai Shandong Jiangsu,,China
+4616280,BG2HJM,Hou,Haerbin,Heilongjiang Jilin Liaoning,,China
+4616281,BI4BJJ,Yidiguo,Shanghai,Shanghai Shandong Jiangsu,,China
+4616282,BI2RVR,Jizhongyi,Shenyang,Heilongjiang Jilin Liaoning,,China
+4616283,BA4VUN,Lingfeng,Nanjing,Shanghai Shandong Jiangsu,,China
+4616284,BD6KTQ,Wangtianci,Zhengzhou,Henan Hubei Anhui,,China
+4616285,BG2HHC,Long,Haerbin,Heilongjiang Jilin Liaoning,,China
+4616286,BG6UMS,Wangjie,Wuhan,Henan Hubei Anhui,,China
+4616287,BD4VGB,Anthony,Xuzhou,Shanghai Shandong Jiangsu,,China
 4616660,BA4KAD,Liudachuan,Binzhou,Shanghai Shandong Jiangsu,,China
 4616661,BH1CWK,Yongfeng,Beijing,Beijing,,China
 4616666,BH4JBV,Wang,Jinan,Shanghai Shandong Jiangsu,,China
@@ -282693,6 +282754,7 @@
 4617788,BG9JFQ,Gaoxing,Lanzhou,Shaanxi Ningxia Gansu Qinghai,,China
 4617888,BI2RVE,Zhang,Dalian,Heilongjiang Jilin Liaoning,,China
 4617999,BG2HFY,Liu,Harbin,Heilongjiang Jilin Liaoning,,China
+4618000,BD3QEF,Yunhan,Tangshan,Shanxi Hebei Tianjin,,China
 4618168,BH5UVG,Ocean,Fuqing,Zhejiang Fujian Jiangxi,,China
 4618666,BH3SNE,Fenghua,Linfen,Shanxi Hebei Tianjin,,China
 4618668,BG4ILL,Gu,Jinan,Shanghai Shandong Jiangsu,,China
@@ -284275,7 +284337,7 @@
 5020674,9W3PKV,Kaivun,Bayan Lepas,W. Malaysia,,Malaysia
 5020675,9M2SWI,Suswadi,Kg Batu Karang Pasir Mas Kelantan,W. Malaysia,,Malaysia
 5020676,9W2PEF,Zairi,Indera Mahkota,W. Malaysia,,Malaysia
-5020677,9W2KKO,Akmal,Kuantan,W. Malaysia,,Malaysia
+5020677,9M2MFA,Akmal,Kuantan,W. Malaysia,,Malaysia
 5020678,9W2FQT,Faiq,Rawang,W. Malaysia,,Malaysia
 5020679,9W2HDS,Hadi,Puchong Cyberjaya,W. Malaysia,,Malaysia
 5020680,9M2ENA,Mr,Kuantan,E. Malaysia,,Malaysia
@@ -287033,7 +287095,7 @@
 5052246,VK2SON,Lez,Orange,NSW,,AU
 5052247,VK2HJ,Domenic,Goulburn,NSW,,AU
 5052248,VK2BSY,Dave,Wollongong,NSW,,AU
-5052249,VK2YMI,Brendan,Sydney,NSW,,AU
+5052249,VK2YMI,Brendan,Sydney,NSW,,Australia
 5052250,VK2FA,Grahame,Newcastle,NSW,,Australia
 5052251,VK2MTM,Gordon,Grenfell,NSW,,AU
 5052252,VK2PWR,Adam,Glenfield,NSW,,Australia
@@ -287218,7 +287280,7 @@
 5052432,VK2SKY,Richard,Hornsby,NSW,,Australia
 5052433,VK2IVO,Ivo,Marrickville,NSW,,Australia
 5052434,VK2AFP,Denis,Merimbula,NSW,,Australia
-5052435,VK2TGO,Geoffrey,Sydney,NSW,,AU
+5052435,VK2TGO,Geoffrey,Sydney,NSW,,Australia
 5052436,VK2POI,Lee,St Andrews Sydney,NSW,,AU
 5052437,VK2ERP,Kevin,Cranebrook,NSW,,Australia
 5052438,VK2ERP,Kevin,Cranebrook,NSW,,Australia
@@ -287560,7 +287622,7 @@
 5052779,VK3AGK,Carlo,Miners Rest,VIC,,Australia
 5052780,VK4NOP,James,Queensland,QLD,,Australia
 5052781,VK2ZFE,Francis,New South Wales,NSW,,Australia
-5052783,VK4BEL,Belinda,Beaudesert,QLD,,Australia
+5052783,VK4BEL,Belinda,Beaudesert,QLD,,AU
 5052784,VK3ASP,Andreas,Melbourne,VIC,,Australia
 5052785,VK2SE,Richard,Toronto Nsw,NSW,,Australia
 5052786,VK3AYZ,Robin,Westmeadows Victoria,VIC,,AU
@@ -288573,7 +288635,7 @@
 5053799,VK5AC,Maxwell,Mount Gambier,SA,,Australia
 5053800,VK6KV,David,Rivervale,WAU,,Australia
 5053801,VK3AJJ,Alain,Brighton,VIC,,Australia
-5053802,VK4CAD,David,None,None,,Australia
+5053802,VK4CAD,David,None,None,,AU
 5053803,VK2CXC,Xin,Hornsby Westfield Nsw,NSW,,Australia
 5053804,VK2CXC,Xin,Hornsby Westfield Nsw,NSW,,Australia
 5053805,VK2MBH,Mathias,Randwick,NSW,,Australia
@@ -289134,7 +289196,7 @@
 5054361,VK4OG,David,Mount Mee,QLD,,Australia
 5054362,VK4EN,Ron,Queensland,QLD,,Australia
 5054363,VK4MHC,Gregory,Brisbane,QLD,,AU
-5054364,VK4ICE,David,Clontarf,QLD,,Australia
+5054364,VK4ICE,David,Clontarf,QLD,,AU
 5054365,VK4SED,Michael,Brisbane,QLD,,Australia
 5054366,VK4KHS,Howard,Lammermoor,QLD,,Australia
 5054367,VK4FDHC,David,Kewerra Beach,QLD,,AU
@@ -289294,6 +289356,8 @@
 5054523,VK6BLX,Philip,Perth,WAU,,Australia
 5054524,VK2AOX,Jg,Sydney,NSW,,Australia
 5054525,VK3PYN,Robert,Melbourne,VIC,,Australia
+5054526,VK4QRZ,Ian,Bundaberg,QLD,,Australia
+5054527,VK5LDR,David,Golden Grove Village,SA,,Australia
 5055001,VK5FBFB,Brendan,Adelaide,SA,,AU
 5055002,VK5FBFB,Brendan,Adelaide,SA,,AU
 5055003,VK5RZ,Stephan,Seaford Rise,SA,,Australia
@@ -291537,7 +291601,7 @@
 5101894,YD0ADT,Fajrino,Jakarta Timur,DKI Jakarta,,Indonesia
 5101895,YC7IEE,Saribi,Hulu Sungai Tengah,Kalimantan Selatan,,Indonesia
 5101896,YD6AOR,Andri,Bireuen,Aceh,,Indonesia
-5101897,YH2BFX,ORLOK,Surakarta,Jawa Tengah,,Indonesia
+5101897,YH2BFX,ORLOK,Surakarta,Jawa Tengah,,ID
 5101898,YB3CUG,Nizar,Mojokerto,Jawa Timur,,Indonesia
 5108888,YD5NPC,Sutan,Balikpapan,Kalimantan Timur,,Indonesia
 5150001,DU1UGZ,Ramon,Paranaque,National Capital Region,,Philippines
@@ -295104,7 +295168,7 @@
 5201458,E25CZT,Zongkiat,Kathu,Phuket,,Thailand
 5201459,HS9LUV,Mana,Tapa,Songkhla,,Thailand
 5201460,HS5QBI,Alongkorn,Mae On,Chiang Mai,,Thailand
-5201461,HS9KSV,Thaivakrid,Koh Samui,Surat Thani,,Thailand
+5201461,HS9KSV,Thaivakrid,Koh Samui,Surat Thani,,TH
 5201462,HS6UWN,Sura,Bangkok,Bangkok,,Thailand
 5201463,E24YUY,Tutthana,Surat Thani,Surat Thani,,Thailand
 5201464,E20GIG,Somkid,Bangkok,Bangkok,,Thailand
@@ -295867,6 +295931,8 @@
 5202223,E25UTA,Varisara,Bkk,Bangkok,,Thailand
 5202224,E26CYA,Narun,Phra Khanong,Bangkok,,Thailand
 5202225,E24YTF,Numphol,Khonkaen,Khon Kaen,,Thailand
+5202226,E25YMQ,Praphan,Phra Na Korn,Bangkok,,Thailand
+5202227,E26CHS,Wichai,Bang Phli,Samut Prakan,,Thailand
 5206001,HS0ZET,Ralf,Nongkrot,Nakhon Sawan,,Thailand
 5206002,HS3LIQ,WiwatM,Digital Radio,Nakhon Ratchasima,,Thailand
 5250001,9V1JC,Wiyanto,Singapore,Singapore,,Singapore
@@ -302036,6 +302102,11 @@
 7222310,LW2EAS,Alejandro,Miramar Gral Alvarado,Buenos Aires,,Argentina Republic
 7222311,LU8EHV,Mauricio,Miramar,Buenos Aires,,Argentina Republic
 7222312,LU5UGV,Milton,General Pico,La Pampa,,Argentina Republic
+7222313,LU5HDA,Daniel,Las Higueras Cordoba,Cordoba,,Argentina Republic
+7222314,LU7ISA,Nazarena,Itacaruare,Misiones,,Argentina Republic
+7222315,LU3QEJ,Jose,Villa Mercedes,San Luis,,Argentina Republic
+7222316,LU6CEC,Eduardo,Ciudad Autonoma De Buenos Aires,Buenos Aires,,Argentina Republic
+7222317,LU5DLH,Facundo,Miramar,Buenos Aires,,Argentina Republic
 7223001,LU1JMA,Jose,Concepcion Del Urugu,Entre Rios,,Argentina Republic
 7224001,LU1UFC,Adrián,General Pico,La Pampa,,Argentina Republic
 7224002,LU4MDC,Dario,San Carlos,Mendoza,,Argentina Republic
@@ -303792,7 +303863,7 @@
 7241719,PU2ODR,Marcos,jardim sapopemba sp,Sao Paulo,,Brazil
 7241720,PT2ON,Jose,BRASILIA,Distrito Federal,,Brazil
 7241721,ZW86LABR,LABRE,None,Distrito Federal,,Brazil
-7241722,PU2MGP,Douglas,Osasco,Sao Paulo,,BR
+7241722,PU2MGP,Douglas,Osasco,Sao Paulo,,Brazil
 7241723,PY2DA,Jose,Sao Sebastiao,Sao Paulo,,Brazil
 7241724,PT7PAZ,Raimundo,FORTALEZA,Ceara,,Brazil
 7241725,PY2WQ,Eduardo,Sao Paulo,Sao Paulo,,Brazil
@@ -303857,7 +303928,7 @@
 7241784,PY2WRC,William,Pindamonhangaba,Sao Paulo,,Brazil
 7241785,PY4KB,Paulo,Itabira,Minas Gerais,,Brazil
 7241786,PU2RTA,Jose,Aluminio,Sao Paulo,,Brazil
-7241787,PY2SBO,Renato,Sta Barbara Doeste,Sao Paulo,,Brazil
+7241787,PY2SBO,Renato,Sta Barbara Doeste,Sao Paulo,,BR
 7241788,PY2UEP,Demilson,Bauru,Sao Paulo,,Brazil
 7241789,PU2WRF,William,Sao Jose do Rio Preto,Sao Paulo,,Brazil
 7241790,PU4LEM,Lucas,Vespasiano,Minas Gerais,,Brazil
@@ -304353,7 +304424,7 @@
 7242282,PY2FYU,Wilson,CATANDUVA,Sao Paulo,,Brazil
 7242283,PU2WCW,Waldeques,Sao Paulo,Sao Paulo,,Brazil
 7242284,PU4REG,Antonio,Pedralva,Minas Gerais,,Brazil
-7242285,PU1RBL,Jose,Rio de Janeiro,Rio de Janeiro,,Brazil
+7242285,PY1JBL,Barbosa,Rio de Janeiro,Rio de Janeiro,,Brazil
 7242286,PY2LEE,Silvestre,Sao Paulo,Sao Paulo,,Brazil
 7242288,PY2WCT,Eduardo,Caraguatatuba,Sao Paulo,,Brazil
 7242289,PU2NEL,Miguel,Iguape,Sao Paulo,,Brazil
@@ -306623,7 +306694,7 @@
 7244561,PY7GB,Galba,Timbaúba,Pernambuco,,Brazil
 7244562,PU1MGE,Marco,Rio De Janeiro,Rio de Janeiro,,Brazil
 7244563,PU2SUR,Marcio,Santo Andre,Sao Paulo,,Brazil
-7244564,PY6CCG,Clovis,conceiçao do jacuipe,Bahia,,Brazil
+7244564,PY6CCG,Junior,Conceicao Do Jacuipe,Bahia,,Brazil
 7244565,PU1USA,Erick,Niterói,Rio de Janeiro,,Brazil
 7244566,PU2WGO,Giovanni,São Caetano do Sul,Sao Paulo,,Brazil
 7244567,PR8ADN,Aldenir,PAÇO Do LUMIAR MARANHÃO,Maranhao,,Brazil
@@ -306637,7 +306708,7 @@
 7244575,PW8NM,Nilsandro,Ji Paraná,Rondonia,,Brazil
 7244576,PR7ZZ,José,João Pessoa PB,Paraiba,,Brazil
 7244577,PU1YIA,Ivan,Volta Redonda,Rio de Janeiro,,Brazil
-7244578,PU2SXX,Carlos,São Paulo,Sao Paulo,,Brazil
+7244578,PU2SXX,Carlos,Sao Paulo,Sao Paulo,,Brazil
 7244579,PY3RX,Guilherme,Passo Fundo,Rio Grande do Sul,,Brazil
 7244580,PU2NUH,Flávio,Brodowski,Sao Paulo,,Brazil
 7244581,PU7LKK,Alexandre,Guaratinguetá,Sao Paulo,,Brazil
@@ -307384,7 +307455,7 @@
 7245324,PU1OMG,Ricardo,Rio de Janeiro,Rio de Janeiro,,Brazil
 7245325,PU6BMB,Maxwell,Sergipe,Sergipe,,Brazil
 7245326,PU1JHO,Eric,Campos,Rio de Janeiro,,Brazil
-7245327,PU2PLR,Mauricio,Jundiaí,Sao Paulo,,Brazil
+7245327,PU2PLR,Mauricio,Jundiai,Sao Paulo,,Brazil
 7245328,PU7PIT,Carlos,Fortaleza,Ceara,,Brazil
 7245329,PU2KAL,José,Embú Guaçú,Sao Paulo,,Brazil
 7245330,PU7PVX,Francisco,Fortaleza,Ceara,,Brazil
@@ -309032,10 +309103,15 @@
 7246973,PU1TIS,Thiago,Rio De Janeiro,Rio de Janeiro,,Brazil
 7246974,PY2DOS,Nelson,Sao Paulo,Sao Paulo,,Brazil
 7246975,PT2RP,Renato,Brasilia Df,Distrito Federal,,Brazil
-7246976,PU2RYR,no,Cerquilho,Sao Paulo,,Brazil
+7246976,PU2RYR,Jeffao,Cerquilho,Sao Paulo,,Brazil
 7246977,PU2PGQ,Paulo,Sao Paulo,Sao Paulo,,Brazil
 7246978,PR2MR,Marcos,Barueri,Sao Paulo,,Brazil
 7246979,PU4MMD,Marconi,Varginha Mg,Minas Gerais,,Brazil
+7246980,PY4LFP,Leandro,Betim,Minas Gerais,,Brazil
+7246981,PP5MBK,Marcia,Sao Jose,Santa Catarina,,Brazil
+7246982,PU4JJA,Zecarlos,Ipatinga,Minas Gerais,,Brazil
+7246983,PU5YFH,Fernando,Curitiba,Parana,,Brazil
+7246984,PU2SEX,Alexandre,Sao Paulo,Sao Paulo,,Brazil
 7247001,PU7MKI,Fabrizio,Fortaleza,Ceara,,Brazil
 7247002,PU7LSB,Lucivaldo,Mossoro - Rio Grande,Mossoro - Rio Grande,,Brazil
 7247003,PT7KO,Junior,Fortaleza,Ceara,,Brazil
@@ -311668,7 +311744,7 @@
 7302578,CD2GLO,Glorix,Nona,Coquimbo,,Chile
 7302579,CD1JST,Juan,arica,Arica and Parinacota,,Chile
 7302580,CD3OLI,Ricardo,San Bernardo,Reg.Metr. de Santiago,,Chile
-7302581,CD3TBC,Carlos,Santiago,Reg.Metr. de Santiago,,Chile
+7302581,CA6TBC,Carlos,Santiago,Reg.Metr. de Santiago,,Chile
 7302582,CD2CLG,Francisco,quintero,Valparaiso,,Chile
 7302583,CD6VDI,Isaías,Valdivia,Los Rios,,Chile
 7302584,CD2VGK,David,Quillota,Valparaiso,,Chile
@@ -312611,6 +312687,10 @@
 7303521,CA3HMK,Hernan,Santiago,Reg.Metr. de Santiago,,Chile
 7303522,CD4BEF,Matias,San Fernando,O'Higgins,,Chile
 7303523,CD2FXW,Alejandro,Vina Del Mar,Valparaiso,,Chile
+7303524,CD3TOP,Ricardo,Santiago,Reg.Metr. de Santiago,,Chile
+7303525,CD4BHM,Armando,Curico,Maule,,Chile
+7303526,CD7ETF,Rodrigo,Castro,Los Lagos,,Chile
+7303527,CD5HQN,Bastian-Bon,Talcahuano,Bio Bio,,Chile
 7304001,CE4CSC,Carlos,Cauquenes,Maule,,Chile
 7304002,CE4KRC,Jonathan,Chillan,Bio Bio,,Chile
 7304003,CE4RAY,Fernando,Cauquenes,Maule,,Chile
@@ -313436,7 +313516,7 @@
 7320714,HK1WIK,Jose,Lorica,Cordoba,,Colombia
 7320715,HJ6J,Jorge,Ibague,Tolima,,Colombia
 7320716,HJ1PFB,Pedro,Lorica Cordoba,Cordoba,,Colombia
-7320717,HJ4JDR,David,Medellin Colombia,Antioquia,,Colombia
+7320717,HJ4JDR,David,Medellin Colombia,Antioquia,,CO
 7320718,HJ5MDO,Miguel,Cali,Valle del Cauca,,Colombia
 7320719,HK1HMV,Hernan,Bogota D C,Cundinamarca,,Colombia
 7320720,HJ3CLO,Carlos,Bogota,Cundinamarca,,Colombia
@@ -313471,7 +313551,7 @@
 7320749,HJ3CE,Eduardo,Bogota,Cundinamarca,,Colombia
 7320750,HJ5RTC,robinson,CALI,Valle del Cauca,,Colombia
 7320751,HK3RCC,Corporacion,Bogota D C,Cundinamarca,,Colombia
-7320752,HJ2BCP,Brayan,valledupar,Cesar,,CO
+7320752,HJ2BCP,Brayan,valledupar,Cesar,,Colombia
 7320753,HJ3LE,Lucia,Bogota,Cundinamarca,,Colombia
 7320754,HJ7DSL,Daniel,Tunja,Boyaca,,Colombia
 7320755,HK3OCH,Omar,Bogota,Cundinamarca,,Colombia
@@ -313543,6 +313623,9 @@
 7320821,HK6EB,Ismael,Ibague,Tolima,,Colombia
 7320822,HJ1JJB,Johan,Cordoba,Cordoba,,Colombia
 7320823,HJ7DMV,David,Barrancabermeja,Santander,,Colombia
+7320824,HJ7GPQ,Giovanny,Floridablanca,Santander,,Colombia
+7320825,HJ1SC,Sebastian,Soledad Atl,Atlantico,,Colombia
+7320826,HJ5HJJ,Alejandro,Zarzal,Valle del Cauca,,Colombia
 7321001,HK6CAN,William,Neiva,Huila,,Colombia
 7340001,YY6CCR,Jose,Barcelona,Anzoategui,,Venezuela
 7340002,YV7BFG,Mauro,Puerto Internacional Palua San Felix Edo Bolivar,Sucre,,Venezuela
