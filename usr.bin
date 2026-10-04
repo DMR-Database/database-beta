@@ -1289,7 +1289,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1107697,KE6BDT,Restyx,National City,California,United States
 1107698,KJ6EOV,Mike,Los Alamitos,California,United States
 1107699,KJ6MRG,Brent,Turlock,California,United States
-1107701,K6WHC,Scott,Mission Viejo,California,United States
+1107701,K6WHC,Scott,Mission Viejo,California,USA
 1107702,KM6EXT,Daniel,Downey,California,USA
 1107703,KM6PKW,Durrell,Los Angeles,California,United States
 1107705,KM6EXT,Daniel,Downey,California,USA
@@ -2173,7 +2173,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1112315,K2VYD,Julian,Coral Gables,Florida,United States
 1112316,N3GLV,Jeff,Daytona,Florida,United States
 1112318,KM4YDO,Andrew,Gainesville,Florida,United States
-1112321,WK3P,Robert,Davenport,Florida,United States
+1112321,WK3P,Robert,The Villages,Florida,United States
 1112322,W4EE,James,Palm Bay,Florida,United States
 1112323,KG4ZVW,Phillip,Merritt Island,Florida,United States
 1112325,NK4DX,Ez,Fort Lauderdale,Florida,United States
@@ -6702,7 +6702,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1148496,W5BUM,John,Mineral Wells,Texas,United States
 1148498,K5JEB,James,Brady,Texas,United States
 1148499,N1SAC,Scott,Dallas,Texas,United States
-1148501,K5BBR,Robert,Lake Kiowa,Texas,United States
+1148501,K5BBR,Robert,Lake Kiowa,Texas,USA
 1148502,N4KJN,Paul,Porter,Texas,United States
 1148503,W5MCN,Corey,Krum,Texas,United States
 1148504,W8LST,Jason,Houston,Texas,USA
@@ -18602,7 +18602,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2089313,F5GUH,Joel,St-Raphael- Berck,Ile-de-France,France
 2089314,F4FVI,Geoffrey,Wattrelos,,France
 2089315,F4HCP,Denis,Magny sur Tille,,France
-2089316,F4HZC,Sullivan,Mont Saint Aignan,,France
+2089316,F4HZC,Sullivan,Mont St Aignan,Normandie,France
 2089317,F6HMI,Gerard,Beaufort,,France
 2089318,F4HRD,Jeff,MARCK,,France
 2089319,F5FID,Fabrice,BARONVILLE,,France
@@ -22437,7 +22437,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2143598,EA3EGP,Ignacio,Barcelona,,Spain
 2143599,EA3ICV,David,Abrera,,Spain
 2143600,EC3DAY,Ramon,Vilanova i la Geltru,,Spain
-2143601,EA3GEO,Daniel,Mataro,,Spain
+2143601,EA3GEO,Daniel,Mataro,Barcelona,Spain
 2143602,EA3RCI,Jaime,Berga,,Spain
 2143603,EA3GTS,Juanjo,Santa coloma de gramanet,,Spain
 2143604,EB3CPN,Toni,La Llagosta,Barcelona,Spain
@@ -27314,7 +27314,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2148501,EA4HXS,Pablo,Cerceda,Madrid,Spain
 2148502,EA5LK,Tobarra,,Albacete,Spain
 2148503,EA8DMZ,Nestor,,Santa Cruz de Tenerife,Spain
-2148504,EA3GWT,Hector,Sant Joan Despí,Barcelona,Spain
+2148504,EA3GWT,Hector,Sant Joan Despi,Barcelona,Spain
 2148505,EA1BRT,Mariano,Siero,Asturias,Spain
 2148506,EA5GMC,Eduardo,Murcia,Murcia,Spain
 2148507,EA4CHJ,Paco,San Agustin De Guadalix,Madrid,Spain
@@ -29380,6 +29380,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2150582,EA3JLU,Jordi,Sant Sadurni De Anoia,Barcelona,Spain
 2150583,EA1KEX,Juan,Camarinas,A Coruna,Spain
 2150584,EA5KAW,Andres,Gandia,Valencia,Spain
+2150585,EA5KIH,lucas,Orihuela,Alicante,Spain
 2157000,EA7IYR,Juan-Carlos,Granada,Granada,Spain
 2160001,HA8DJ,Sandor,Bordany,,Hungary
 2160002,HA4XA,Istvan,Budapest,,Hungary
@@ -29790,6 +29791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2160411,HA5TU,Robert,Pecel,Pest,Hungary
 2160412,HA8VGY,Gyorgy,Szeged,Del-Alfold,Hungary
 2160413,HA8DQ,Sandor,Szeged,Del-Alfold,Hungary
+2160414,HA5BLG,Sandor,Budapest,Budapest,Hungary
 2161001,HA2TO,Arpad,Papa,Kozep-Dunantul,Hungary
 2161002,HA4XA,Istvan,Budapest,,Hungary
 2161003,HA9MDP,Peter,Babolna,,Hungary
@@ -30865,6 +30867,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2180588,E76BO,Bojan,Kozarska Dubica,All Regions,Bosnia and Hercegovina
 2180589,E71SEO,Sead,Sarajevo,All Regions,Bosnia and Hercegovina
 2180590,E73DSE,Emilio,Bihac,All Regions,Bosnia and Hercegovina
+2180591,E75EPD,Dzanan,Gradacac,All Regions,Bosnia and Hercegovina
 2190001,9A5PH,Richard,Murter,,Croatia
 2190002,9A5DW,Johann,Zadar,,Croatia
 2190003,9A0W,Ivan,Oroslevje,,Croatia
@@ -34886,7 +34889,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2222489,IU2HFN,IU2HFNMarco,Paderno Dugnano,,Italy
 2222490,IK2WPM,IK2WPM,Milano,,Italy
 2222491,IW2OHP,Iw2ohp,Mozzate,,Italy
-2222492,IW2ELY,Bad,Gropello Cairoli,,Italy
+2222492,IW2ELY,Luigi,Gropello Cairoli,Lombardia,Italy
 2222493,IU2GED,Matteo,Villa D Ogna,Lombardia,Italy
 2222494,IQ2BN,Iq2bn,Milano,,Italy
 2222495,IZ2ZUX,Chiara,Busnago,,Italy
@@ -37085,7 +37088,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2224710,IZ4BZJ,Alessandro,Rimini,Emilia-Romagna,Italy
 2224711,IK4QIA,Laverdure,Bologna,,Italy
 2224712,IU4LIG,MAX,MODENA,,Italy
-2224713,IW2ELY,Bad,Gropello Cairoli,,Italy
+2224713,IW2ELY,Luigi,Gropello Cairoli,Lombardia,Italy
 2224714,IU5IGY,Marco,Sinalunga,Toscana,Italy
 2224715,IU2MKE,Beppe,Cremona,,Italy
 2224716,IU3MCN,IU3MCN,Santo Stefano Di Cadore,,Italy
@@ -45584,6 +45587,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2233298,IU4PJZ,Filippo,Bologna,Emilia-Romagna,Italy
 2233299,IU7UBC,Flavio,Bari,Apulia Basilicata,Italy
 2233300,IU2LNN,Elio,Voghera,Lombardia,Italy
+2233301,IZ8WGV,Roberto,Paola,Molise Campania Calabria,Italy
+2233302,IT9KAC,Carmelo,Catania,Sicily,Italy
 2242222,IT9JFW,Lorenzo,Palermo,Sicily,Italy
 2260001,YO3DSG,Daniel,Bucharest,Bucuresti Ilfov,Romania
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Brasov Covasna Harghita Mures Sibiu,Romania
@@ -47417,6 +47422,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2280567,HB9LAG,Tom,Ehrendingen,Aargau,Switzerland
 2280568,HB3YPJ,Tayfun,Thurgau Frauenfeld,Thurgau,Switzerland
 2280569,HB9HKN,Matej,Zurich,Zurich,Switzerland
+2280570,HB9DIF,Rolf,Basel,Basel-City,Switzerland
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
@@ -59415,7 +59421,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2346523,M7ALX,Alex,Northampton,,United Kingdom
 2346524,M0SDE,Steve,Shildon,,United Kingdom
 2346525,M7RUE,Rue,Reigate,,United Kingdom
-2346526,M0IKO,Ivo,London,,United Kingdom
+2346526,G3IVO,Ivo,London,England,United Kingdom
 2346527,M7JMQ,M7JMQ,Olney,,United Kingdom
 2346528,2E0NKJ,Nik,Gloucester,,United Kingdom
 2346529,2E0KJT,Ken,St Helens,,United Kingdom
@@ -65453,7 +65459,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2352603,G3DWB,Dave,Staffordshire,England,United Kingdom
 2352604,M0TVV,Mark,Littlehampton,,United Kingdom
 2352605,G4FIF,David,Wombourne,,United Kingdom
-2352606,2E0UMB,Michael,Kent,,United Kingdom
+2352606,2E0UMB,Michael,Kent,England,United Kingdom
 2352607,M1BTR,John,Grimoldby,,United Kingdom
 2352608,M6PFF,Simon,Northamptonshire,,United Kingdom
 2352609,M0PEL,Stephen,Bromley,,United Kingdom
@@ -72105,6 +72111,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2359358,M7XEV,Andy,York,England,United Kingdom
 2359359,M6DDC,Derek,Walsall,England,United Kingdom
 2359360,M7VTP,Mikolaj,Bangor,Wales,United Kingdom
+2359361,M7XOS,Mike,Lymington Ha,England,United Kingdom
+2359362,M7OUE,Gary,Bathgate,Scotland,United Kingdom
+2359363,M7CKJ,Chris,Kingsclere,England,United Kingdom
+2359364,M0HOM,Martin,Scunthorpe,England,United Kingdom
 2360000,M0NOA,Anthony,Leeds,England,United Kingdom
 2360001,M1HAC,Alex,Southampton,England,United Kingdom
 2360002,M1HAC,Alex,Southampton,England,United Kingdom
@@ -77294,7 +77304,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2422011,LA2CX,Jan-Henrik,Olsvik,,Norway
 2422012,LA5TTA,Roy,Bergen,,Norway
 2422013,LA5RTA,Stian,Bergen,Vestland,Norway
-2422014,LA5LLA,Knut-Roger,Rong,,Norway
+2422014,LA5LLA,Knut-Roger,Rong,Vestland,Norway
 2422015,LA1XUA,Michael,Bergen,,Norway
 2422016,LA3BSA,Geir,Bergen,,Norway
 2422017,LB6B,IB,Bergen,,Norway
@@ -80077,6 +80087,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2480161,ES2DNN,Tonn,Tallinn,All Regions,Estonia
 2480162,ES1IMIT,Irina,Tallinn,All Regions,Estonia
 2480163,ES5KVLT,Ander,Tartu,All Regions,Estonia
+2480164,ES2KRT,Peeter,Alliklepa,All Regions,Estonia
 2488888,ES2ETA,Henry,,All Regions,Estonia
 2500001,RU0LA,Alexandr,Ekaterynburg,,Russia
 2500002,R0AET,Vladimir,Gvardeysk,,Russia
@@ -83169,6 +83180,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2503572,UB6D,Serge,Timashevsk Krasnodar Territory,All Regions,Russia
 2503573,R3MCZ,Egor,Yaroslavl,All Regions,Russia
 2503574,RA3TFG,Andrey,Nizhny Novgorod,All Regions,Russia
+2503575,R3DRM,Alexandr,Moscow,All Regions,Russia
 2504002,UD4NAD,Alexey,,,Russia
 2504003,RA4NHY,Anton,Kirov,All Regions,Russia
 2504011,R4WBI,Aleksandr,,,Russia
@@ -89136,6 +89148,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2604537,SP2AP,Adam,Gdansk,Pomerania,Poland
 2604538,SP9OJP,Jacek,Ruda Slaska,śląskie,Poland
 2604539,SP9JA,Jarek,Gliwice,śląskie,Poland
+2604540,SQ3GJH,Chrystian,Srem,PLWP,Poland
+2604541,SQ3GJH,Chrystian,Srem,PLWP,Poland
+2604542,SQ3GJH,Chrystian,Srem,PLWP,Poland
+2604543,SQ2CBA,Piotr,Bydgoszcz,Kuyavia-Pomerania,Poland
+2604544,SQ2CBA,Piotr,Bydgoszcz,Kuyavia-Pomerania,Poland
+2604545,SP3MIH,Michal,Poznan,PLWP,Poland
+2604546,SP8JRG,Piotr,Wolka Tanewska,Subcarpathia,Poland
 2605001,SP5GDM,Jan,Wierzbica,,Poland
 2605002,SP5GDM,Jan,Wierzbica,,Poland
 2605003,SP5GDM,Jan,Wierzbica,,Poland
@@ -92489,7 +92508,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2622016,DL2HCJ,Hans-Joachim,Hamburg,,Germany
 2622017,DO3LEN,Norbert,Dingen,,Germany
 2622018,DG7DK,Andree,Halstenbek,Hamburg Schleswig-Holstein,Germany
-2622019,DL6HBQ,Andre,Ahrensburg,,Germany
+2622019,DL6HBQ,Andre,Ahrensburg,Hamburg Schleswig-Holstein,Germany
 2622020,DL5KUA,Lutz,Luetjensee,,Germany
 2622021,DK1NI,Peter,Hamburg,Hamburg Schleswig-Holstein,Germany
 2622022,DL9DAK,Peter,Hamburg,Hamburg Schleswig-Holstein,Germany
@@ -93658,7 +93677,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2623222,DB2XX,Reinhard,,,Germany
 2623223,DH8FB,Florian,Uetze,,Germany
 2623224,DO1CKP,Karlheinz,,,Germany
-2623225,DO8NW,Niels,None,Niedersachsen Bremen,Germany
+2623225,DO8NW,Niels,Braunschweig,Niedersachsen Bremen,Germany
 2623226,DL2OBR,Detlef,Gilten,,Germany
 2623227,DO8AIL,Thomas,Eschede,,Germany
 2623228,DJ6HC,Karl-Heinz,Einbeck,,Germany
@@ -93666,7 +93685,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2623230,DG3CNW,Carsten,Wennigsen,,Germany
 2623231,DG7ABL,Jens,Braunschweig,Niedersachsen Bremen,Germany
 2623232,DL8BCJ,Horst,Borkum,Niedersachsen Bremen,Germany
-2623233,DO8NW,Niels,None,Niedersachsen Bremen,Germany
+2623233,DO8NW,Niels,Braunschweig,Niedersachsen Bremen,Germany
 2623234,DK0PB,Polizei,Bremen,,Germany
 2623235,DL1LAF,Joachim,Altenholz,Hamburg Schleswig-Holstein,Germany
 2623236,DC4LV,Susanne,,,Germany
@@ -97748,7 +97767,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2627435,DL7KC,Julian,Besigheim,,Germany
 2627436,DF7SC,Ulrich,Sindelfingen,Baden-Wurttemberg,Germany
 2627437,DO8MG,Markus,Bretten,,Germany
-2627438,DL9SBY,Thomas,Winnenden,,Germany
+2627438,DL9SBY,Thomas,Winnenden,Baden-Wurttemberg,Germany
 2627439,DL3OH,Peter,Oetisheim,,Germany
 2627440,DL1JPH,Jan,Bad Herrenalb,,Germany
 2627441,DB2IC,Reinhard,Osterburken,,Germany
@@ -98010,7 +98029,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2627715,DO4GME,Michael,Fluorn-Winzeln,,Germany
 2627717,DK8SJ,Rolf,Rielasingen-Worblingen,,Germany
 2627718,DL7TG,Giuseppe,Bad Säckingen,Baden-Wurttemberg,Germany
-2627719,DL9SBY,Thomas,Winnenden,,Germany
+2627719,DL9SBY,Thomas,Winnenden,Baden-Wurttemberg,Germany
 2627720,DL6GAC,Frank,Kirchzarten,,Germany
 2627721,DH2SAO,Horst,Heilbronn,,Germany
 2627722,DO9RK,Renate,Neckarwestheim,Baden-Wurttemberg,Germany
@@ -100796,7 +100815,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2630661,DK8NO,Andreas,Ruhstorf,Bayern,Germany
 2630662,DB2DZ,Reinhard,Herne,N.Rhine-Westphalia,Germany
 2630663,DL2ARK,Robert,Ilsede,Niedersachsen Bremen,Germany
-2630664,DO8CG,Christian,Tübingen,Baden-Wurttemberg,Germany
+2630664,DO8CG,Christian,Tuebingen,Baden-Wurttemberg,Germany
 2630665,DK8PI,Kurt,Mendig,Rheinland-Pfalz Saarland,Germany
 2630666,DK3AT,Tino,Erbstromtal,,Germany
 2630668,DO2FEL,Andreas,Darmstadt,Hessen,Germany
@@ -106554,6 +106573,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2636771,DN9NGM,Ludwig,Essen,N.Rhine-Westphalia,Germany
 2636772,DL9DAC,Frank,Hagen,N.Rhine-Westphalia,Germany
 2636773,DL7WS,Matthias,Berlin,Berlin Brandenburg,Germany
+2636774,DO1OLX,Michael,Solingen,N.Rhine-Westphalia,Germany
+2636775,DL1ROB,Robert,Hirschau,Bayern,Germany
+2636776,DO4SO,Sebastian,Leutenbach,Bayern,Germany
 2637001,DF6MP,Marcus,,,Germany
 2637002,DO2STO,DO2STO,Stockach,,Germany
 2637003,DK7OJ,Klaus,Sauldorf,Baden-Wurttemberg,Germany
@@ -120828,6 +120850,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2868655,TA7GHK,Huseyin,Trabzon,Black Sea Region,Turkiye
 2868656,TB2GNE,Kaan,Eskisehir,Marmara Region,Turkiye
 2868657,TA3CNK,Cankut,Bursa,Marmara Region,Turkiye
+2868658,TB2PZT,Huseyin,Istanbul,Marmara Region,Turkiye
+2868659,TB2BGI,Gencay,Ankara,Central Anatolia Region,Turkiye
+2868660,TA3RDE,Murat,Bursa,Marmara Region,Turkiye
+2868661,TA9OTK,Omer-Tugrul,Erzurum,Eastern Anatolia Region,Turkiye
 2868686,TB3ACU,Baris,Buca,Aegean Region,Turkiye
 2868888,TA1QQ,Erol,Istanbul,Marmara Region,Turkiye
 2880001,OY8W,Steffen,Kollafjordur,All Regions,Faroe Islands
@@ -128062,7 +128088,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3026978,VA7GKA,Kishor,Surrey,British Columbia,Canada
 3026979,VA3JYE,Jaye,Brechin,Ontario,Canada
 3026980,VE6FRP,Greg,Edmonton,Alberta,Canada
-3026981,VE2ZDP,Jeanpierre,Laval,Quebec,Canada
+3026981,VE2ZDP,Jean-Pierre,Laval,Quebec,Canada
 3026982,VA2PHP,Stephane,Degelis,Quebec,Canada
 3026983,VE4NAY,Yiyang,Winnipeg,Manitoba,Canada
 3026984,VA2XBC,Benjamin,Longueuil,Quebec,Canada
@@ -129805,7 +129831,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3101345,W2KEJ,Tim,Apex,N.Carolina,United States
 3101346,KO4FV,Brian,Madison,Alabama,United States
 3101347,ND4Q,Bernard,Tuscumbia,Alabama,United States
-3101348,W7YBY,Brian,Sun Lakes,Arizona,United States
+3101348,W7YBY,Brian,Sun Lakes,Arizona,USA
 3101349,KI4WLY,John,Hillsboro,Alabama,United States
 3101350,KW4UZ,Richard,Jasper,Alabama,United States
 3101351,KM4ECI,David,Hartselle,Alabama,United States
@@ -130690,7 +130716,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3102245,KD8DVA,Patricia,Columbus,Ohio,United States
 3102246,W7VON,Von,Mesa,Arizona,United States
 3102247,AG7KQ,Joseph,Laramie,Wyoming,United States
-3102248,W7YNG,Charles,Cortaro,Arizona,United States
+3102248,W7YNG,Charles,Cortaro,Arizona,USA
 3102249,KD9JCE,Merle,Martinsville,Indiana,United States
 3102250,KC1DAD,Dean,Jay,Maine,United States
 3102251,KD6PCT,Jeffery,Ripon,California,United States
@@ -132392,7 +132418,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3103990,KF0VHZ,Donald,Urbandale,Iowa,United States
 3103991,KZ4JK,Phillip,Arlington,Tennessee,United States
 3103992,KJ4TDM,Brian,Warrior,Alabama,United States
-3103993,KD2LUL,Kevin,Albany,New York,United States
+3103993,KD2LUL,Kevin,Albany,New York,USA
 3103994,K1RHH,Kenneth,Danbury,Connecticut,United States
 3103995,WB4ULJ,Thomas,Pine Mtn Valley,Georgia,United States
 3103996,WB4ULJ,Thomas,Pine Mtn Valley,Georgia,United States
@@ -136200,7 +136226,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3107921,KC3BQL,James,Monrovia,Maryland,United States
 3107923,N6HEW,Glen,Fresno,California,United States
 3107924,AE6GM,Richard,Carlsbad,California,United States
-3107925,K6WHC,Scott,Mission Viejo,California,United States
+3107925,K6WHC,Scott,Mission Viejo,California,USA
 3107927,KK6WAR,Thomas,Fremont,California,United States
 3107928,KK6WAR,Thomas,Fremont,California,United States
 3107930,KM6BOA,Michael,Fresno,California,United States
@@ -140161,7 +140187,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3111980,KB2LFS,William,W. Palm Beach,Florida,United States
 3111981,W2PDN,Chris,Lansdale,Pennsylvania,United States
 3111982,KM6NJC,Peter,San Gabriel,California,United States
-3111983,N7AGF,Alex,La Conner,Washington,United States
+3111983,N7AGF,Alex,La Conner,Washington,USA
 3111984,AC8NP,Daniel,Tiffin,Ohio,United States
 3111985,N4PMS,David,Hobe Sound,Florida,United States
 3111986,KI4ADN,William,Jacksonville,Florida,United States
@@ -142395,7 +142421,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3114257,KG5UHY,Jason,Calhoun,Louisiana,United States
 3114258,N2NDU,Hipolito,Woodhaven,New York,United States
 3114259,KA4TDW,Regina,Haines City,Florida,United States
-3114260,KB9OPV,Johnathon,Newburgh,Indiana,USA
+3114260,KB9OPV,Johnathon,Newburgh,Indiana,United States
 3114261,N5UKZ,Michael,Baton Rouge,Louisiana,United States
 3114262,KK7KCN,William,Kent,Washington,United States
 3114263,WD6CGF,Steven,Simi Valley,California,United States
@@ -145529,8 +145555,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3117448,AA9SO,Soriano,Chicago,Illinois,United States
 3117449,KC9KCA,Terry,Calumet City,Illinois,United States
 3117450,KC9KCA,Terry,Calumet City,Illinois,United States
-3117451,KC9JZM,Jerry,Chicago,Illinois,USA
-3117452,KC9JZM,Jerry,Chicago,Illinois,USA
+3117451,KC9JZM,Jerry,Chicago,Illinois,United States
+3117452,KC9JZM,Jerry,Chicago,Illinois,United States
 3117453,N9LXF,Paul,Skokie,Illinois,United States
 3117454,K9BVW,Robert,Chicago,Illinois,United States
 3117455,KC9NUW,Konrad,Palatine,Illinois,United States
@@ -150627,7 +150653,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3122675,KN4OGL,John,Barren Springs,Virginia,United States
 3122676,KC3KXY,Kenneth,Pittsburgh,Pennsylvania,United States
 3122677,WA4UJC,Charles,Covington,Georgia,United States
-3122678,WE4WXO,Eddie,Jackson,Tennessee,United States
+3122678,WE4WXO,Eddie,Jackson,Tennessee,USA
 3122679,KM5R,Melissa,Evant,Texas,United States
 3122680,W2ZAY,Marek,White Plains,New York,United States
 3122681,KD2BDZ,Ralph,Rochester,New York,United States
@@ -151221,7 +151247,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3123284,N1BMB,Daryl,Scarborough,Maine,United States
 3123285,KC1FLF,Sean,Bingham,Maine,United States
 3123286,W1XXV,Joseph,E. Waterboro,Maine,United States
-3123287,W1LUC,Luc,Newburgh,Maine,United States
+3123287,W1LUC,Luc,Newburgh,Maine,USA
 3123288,N1TZR,Donald,Augusta,Maine,United States
 3123289,KA1VSC,Matt,Glastonbury,Connecticut,United States
 3123290,KC1DEB,Marc,Lyman,Maine,United States
@@ -153515,7 +153541,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3125619,N1IR,Christopher,Plymouth,Massachusetts,United States
 3125620,N1AM,John,Mashpee,Massachusetts,United States
 3125621,KC1FFA,Ken,Aiken,S.Carolina,United States
-3125622,KC1CPR,Chris,Fairlee,Vermont,United States
+3125622,W2PWN,Chris,Fairlee,Vermont,United States
 3125623,N1ATM,Richard,Middleboro,Massachusetts,United States
 3125624,KB1YAP,Art,Dennis,Massachusetts,United States
 3125625,W1TTX,John,Orange,Massachusetts,United States
@@ -154793,9 +154819,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3126921,AB8XL,Paul,Metamora,Michigan,United States
 3126922,KG8HZ,Gerald,New Boston,Michigan,United States
 3126923,W8KNX,Rory,S. Lyon,Michigan,United States
-3126924,KD8NEW,Anthony,W. Bloomfield Twp,Michigan,United States
+3126924,KD8NEW,Tony,Waterford,Michigan,United States
 3126925,WA8BDA,William,Northville,Michigan,United States
-3126926,KD8NEW,Anthony,W. Bloomfield Twp,Michigan,United States
+3126926,KD8NEW,Tony,Waterford,Michigan,United States
 3126927,W8BDM,Brian,Zionsville,Indiana,United States
 3126928,KC8HEF,Gary,Homer,Michigan,United States
 3126929,K8ALR,Anthony,Warren,Michigan,USA
@@ -155487,7 +155513,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3127632,W0DTN,John,Mentor,Minnesota,United States
 3127633,KE0QZQ,Danny,Montrose,Minnesota,United States
 3127634,W5LNA,Kevin,Saint Paul,Minnesota,United States
-3127635,KB0YHH,James,Farmington,Minnesota,USA
+3127635,KB0YHH,James,Farmington,Minnesota,United States
 3127636,K0AIF,David,Lake Elmo,Minnesota,United States
 3127637,K0AIF,David,Lake Elmo,Minnesota,United States
 3127638,KA0UWK,Jeffrey,Floodwood,Minnesota,United States
@@ -161765,7 +161791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3134043,WB2OEM,James,Brigantine,New Jersey,United States
 3134044,N2ICV,Michael,Malaga,New Jersey,United States
 3134045,K2NYX,Joe,Jackson,New Jersey,United States
-3134046,N2MDX,Michael,Beachwood,New Jersey,United States
+3134046,N2MDX,Michael,Beachwood,New Jersey,USA
 3134047,WB2HHH,Paul,Brick,New Jersey,United States
 3134048,K2SRT,Alex,Mt Olive Twp,New Jersey,United States
 3134049,W2DZ,David,N. Brunswick,New Jersey,United States
@@ -165585,7 +165611,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3137954,KA1MZG,Gary,Charlotte,N.Carolina,United States
 3137955,KD4LBR,Ricky,Lincolnton,N.Carolina,United States
 3137956,WB3BW,Bruce,Henderson,N.Carolina,United States
-3137957,W4ECU,Matthew,Mount Olive,N.Carolina,United States
+3137957,W4ECU,Matthew,Mount Olive,N.Carolina,USA
 3137958,KM4NDM,Michael,Fremont,N.Carolina,United States
 3137959,KK4FFE,Tony,Clyde,N.Carolina,United States
 3137960,W4WVB,Douglas,Roanoke Rapids,N.Carolina,United States
@@ -168782,7 +168808,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3141221,K7MTW,None,Portland,Oregon,United States
 3141222,KI7GKH,Joshua,Drain,Oregon,United States
 3141223,KM7GGP,Kevin,Florence,Oregon,United States
-3141224,KM7GGP,Kevin,Florence,Oregon,United States
+3141224,KM7GGP,Kevin,Florence,Oregon,USA
 3141225,W2YOT,Mohd,Portland,Oregon,United States
 3141226,W6RDX,Disaster,San Diego,California,United States
 3141227,KI7GOE,Christina,Coos Bay,Oregon,USA
@@ -169946,7 +169972,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3142399,KC3DVH,Dean,Gettysburg,Pennsylvania,United States
 3142400,KC3CKR,Jeffrey,Clarks Summit,Pennsylvania,United States
 3142401,W3XPT,Michael,Pittston,Pennsylvania,United States
-3142402,KB3CXM,Albert,Churchville,Pennsylvania,United States
+3142402,KB3CXM,Al,Churchville,Pennsylvania,United States
 3142403,KB3RBW,Charles,Whitehall,Pennsylvania,United States
 3142404,N3EOP,Jamie,Bryan,Texas,United States
 3142405,N3EOP,Jamie,Bryan,Texas,United States
@@ -187797,7 +187823,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3160588,NY7NY,Frank,Sedona,Arizona,United States
 3160589,KG6GXY,Llew,Seattle,Washington,United States
 3160590,KI5GXD,Lee,Weatherford,Oklahoma,United States
-3160591,K3YEB,William,Pittsburgh,Pennsylvania,United States
+3160591,K3YEB,William,Pittsburgh,Pennsylvania,USA
 3160592,KI7KB,Rick,Saint Anthony,Idaho,United States
 3160593,KD6CWM,Mark,San Jose,California,United States
 3160594,KD4F,Ingrid,Smyrna,Tennessee,United States
@@ -190350,7 +190376,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3163176,N1GMC,Edmond,Orford,New Hampshire,United States
 3163177,KF5KFD,Jt,Bartlesville,Oklahoma,United States
 3163178,KG7ELI,John,Redmond,Washington,United States
-3163179,KC0RRY,Darrin,Olathe,Kansas,United States
+3163179,KC0RRY,Darrin,Olathe,Kansas,USA
 3163180,W5CMD,Clyde,Harrison,Arkansas,United States
 3163181,KK6USW,Reginald,Vacaville,California,United States
 3163182,K8CTR,Joshua,Livonia,Michigan,United States
@@ -191105,7 +191131,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3163943,N1OOH,Michael,Dedham,Massachusetts,United States
 3163944,K6KNN,Kenneth,Playa Vista,California,United States
 3163945,KG7EOU,Samantha,Hoodsport,Washington,United States
-3163946,WA5SAR,Search,Washougal,Washington,United States
+3163946,WA5SAR,Search,Washougal,Washington,USA
 3163947,WB2WAX,Thomas,Long Valley,New Jersey,United States
 3163948,KC3NWL,William,Levittown,Pennsylvania,United States
 3163949,K4MAH,Miguel,Alexandria,Virginia,United States
@@ -191170,7 +191196,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3164008,W1FLO,Fred,Parker,Colorada,United States
 3164009,AB7DG,Doug,Tacoma,Washington,United States
 3164010,KJ7OXO,John,Shoreline,Washington,United States
-3164011,WA5SAR,Search,Washougal,Washington,United States
+3164011,WA5SAR,Search,Washougal,Washington,USA
 3164012,W5BLX,Anthony,Miami,Florida,United States
 3164013,W0ADT,Dana,Centennial,Colorada,United States
 3164014,KC1MXL,Robert,Chittenden,Vermont,United States
@@ -191220,7 +191246,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3164059,KD2RSS,Aaron,Adams Center,New York,United States
 3164060,KM6VBT,David,Rancho Cucamonga,California,United States
 3164061,KB2YSI,Don,Hamilton,New York,United States
-3164062,KM4WLL,Daniel,Baxley,Georgia,United States
+3164062,KM4WLL,Daniel,Baxley,Georgia,USA
 3164063,KC8MVJ,Dan,Minford,Ohio,United States
 3164064,KF7II,Mark,Maple Valley,Washington,United States
 3164065,KN4KOL,Michael,Michie,Tennessee,United States
@@ -191505,7 +191531,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3164347,N0WQT,Carl,Bemidji,Minnesota,United States
 3164348,KC4NOJ,Jon,Hertford,N.Carolina,United States
 3164349,N4GSI,James,Gadsden,Alabama,United States
-3164350,KO4CZX,Chris,Nashville,Tennessee,United States
+3164350,K4CSZ,Chris,Nashville,Tennessee,United States
 3164351,KN4UAH,Dale,Clemson,S.Carolina,United States
 3164352,N0BAR,Bryce,Windham,Maine,United States
 3164353,N2NOW,Rich,Queens,New York,United States
@@ -192512,7 +192538,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3165360,KB3BYL,James,Feasterville Trevose,Pennsylvania,United States
 3165361,W6AEA,George,Renton,Washington,United States
 3165362,WN1Q,Christopher,Sterling,Virginia,United States
-3165363,KC1GFY,Garret,Andover,Massachusetts,United States
+3165363,KC1GFY,Garret,Andover,Massachusetts,USA
 3165364,K6EXY,Edwin,Rancho Palos Verdes,California,United States
 3165365,KC7MIC,Michael,Lewiston,Idaho,United States
 3165366,N8IT,David,Harbor Springs,Michigan,United States
@@ -193568,7 +193594,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3166424,W5RLK,Ross,Mountain Home,Arkansas,United States
 3166425,KO4DEU,Richard,Key Largo,Florida,United States
 3166426,N6FBW,Francis,La Mesa,California,United States
-3166427,KM6FBD,John,Huntington Beach,California,United States
+3166427,KM6FBD,John,Huntington Beach,California,USA
 3166428,KB3HTN,Tom,San Antonio,Texas,United States
 3166429,KO4BDA,Dave,Jacksonville,Florida,United States
 3166430,N0JLH,Jordan,Olathe,Kansas,United States
@@ -195678,7 +195704,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3168556,W1NOC,David,Sherman,Maine,United States
 3168557,K4YHJ,William,Oakland Park,Florida,United States
 3168558,W3GWM,George,Wyalusing,Pennsylvania,United States
-3168559,K1NAG,Aditya,Fayville,Massachusetts,United States
+3168559,K1NAG,Aditya,Fayville,Massachusetts,USA
 3168560,KR9Q,Jack,Sterling,Illinois,United States
 3168561,W0PD,Michael,Wellsburg,Iowa,United States
 3168562,KI6PJN,John,Athol,Idaho,United States
@@ -195801,7 +195827,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3168680,KE5ES,Steven,Clyde,Texas,United States
 3168681,KO4DXQ,Robert,Soddy Daisy,Tennessee,United States
 3168682,KE8DOG,James,Dexter,Michigan,United States
-3168683,NA9VY,Chris,Freetown,Indiana,United States
+3168683,NA9VY,Chris,Freetown,Indiana,USA
 3168684,KO4EUN,William,Fairfax,Virginia,United States
 3168685,WK8G,Gale,Clermont,Florida,United States
 3168686,AC5CM,Christopher,Austin,Texas,United States
@@ -205851,7 +205877,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3178823,KZ1LLA,Jose,Hampton,Virginia,United States
 3178824,KG4EDH,Robert,Augusta,Georgia,United States
 3178825,W4OIJ,Steven,Lexington,S.Carolina,United States
-3178826,KJ7VZN,Glenn,Mesa,Arizona,United States
+3178826,K3GLJ,Glenn,Mesa,Arizona,United States
 3178827,AD8N,Michael,Andover,Ohio,United States
 3178828,KO4LRA,Charles,Macon,Georgia,United States
 3178829,KW9E,Peter,Pewaukee,Wisconsin,United States
@@ -211201,6 +211227,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3184250,KM6HER,Sabrena,Studio City,California,United States
 3184251,KG6JBX,Michelle,San Jose,California,United States
 3184252,N4ALZ,David,Easley,S.Carolina,United States
+3184253,K3PNW,Michael,Lake Forest Park,Washington,United States
 3184254,KJ7YHF,Daniel,Phoenix,Arizona,United States
 3184255,KC1PRT,Keith,Wolfeboro,New Hampshire,United States
 3184256,KO4HZN,Thomas,Riverview,Florida,United States
@@ -217101,7 +217128,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3190201,KI5UBV,Elijah,Plano,Texas,United States
 3190202,K0KWC,Kilowatt,Lamar,Missouri,United States
 3190203,WA4WSU,Allen,Phoenix,Arizona,United States
-3190204,WP4BS,Brian,Denver,Colorada,United States
+3190204,WP4BS,Brian,Denver,Colorada,USA
 3190205,KB0WMA,Paul,Albuquerque,New Mexico,United States
 3190206,W2DRR,Diego,Pompton Lakes,New Jersey,United States
 3190207,KC0MIY,Robert,Litchfield,Minnesota,United States
@@ -228573,7 +228600,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3201785,KD7KAX,Carlos,Mesa,Arizona,United States
 3201786,KI5ZKC,Rocky,Greenbrier,Arkansas,United States
 3201787,KQ4JYX,John,Inglis,Florida,United States
-3201788,W1COL,Howard,Olympia,Washington,United States
+3201788,AJ7P,Howard,Olympia,Washington,United States
 3201789,WM4WM,Alex,Lenoir,N.Carolina,United States
 3201790,KQ4KNF,Gary,Cape Coral,Florida,United States
 3201791,KK7BNJ,Mike,Phoenix,Arizona,United States
@@ -228662,7 +228689,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3201875,KD2WE,Alain,Champlain,New York,United States
 3201876,KJ5AMZ,Jacob,Garland,Texas,United States
 3201877,KM4CPB,William,Winterville,N.Carolina,United States
-3201878,KB3NXZ,Sebastian,Rehoboth,Massachusetts,USA
+3201878,KB3NXZ,Sebastian,Rehoboth,Massachusetts,United States
 3201879,K4DIA,Anthony,Summerville,S.Carolina,United States
 3201880,K5ADR,Alan,Naples,Florida,United States
 3201881,K5EMR,Erin,Fort Worth,Texas,United States
@@ -233996,7 +234023,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3207253,W2NYX,Lauren,Johnstown,New York,United States
 3207254,W1RJ,Howard,Gilford,New Hampshire,United States
 3207255,KC8PUR,Elden,Homosassa,Florida,United States
-3207256,KE8ZLI,Branislav,Akron,Ohio,United States
+3207256,K8TZL,Branislav,Akron,Ohio,United States
 3207257,KG7QIR,Greg,Tacoma,Washington,United States
 3207258,KJ5CDS,Clyde,Hamilton,Mississippi,United States
 3207259,KN4ESW,James,Joelton,Tennessee,United States
@@ -252843,7 +252870,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3226281,K5LWH,Lloyd,Carrollton,Texas,United States
 3226282,KM7GYV,Ryan,Lewiston,Idaho,United States
 3226283,K8MRJ,Michael,Copley,Ohio,United States
-3226284,K5TRB,Todd,Calumet,Oklahoma,United States
+3226284,K5TRB,TR,Calumet,Oklahoma,United States
 3226285,KF5TRS,Mark,Socorro,New Mexico,United States
 3226286,KR4IDJ,Echo,Mount Juliet,Tennessee,United States
 3226287,AC3CU,Neil,Great Mills,Maryland,United States
@@ -253780,7 +253807,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3227221,KE2JBF,John,Caldwell,New Jersey,United States
 3227222,KR4OLM,Scottrs,Winter Springs,Florida,United States
 3227223,W3BEA,Bruce,Rockville,Maryland,United States
-3227224,KO6OWZ,Jason,Victorville,California,United States
+3227224,N3JAY,Jason,Victorville,California,United States
 3227225,KE4YMF,Jeffrey,Riverview,Florida,United States
 3227226,KR4IQR,Landon,Stanfield,N.Carolina,United States
 3227227,WB5BAM,Murry,Philadelphia,Mississippi,United States
@@ -254223,7 +254250,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3227665,KE9GFQ,Brad,Warsaw,Indiana,United States
 3227666,N3UFP,Frank,Sugarcreek Township,Ohio,United States
 3227667,KA0MED,John,Ava,Missouri,United States
-3227668,K3GLJ,Glenn,Mesa,Arizona,United States
+3227668,K3GLJ,Glenn,Mesa,Arizona,USA
 3227669,KC3YDA,Edward,Collegeville,Pennsylvania,United States
 3227670,W9WDG,William,Fort Wayne,Indiana,United States
 3227671,KF8HFT,Robert,W. Bloomfield,Michigan,United States
@@ -254619,7 +254646,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3228063,KJ5RQD,Michael,Omaha,Arkansas,United States
 3228064,KB9BVD,Chris,St Charles,Illinois,United States
 3228065,KE9FZN,Steve,New Richmond,Wisconsin,United States
-3228066,KR4OYU,Kip,N. Topsail Beach,N.Carolina,United States
+3228066,W4EFV,Kip,N. Topsail Beach,N.Carolina,United States
 3228067,KM7HSX,Alex,Longview,Washington,United States
 3228068,KM7CPU,Charles,Auburn,Washington,United States
 3228069,AB5SF,Larry,Santa Fe,New Mexico,United States
@@ -254871,7 +254898,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3228315,KQ4HKK,Anthony,Reston,Virginia,United States
 3228316,KN6DQD,Zoe,Lago Vista,Texas,United States
 3228317,KF8HLL,Mark,Akron,Ohio,United States
-3228318,KE2JHO,Robert,Somers Point,New Jersey,United States
+3228318,KE2JHO,Bobby,Somers Point,New Jersey,United States
 3228319,KM7HQJ,Paul,Goodyear,Arizona,United States
 3228320,WS6O,Michael,Chesterfield,Michigan,United States
 3228321,KR4OWN,William,Knoxville,Tennessee,United States
@@ -254944,6 +254971,32 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3228388,KF8GNA,Alan,Manton,Michigan,United States
 3228389,KF8HLT,Michael,Newton,W.Virginia,United States
 3228390,KE2IZE,Nick,Greene,New York,United States
+3228391,W4DKF,Dorian,Taylors,S.Carolina,United States
+3228392,W7SET,Andrew,Perry,Oklahoma,United States
+3228393,KO6IVM,Terence,Irvine,California,United States
+3228394,KB0C,Michael,Poulsbo,Washington,United States
+3228395,KO6PFO,Steven,Dana Point,California,United States
+3228396,KJ5RTO,Cade,Houston,Texas,United States
+3228397,KO4CAI,Brian,Evergreen,Colorada,United States
+3228398,N7IHS,Amanda,Eureka,Montana,United States
+3228399,KN4VGR,Wesley,Hope Mills,N.Carolina,United States
+3228400,KE9GIT,Filip,Huntley,Illinois,United States
+3228401,KF8GEM,Thomas,Coldwater,Michigan,United States
+3228402,KG5ZFD,Amada,San Antonio,Texas,United States
+3228403,KI4VAE,Westly,Clanton,Alabama,United States
+3228404,K5BBR,Robert,Lake Kiowa,Texas,United States
+3228405,KO6PIN,David,Lemoore,California,United States
+3228406,KD1AFL,Douglas,Windsor,Connecticut,United States
+3228407,KI5IOF,Daniel,W. Columbia,Texas,United States
+3228408,KQ4PRI,Dmitri,Huntersville,N.Carolina,United States
+3228409,KE0CAL,Chris,Buffalo City,Wisconsin,United States
+3228410,W9MZ,Robert,Saint Charles,Illinois,United States
+3228411,KI7YDM,Elijah,Billings,Montana,United States
+3228412,N2VQO,Carl,Prescott,Arizona,United States
+3228413,KE9EMY,Samuel,Grafton,Wisconsin,United States
+3228414,K4SYS,Richard,Richlands,N.Carolina,United States
+3228415,KC2MAB,Richard,Southampton,New Jersey,United States
+3228416,KJ5RTT,Parker,San Antonio,Texas,United States
 3231337,KF6DMA,Clive,Livermore,California,United States
 3232323,W0KOS,Kostiantyn,Castle Rock,Colorada,United States
 3232719,K2MXA,Matt,Palo Alto,California,United States
@@ -256973,6 +257026,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3600007,J88SE,Arington,Kingstown,Kingstown,Saint Vincent and the Grenadines
 3600008,J88PB,Justin,Kingstown,,Saint Vincent and the Grenadines
 3600009,J88JC,James,St Vincent,Kingstown,Saint Vincent and the Grenadines
+3600010,J88NNS,Nekoro,Kingstown,Kingstown,Saint Vincent and the Grenadines
 3601001,J88BP,Curtis,Kingstown,Kingstown,Saint Vincent and the Grenadines
 3601002,J88BP,Curtis,Kingstown,Kingstown,Saint Vincent and the Grenadines
 3601003,J88CU,Sean,Kingstown,Kingstown,Saint Vincent and the Grenadines
@@ -257044,6 +257098,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3640007,C6AJP,Jeremy,Nassau,New Providence,Bahamas
 3640008,C6AAM,Matthew,Bailey Town - Bimini,Grand Bahama,Bahamas
 3640009,C6AEW,Eric,Nassau Bahamas,New Providence,Bahamas
+3640010,C6ABW,Neville,Nassau,New Providence,Bahamas
 3643001,C6ATH,Timothy,Fpo,Andros,Bahamas
 3645001,C6AKE,Ken,Nassau,New Providence,Bahamas
 3650001,VP2EIH,Ira,THE VALLEY,,Anguilla
@@ -262148,7 +262203,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4401725,JS2RWW,Michiko,Gifu,Tokai,Japan
 4401726,JK1KSB,Seiji,Setagaya Ku Tokyo,Kanto,Japan
 4401728,JO1AIJ,Kazuomi,Iruma City Saitama,Kanto,Japan
-4401729,JL1MZL,Hiroshi,Kumagaya City Saitama,Kanto,Japan
+4401729,JL1MZL,Nishida,Kumagaya City Saitama,Kanto,Japan
 4401730,JG1RBB,Makoto,Higashimurayama Tokyo,Kanto,Japan
 4401731,JJ4ELR,Hiroshi,OKAYAMA,Chugoku,Japan
 4401732,JJ0DSG,Okada,mokyo,Hokuriku,Japan
@@ -262617,7 +262672,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4402196,JL3ZQB,Mataaimashitane,Kyoto,Kinki,Japan
 4402197,JK7TBB,Miyatani,Aizuwakamatsu,Tohoku,Japan
 4402198,JL1GCR,Kobayashi,Fujisawa,Kanto,Japan
-4402199,JE1COL,Hiroshi,Yokohama,Kanto,Japan
+4402199,JE1COL,Kuboki,Yokohama,Kanto,Japan
 4402200,JO1TCU,Narikawa,Mobara,Kanto,Japan
 4402201,JM1NCA,Ken,Setagaya,Kanto,Japan
 4402202,JM2ISD,Takahiro,Nagoyacity,Tokai,Japan
@@ -262980,7 +263035,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4402563,JI1CKD,sebata,chikusei,Kanto,Japan
 4402564,JQ3KOT,Takashi,Kameoka,Kinki,Japan
 4402565,JL1AXV,Ito,Hasuda-city,Kanto,Japan
-4402566,JQ3OPJ,Jun,Kobe,Kinki,Japan
+4402566,JQ3OPJ,Imai,Kobe,Kinki,Japan
 4402568,JQ3KRL,Chieko,Kameoka,Kinki,Japan
 4402569,JR1IXQ,Anzai,Yokohama,Kanto,Japan
 4402570,JR8UXH,Rikiya,Yokohama,Kanto,Japan
@@ -263114,7 +263169,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4402701,7N4SLQ,Kosuke,Nasu-Town Nasu Gun Tochigi Ken,Kanto,Japan
 4402702,JI7TXI,Sakuma,Sendai,Tohoku,Japan
 4402703,JO7KWS,Keitaro,Fukushima-Shi,Tohoku,Japan
-4402704,JL1JUD,Jun,Kobe,Kinki,Japan
+4402704,JL1JUD,Imai,Kobe,Kinki,Japan
 4402705,JA5MMB,Minoru,Ozu-City,Shikoku,Japan
 4402706,JG1AAK,Sekiya,Ootawara,Kanto,Japan
 4402707,JI1VPI,Yoshiaki,Ootawaracity,Kanto,Japan
@@ -263202,6 +263257,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4402790,JP7BJY,Kanemitsu,Kitakami-City Iwate-Pref,Tohoku,Japan
 4402791,JA1DAO,Masanobu,Machida Shi Tokyo,Kanto,Japan
 4402792,JE2OWF,Haruyuki,Nagoya,Tokai,Japan
+4402793,JK1JAD,Fujisawa,Kokubunji City Tokyo,Kanto,Japan
 4403001,JP3KAF,Ryusho,Nishinomiya,Kinki,Japan
 4403002,JO3XPH,Pascal,Kyoto,Kinki,Japan
 4403003,JA3GQJ,Shuji,Takatuki Osaka,,Japan
@@ -273279,7 +273335,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4606935,BG3QK,Min,Null,Beijing,China
 4606936,BG2FNS,Xiliang,DaQing,Heilongjiang Jilin Liaoning,China
 4606937,BG2XC,Chuang,Huludao City Liaoning Prov,Heilongjiang Jilin Liaoning,China
-4606938,BG3SCM,Jian,ShanXi,Shanxi Hebei Tianjin,China
+4606938,BG3SCM,Jianfeng,ShanXi,Shanxi Hebei Tianjin,China
 4606939,BG5AOM,Feng,Huzhou city Zhejiang province,Zhejiang Fujian Jiangxi,China
 4606941,BG5AYN,Chi,hangzhou,Zhejiang Fujian Jiangxi,China
 4606942,BG9IXR,Zhiqiang,Lanzhou,Shaanxi Ningxia Gansu Qinghai,China
@@ -277639,7 +277695,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4611342,BD6JEM,Wang,Zhengzhou,Henan Hubei Anhui,China
 4611343,BD8DFW,Yao,Chengdu,,China
 4611344,BG5DNQ,Haoxuan,Wenzhou,Zhejiang Fujian Jiangxi,China
-4611345,BD6JJK,Bin,驻马店,Henan Hubei Anhui,China
+4611345,BD6JJK,Bin,Zhumadian,Henan Hubei Anhui,China
 4611346,BG9IUT,Fentao,Jiuquan,Shaanxi Ningxia Gansu Qinghai,China
 4611347,BG9JQE,Bin,天水,Shaanxi Ningxia Gansu Qinghai,China
 4611348,BI1VNL,Chao,Beijing,Beijing,China
@@ -281972,7 +282028,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4615756,BH8HEB,Wenjie,Chongqing,Sichuan Guizhou Chongqing Yunnan,China
 4615757,BD1EHY,Dang,Beijing,Beijing,China
 4615758,BA4VEC,Kerulv,Nanjing,Shanghai Shandong Jiangsu,China
-4615759,BA4WCM,HU,Kunshan,Shanghai Shandong Jiangsu,China
+4615759,BA4WCM,Martin,Kunshan,Shanghai Shandong Jiangsu,China
 4615760,BG5JVJ,Yuan,NanChang,Zhejiang Fujian Jiangxi,China
 4615761,BG7JQP,Weiwang,Shenzhen,Hunan Guangdong Guangxi Hainan,China
 4615762,BD1EFF,Hong,Beijing,Beijing,China
@@ -282597,7 +282653,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4616397,BI1QYN,Liuxudong,Daxing,Beijing,China
 4616398,BG7ZJU,Cocacola,Haikou,Hunan Guangdong Guangxi Hainan,China
 4616399,BD1BRP,Zhao,Beijing,Beijing,China
-4616400,BG7NAU,111,Guangzhou,Hunan Guangdong Guangxi Hainan,China
+4616400,BG7NAU,ZHIXIN,Guangzhou,Hunan Guangdong Guangxi Hainan,China
 4616401,BH6RVK,Huajian,Wuhan,Henan Hubei Anhui,China
 4616402,BI3USF,Xutong,Taiyuan,Shanxi Hebei Tianjin,China
 4616403,BI1SSE,Liuchao,Beijing Fangshan,Beijing,China
@@ -282855,8 +282911,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4616655,BA4LKK,Liudezhi,Shandongjinan,Shanghai Shandong Jiangsu,China
 4616656,BG7TET,Zhuohan,Nanning,Hunan Guangdong Guangxi Hainan,China
 4616657,BD8DOS,Lijunliang,Chengdu,Sichuan Guizhou Chongqing Yunnan,China
+4616658,BG7TDX,Holly,Yulin,Hunan Guangdong Guangxi Hainan,China
+4616659,BD7NWF,Vicky,Shen Zhen,Hunan Guangdong Guangxi Hainan,China
 4616660,BA4KAD,Liudachuan,Binzhou,Shanghai Shandong Jiangsu,China
 4616661,BH1CWK,Yongfeng,Beijing,Beijing,China
+4616662,BA4LJX,Chenhanlin,Weifang,Shanghai Shandong Jiangsu,China
+4616663,BG6NLE,Lizhi,Nanyang,Henan Hubei Anhui,China
 4616666,BH4JBV,Wang,Jinan,Shanghai Shandong Jiangsu,China
 4616668,BH6SZD,Chen,Wu Han,Henan Hubei Anhui,China
 4616669,BG3LPO,Gaocheng,Hohhot,Inner Mongolia,China
@@ -290915,7 +290975,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5101594,YG2BQP,Hermawan,Sukoharjo Central Java,Jawa Tengah,Indonesia
 5101595,YG1ARH,Abu,Bandung,Jawa Barat,Indonesia
 5101596,YB1FAV,Moch,Desa Kalijaya Kec Cikarang Barat,Jawa Barat,Indonesia
-5101597,YC9BGE,Dewa,Denpasar,Bali,Indonesia
+5101597,YB9BGE,Dewa,Denpasar,Bali,Indonesia
 5101598,YD6ASD,Jeffri,None,Aceh,Indonesia
 5101599,YE1AVS,Jaka,Karawang West Java,Jawa Barat,Indonesia
 5101600,YD1ADC,Andrea,Karawang,Jawa Barat,Indonesia
@@ -293848,7 +293908,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5200396,E20VKD,TAWATCHAI,BANGKOKNON,Bangkok,Thailand
 5200397,HS0XHG,Pramonsut,Jatujak,Bangkok,Thailand
 5200398,E24NGN,Teerapat,Hatyai International Airport,Songkhla,Thailand
-5200399,HS8EDW,SOMCHAI,Thailand,,Thailand
+5200399,HS8EDW,SOMCHAI,Thailand,Surat Thani,Thailand
 5200400,E24YUJ,Napont,Watcharaphon,Bangkok,Thailand
 5200401,HS0ZER,Rudolf,Bangkok,Bangkok,Thailand
 5200402,HS0ZER,Rudolf,Bangkok,Bangkok,Thailand
@@ -295732,6 +295792,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5202292,E25FJW,Mrradio,Nakhon Phanom,Nakhon Phanom,Thailand
 5202293,HS8VYP,Chayut,Mueang Surat,Surat Thani,Thailand
 5202294,HS7XHQ,E2Hub,Bkk,Bangkok,Thailand
+5202295,E26DEP,Wittaya,Nangrong,Buri Ram,Thailand
 5206001,HS0ZET,Ralf,Nongkrot,Nakhon Sawan,Thailand
 5206002,HS3LIQ,WiwatM,Digital Radio,Nakhon Ratchasima,Thailand
 5250001,9V1JC,Jacob,Orchard,Singapore,Singapore
@@ -297037,6 +297098,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5301311,ZL2NZV,Shane,Upper Hutt,N. Island 2,New Zealand
 5301312,ZL2AS,Hastings,Hastings,N. Island 2,New Zealand
 5301313,ZL2BPS,Paul,Levin,N. Island 2,New Zealand
+5301314,ZL2JMK,James,Masterton,N. Island 2,New Zealand
 5302001,ZL4JY,John,Waikanae,N. Island 2,New Zealand
 5302002,ZL2JG,Jeff,Waikanae Beach,N. Island 2,New Zealand
 5302003,ZL2JG,Jeff,Waikanae Beach,N. Island 2,New Zealand
@@ -299436,7 +299498,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7160113,OA1CO,Eddye,Piura,Piura,Peru
 7160114,OA4LDR,Tito,Lima,Lima,Peru
 7160115,OA4ECK,Manuel,Lince,Lima,Peru
-7160116,OA4ECD,Radio,Surco Lima,Lima,Peru
+7160116,OA4ECD,Gino,Surco Lima,Lima,Peru
 7160117,OA3ENJ,Ivan,Huanuco,Huanuco,Peru
 7160118,OA4EHW,Alfredo,Miraflores,Lima,Peru
 7160119,OA4CAJ,Alfonso,Lima,Lima,Peru
@@ -301886,6 +301948,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7222430,LU9TRL,RL,San Salvador De Jujuy,Jujuy,Argentina Republic
 7222431,LU2JFC,Javier,Concordia Entre Rios,Entre Rios,Argentina Republic
 7222432,LU1KAU,Ignacio,Yerba Buena,Tucuman,Argentina Republic
+7222433,LU4ESL,Eladio,Bahia Blanca,Buenos Aires,Argentina Republic
+7222434,LU4FFT,Marcelo,Fighiera,Santa Fe,Argentina Republic
+7222435,LU4ASG,Sebastian,Caba,Caba,Argentina Republic
 7223001,LU1JMA,Jose,Concepcion Del Urugu,Entre Rios,Argentina Republic
 7224001,LU1UFC,Adrián,General Pico,La Pampa,Argentina Republic
 7224002,LU4MDC,Dario,San Carlos,Mendoza,Argentina Republic
@@ -302103,7 +302168,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7240180,PU2SFY,Jorge,,Sao Paulo,Brazil
 7240181,PU4NQZ,Nilton,Itajuba,Minas Gerais,Brazil
 7240182,PY2ABH,Andre,Washington Beleza Cruzeiro,Sao Paulo,Brazil
-7240183,PY2ABH,Andre,Washington Beleza Cruzeiro,Sao Paulo,Brazil
+7240183,PY2ABH,Andre,Cruzeiro,Sao Paulo,Brazil
 7240184,PU2LGA,Luis,Guaratingueta,Sao Paulo,Brazil
 7240185,PU2LGA,Luis,Guaratingueta,Sao Paulo,Brazil
 7240186,PU7GEC,giancarlo,joao pessoa,Paraiba,Brazil
@@ -302354,7 +302419,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7240432,PY3SOL,Marlon,Candelaria,Rio Grande do Sul,Brazil
 7240433,PU5YST,MATEUS,CASCAVEL,Parana,Brazil
 7240434,PU4JMV,Jose,Cataguases - Minas Gerais,Minas Gerais,Brazil
-7240435,PY4EO,Darcilei,CATAGUASES,Minas Gerais,Brazil
+7240435,PY4DSF,Darcilei,Cataguases,Minas Gerais,Brazil
 7240436,PU7RII,Girles,,Pernambuco,Brazil
 7240437,PY5LE,Coco,Foz Do Iguacu,Parana,Brazil
 7240438,PY5LE,Coco,Foz Do Iguacu,Parana,Brazil
@@ -302883,7 +302948,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7240968,PU8MNM,Marcelo,,Maranhao,Brazil
 7240969,PU5AZA,Carlos,Navegantes,Santa Catarina,Brazil
 7240970,PY5JRM,Joao,Cascavel,Parana,Brazil
-7240971,PU7RDY,Cesar,JABOATAO DOS GUARARAPES,Pernambuco,Brazil
+7240971,PY7RDY,Cesar,JABOATAO DOS GUARARAPES,Pernambuco,Brazil
 7240972,PY2FDC,Fernando,Jacarei,Sao Paulo,Brazil
 7240973,PY2CRA,Craja,Jacarei,Sao Paulo,Brazil
 7240974,PU5WSS,Wellington,Cascavel,Parana,Brazil
@@ -306415,7 +306480,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7244529,PU2URT,Rafael,Campinas São Paulo,Sao Paulo,Brazil
 7244530,PY2RAY,Rubens,Atibaia,Sao Paulo,Brazil
 7244531,PU2ROD,Rodolfo,Sao Jose dos Campos Sp,Sao Paulo,Brazil
-7244532,PU2SMS,Fernando,Hortolândia,Sao Paulo,Brazil
+7244532,PU2SMS,Fernando,Hortolandia,Sao Paulo,Brazil
 7244533,PU2WIG,Luis,Presidente Prudente,Sao Paulo,Brazil
 7244534,PU2YHX,Emanuel,Taubaté,Sao Paulo,Brazil
 7244535,PY7TNT,Eugênio,BOA VIAGEM RECIFE,Pernambuco,Brazil
@@ -309028,6 +309093,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7247171,PU7MTZ,Samuel,Fortaleza,Ceara,Brazil
 7247172,PY1RIS,Danilo,Barra Mansa,Rio de Janeiro,Brazil
 7247173,PT2DJC,Carlos,Brasilia,Distrito Federal,Brazil
+7247174,PU2YKB,Alexandre,Sao Paulo,Sao Paulo,Brazil
+7247175,PU2XRS,Renato,Sao Paulo,Sao Paulo,Brazil
+7247176,PY1PD,Joelson,Macae,Rio de Janeiro,Brazil
+7247177,PY4MND,Riccelli,Belo Horizonte,Minas Gerais,Brazil
+7247178,PU2DKL,Maria,Brasilia,Distrito Federal,Brazil
 7247474,PU2MLO,Simonka,Sao Paulo,Sao Paulo,Brazil
 7248000,PY1UZ,Ivan,Itaperuna,Rio de Janeiro,Brazil
 7248001,PU8ASR,Airam,Manaus,Amazonas,Brazil
@@ -309588,7 +309658,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7300511,CE2PNO,Mauricio,Coquimbo,Coquimbo,Chile
 7300512,XQ6MO,Mario,Temuco,La Araucania,Chile
 7300513,CA2VPA,Juan,Villa Alemana,Valparaiso,Chile
-7300514,CD2CWT,Claudio,San Felipe,Valparaiso,Chile
+7300514,CE2KML,Claudio,San Felipe,Valparaiso,Chile
 7300515,CD2RQB,Roberto,Vina del Mar,Valparaiso,Chile
 7300516,CA1CVS,Carlos,Antofagasta,Antofagasta,Chile
 7300517,CE3TXA,Alejandro,Santiago,Reg.Metr. de Santiago,Chile
@@ -310256,7 +310326,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7301185,CE1UWL,Willy,Copiap Atacama Chile,Atacama,Chile
 7301186,CA1FAA,Fernando,,Antofagasta,Chile
 7301187,CE1UMN,Carlos,Copiapo,Atacama,Chile
-7301188,CD6CDX,Cristian,valdivia,Los Lagos,Chile
+7301188,CD6CDX,Cristian,Valdivia,Los Lagos,Chile
 7301189,CE1PEK,Pedro,Caldera,Atacama,Chile
 7301190,CD1AZR,Alex,Copiapo,Atacama,Chile
 7301191,CE1TXS,Fernando,Calama,Antofagasta,Chile
@@ -312650,6 +312720,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7303595,CA4JBF,Alberto,Parral Chile,Maule,Chile
 7303596,CD2FVD,Camilo,Vina Del Mar,Valparaiso,Chile
 7303597,CD4VSX,Carlos,Linares,Maule,Chile
+7303598,CE2SB,Radio,San Felipe,Valparaiso,Chile
 7304001,CE4CSC,Carlos,Cauquenes,Maule,Chile
 7304002,CE4KRC,Jonathan,Chillan,Bio Bio,Chile
 7304003,CE4RAY,Fernando,Cauquenes,Maule,Chile
@@ -313636,6 +313707,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7320884,HJ7OSS,Oscar,San Gil,Santander,Colombia
 7320885,HJ3SMR,Santiago,Bogota,Cundinamarca,Colombia
 7320886,HJ4GGM,Guillermo,Puerto Berrio,Antioquia,Colombia
+7320887,HJ6VMC,Jackson,Manizales,Caldas,Colombia
 7321001,HK6CAN,William,Neiva,Huila,Colombia
 7340001,YY6CCR,Jose,Barcelona,Anzoategui,Venezuela
 7340002,YV7BFG,Mauro,Puerto Internacional Palua San Felix Edo Bolivar,Sucre,Venezuela
@@ -314143,6 +314215,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7340508,YV5NQA,Orlando,Caracas,Distrito Capital,Venezuela
 7340509,YY4KCU,Michelle,Palo Negro Estado Aragua,Aragua,Venezuela
 7340510,YV5MDN,Gabriele,Caracas,Miranda,Venezuela
+7340511,YV6ALX,Luis,El Tigre,Anzoategui,Venezuela
 7340512,YY4CAB,Carlos,La Victoria,Aragua,Venezuela
 7340513,YV5YVE,Yves,,Miranda,Venezuela
 7340514,YV4CCP,Jose,Valencia,Carabobo,Venezuela
