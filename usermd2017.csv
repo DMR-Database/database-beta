@@ -1,4 +1,4 @@
-15730408,,,,,
+15734952,,,,,
 1023008,VE3JMR,Mark,Niagara Falls,ON,Canada
 1023009,VA3AMO,Rolando,Scarborough,ON,Canada
 1023010,VA3AMO,Rolando,Scarborough,ON,Canada
@@ -97,7 +97,7 @@
 1106022,KE7LNQ,Marcus,Los Angeles,CA,United States
 1106023,KG6ZFI,Lawrence,Perris,CA,United States
 1106024,KI6IMR,Joseph,Stockton,CA,United States
-1106025,AJ6KT,Jim,Sunnyvale,CA,United States
+1106025,AJ6KT,Jim,Sunnyvale,CA,US
 1106026,AG6UH,Brian,Mission Viejo,CA,United States
 1106027,W6EDS,Scott,La Habra,CA,United States
 1106028,AC6LS,Lewis,Pasadena,CA,United States
@@ -178,7 +178,7 @@
 1106133,K6UUW,James,Sonoma,CA,United States
 1106134,KM6HIU,Geoff,San Francisco,CA,United States
 1106135,KJ6QVI,Laurence,Mi Wuk Village,CA,United States
-1106137,KM6HJA,Mike,San Lorenzo,CA,United States
+1106137,KM6HJA,Mike,San Lorenzo,CA,US
 1106144,KC6UHM,Betsy,Long Beach,CA,United States
 1106147,N6TGI,Alphonso,Bakersfield,CA,United States
 1106149,WD6DUR,Monte,Calimesa,CA,United States
@@ -2127,7 +2127,7 @@
 1112351,N1US,Brian,Lake Worth,FL,United States
 1112355,KM4DIF,Bernard,Boynton Beach,FL,United States
 1112356,W4MAG,Michael,Altamonte Springs,FL,United States
-1112357,WZ4SKY,David,Naples,FL,United States
+1112357,WZ4SKY,David,Naples,FL,US
 1112358,N9AMI,John,Silver Springs,NV,United States
 1112359,KK4EXX,Richard,N. Port,FL,United States
 1112360,WB4YUC,Bruce,N. Lauderdale,FL,United States
@@ -2297,7 +2297,7 @@
 1112592,K4TVO,Thomas,Bonita Springs,FL,United States
 1112593,KJ6PYL,Gerald,Estero,FL,United States
 1112598,K3SY,Sanford,Venice,FL,United States
-1112599,K4TMA,Thomas,Stuart,FL,United States
+1112599,K4TMA,Thomas,Stuart,FL,US
 1112600,AB4GO,Gregory,Rockledge,FL,United States
 1112601,N6DME,Douglas,Miami,FL,United States
 1112602,KM4ZHM,Jennifer,Miami,FL,United States
@@ -3576,7 +3576,7 @@
 1126575,KB8TAR,Kevin,Columbiaville,MI,United States
 1126577,KE8CYD,Jere,Midland,MI,United States
 1126579,W8JRT,Joseph,Gladstone,MI,United States
-1126580,W8LFA,Joseph,Livonia,MI,United States
+1126580,W8LFA,Joseph,Livonia,MI,US
 1126581,KE8BNK,John,Caro,MI,United States
 1126582,KD8DXV,Monroe,Ida,MI,United States
 1126583,W8CRH,Stephen,Grand Ledge,MI,United States
@@ -4464,7 +4464,7 @@
 1137102,W1REP,William,Hillsborough,NC,United States
 1137103,KJ4WWN,Douglas,Hendersonville,NC,United States
 1137104,N6TYE,August,Merritt Island,FL,United States
-1137105,W4HOG,Club,Marion,NC,United States
+1137105,W4HOG,Club,Marion,NC,US
 1137107,KR4MTN,Club,Marion,NC,United States
 1137109,KJ4WWN,Douglas,Hendersonville,NC,United States
 1137110,KM4TPE,Steven,Burnsville,NC,United States
@@ -6554,6 +6554,7 @@
 1148619,WB5WMG,William,Houston,TX,United States
 1148620,KW5PA,Peter,Cypress,TX,United States
 1148622,NO5J,Jay,Valley View,TX,United States
+1148624,KE5KTJ,Henry,Navasota,TX,United States
 1148625,AG5FC,Michael,New Braunfels,TX,United States
 1148627,W5NZK,John,San Antonio,TX,United States
 1148628,N5KCH,Harry,Sumner,TX,United States
@@ -9138,6 +9139,7 @@
 2024010,SV4LGX,Bill,Trikala,,Greece
 2024011,SV4MLF,Chris,Trikala Hellas,Thessalia,Greece
 2024012,SV4LGT,Christos,Trikala,,Greece
+2024013,SV4LGV,Akis,Trikala,Thessalia,Greece
 2024014,SY4AFS,PATER,Karditsa,,Greece
 2024015,SV4BHA,Basilis,Larisa,,Greece
 2024016,SV4MZF,Christos,Trikala,,Greece
@@ -17459,6 +17461,10 @@
 2082399,F4JXZ,David,,Occitanie,France
 2082400,F1IXF,Fabrice,Saint Hilaire De Beauvoir,Occitanie,France
 2082401,TK4BW,Maximilien,Sarrola Carcopino,,Corsica
+2082402,F4NRQ,Mathias,,Pays de la Loire,France
+2082403,F6GPU,Michel,,IF,France
+2082404,F4NMJ,Franck,Caussols,Provence-Alpes-Cote d Azur,France
+2082405,F5OUO,Gerard,Le Poire Sur Vie,Pays de la Loire,France
 2083001,F1IZL,Jean-Yves,La Tour Du Crieu,,France
 2083002,F4GEM,Arnaud,CORNEBARRIEU,,France
 2083003,F1BBG,Gerard,Tarascon sur ariege,,France
@@ -25083,7 +25089,7 @@
 2146422,EA1FQO,Jonatan,Vigo,Pontevedra,Spain
 2146423,EA1FOD,Ramiro,Allariz,Ourense,Spain
 2146424,EA3IRG,Guillem,Barcelona,Barcelona,Spain
-2146425,EA4CKX,Juan,MADRID,Madrid,Spain
+2146425,EA4X,Juan,MADRID,Madrid,Spain
 2146426,EA4HPS,Daniel,Madrid,Madrid,Spain
 2146427,EA2FAA,Miguel,Huarte,Navarra,Spain
 2146428,EA4EMM,Jose,Majadahonda,Madrid,Spain
@@ -29335,6 +29341,7 @@
 2150697,EA2FNW,Diego,Vitoria,Alava,Spain
 2150698,EA3P,Carlos,Tarragona,,Spain
 2150699,EA7LVP,Jose,Malaga,Malaga,Spain
+2150700,EA4JFH,David,,Madrid,Spain
 2157000,EA7IYR,Juan-Carlos,Granada,Granada,Spain
 2160001,HA8DJ,Sandor,Bordany,,Hungary
 2160002,HA4XA,Istvan,Budapest,,Hungary
@@ -31585,6 +31592,7 @@
 2190744,9A3VAT,Josip,Krapina,Krapina-Zagorje,Croatia
 2190745,9A3CZU,Jan,Petrinja,Sisak-Moslavina,Croatia
 2190746,9A5AEO,Bruno,,,Croatia
+2190747,9A5AAX,Dejan,,Medimurje,Croatia
 2200001,YT2CQ,Mili,Novi Sad,All Regions,Serbia
 2200002,YU1VI,Slobodan,Belgrade,All Regions,Serbia
 2200003,YU5JZ,Jonca,Belgrade,All Regions,Serbia
@@ -32446,6 +32454,7 @@
 2200874,YU4SMA,Stefan,Aleksinac,All Regions,Serbia
 2200875,YU3JMZ,Vladimir,Beograd,All Regions,Serbia
 2200876,YT5R,Ivica,Zajecar,All Regions,Serbia
+2200877,YU5XE,Vidak,Belgrade,All Regions,Serbia
 2200999,YT3VD,Dejan,Belgrade,All Regions,Serbia
 2201000,YU4RIS,Ivan,Beograd,All Regions,Serbia
 2202222,YT5HOK,Marko,Beograd,All Regions,Serbia
@@ -34868,7 +34877,7 @@
 2222467,IZ2NSY,Mark,Robecco sul naviglio,,Italy
 2222468,IW2ERZ,Luciano,Garlasco,,Italy
 2222469,IW2FPI,Augusto,Como,,Italy
-2222470,IW2END,Francesco,,,Italy
+2222470,IW2END,Francesco,,LOM,Italy
 2222471,IW2LFD,Luciano,Comabbio,LOM,Italy
 2222472,IU2FIN,EFFEBI,VIGEVANO,,Italy
 2222473,IW2NXE,Gian,Pavia,,Italy
@@ -40663,7 +40672,7 @@
 2228337,IZ8DUD,IZ8DUD,Torre del greco,,Italy
 2228338,IK8LXI,Nello,Cervinara,,Italy
 2228339,IU8JCQ,Massimo,Giugliano in Campania,,Italy
-2228340,IW8QPN,Gi,Stignano,,Italy
+2228340,IW8QPN,Gi,Stignano,Molise Campania Calabria,Italy
 2228341,IZ8SUI,Luca,Casapulla,,Italy
 2228342,IU8IFD,Gianni,Catanzaro,,Italy
 2228343,IC8HFW,Francesco,Procida,,Italy
@@ -43585,7 +43594,7 @@
 2231279,IW1CJP,Antonio,Stresa,Piedmont Liguria Aosta,Italy
 2231280,IW4APS,Duilio,,Emilia-Romagna,Italy
 2231281,IU4ITV,Gabriele,Reggio Emilia,Emilia-Romagna,Italy
-2231282,IU4BJW,Marco,San Prospero Mo,Emilia-Romagna,Italy
+2231282,IU4BJW,Marco,Correggio,Emilia-Romagna,Italy
 2231283,IV3JJP,Alfonso,Tricesimo Udine,Veneto Trentino-AA Friuli-VG,Italy
 2231284,IW2HAF,Angelo,Cormano,LOM,Italy
 2231285,IW6DTM,Alberto,,Marche Abruzzo,Italy
@@ -45687,6 +45696,11 @@
 2233400,IU5XGA,Marcello,Empoli,TOS,Italy
 2233401,IU1XGO,Giancarlo,,Piedmont Liguria Aosta,Italy
 2233402,I7NOT,Ippolito,Bari,Apulia Basilicata,Italy
+2233403,IS0LSW,Gionatan,Carbonia,Lazio Umbria Sardinia,Italy
+2233404,IU5XHD,Mattia,,TOS,Italy
+2233405,IT9HJQ,Antonio,,Sicily,Italy
+2233406,IZ5MJO,Marco,Certaldo - Fiano,TOS,Italy
+2233407,I1XNT,Cosimo,Torino,,Italy
 2242222,IT9JFW,Lorenzo,Palermo,Sicily,Italy
 2260001,YO3DSG,Daniel,Bucharest,Bucuresti Ilfov,Romania
 2260002,YO6YLJ,Nicoleta,Tirgu-Mures,Brasov Covasna Harghita Mures Sibiu,Romania
@@ -46476,6 +46490,7 @@
 2260808,YO3IRE,Ema,Bucuresti,Bucuresti Ilfov,Romania
 2260809,YO4TNO,Antonio,,Braila Constanta Galati Tulcea Vrancea,Romania
 2260810,YO3SCX,Cristian,Bucuresti,Bucuresti Ilfov,Romania
+2260811,YO5IM,Florian,Oradea,Alba Bihor Bistrita-Nasaud Cluj Maramures Salaj Satu Mare,Romania
 2261000,YO5MDA,Dumi,Satu Mare,Alba Bihor Bistrita-Nasaud Cluj Maramures Salaj Satu Mare,Romania
 2261001,YO3GTS,Dan,Bucharest,,Romania
 2261111,YO3IHG,Vlad,Bucharest,Bucuresti Ilfov,Romania
@@ -47264,7 +47279,7 @@
 2280274,HB9HWG,Daniel,Ettenhausen,Thurgau,Switzerland
 2280275,HB9HUW,Dario,La Sagne,Neuchatel,Switzerland
 2280276,HB3XFA,Heimo,Gerzensee,Bern,Switzerland
-2280277,HB3XFV,Tobias,Niederwil,Zurich,Switzerland
+2280277,HB3XFV,Tobias,Niederwil,Zurich,CH
 2280278,HB9HUE,Hans-Joerg,Hirzel,Zurich,Switzerland
 2280279,HB9HZX,Juerg,Brunnen,Schwyz,Switzerland
 2280280,HB9IJS,Oliver,Wilen Sarnen,Obwalden,Switzerland
@@ -47570,6 +47585,7 @@
 2280583,HB9GHT,Thomas,Frauenfeld,Thurgau,Switzerland
 2280584,HB9ITS,Jeremia,Adlikon Bei Andelfingen,Zurich,Switzerland
 2280585,HB3XZD,Joel,Courgevaux,Fribourg,Switzerland
+2280586,HB9IVM,Tobias,Niederwil,,Switzerland
 2281001,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
 2281002,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
 2281003,HB3YNV,Cedric,Saint-Cergue,Vaud,Switzerland
@@ -52735,7 +52751,7 @@
 2326204,OE6DUG,Edgar,Graz,,Austria
 2326205,OE6PWE,wpu,Feldkirchen bei Graz,,Austria
 2326206,OE6OMC,Michael,Aflenz,,Austria
-2326207,OE6VIE,Joerg,Peterdorf,Steiermark,Austria
+2326207,OE6VIE,Joerg,Murau,Steiermark,Austria
 2326208,OE6PVG,Heinrich,Hetzendorf,,Austria
 2326209,OE6KWG,Gernot,Graz,,Austria
 2326210,OE6KAE,Albin,Leutschach,,Austria
@@ -54860,7 +54876,7 @@
 2341688,G4WOD,John,S. Gloucestershire,England,United Kingdom
 2341689,G4LQT,Dave,Stafford,,United Kingdom
 2341690,G0WZB,BrianB,Hebburn,,United Kingdom
-2341691,2E0GJE,Gary,Southampton,England,UK
+2341691,2E0GJE,Gary,Southampton,England,United Kingdom
 2341692,2E0FTR,Derek,Stoke on trent,,United Kingdom
 2341693,M0XXK,Kam,Canterbury,,United Kingdom
 2341694,G0AKC,Tony,Ipswich,,United Kingdom
@@ -59546,7 +59562,7 @@
 2346478,G0LEF,Tommy,Newbiggin By The Sea,,United Kingdom
 2346479,M6KCI,Dave,Oldham,England,United Kingdom
 2346480,M3WOV,Haydn,CHEPSTOW,,United Kingdom
-2346481,M3LCZ,Russell,Lancaster,,United Kingdom
+2346481,M3LCZ,Russell,Lancaster,,UK
 2346482,M6CNA,Malcolm,Gloucestershire,,United Kingdom
 2346483,2E0GIM,Ian,Orpington,,United Kingdom
 2346484,M6PPS,John,York,,United Kingdom
@@ -61766,7 +61782,7 @@
 2348715,M7GPH,Gary,Bedlington,,United Kingdom
 2348716,M7DPW,Darren,WIGAN,,United Kingdom
 2348717,M7AUM,John,London,,United Kingdom
-2348719,M6HOU,Ray,Mere Brow,,United Kingdom
+2348719,M6HOU,Ray,Mere Brow,England,United Kingdom
 2348720,M6XBH,Ben,Ware,,United Kingdom
 2348721,M7AWW,Ben,Tamworth,,United Kingdom
 2348722,M6SHQ,John,Lowestoft,,United Kingdom
@@ -72429,7 +72445,7 @@
 2359535,G1VRJ,John,Swindon,England,United Kingdom
 2359536,M6VRF,Ben,Dorchester,England,United Kingdom
 2359537,M6TZA,Tony,Derby,England,United Kingdom
-2359538,M7WNX,John,Cramlington,England,United Kingdom
+2359538,M7WNX,John,Cramlington England,England,United Kingdom
 2359539,2E0XXO,Stuart,Lincoln,England,United Kingdom
 2359540,G7VUD,Joeseph,Attleborough,England,United Kingdom
 2359541,G7FLR,Christopher,Northampton,England,United Kingdom
@@ -72495,6 +72511,11 @@
 2359602,M7RXS,Robin,,England,United Kingdom
 2359603,M7SBT,Scott,Exeter,,United Kingdom
 2359604,M7SER,Simon,,England,United Kingdom
+2359605,M7PVQ,Steven,,England,United Kingdom
+2359606,M3DAN,Daniel,,England,United Kingdom
+2359607,M7YYP,Adie,Worksop,England,United Kingdom
+2359608,M7FYV,Simon,Maidstone,England,United Kingdom
+2359609,G1KIT,John,Worksop England,England,United Kingdom
 2360000,M0NOA,Anthony,Leeds,England,United Kingdom
 2360001,M1HAC,Alex,Southampton,England,United Kingdom
 2360002,M1HAC,Alex,Southampton,England,United Kingdom
@@ -80387,7 +80408,7 @@
 2480024,ES1ZR,Kristjan,Tallinn,,Estonia
 2480025,ES1KASS,Mikk,Tallinn,,Estonia
 2480026,ES1KMP,Pelgulinn,Tallinn,,Estonia
-2480027,ES2ACT,Dzinn,Keila,,Estonia
+2480027,ES2ACT,Tarmo,Keila,,Estonia
 2480028,ES8BHR,Heiko,Paatsalu,,Estonia
 2480029,ES1ZB,Yasuyuki,Tallinn,,Estonia
 2480030,ES1ZB,Yasuyuki,Tallinn,,Estonia
@@ -80512,7 +80533,7 @@
 2480149,ES1VUEU,Veiko,Tallinn,All Regions,Estonia
 2480150,ES1HEHA,Heiki,Tallinn,All Regions,Estonia
 2480151,ES5VVH,Alvar,Aakre,All Regions,Estonia
-2480152,ES1SIPS,Siim,Tallinn,All Regions,Estonia
+2480152,ES1SIP,Siim,Tallinn,All Regions,Estonia
 2480153,ES1SPIH,Sulev,Tallinn,All Regions,Estonia
 2480154,ES3PMR,Marko,Aespa,All Regions,Estonia
 2480155,ES1VTM,Marie,Tallinn,All Regions,Estonia
@@ -81621,7 +81642,7 @@
 2501214,RV6AWH,Rinat,Starominskay,All Regions,Russia
 2501215,RA6D,Andrey,St Starominskaya,All Regions,Russia
 2501216,RK6AAF,Anatoliy,St Starominskaya,All Regions,Russia
-2501217,RY6AAE,Rinat,Starominskay,All Regions,Russia
+2501217,RY6AAE,Rinat,Starominskay,All Regions,RU
 2501218,RM9WS,Fanuz,Ufa,All Regions,Russia
 2501219,R4NCZ,Mikhail,Kirov,All Regions,Russia
 2501220,R1CAV,Viktor,Saint Petersburg,All Regions,Russia
@@ -83783,6 +83804,9 @@
 2503735,R3XED,Vladislav,Kaluga,All Regions,Russia
 2503736,UB8FEG,Alexey,,,Russia
 2503737,UB1AXX,Philipp,Saint-Petersburg,All Regions,Russia
+2503738,UB9MFS,Andrei,,All Regions,Russia
+2503739,R3KQQ,Sergey,Voronesh,All Regions,Russia
+2503740,RA4UAS,Alexander,Saransk,,Russia
 2504002,UD4NAD,Alexey,,,Russia
 2504003,RA4NHY,Anton,Kirov,All Regions,Russia
 2504011,R4WBI,Aleksandr,,,Russia
@@ -85182,6 +85206,7 @@
 2551020,UR4UVN,Mykhailo,Kyiv,,Ukraine
 2551021,UR6LUP,Kiril,Kharkiv,,Ukraine
 2551022,UR5NFT,Alexandr,,,Ukraine
+2551023,UW5ESX,Serhii,Krivoy Rog,,Ukraine
 2552552,UW5ENW,Den,Dnipro,All Regions,Ukraine
 2555552,UT3USQ,Mykola,Kyiv,All Regions,Ukraine
 2555555,UR5SSB,Yaroslav,Ivano-Frankivsk,All Regions,Ukraine
@@ -89874,6 +89899,7 @@
 2604636,SP6TGB,Marek,Olesnica,dolnośląskie,Poland
 2604637,SP2DZO,Waldemar,Bydgoszcz,PLKP,Poland
 2604638,SQ2DYL,Lukasz,,,Poland
+2604639,SP6PAK,Pawel,Wroclaw,,Poland
 2605001,SP5GDM,Jan,Wierzbica,,Poland
 2605002,SP5GDM,Jan,Wierzbica,,Poland
 2605003,SP5GDM,Jan,Wierzbica,,Poland
@@ -99972,29 +99998,3 @@
 2629028,DK0GER,Torsten,Hermsdorf,,Germany
 2629029,DL7AC,Romeo,Ronneburg,,Germany
 2629030,DO6FG,Frank,Grosshartmannsdorf,Sachsen Thueringen,Germany
-2629031,DO6NI,Enrico,Koenigsee-Rottenbach,,Germany
-2629032,DL2JWL,Wolfgang,Hohenstein-Ernstthal,,Germany
-2629033,DK4KW,Ralf,Auerbach im Vogtland,,Germany
-2629034,DO7WG,Gerd,Hohenstein,,Germany
-2629035,DM1HF,Andreas,Leipzig,Sachsen Thueringen,Germany
-2629036,DG0LG,Jochen,Leipzig,,Germany
-2629037,DM1ER,Ernst,Neustadt am Rennsteig,,Germany
-2629038,DG1BDF,Frank,Eisenach,,Germany
-2629039,DL6OO,Jorg,Eisenach,,Germany
-2629040,DO6NI,Enrico,Koenigsee-Rottenbach,,Germany
-2629041,DO8LK,Lukas,Meiningen,,Germany
-2629043,DG7JP,Joerg,Leipzig,,Germany
-2629044,DL3AQJ,Bernd,Hermsdorf,,Germany
-2629046,DO8GT,Torsten,Zwoenitz,Sachsen Thueringen,Germany
-2629047,DG3KBF,Achim,Burscheid,NW,Germany
-2629048,DG1VR,Dietmar,Kurort Oybin,Sachsen Thueringen,Germany
-2629049,DO1AZ,Kurt,Metzingen,BW,Germany
-2629050,DM2CYN,Juergen,Chemnitz,Sachsen Thueringen,Germany
-2629051,DM1AN,Guenter,Meuselwitz,Sachsen Thueringen,Germany
-2629052,DL8WKR,Knut,Pegau,,Germany
-2629053,DH8TOM,Thomas,Leipzig,,Germany
-2629054,DK7ZE,Walter,Leipzig,,Germany
-2629055,DO8MKE,Matthias,Hohenstein-Ernstthal,,Germany
-2629056,DO1AZ,Kurt,Metzingen,BW,Germany
-2629057,DJ2AT,Sven,Ilmenau,,Germany
-2629058,DG2VJ,Joerg,Heidenau,,Germany
